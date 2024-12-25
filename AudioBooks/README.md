@@ -2541,6 +2541,20 @@ Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitu
 </details>
 
 
+<details><summary><a name="An_Outline_History_of_Japan_Herbert_Henry_Gowen"></a>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
+
+### An Outline History of Japan. (15:40)  
+Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
+By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
+
+Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
+
+Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
+
+</details>
+
+
 <details><summary><a name="pagan_n_christian_creeds_their_origin_and_meaning_edward_carpenter"></a>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
@@ -3537,21 +3551,6 @@ Reading Notes: This recording includes an excellent 40 minute history of the sto
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
 >Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
-
-
-<details>
-<summary>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
-
-### An Outline History of Japan. (15:40)  
-Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
-By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
-
-Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
-
-Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
 
 </details>
 
