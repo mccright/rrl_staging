@@ -91,6 +91,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="after_house_by_mary_roberts_rinehart"></a>The After House. By Mary Roberts Rinehart. 1914 </summary>
+
+### The After House.  (5:52)  
+Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
+eBook: https://www.gutenberg.org/ebooks/2358  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
+
+Reading Notes: The characters are a little shallow and one-dimensional, but the story regularly moves forward with some energy -- saving it for me.  NOTE: This story was written just before WWI in the U.S. and incorporates some racist assumptions and behaviors.  As a result, here are issues of racial stereotypes, derogatory race-related terms and dehumanizing language about African American characters in the text of "The After House."  
+  
+
+Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
+>"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
+
+</details>
+
+
 <details><summary><a name="age_of_elizabeth_mandell_creighton"></a>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
 
 ### The Age of Elizabeth. (07:35)  
@@ -2541,6 +2557,20 @@ Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitu
 </details>
 
 
+<details><summary><a name="An_Outline_History_of_Japan_Herbert_Henry_Gowen"></a>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
+
+### An Outline History of Japan. (15:40)  
+Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
+By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
+
+Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
+
+Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
+
+</details>
+
+
 <details><summary><a name="pagan_n_christian_creeds_their_origin_and_meaning_edward_carpenter"></a>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
@@ -3509,22 +3539,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)
 
 
 <details>
-<summary>The After House. By Mary Roberts Rinehart. 1914 </summary>
-
-### The After House.  (5:52)  
-Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
-eBook: https://www.gutenberg.org/ebooks/2358  
-By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
-
-Reading Notes:  
-
-Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
->"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
-
-</details>
-
-
-<details>
 <summary>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
 
 ### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
@@ -3537,21 +3551,6 @@ Reading Notes: This recording includes an excellent 40 minute history of the sto
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
 >Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
-
-
-<details>
-<summary>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
-
-### An Outline History of Japan. (15:40)  
-Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
-By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
-
-Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
-
-Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
 
 </details>
 
