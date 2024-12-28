@@ -3664,7 +3664,7 @@ Audio: https://www.overdrive.com/media/5558540/2034
 eBook: https://www.overdrive.com/media/5558752/2034  
 By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
 
-Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  
+Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  China, Russia, Iran and India appear to be working on capabilities today that are used at scale in this story. It seems realistic-enough to be frightening in the context of the trajectory of U.S. leadership and influence on this small planet.  This should be required reading.  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
 
