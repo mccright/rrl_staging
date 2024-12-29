@@ -43,6 +43,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 </details>
 
 
+<details><summary><a name="2034_by_Ackerman_and_Stavridis"></a>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
+
+### 2034 -- A Novel of the Next World War. (:)  
+Audio: https://www.overdrive.com/media/5558540/2034  
+eBook: https://www.overdrive.com/media/5558752/2034  
+By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
+
+Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  Today China, Russia, Iran  and India appear to be working on capabilities today that are used at scale in this story. It seems realistic-enough to be frightening in the context of the trajectory of U.S. leadership and influence on this small planet.  I believe that this story should be required reading for young adults (maybe Juniors in High School) through the most aged tax-payer.  Everyone involved in politics, government and the military should read it carefully and invest in discussions about it with constituents.  It explores a range of situations that require all the humans involved to have been educated rigorously, read broadly, studied history, served others and maintained a clear connection with material facts (*without a fog of fiction poisoning decision-making processes and even intuition*).  If you want a better view of the book's content, see the [wikipedia summary](https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War).  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
+
+Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-stavridis...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
+
+</details>
+
+
 <details><summary><a name="620_man_david_baldacci"></a>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
 
 ### The 6:20 Man -- A Thriller. (10:00)  
@@ -3194,7 +3210,7 @@ Audio: https://www.overdrive.com/media/5512578/a-thousand-ships
 eBook: https://www.overdrive.com/media/4570319/a-thousand-ships  
 By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
 
-Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
+Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book, in part, because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/A_Thousand_Ships  
 
@@ -3652,23 +3668,6 @@ By [Robert Dickinson](https://sf-encyclopedia.com/entry/dickinson_robert)  (1962
 Reading Notes: I couldn't persist my interest in this story and returned the book to Libby/OverDrive...  
 
 See a November 4, 2016 review by Stevie Kincade on: https://www.goodreads.com/book/show/29467314-the-tourist  
-
-</details>
-
-
-<details>
-<summary>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
-
-### 2034 -- A Novel of the Next World War. (:)  
-Audio: https://www.overdrive.com/media/5558540/2034  
-eBook: https://www.overdrive.com/media/5558752/2034  
-By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
-
-Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  China, Russia, Iran and India appear to be working on capabilities today that are used at scale in this story. It seems realistic-enough to be frightening in the context of the trajectory of U.S. leadership and influence on this small planet.  This should be required reading.  
-
-Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
-
-Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-stavridis...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
 
 </details>
 
