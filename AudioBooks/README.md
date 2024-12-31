@@ -43,6 +43,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 </details>
 
 
+<details><summary><a name="2034_by_Ackerman_and_Stavridis"></a>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
+
+### 2034 -- A Novel of the Next World War. (11:00)  
+Audio: https://www.overdrive.com/media/5558540/2034  
+eBook: https://www.overdrive.com/media/5558752/2034  
+By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
+
+Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  Today China, Russia, Iran  and India appear to be working on capabilities today that are used at scale in this story. It seems realistic-enough to be frightening in the context of the trajectory of U.S. leadership and influence on this small planet.  I believe that this story should be required reading for young adults (maybe Juniors in High School) through the most aged tax-payer.  Everyone involved in politics, government and the military should read it carefully and invest in discussions about it with constituents.  It explores a range of situations that require all the humans involved to have been educated rigorously, read broadly, studied history, served others and maintained a clear connection with material facts (*without a fog of fiction poisoning decision-making processes and even intuition*).  If you want a better view of the book's content, see the [wikipedia summary](https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War).  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
+
+Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-stavridis...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
+
+</details>
+
+
 <details><summary><a name="620_man_david_baldacci"></a>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
 
 ### The 6:20 Man -- A Thriller. (10:00)  
@@ -3194,7 +3210,7 @@ Audio: https://www.overdrive.com/media/5512578/a-thousand-ships
 eBook: https://www.overdrive.com/media/4570319/a-thousand-ships  
 By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
 
-Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
+Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book, in part, because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/A_Thousand_Ships  
 
@@ -3520,7 +3536,23 @@ Reading Notes:
 
 </details>
 
- 
+
+
+<details>
+<summary><a name="a_swim_in_a_pond_in_the_rain_george_saunders"></a>A Swim in a Pond in the Rain -- In Which Four Russians Give a Master Class on Writing, Reading, and Life. By George Saunders 2021 </summary>
+
+### A Swim in a Pond in the Rain -- In Which Four Russians Give a Master Class on Writing, Reading, and Life. (15:00)  
+Audio: https://www.overdrive.com/media/5545891/a-swim-in-a-pond-in-the-rain  
+eBook: https://www.overdrive.com/media/5403796/a-swim-in-a-pond-in-the-rain  
+By [George Saunders](https://en.wikipedia.org/wiki/George_Saunders)  (1985 – )  
+
+Reading Notes: This is a virtually free graduate-level seminar in writing and reading by an outstanding teacher (*to learn why, I recommend listening to the audio book performed by Prof. Saunders*). Using examples of short stories by [Anton Chekhov](https://en.wikipedia.org/wiki/Anton_Chekhov), [Ivan Turgenev](https://en.wikipedia.org/wiki/Ivan_Turgenev), [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy), and [Nikolai Gogol](https://en.wikipedia.org/wiki/Nikolai_Gogol) Saunders guides us through an exploration of active reading and *professional* writing. Prof. Saunders deserves reader's attention -- this is not a book for *background* listening while concentrating on something else (*garden, traffic, exercise, etc.*). If you are interested in writing, or in becoming a better reader this is for you.  
+
+[Overdrive Summary](https://www.overdrive.com/media/5545891/a-swim-in-a-pond-in-the-rain):  
+>For the last twenty years, George Saunders has been teaching a class on the Russian short story to his MFA students at Syracuse University. In A Swim in a Pond in the Rain, he shares a version of that class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times. In his introduction, Saunders writes, “We’re going to enter seven fastidiously constructed scale models of the world, made for a specific purpose that our time maybe doesn’t fully endorse but that these writers accepted implicitly as the aim of art—namely, to ask the big questions, questions like, How are we supposed to be living down here? What were we put here to accomplish? What should we value? What is truth, anyway, and how might we recognize it?” He approaches the stories technically yet accessibly, and through them explains how narrative functions; why we stay immersed in a story and why we resist it; and the bedrock virtues a writer must foster. The process of writing, Saunders reminds us, is a technical craft, but also a way of training oneself to see the world with new openness and curiosity. A Swim in a Pond in the Rain is a deep exploration not just of how great writing works but of how the mind itself works while reading, and of how the reading and writing of stories make genuine connection possible.  
+
+
+</details>
 
 
 <details>
@@ -3652,23 +3684,6 @@ By [Robert Dickinson](https://sf-encyclopedia.com/entry/dickinson_robert)  (1962
 Reading Notes: I couldn't persist my interest in this story and returned the book to Libby/OverDrive...  
 
 See a November 4, 2016 review by Stevie Kincade on: https://www.goodreads.com/book/show/29467314-the-tourist  
-
-</details>
-
-
-<details>
-<summary>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
-
-### 2034 -- A Novel of the Next World War. (:)  
-Audio: https://www.overdrive.com/media/5558540/2034  
-eBook: https://www.overdrive.com/media/5558752/2034  
-By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
-
-Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  
-
-Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
-
-Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-stavridis...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
 
 </details>
 
