@@ -3556,6 +3556,31 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+
+### The Other Valley -- A Novel.  (11:00)  
+Audio: https://www.overdrive.com/media/9907011/the-other-valley  
+eBook: https://www.overdrive.com/media/9919960/the-other-valley  
+By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
+
+Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...    
+Some characters:  
+    Odile Ozanne a bright and introverted sixteen-year-old  
+    Odile’s school teacher Pichegru  
+    Odile's friend Edme, a student musician
+    Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
+    Odile's apprenticeship Conseil teacher conseiller Ivret  
+
+Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
+Review by Robert J. Wiersema: [https://www.thestar.com/...the-debut-thriller-thatll-change-your-philosophy-on-the-world...](https://www.thestar.com/entertainment/books/the-debut-thriller-thatll-change-your-philosophy-on-the-world/article_ff8c4f80-d00b-11ee-b676-f7a465322da7.html)  
+Review by Brett Josef Grubisic: [https://quillandquire.com/review/the-other-valley/](https://quillandquire.com/review/the-other-valley/)  
+Review by Zara Garcia: [https://frictionlit.org/a-review-of-the-other-valley...](https://frictionlit.org/a-review-of-the-other-valley-by-scott-alexander-howard/)  
+Review by Primo Saktyawan Sugiharto: [https://owlcation.com/humanities/the-other-valley...](https://owlcation.com/humanities/the-other-valley-by-scott-alexander-howard-book-review)  
+
+</details>
+
+
 
 <details>
 <summary>On the Duty of Civil Disobedience </summary>
