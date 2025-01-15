@@ -3559,18 +3559,32 @@ Reading Notes:
 
 
 <details>
-<summary>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
 
 ### Winter World -- Long Winter. (11:00)  
 Audio: https://www.overdrive.com/media/4496399/winter-world  
 eBook:   
 By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
 
-Reading Notes:  
-
+Reading Notes: Tremendous exaggerations, physics-be-damned...  But action throughout.  If you like some 'B' action movies, maybe this story will be for you.  I am confident that this is not for everyone.  
 
 Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
 
+</details>
+
+
+
+<details>
+<summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>A Psalm for the Wild-Built -- Monk & Robot. By Becky Chambers 2021 </summary>
+
+### A Psalm for the Wild-Built -- Monk & Robot. (4:00)  
+Audio: https://www.overdrive.com/media/5704893/a-psalm-for-the-wild-built  
+eBook: https://www.overdrive.com/media/5704689/a-psalm-for-the-wild-built  
+By [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)  (1985 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built  
 
 </details>
 
