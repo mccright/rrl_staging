@@ -3566,7 +3566,7 @@ Audio: https://www.overdrive.com/media/4496399/winter-world
 eBook:   
 By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
 
-Reading Notes: Tremendous exaggerations, physics-be-damned...  But action throughout.  If you like some 'B' action movies, maybe this story will be for you.  I am confident that this is not for everyone.  
+Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction aaction 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
 
 Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
 
