@@ -323,6 +323,42 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 
 ## Pending or Currently Underway:  
 
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>American Sugargristle. By Toby Huss. 2024 </summary>
+
+### American Sugargristle  
+Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
+Audio: NA  
+eBook: NA  
+By [Toby Huss](https://en.wikipedia.org/wiki/Toby_Huss)  (1966 – )  
+Hat & Beard Press, Los Angeles
+
+Reading Notes:  
+Mr. Cheap Butts
+Brenda Carmichael
+You got a pencil?
+Where them stairs?
+
+Publisher's Summary: https://hatandbeard.com/products/american-sugargristle-by-toby-huss  
+
+</details>
+
+
+
 <details>
 <summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson  2022 </summary>
 
