@@ -2257,6 +2257,38 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
+<details>
+<summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
+
+### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
+Audio: https://www.overdrive.com/media/6508251/a-prayer-for-the-crown-shy  
+eBook: https://www.overdrive.com/media/6492883/a-prayer-for-the-crown-shy  
+By [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)  (1985 – )  
+
+Reading Notes: This was my second exposure to [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk). Again, the story and characters are kind, and generally optimistic.  The main character, Dex, a tea-serving monk who, in [part 1](#psalm_for_the_wild_built_by_becky_chambers) of this series left his order to become a travelling *tea monk* and after some years impulsively goes searching for an abandoned monastary in *the wilderness* -- meeting a robot -- Mosscap -- who is beginning a quest to determine "what people need."  In part 2 of this story, they "journey together in a world where humans have abandoned most forms of greed and exploitation](https://www.washingtonpost.com/books/2022/11/17/best-sci-fi-fantasy/)."  Chambers builds an engaging world where people have tampped down most greed and exploitation (*without resorting to satire or comedy*) -- which seems like a sign of master storytelling.  
+Again, narrator Em Grosland is a huge part of making this story a positive experience.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Prayer_for_the_Crown-Shy  
+
+</details>
+
+
+<details>
+<summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
+
+### A Psalm for the Wild-Built -- Monk & Robot. (4:00)  
+Audio: https://www.overdrive.com/media/5704893/a-psalm-for-the-wild-built  
+eBook: https://www.overdrive.com/media/5704689/a-psalm-for-the-wild-built  
+By [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)  (1985 – )  
+
+Reading Notes: This was my first exposure to [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk) writing. The story and characters are kind, and generally optimistic.  The main character, Dex, a tea-serving monk who left his order to travel around from one community to another getting to know people, custom-blending tea to fit their current individual needs, and sharing kindness and community.  Dex travels on a bike, pulling his *home* and shop in the form of a cart that consumes solar energy to power his pocket computer, lights, frig., etc.  After a few years as a tea-monk, Dex decides that he still has not found what he needs and impulsively goes searching for an old, abandoned monastary in *the wilderness*. Along the way he meets a robot -- Splendid Speckled Mosscap -- who is beginning a quest to determine "what people need." The story is transporting -- and I want more...  
+The narrator, Em Grosland, is a huge part of making this story a positive experience.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built  
+
+</details>
+
+
 <details><summary>Mornings on Horseback. By David McCullough.  1981 </summary>
 
 ### Mornings on Horseback. (9:44)  
@@ -3496,6 +3528,21 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 </details>
 
 
+<details>
+<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+
+### Winter World -- Long Winter. (11:00)  
+Audio: https://www.overdrive.com/media/4496399/winter-world  
+eBook:   
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction aaction 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
+
+Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
+
+</details>
+
+
 <details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
@@ -3556,6 +3603,8 @@ Reading Notes:
 </details>
 
 
+
+
 <details>
 <summary>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
@@ -3564,12 +3613,13 @@ Audio: https://www.overdrive.com/media/9907011/the-other-valley
 eBook: https://www.overdrive.com/media/9919960/the-other-valley  
 By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
 
-Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...    
+Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...  Okile's home town has two "twins" -- one direction, East, the *twin* was **the same** town 20 years earlier and in the other direction, West, the *twin* was **the same** town 20 years later.  A lot could go wrong with a society in this configuration, so there were organizations and rules to mitigate key risks.  Odile sees to *visitors* from the *future* and the story begins.  
 Some characters:  
     Odile Ozanne a bright and introverted sixteen-year-old  
     Odile’s school teacher Pichegru  
     Odile's friend Edme, a student musician
     Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
+	The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
     Odile's apprenticeship Conseil teacher conseiller Ivret  
 
 Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
