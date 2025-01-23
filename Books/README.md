@@ -325,7 +325,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary><a name=""></a>Empty_Template </summary>
 
 ### Empty_Template  
 Audio:   
@@ -338,7 +338,42 @@ Reading Notes:
 
 
 <details>
-<summary>American Sugargristle. By Toby Huss. 2024 </summary>
+<summary><a name="on_tyranny_by_timothy_snyder"></a>On Tyranny -- Twenty Lessons from the Twentieth Century. By Timothy Snyder 2017 </summary>
+
+### On Tyranny -- Twenty Lessons from the Twentieth Century.  
+Audio: https://www.overdrive.com/media/3116660/on-tyranny  
+eBook: https://www.overdrive.com/media/3108868/on-tyranny  
+By [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder)  (1969 – )  
+
+Reading Notes:   “You submit to tyranny when you renounce the difference between what you want to hear and what is actually the case.”  
+
+From [Wikipedia](https://en.wikipedia.org/wiki/On_Tyranny):  
+>On Tyranny focuses on the concept of tyranny in the context of the modern United States politics, analyzing what Snyder calls "America's turn towards authoritarianism". Explaining that "(h)istory does not repeat, but it does instruct," he analyzes recent European history to identify conditions that can enable established democracies to transform into dictatorships. The short (126 pages) book is presented as a series of twenty instructions on how to combat the rise of tyranny, such as "Defend institutions", "Remember professional ethics", and "Believe in truth".  
+
+</details>
+
+
+
+
+<details>
+<summary><a name="on_freedom_by_timothy_snyder"></a>On Freedom. By Timothy Snyder. 2024 </summary>
+
+### On Tyranny -- Twenty Lessons from the Twentieth Century.  
+Audio: https://www.overdrive.com/media/10477783/on-freedom  
+eBook: https://www.overdrive.com/media/10345052/on-freedom  
+By [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder)  (1969 – )  
+
+Reading Notes:  
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Timothy_Snyder#Views_on_threats_to_democracy_and_pursuit_of_freedom):  
+>On Freedom, launched September 17, 2024, answers questions asked of him by readers of On Tyranny, "What exactly is that good thing that you're defending, what is the opposite of tyranny?" In the book, he asserts that Americans tend to think of freedom as absence of something, the removal of occupation, oppression, or even government. While agreeing with the need to remove bad systems, Snyder offers a positive notion of freedom that puts the focus on human aspirations, values and how these can be realized in the world, also explaining how proper notions of freedom allow good government to exist.  
+
+</details>
+
+
+
+<details>
+<summary><a name=""></a>American Sugargristle. By Toby Huss. 2024 </summary>
 
 ### American Sugargristle  
 Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
@@ -360,7 +395,7 @@ Publisher's Summary: https://hatandbeard.com/products/american-sugargristle-by-t
 
 
 <details>
-<summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson  2022 </summary>
+<summary><a name=""></a>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson  2022 </summary>
 
 ### Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication.  
 eBook: https://direct.mit.edu/books/oa-monograph/5281/Social-EngineeringHow-Crowdmasters-Phreaks-Hackers  
@@ -379,7 +414,7 @@ Summary from MIT Press:
 
 
 <details>
-<summary>Woman Running in the Mountains.  By Yuko Tsushima. 1980 (translation 2022)</summary>
+<summary><a name=""></a>Woman Running in the Mountains.  By Yuko Tsushima. 1980 (translation 2022)</summary>
 
 ### Woman Running in the Mountains  
 ebook: https://www.overdrive.com/media/6180231/woman-running-in-the-mountains  
@@ -390,7 +425,7 @@ Translation by [Geraldine Harcourt](https://en.wikipedia.org/wiki/Geraldine_Harc
 
 
 <details>
-<summary>The World that Wasn’t: Henry Wallace and the Fate of the American Century. By Benn Steil. 2024 </summary>
+<summary><a name=""></a>The World that Wasn’t: Henry Wallace and the Fate of the American Century. By Benn Steil. 2024 </summary>
 
 ### The World that Wasn’t: Henry Wallace and the Fate of the American Century.  
 https://search.worldcat.org/title/1384410970?oclcNum=1384410970  
@@ -418,7 +453,7 @@ Review by [Maureen Corrigan]: "[Lionel Shriver pokes fun at woke culture, again]
 
 
 <details>
-<summary>Prophet Song. By Paul Lynch. 2023 </summary>
+<summary><a name=""></a>Prophet Song. By Paul Lynch. 2023 </summary>
 
 ### Prophet Song  
 https://www.overdrive.com/media/10251263/prophet-song  
@@ -439,7 +474,7 @@ Review by [Ron Charles](https://en.wikipedia.org/wiki/Ron_Charles_(critic)): [ht
 
 
 <details>
-<summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
+<summary><a name=""></a>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
 
 ### How the World Really Works: The Science Behind How We Got Here and Where We're Going.  
 Ebook: https://www.overdrive.com/media/6495140/how-the-world-really-works  
@@ -477,7 +512,7 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 
 
 <details>
-<summary>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+<summary><a name=""></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
 ### Fair Land, Fair Land.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -493,7 +528,7 @@ This is the third book in a series that also includes: "The Big Sky." and "The W
 
 
 <details>
-<summary>Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power. By Noam Chomsky.  2017</summary>
+<summary><a name=""></a>Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power. By Noam Chomsky.  2017</summary>
 
 ### Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power.  
 Ebook: https://www.overdrive.com/media/2950318/requiem-for-the-american-dream  
@@ -508,7 +543,7 @@ By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)
 
 
 <details>
-<summary>The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics. By Dan T. Carter. 2000 </summary>
+<summary><a name=""></a>The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics. By Dan T. Carter. 2000 </summary>
 
 ### The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics.  
 By [Dan T. Carter]()  
@@ -519,11 +554,13 @@ https://lsupress.org/9780807125977/the-politics-of-rage/
 
 
 <details>
-<summary>Red Reckoning: The Cold War and the Transformation of American Life.  By Mark Boulton.  2023 </summary>
+<summary><a name=""></a>Red Reckoning: The Cold War and the Transformation of American Life.  By Mark Boulton.  2023 </summary>
 
 ### Red Reckoning: The Cold War and the Transformation of American Life.  
 ebook: https://www.overdrive.com/media/9767688/red-reckoning  
 By [Mark Boulton](https://www.linkedin.com/in/mark-boulton-73b4a082)  
+
+
 Summary from [LSU Press](https://lsupress.org/9780807180082/):  
 Though it ended more than thirty years ago, the Cold War still casts a long shadow over American society. Red Reckoning examines how the great ideological conflict of the twentieth century transformed the nation and forced Americans to reconsider almost every aspect of their society, culture, and identity.  Using an interdisciplinary approach, the volume’s contributors examine a broad array of topics, including the Cold War’s impact on national security, race relations, gun culture and masculinity, law, college football, advertising, music, film, free speech, religion, and even board games. Above all, Red Reckoning brings a vitally important era back to life for those who lived through it and for students and scholars wishing to understand it.  
 
@@ -531,7 +568,7 @@ Though it ended more than thirty years ago, the Cold War still casts a long shad
 
 
 <details>
-<summary>Stamped from the Beginning: The Definitive History of Racist Ideas in America. By Ibram X. Kendi.  2016 </summary>
+<summary><a name=""></a>Stamped from the Beginning: The Definitive History of Racist Ideas in America. By Ibram X. Kendi.  2016 </summary>
 
 ### Stamped from the Beginning: The Definitive History of Racist Ideas in America.  
 https://www.ibramxkendi.com/stampedbook  
@@ -552,7 +589,7 @@ Wikipedia Summary](https://en.wikipedia.org/wiki/Stamped_from_the_Beginning)
 
 
 <details>
-<summary>Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet. By Hannah Ritchie. 2024</summary>
+<summary><a name=""></a>Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet. By Hannah Ritchie. 2024</summary>
 
 ### Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet. 2024  
 [Pending release January 9, 2024](https://www.nottheendoftheworld.co.uk/)  
