@@ -3625,7 +3625,49 @@ Audio:
 eBook:   
 By []()  ( – )  
 
-Reading Notes:  
+Reading Notes:   
+
+
+</details>
+
+
+Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+
+
+
+<details>
+<summary><a name="age_of_magical_overthinking_by_amanda_montell"></a>The Age of Magical Overthinking -- Notes on Modern Irrationality. By Amanda Montell. 2024 </summary>
+
+### The Age of Magical Overthinking -- Notes on Modern Irrationality. (6:00)  
+Audio: https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking  
+eBook: https://www.overdrive.com/media/9919782/the-age-of-magical-overthinking  
+By [Amanda Montell](https://en.wikipedia.org/wiki/Amanda_Montell)  (1992 – )  
+
+Reading Notes: I think that the life-long presence of the Internet has so impacted the author's intellectual/cultural *framework* that she and I are distantly out of phase.  That said, she reviews [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias) that are important to all of us -- making this book a useful read, or listen.  
+
+[OverDrive Summary](https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking):  
+
+
+Review by [Lauren Puckett-Pope](): [https://www.elle.com/...amanda-montell-the-age-of-magical-overthinking-interview/](https://www.elle.com/culture/books/a60433148/amanda-montell-the-age-of-magical-overthinking-interview/)  
+
+</details>
+
+
+<details>
+<summary><a name="eagles_at_war_by_ben_kane"></a>Eagles of Rome, Book 1 -- Eagles at War. By Ben Kane. 2015 </summary>
+
+### Eagles at War. (14:00)  
+Audio: https://www.overdrive.com/media/3032002/eagles-at-war  
+eBook: https://www.overdrive.com/media/2074113/eagles-at-war  
+By [Ben Kane](https://en.wikipedia.org/wiki/Ben_Kane)  (1970 – )  
+
+Reading Notes: Based on historical events when in A.D. 9, a charismatic chieftain and trusted ally of Rome, Arminius, leads a vast attack against the Roman armiesin Germania to drive them back to West of the Rhine.  Arminius organized a range of *Germanic* tribes to build up a resistance force large enough to destroy Roman forces on tribal lands.  
+[Hunting the Eagles](https://www.overdrive.com/media/2636451/hunting-the-eagles), Book 2 and [Eagles in the Storm](https://www.overdrive.com/media/3221220/eagles-in-the-storm), Book 3 are the next books in this series.  
+
+[OverDrive Summary](https://www.overdrive.com/media/3032002/eagles-at-war):  
+>Only the gods can save the romans now.  AD 9, Germania. East of the river Rhine, tribes hostile to Rome prepare a deadly ambush.  Their leader is the charismatic chieftain and trusted ally of Rome, Arminius, whose dream is to drive out the brutal invaders of his land.  Pitted against him are veteran centurion Lucius Tullus and the Roman provincial governor, Varus.Together with three local legions, they leave their summer camp to begin the march back to the Roman forts on the Rhine.They have no idea that in the forests and bog of the Teutoburg, mud, slaughter and bloody death await ...'This is historical fiction at its best' Sunday Express'Held me spellbound to its spectacular bloody end' Manda Scott'Gripping, brutal, brilliant' Giles Kristian.  
+
 
 </details>
 
@@ -3633,9 +3675,8 @@ Reading Notes:
 
 
 
-
 <details>
-<summary>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 ### The Other Valley -- A Novel.  (11:00)  
 Audio: https://www.overdrive.com/media/9907011/the-other-valley  
