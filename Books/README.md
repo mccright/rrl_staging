@@ -17,6 +17,37 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 </details>
 
 
+<details>
+<summary><a name="american_sugargristle_by_toby_huss"></a>American Sugargristle. By Toby Huss. 2024 </summary>
+
+### American Sugargristle  
+Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
+Audio: NA  
+eBook: NA  
+By [Toby Huss](https://en.wikipedia.org/wiki/Toby_Huss)  (1966 – )  
+Hat & Beard Press, Los Angeles
+
+Reading Notes: This book showcases Toby Huss as a [narrative photographer](https://en.wikipedia.org/wiki/Narrative_photography) and creative writer.  The photos are from his travels around the United States. I assume that most of the vignettes that accompany his photographs are products of his unique immagination, powers of observation, broad experience and more. Each is effectively partnered with its accompanying photograph.  If you enjoy exposure to immensely talented creative people, this book might be for you.  
+Some memorable quotes:
+```terminal 
+Mr. Cheap Butts
+Brenda Carmichael
+You got a pencil?
+Where them stairs?
+Bruce Wayne
+First direct hit since 1951
+Sting.
+Oh, God, NO! Don't send Jeff back to housewares
+Pardner? Pard? You OK?
+"Free Trumpet Lessons"
+...buxom with July wheat
+```
+
+Publisher's Summary: https://hatandbeard.com/products/american-sugargristle-by-toby-huss  
+
+</details>
+
+
 <details><summary><a name="anathem_neal_stephenson"></a>Anathem. By Neal Stephenson  2008 (I strongly recommend reading this book)</summary>
 
 ### Anathem.  
@@ -370,27 +401,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Timothy_Snyder#Views_on_threats_t
 
 </details>
 
-
-
-<details>
-<summary><a name=""></a>American Sugargristle. By Toby Huss. 2024 </summary>
-
-### American Sugargristle  
-Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
-Audio: NA  
-eBook: NA  
-By [Toby Huss](https://en.wikipedia.org/wiki/Toby_Huss)  (1966 – )  
-Hat & Beard Press, Los Angeles
-
-Reading Notes:  
-Mr. Cheap Butts
-Brenda Carmichael
-You got a pencil?
-Where them stairs?
-
-Publisher's Summary: https://hatandbeard.com/products/american-sugargristle-by-toby-huss  
-
-</details>
 
 
 
