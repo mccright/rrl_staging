@@ -17,6 +17,37 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 </details>
 
 
+<details>
+<summary><a name="american_sugargristle_by_toby_huss"></a>American Sugargristle. By Toby Huss. 2024 </summary>
+
+### American Sugargristle  
+Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
+Audio: NA  
+eBook: NA  
+By [Toby Huss](https://en.wikipedia.org/wiki/Toby_Huss)  (1966 – )  
+Hat & Beard Press, Los Angeles
+
+Reading Notes: This book showcases Toby Huss as a [narrative photographer](https://en.wikipedia.org/wiki/Narrative_photography) and creative writer.  The photos are from his travels around the United States. I assume that most of the vignettes that accompany his photographs are products of his unique immagination, powers of observation, broad experience and more. Each is effectively partnered with its accompanying photograph.  If you enjoy exposure to immensely talented creative people, this book might be for you.  
+Some memorable quotes:
+```terminal 
+Mr. Cheap Butts
+Brenda Carmichael
+You got a pencil?
+Where them stairs?
+Bruce Wayne
+First direct hit since 1951
+Sting.
+Oh, God, NO! Don't send Jeff back to housewares
+Pardner? Pard? You OK?
+"Free Trumpet Lessons"
+...buxom with July wheat
+```
+
+Publisher's Summary: https://hatandbeard.com/products/american-sugargristle-by-toby-huss  
+
+</details>
+
+
 <details><summary><a name="anathem_neal_stephenson"></a>Anathem. By Neal Stephenson  2008 (I strongly recommend reading this book)</summary>
 
 ### Anathem.  
@@ -363,34 +394,13 @@ Audio: https://www.overdrive.com/media/10477783/on-freedom
 eBook: https://www.overdrive.com/media/10345052/on-freedom  
 By [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder)  (1969 – )  
 
-Reading Notes:  
+Reading Notes: This short book outlines one humane approach to resisting the corruption of politics and government by Trumpers & too many Republicans (some of which is described in Steve Benen's "[Ministry of Truth](https://mccright.github.io/rrl/#ministry_of_truth_by_steve_benen)."  If you read his "[On Tyranny](#on_tyranny_by_timothy_snyder)" you might enjoy this (*these are very different books*) equally thoughtful approach to resisting political lies and authoritarianism.  
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Timothy_Snyder#Views_on_threats_to_democracy_and_pursuit_of_freedom):  
 >On Freedom, launched September 17, 2024, answers questions asked of him by readers of On Tyranny, "What exactly is that good thing that you're defending, what is the opposite of tyranny?" In the book, he asserts that Americans tend to think of freedom as absence of something, the removal of occupation, oppression, or even government. While agreeing with the need to remove bad systems, Snyder offers a positive notion of freedom that puts the focus on human aspirations, values and how these can be realized in the world, also explaining how proper notions of freedom allow good government to exist.  
 
 </details>
 
-
-
-<details>
-<summary><a name=""></a>American Sugargristle. By Toby Huss. 2024 </summary>
-
-### American Sugargristle  
-Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
-Audio: NA  
-eBook: NA  
-By [Toby Huss](https://en.wikipedia.org/wiki/Toby_Huss)  (1966 – )  
-Hat & Beard Press, Los Angeles
-
-Reading Notes:  
-Mr. Cheap Butts
-Brenda Carmichael
-You got a pencil?
-Where them stairs?
-
-Publisher's Summary: https://hatandbeard.com/products/american-sugargristle-by-toby-huss  
-
-</details>
 
 
 

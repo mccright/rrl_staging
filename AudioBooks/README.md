@@ -2237,7 +2237,7 @@ Audio: https://www.overdrive.com/media/10638161/ministry-of-truth
 eBook: https://www.overdrive.com/media/10644645/ministry-of-truth  
 By [Steve Benen](https://en.wikipedia.org/wiki/Steve_Benen)  (1973 – )  
 
-Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s), Trump's activities, Republican's activities, and the conditions of the United States of America under their leadership*.  This book was a sad reminder of how successful they will be at these tasks...  
+Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s), *January 6th*, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities, Republican's activities, and the conditions of the United States of America under their leadership*.  This book was a sad reminder of how successful they might be at these tasks...  
 
 OverDrive Summary [https://www.overdrive.com/media/10638161/ministry-of-truth](https://www.overdrive.com/media/10638161/ministry-of-truth): 
 >For as long as historical records have existed, authoritarian regimes have tried to rewrite history to suit their purposes, using their dictatorial powers to create myths, spread propaganda, justify decisions, erase opponents, and even dispose of crimes.  Today, as America's Republican Party becomes increasingly radicalized, it's not surprising to see the GOP read from a similarly despotic script. Indeed, the party is taking dangerous, aggressive steps to rewrite history—and not just from generations past. Unable to put a positive spin on Trump-era scandals and fiascos, GOP voices and their allies have grown determined to rewrite the stories of the last few years—from the 2020 election results and the horror of January 6th to their own legislative record—treating the recent past as an enemy to be overpowered, crushed, and conquered. The consequences for our future, in turn, are dramatic.  Extraordinarily timely and undeniably important, Steve Benen's new book tells the staggering chronicle of the Republican party's unsettling attempts at historical revisionism. It reveals not only how dependent they have grown on the tactic, but also how dangerous the consequences are if we allow the party to continue. The stakes, Benen argues, couldn't be higher: the future of democracy hinges on both our accurate understanding of events and the end of alternative narratives that challenge reality.
@@ -2583,6 +2583,29 @@ eBook: https://www.gutenberg.org/ebooks/16894
 By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
 
 Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (1854 - 1900) written by a friend and editor in 1916.  It is shallow and choppy, but the first-person content made the listen worth while.  
+
+</details>
+
+
+### The Other Valley -- A Novel.  (11:00)  
+Audio: https://www.overdrive.com/media/9907011/the-other-valley  
+eBook: https://www.overdrive.com/media/9919960/the-other-valley  
+By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
+
+Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...  Okile's home town has two "twins" -- one direction, East, the *twin* was **the same** town 20 years earlier and in the other direction, West, the *twin* was **the same** town 20 years later.  A lot could go wrong with a society in this configuration, so there were organizations and rules to mitigate key risks.  Odile sees to *visitors* from the *future* and the story begins.  
+Some characters:  
+    Odile Ozanne a bright and introverted sixteen-year-old  
+    Odile’s school teacher Pichegru  
+    Odile's friend Edme, a student musician
+    Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
+	The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
+    Odile's apprenticeship Conseil teacher conseiller Ivret  
+
+Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
+Review by Robert J. Wiersema: [https://www.thestar.com/...the-debut-thriller-thatll-change-your-philosophy-on-the-world...](https://www.thestar.com/entertainment/books/the-debut-thriller-thatll-change-your-philosophy-on-the-world/article_ff8c4f80-d00b-11ee-b676-f7a465322da7.html)  
+Review by Brett Josef Grubisic: [https://quillandquire.com/review/the-other-valley/](https://quillandquire.com/review/the-other-valley/)  
+Review by Zara Garcia: [https://frictionlit.org/a-review-of-the-other-valley...](https://frictionlit.org/a-review-of-the-other-valley-by-scott-alexander-howard/)  
+Review by Primo Saktyawan Sugiharto: [https://owlcation.com/humanities/the-other-valley...](https://owlcation.com/humanities/the-other-valley-by-scott-alexander-howard-book-review)  
 
 </details>
 
@@ -3625,40 +3648,58 @@ Audio:
 eBook:   
 By []()  ( – )  
 
-Reading Notes:  
+Reading Notes:   
+
 
 </details>
 
+
+Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Look through these *history of Scotland* options:  https://www.overdrive.com/search?q=History%20Scotland&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False  
+
+
+<details>
+<summary><a name="age_of_magical_overthinking_by_amanda_montell"></a>The Age of Magical Overthinking -- Notes on Modern Irrationality. By Amanda Montell. 2024 </summary>
+
+### The Age of Magical Overthinking -- Notes on Modern Irrationality. (6:00)  
+Audio: https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking  
+eBook: https://www.overdrive.com/media/9919782/the-age-of-magical-overthinking  
+By [Amanda Montell](https://en.wikipedia.org/wiki/Amanda_Montell)  (1992 – )  
+
+Reading Notes: I think that the life-long presence of the Internet has so impacted the author's intellectual/cultural *framework* that she and I are distantly out of phase.  That said, she reviews a number of [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias) that are important to all of us -- making this book a useful read, or listen.  
+
+[OverDrive Summary](https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking):  
+
+
+Review by [Lauren Puckett-Pope](): [https://www.elle.com/...amanda-montell-the-age-of-magical-overthinking-interview/](https://www.elle.com/culture/books/a60433148/amanda-montell-the-age-of-magical-overthinking-interview/)  
+
+</details>
+
+
+<details>
+<summary><a name="eagles_at_war_by_ben_kane"></a>Eagles of Rome, Book 1 -- Eagles at War. By Ben Kane. 2015 </summary>
+
+### Eagles at War. (14:00)  
+Audio: https://www.overdrive.com/media/3032002/eagles-at-war  
+eBook: https://www.overdrive.com/media/2074113/eagles-at-war  
+By [Ben Kane](https://en.wikipedia.org/wiki/Ben_Kane)  (1970 – )  
+
+Reading Notes: Based on historical events when in A.D. 9, a charismatic chieftain and trusted ally of Rome, Arminius, leads a vast attack against the Roman armiesin Germania to drive them back to West of the Rhine.  Arminius organized a range of *Germanic* tribes to build up a resistance force large enough to destroy Roman forces on tribal lands.  
+[Hunting the Eagles](https://www.overdrive.com/media/2636451/hunting-the-eagles), Book 2 and [Eagles in the Storm](https://www.overdrive.com/media/3221220/eagles-in-the-storm), Book 3 are the next books in this series.  
+
+[OverDrive Summary](https://www.overdrive.com/media/3032002/eagles-at-war):  
+>Only the gods can save the romans now.  AD 9, Germania. East of the river Rhine, tribes hostile to Rome prepare a deadly ambush.  Their leader is the charismatic chieftain and trusted ally of Rome, Arminius, whose dream is to drive out the brutal invaders of his land.  Pitted against him are veteran centurion Lucius Tullus and the Roman provincial governor, Varus.Together with three local legions, they leave their summer camp to begin the march back to the Roman forts on the Rhine.They have no idea that in the forests and bog of the Teutoburg, mud, slaughter and bloody death await ...'This is historical fiction at its best' Sunday Express'Held me spellbound to its spectacular bloody end' Manda Scott'Gripping, brutal, brilliant' Giles Kristian.  
+
+
+</details>
 
 
 
 
 
 <details>
-<summary>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
-
-### The Other Valley -- A Novel.  (11:00)  
-Audio: https://www.overdrive.com/media/9907011/the-other-valley  
-eBook: https://www.overdrive.com/media/9919960/the-other-valley  
-By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
-
-Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...  Okile's home town has two "twins" -- one direction, East, the *twin* was **the same** town 20 years earlier and in the other direction, West, the *twin* was **the same** town 20 years later.  A lot could go wrong with a society in this configuration, so there were organizations and rules to mitigate key risks.  Odile sees to *visitors* from the *future* and the story begins.  
-Some characters:  
-    Odile Ozanne a bright and introverted sixteen-year-old  
-    Odile’s school teacher Pichegru  
-    Odile's friend Edme, a student musician
-    Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
-	The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
-    Odile's apprenticeship Conseil teacher conseiller Ivret  
-
-Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
-Review by Robert J. Wiersema: [https://www.thestar.com/...the-debut-thriller-thatll-change-your-philosophy-on-the-world...](https://www.thestar.com/entertainment/books/the-debut-thriller-thatll-change-your-philosophy-on-the-world/article_ff8c4f80-d00b-11ee-b676-f7a465322da7.html)  
-Review by Brett Josef Grubisic: [https://quillandquire.com/review/the-other-valley/](https://quillandquire.com/review/the-other-valley/)  
-Review by Zara Garcia: [https://frictionlit.org/a-review-of-the-other-valley...](https://frictionlit.org/a-review-of-the-other-valley-by-scott-alexander-howard/)  
-Review by Primo Saktyawan Sugiharto: [https://owlcation.com/humanities/the-other-valley...](https://owlcation.com/humanities/the-other-valley-by-scott-alexander-howard-book-review)  
-
-</details>
-
+<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 
 <details>
