@@ -2587,6 +2587,10 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 </details>
 
 
+
+<details>
+<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+
 ### The Other Valley -- A Novel.  (11:00)  
 Audio: https://www.overdrive.com/media/9907011/the-other-valley  
 eBook: https://www.overdrive.com/media/9919960/the-other-valley  
@@ -3697,9 +3701,6 @@ Reading Notes: Based on historical events when in A.D. 9, a charismatic chieftai
 
 
 
-
-<details>
-<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 
 <details>
