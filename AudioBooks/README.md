@@ -3658,6 +3658,25 @@ Reading Notes:
 </details>
 
 
+
+
+<details>
+<summary><a name="robopocalypse_daniel_h_wilson"></a>Robopocalypse -- A Novel. By Daniel H. Wilson. 2011 </summary>
+
+### Robopocalypse. (13:00)  
+Audio: https://www.overdrive.com/media/460387/robopocalypse  
+eBook: https://www.overdrive.com/media/504806/robopocalypse  
+By [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson)  (1978 – )  
+
+Reading Notes: This is another near-future story about the pairing of robots and AI turning on humankind.  The author exhibits his creativity in the myriad ways that AI and robots were bound to serve human needs and desires, along with equal creativity in detailing a broad range of ways that robots and AI are joined to attack humans. The bulk of the story is a future history about pockets of humans who resisted.  
+In 2014, Doubleday published the official sequel to Robopocalypse: [Robogenesis](https://en.wikipedia.org/wiki/Robogenesis).  
+
+Wikipedia Summary of this book: https://en.wikipedia.org/wiki/Robopocalypse  
+
+</details>
+
+
+
 Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
 
 Look through these *history of Scotland* options:  https://www.overdrive.com/search?q=History%20Scotland&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False  
