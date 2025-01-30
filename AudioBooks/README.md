@@ -3670,9 +3670,9 @@ By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 â€
 
 Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story some will kill anyone to keep others from knowing the truth.  
 
-Luke Daniels ex-Army Ranger, now with the Magellan Billet.
-Jillian Stein ex-Army, now with *some private security organization*.
-Thomas Rowland, a Washington insider, corrupt ex-CIA.
+Luke Daniels ex-Army Ranger, now with the Magellan Billet.  
+Jillian Stein ex-Army, now with *some private security organization*.  
+Thomas Rowland, a Washington insider, corrupt ex-CIA.  
 
 </details>
 
