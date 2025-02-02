@@ -3683,12 +3683,12 @@ Audio: https://www.overdrive.com/media/9384241/the-9th-man
 eBook: https://www.overdrive.com/media/9384268/the-9th-man  
 By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
 
-Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story some will kill anyone to keep others from knowing the truth.  
+Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story some will kill anyone to keep others from knowing the truth. "The 9th Man" is easy-to-follow [action fiction](https://en.wikipedia.org/wiki/Action_fiction) filled with high-stakes, high-energy, and fast-paced events. The action sequences in this novel are more entertaining than the *research and analysis* sections between them.  Most of the characters are largely flat/2D.  
 
 Some Central Characters:  
-Luke Daniels ex-Army Ranger, now with the Magellan Billet.  
-Jillian Stein ex-Army, now with *some private security organization*.  
-Thomas Rowland, a 90-something year old Washington insider, corrupt ex-CIA.  
+- Luke Daniels ex-Army Ranger, now with the Magellan Billet.  
+- Jillian Stein ex-Army, now with *some private security organization*.  
+- Thomas Rowland, a 90-something year old Washington insider, corrupt ex-CIA.  
 
 </details>
 
