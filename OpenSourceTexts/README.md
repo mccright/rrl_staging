@@ -276,6 +276,21 @@ Reading Notes:
 </details>
 </details>
 
+
+<details>
+<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+
+### Cue for Quiet.  
+eBook: https://www.gutenberg.org/ebooks/32889  
+(*from "Space Science Fiction." May and July 1953*)  
+By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
+
+Reading Notes:  
+
+</details>
+
+
+
 <details>
 <summary>Woodcraft and Camping. By George Washington Sears. 1920 (1884) </summary>
 
