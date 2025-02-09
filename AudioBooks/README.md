@@ -3724,6 +3724,50 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="secret_war_of_julia_child_by_diana_r_chambers"></a>The Secret War of Julia Child -- A Novel. By Diana R. Chambers. 2024 </summary>
+
+### The Secret War of Julia Child. (13:00)  
+Audio: https://www.overdrive.com/media/11154984/the-secret-war-of-julia-child  
+eBook: https://www.overdrive.com/media/10390431/the-secret-war-of-julia-child  
+By [Diana R. Chambers](https://dianarchambers.com/about-diana/)  ( – )  
+
+Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/).  
+
+Author's page about the book: https://dianarchambers.com/books/the-secret-war-of-julia-child/  
+
+</details>
+
+
+<details>
+<summary><a name="catalyst_by_james_luceno"></a>Catalyst -- A Rogue One Novel · Star Wars Cannon. By James Luceno. 2016 </summary>
+
+### Catalyst -- A Rogue One Novel · Star Wars Cannon (11:00)  
+Audio: https://www.overdrive.com/media/2637691/catalyst  
+eBook: https://www.overdrive.com/media/2663780/catalyst  
+By [James Luceno](https://en.wikipedia.org/wiki/James_Luceno)  (1947 – )  
+
+Reading Notes: This story is a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)-inspired novel set as the war between the Republic and Separatists builds to a head and ends, the Republic/then Empire *victorius*. The story introduces *military climber/opportunist* Orson Krennic, scientist Galen Erso, Erso's wife Lyra and their child Jyn. It also details the creation of the superweapon that integral to the original construction of Chancellor/Emperor Palpatine’s top-secret [Death Star](https://en.wikipedia.org/wiki/Death_Star), and how Krennic manipulates Erso into contributing to its success.  This is not *great literature* but the [action](https://en.wikipedia.org/wiki/Action_fiction) propels the story forward and is interesting-enough listening while doing chores. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel) for much more context.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel  
+
+</details>
+
+
+<details>
+<summary>Twilight Company -- Star Wars: Battlefront. By Alexander Freed. 2015 </summary>
+
+### Twilight Company -- Star Wars: Battlefront. (14:00)  
+Audio: https://www.overdrive.com/media/2232375/twilight-company  
+eBook: https://www.overdrive.com/media/2201929/twilight-company  
+By [Alexander Freed](https://www.alexanderfreed.com/about-the-author/) and [here](https://datebook.sfchronicle.com/books/how-a-self-taught-sf-author-gets-to-write-the-latest-chapters-of-star-wars)  (1981 – )  
+
+Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  If you are a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) fan or looking for some [action](https://en.wikipedia.org/wiki/Action_fiction) fiction or a [space opera](https://en.wikipedia.org/wiki/Space_opera) this might be a good fit.  
+
+</details>
+
+
+
 
 Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
 
@@ -3817,19 +3861,6 @@ Short summary on Wikipedia:
 >Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
-
-</details>
-
-
-<details>
-<summary>Twilight Company -- Star Wars: Battlefront. By Alexander Freed. 2015 </summary>
-
-### Twilight Company -- Star Wars: Battlefront. (14:00)  
-Audio: https://www.overdrive.com/media/2232375/twilight-company  
-eBook: https://www.overdrive.com/media/2201929/twilight-company  
-By [Alexander Freed](https://www.alexanderfreed.com/about-the-author/) and [here](https://datebook.sfchronicle.com/books/how-a-self-taught-sf-author-gets-to-write-the-latest-chapters-of-star-wars)  (1981 – )  
-
-Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  If you are a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) fan or looking for some [action](https://en.wikipedia.org/wiki/Action_fiction) fiction or a [space opera](https://en.wikipedia.org/wiki/Space_opera) this might be a good fit.  
 
 </details>
 
