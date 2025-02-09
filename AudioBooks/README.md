@@ -3725,6 +3725,25 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary><a name="catalyst_by_james_luceno"></a>Catalyst -- A Rogue One Novel · Star Wars Cannon. By James Luceno. 2016 </summary>
+
+### Catalyst -- A Rogue One Novel · Star Wars Cannon (11:00)  
+Audio: https://www.overdrive.com/media/2637691/catalyst  
+eBook: https://www.overdrive.com/media/2663780/catalyst  
+By [James Luceno](https://en.wikipedia.org/wiki/James_Luceno)  (1947 – )  
+
+Reading Notes: A Star Wars-inspired novel set as the war between the Republic and Separatists builds to a head and ends, the Republic/then Empire *victorius*. introducing *military climber/opportunist* Orson Krennic, scientist Galen Erso, Erso's wife Lyra and their child Jyn. It also details the original construction of Chancellor/Emperor Palpatine’s top-secret Death Star project, and how Krennic manipulates Erso into contributing to its success.  This is not *great literature* but the action propels the story forward and is interesting-enough listening while doing chores. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel) for much more context.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel  
+
+</details>
+
+
+
+
 Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
 
 Look through these *history of Scotland* options:  https://www.overdrive.com/search?q=History%20Scotland&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False  
