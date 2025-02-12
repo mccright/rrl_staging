@@ -2010,7 +2010,7 @@ Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behi
 </details>
 
 
-<details><summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>
+<details><summary><a name="the_legion_of_lazarus_by_edmond_hamilton"></a>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>
 
 ### The Legion of Lazarus (2:38)  
 https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/  
@@ -2019,8 +2019,23 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977
 
 Reader's Notes:  
 This is a *quick* story about the search for a very rare mineral in the asteroid belt in order to help finish the first *star-ship*.  [*Extrasensory perception* (ESP)](https://en.wikipedia.org/wiki/Extrasensory_perception) powers that are gained when convicted criminals are resuscitated after a 50-year '*death sentence*' (*served in space without any type of life support*) is completed are a foundational device used to drive this story forward.  If that is too much for you, this is not your short story.  
+
 Librivox Summary:  
 >Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
+
+</details>
+
+
+<details><summary><a name="lets_not_do_that_again_by_grant_ginder"></a>Let's Not Do That Again. By Grant Ginder. 2022 </summary>
+
+### Let's Not Do That Again. (11:30)  
+Audio: https://www.overdrive.com/media/6241648/lets-not-do-that-again  
+eBook: https://www.overdrive.com/media/6211560/lets-not-do-that-again  
+By [Grant Ginder](https://en.wikipedia.org/wiki/Grant_Ginder)  (1982 – )  
+
+Reading Notes: This story has been described as "viciously funny" but I found it more often a slog.  The characters were evolved, efficiently rendered caricatures, but didn't reach human status. It has a propulsive quality -- always moving the story forward -- that is comforting, and is what kept me from giving up and returning the book.  
+
+Author's Summary: https://www.grantginder.com/lets-not-do-that-again  
 
 </details>
 
@@ -2030,7 +2045,6 @@ Librivox Summary:
 ### The Librarianist. (10:02)  
 Audio: https://www.overdrive.com/media/9267855/the-librarianist 
 eBook: https://www.overdrive.com/media/9267904/the-librarianist  
-   
 By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
 
 Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
@@ -3859,21 +3873,6 @@ Short summary on Wikipedia:
 >Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
-
-</details>
-
-
-<details>
-<summary>Let's Not Do That Again. By Grant Ginder. 2022 </summary>
-
-### Let's Not Do That Again. (11:30)  
-Audio: https://www.overdrive.com/media/6241648/lets-not-do-that-again  
-eBook: https://www.overdrive.com/media/6211560/lets-not-do-that-again  
-By [Grant Ginder](https://en.wikipedia.org/wiki/Grant_Ginder)  (1982 – )  
-
-Reading Notes: This story has been described as "viciously funny" but I found it more often a slog.  The characters were evolved, efficiently rendered caricatures, but didn't reach human status. It has a propulsive quality -- always moving the story forward -- that is comforting, and is what kept me from giving up and returning the book.  
-
-Author's Summary: https://www.grantginder.com/lets-not-do-that-again  
 
 </details>
 
