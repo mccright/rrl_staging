@@ -522,7 +522,7 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 
 
 <details>
-<summary><a name=""></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
 ### Fair Land, Fair Land.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -532,7 +532,13 @@ Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-a
       and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
 
 Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  
-This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)  
+This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)
+Again, we meet Dick Summers, who just left a group of *settlers* he led across the West to Oregon, Boone Caudill and Teal Eye.  Dick Summers complains the destruction of his wild way of life and the natural world of the North American mountain West.  
+
+NYT book review of 'Fair Land, Fair Land.': "[For Guthrie, 'Fair Land' Was A Finishing Touch.](https://www.nytimes.com/1983/03/03/books/for-guthrie-fair-land-was-a-finishing-touch.html?unlocked_article_code=1.yU4.YYW9.VKkBa7vSRddx&smid=url-share)" March 3, 1983. page 66.  
+
+Goodreads Reviews: https://www.goodreads.com/book/show/202032.Fair_Land_Fair_Land  
+
 
 </details>
 
