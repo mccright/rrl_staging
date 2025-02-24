@@ -3758,7 +3758,7 @@ Audio: https://www.overdrive.com/media/4496399/winter-world
 eBook:   
 By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
 
-Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction aaction 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
+Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction action 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
 
 Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
 
@@ -3821,6 +3821,29 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:   
+
+
+</details>
+
+
+<details>
+<summary><a name="ancestral_night_by_elizabeth_bear"></a>Ancestral Night -- A White Space Novel. By Elizabeth Bear. 2019
+ </summary>
+
+### Ancestral Night.  (17:00)  
+Audio: https://www.overdrive.com/media/4256700/ancestral-night  
+eBook: https://www.overdrive.com/media/4245835/ancestral-night  
+By [Elizabeth Bear](https://en.wikipedia.org/wiki/Elizabeth_Bear)  (1971 – )  
+
+Reading Notes: This is thoroughly satisfying [science fiction](https://en.wikipedia.org/wiki/Science_fiction) / [space opera](https://en.wikipedia.org/wiki/Space_opera) / [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study). Interstellar salvage ship crew Haimey, Singer, and Connla operate within the Synarche republic (*most of the of the Milky Way galaxy*) as treasure hunters.  They find a wreck on the edge of inhabited space only to discover it was used to manufacture drugs using *people* as a major raw material. Central character "[Haimey, like most of the Synarche’s citizens, has implants that allow her to interface with technology as easily as most of us breathe. These implants also allow her to turn emotions on and off and even alter her personality and psychological makeup at will](https://www.goodreads.com/review/show/2471851762)."  While exploring the wreck, Haimey is infected with an alien (Koregoi) substance (*living aliens*?) that give her new senses.  This salvage *discovery* was actually organized by revolutionaries and their partner pirates to lure Haimey into revealing secrets from her past -- a past that has been buried in the recesses of her pharmaceutically maintained consciousness. Pirate Farweather -- the image of unrestrained self-interest (*think Trump?*) -- battles with Haimey, who fights to maintain her chosen *moral compass* and altruism as they travel the galaxy.  Although speeding along at [faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) velocity using "whitespace" technology (*created and managed "ripples" in space-time*), space remains gigantic, so there is a lot of time for character interactions and (*for Haimey*) personal reflection.  They *discover* ancient -- yet advanced -- civilization-disrupting technology and...   
+
+[Overdrive Summary](https://www.overdrive.com/media/4245835/ancestral-night):  
+>A space salvager and her partner make the discovery of a lifetime that just might change the universe in this wild, big-ideas space opera from Hugo Award-winning author Elizabeth Bear.  Halmey Dz and her partner Connla Kurucz are salvage operators, living just on the inside of the law...usually. Theirs is the perilous and marginal existence—with barely enough chance of striking it fantastically big—just once—to keep them coming back for more. They pilot their tiny ship into the scars left by unsuccessful White Transitions, searching for the relics of lost human and alien vessels. But when they make a shocking discovery about an alien species that has been long thought dead.  
+
+Review by Russell Letson: https://locusmag.com/2019/04/russell-letson-reviews-ancestral-night-by-elizabeth-bear/  
+Review by Russ Brown: https://sfbook.com/ancestral-night.htm  
+Lots of reviews on GoodReads: https://www.goodreads.com/book/show/26159745-ancestral-night  
+Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/  
 
 
 </details>
