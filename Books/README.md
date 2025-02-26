@@ -122,7 +122,7 @@ By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wik
 Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  It begins in the 1830s about Boone Caudill, Jim Deakins, and Dick Summers.  
 After a fight with his father, *Boone* takes his unconscious father's rifle and runs away to *the West* and *the mountains*.  Boone starts his flight as a scared child, but as he overcomes numerous challenges facing him as a penniless runaway he gains confidence in himself and in his *plan* to head *West*.  Jim Deakins joins *Boone* along the road in Kentucky. In St. Louis they join a [keelboat](https://en.wikipedia.org/wiki/Keelboat) team that includes Dick Summers heading up the Missouri River -- headed West. After their keelboat meets with disaster, they stick together trapping and hunting in the mountains for years.  When Dick Summers *goes back East* as an *old man*, Boone and Jim continue together and spend time with the Blackfeet Piegan Indians. Then Boone travels back to Kentucky after receiving a letter from his mother.  Finally, Boone begins a journey West again, stopping to talk with Dick Summers, now farming in Missouri, and coming to a vague *understanding* that *The West* of his dreams is gone and his behavior has left him unmoored and without a sense of his future.  
 The story's central character Boone Caudill learns to be an expert trapper, hunter, and tracker -- *joining* nature and observing his environment with all his senses.  He is able to endure enormous suffering from long travel on horseback and on foot and camping in melting heat and sharp cold, from injury, and from lack of food.  As far as that goes, he is a classic, maybe even heroic "[mountain man](https://en.wikipedia.org/wiki/Mountain_man)."  But from many perspectives, Boone Caudill also seems like an anti-hero.  He steals a gun, steals a boat, steals horses, murders repeatedly without remorse.  He is often ill-tempered, unfriendly, even hostile.  He is inarticulate in speech and thought.  This combination often makes him a rough, sporatically dangerous, even malicious character.  
-A.B.Guthrie's writing is the hero of this story.  He drew me in and took me on repeated journeys through the mountains, plains and rivers of the 1830s American mountain West.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land and resource *theft*, the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  
+A.B.Guthrie's writing is the hero of this story.  He drew me in and took me on repeated journeys through the mountains, plains and rivers of the 1830s American mountain West.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land and resource *theft*, and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  
 If you are interested in the topic of *mountain men* in the 19th century but want non-fiction, you might try the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), "[Eleven Years in the Rocky Mountains and Life on the Frontier](https://mccright.github.io/rrl/AudioBooks/)." By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor), 1870.  Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/ (13:39) and text: https://www.gutenberg.org/ebooks/39465  
 My copy of this book was a loan from a brother-in-law.  It was printed in 1980 and included a helpful map in the front.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
 This is the first book in a series that also includes: "The Way West." and "Fair Land, Fair Land." (*see their entries on this page*)  
@@ -522,7 +522,7 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 
 
 <details>
-<summary><a name=""></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
 ### Fair Land, Fair Land.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -532,7 +532,14 @@ Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-a
       and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
 
 Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  
-This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)  
+This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)
+Again, we meet Dick Summers, who just left a group of *settlers* he led across the West to Oregon, Boone Caudill and Teal Eye.  Dick Summers complains the destruction of his wild way of life and the natural world of the North American mountain West.  
+As with the previous two books in this series, A.B.Guthrie's writing is the hero of this story.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land, about *right living*, natural resource *theft*, and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  He also incorporates references to slavery & derogatory terms for the enslaved.  This book may be hurtful to some.
+
+NYT book review of 'Fair Land, Fair Land.': "[For Guthrie, 'Fair Land' Was A Finishing Touch.](https://www.nytimes.com/1983/03/03/books/for-guthrie-fair-land-was-a-finishing-touch.html?unlocked_article_code=1.yU4.YYW9.VKkBa7vSRddx&smid=url-share)" March 3, 1983. page 66.  
+
+Goodreads Reviews: https://www.goodreads.com/book/show/202032.Fair_Land_Fair_Land  
+
 
 </details>
 
