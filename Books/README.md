@@ -168,16 +168,40 @@ https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/
 </details>
 
 
-<details><summary><a name="the_diamond_age_neal_stephenson"></a>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995</summary>
+<details><summary><a name="the_diamond_age_neal_stephenson"></a>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995 </summary>
 
 ### The Diamond Age or, A Young Lady's Illustrated Primer  
 eBook: https://www.overdrive.com/media/36903/the-diamond-age  
-https://en.wikipedia.org/wiki/The_Diamond_Age  
 https://search.worldcat.org/formats-editions/30894530  
 By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
 Published 1995  pages 455  
 Summary:  
 ..."nanotechnology made nearly anything possible, and so the cultural role in deciding what *should* be done with it had become far more important than imagining what *could* be done with it." (page 37)  This book [covers a lot of territory](https://en.wikipedia.org/wiki/The_Diamond_Age).  Written in the early 1990s, Stephenson created a world in the 3rd or 4th decade of the 21st century where nanotechnology had changed *everything* and humanity was characterized by extreme tribalism.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Diamond_Age  
+
+</details>
+
+
+<details>
+<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+
+### Fair Land, Fair Land.  
+This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
+Audio: https://www.overdrive.com/media/2700419/fair-land-fair-land  
+By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
+Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
+      and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
+
+Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel. If you are wanting to read a Western, this is a great book.  
+This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)
+Again, we meet Dick Summers, who just left a group of *settlers* he led across the West to Oregon, Boone Caudill and Teal Eye.  Dick Summers complains the destruction of his wild way of life and the natural world of the North American mountain West.  
+As with the previous two books in this series, A.B.Guthrie's writing is the hero of this story.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land, about *right living*, natural resource *theft*, and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  He also incorporates references to slavery & derogatory terms for the enslaved and indigenous Americans.  This book may be hurtful to some.  
+
+NYT book review of 'Fair Land, Fair Land.': "[For Guthrie, 'Fair Land' Was A Finishing Touch.](https://www.nytimes.com/1983/03/03/books/for-guthrie-fair-land-was-a-finishing-touch.html?unlocked_article_code=1.yU4.YYW9.VKkBa7vSRddx&smid=url-share)" March 3, 1983. page 66.  
+
+Goodreads Reviews: https://www.goodreads.com/book/show/202032.Fair_Land_Fair_Land  
+
 
 </details>
 
@@ -517,29 +541,6 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 
 [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
 >"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don't know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
-
-</details>
-
-
-<details>
-<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
-
-### Fair Land, Fair Land.  
-This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
-Audio: https://www.overdrive.com/media/2700419/fair-land-fair-land  
-By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
-Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
-      and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
-
-Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  
-This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)
-Again, we meet Dick Summers, who just left a group of *settlers* he led across the West to Oregon, Boone Caudill and Teal Eye.  Dick Summers complains the destruction of his wild way of life and the natural world of the North American mountain West.  
-As with the previous two books in this series, A.B.Guthrie's writing is the hero of this story.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land, about *right living*, natural resource *theft*, and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  He also incorporates references to slavery & derogatory terms for the enslaved.  This book may be hurtful to some.
-
-NYT book review of 'Fair Land, Fair Land.': "[For Guthrie, 'Fair Land' Was A Finishing Touch.](https://www.nytimes.com/1983/03/03/books/for-guthrie-fair-land-was-a-finishing-touch.html?unlocked_article_code=1.yU4.YYW9.VKkBa7vSRddx&smid=url-share)" March 3, 1983. page 66.  
-
-Goodreads Reviews: https://www.goodreads.com/book/show/202032.Fair_Land_Fair_Land  
-
 
 </details>
 
