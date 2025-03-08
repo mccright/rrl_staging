@@ -3938,6 +3938,20 @@ Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](htt
 </details>
 
 
+<details>
+<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+
+### Cue for Quiet.  (2:40)  
+eBook: https://www.gutenberg.org/ebooks/32889  
+Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
+(*from "Space Science Fiction." May and July 1953*)  
+By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
+
+Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he has the power to wreck things using only his mind.  He would like to monitize this power, and orchestrates a demonstration for the U.S. military.  U.S. military/government Cold Warriors "take" Mr. Miller, run tests to define the scope of his powers, and the story joins its post-WWII American Science Fiction peers...  
+
+</details>
+
+
 
 
 
