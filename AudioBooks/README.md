@@ -1031,7 +1031,7 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 </details>
 
 
-<details><summary>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
+<details><summary><a name="creatures_that_time_forgot_by_ray_bradbury"></a>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
 
 ### The Creatures That Time Forgot.  (1:51)  
 https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
@@ -1043,7 +1043,20 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Dead Fall. By Brad Thor. 2023 </summary>
+<details><summary><a name="cue_for_quiet_by_thomas_l_sherred"></a>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+
+### Cue for Quiet.  (2:40)  
+eBook: https://www.gutenberg.org/ebooks/32889  
+Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
+(*from "Space Science Fiction." May and July 1953*)  
+By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
+
+Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he has the power to wreck things using only his mind.  He would like to monitize this power, and orchestrates a demonstration for the U.S. military.  U.S. military/government Cold Warriors "take" Mr. Miller, run tests to define the scope of his powers, and the story joins its post-WWII American Science Fiction peers...  If you enjoy that Si-Fi genera, it might be for you.  
+
+</details>
+
+
+<details><summary><a name="dead_fall_by_brad_thor"></a>Dead Fall. By Brad Thor. 2023 </summary>
 
 ### Dead Fall. (12:00)  
 Audio: https://www.overdrive.com/media/9296107/dead-fall  
@@ -1057,7 +1070,7 @@ Review/Summary by Ryan Steck: [https://therealbookspy.com/...dead-fall-by-brad-t
 </details>
 
 
-<details><summary>The Deep Sky. By Yume Kitasei. 2023 </summary>
+<details><summary><a name="deep_sky_by_yume_kitasei"></a>The Deep Sky. By Yume Kitasei. 2023 </summary>
 
 ### The Deep Sky. (12:00)  
 Audio: https://www.overdrive.com/media/9267812/the-deep-sky  
@@ -1073,7 +1086,7 @@ Overdrive Summary:
 </details>
 
 
-<details><summary>The Demi-Gods, By James Stephens. 1914</summary>
+<details><summary><a name="the_demi_gods_by_james_stephens"></a>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
 https://librivox.org/the-demi-gods-by-james-stephens/  
@@ -1088,7 +1101,7 @@ This book is a lot of fun. And the excellent reading/acting by Joe Bergin is a h
 </details>
 
 
-<details><summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>
+<details><summary><a name="democracy_an_american_novel_by_henry_brooks_adams"></a>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>
 
 ### Democracy - An American Novel. (07:16)  
 https://librivox.org/democracy-an-american-novel-by-henry-adams/  
@@ -3934,20 +3947,6 @@ Review by Stephanie Merritt: [https://www.theguardian.com/.../unwell-women...](h
 Review by [Corinne Purtill](https://www.corinnepurtill.net/about): [https://www.nytimes.com/.../periods-history-medicine-science...](https://www.nytimes.com/2021/07/12/us/periods-history-medicine-science.html)  
 Review by Raza S Hoda, MD and and Syed A Hoda, MD: [https://academic.oup.com/ajcp/article/157/5/799/6458827](https://academic.oup.com/ajcp/article/157/5/799/6458827)  
 Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
-
-</details>
-
-
-<details>
-<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
-
-### Cue for Quiet.  (2:40)  
-eBook: https://www.gutenberg.org/ebooks/32889  
-Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
-(*from "Space Science Fiction." May and July 1953*)  
-By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
-
-Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he has the power to wreck things using only his mind.  He would like to monitize this power, and orchestrates a demonstration for the U.S. military.  U.S. military/government Cold Warriors "take" Mr. Miller, run tests to define the scope of his powers, and the story joins its post-WWII American Science Fiction peers...  
 
 </details>
 
