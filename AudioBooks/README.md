@@ -1296,6 +1296,22 @@ Reading Notes: This is a sifi novel about how humanity and Emily - an artificial
 </details>
 
 
+<details><summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
+
+### The Exiled Fleet -- The Divide. (19:00)  
+Audio: https://www.overdrive.com/media/5697184/the-exiled-fleet  
+eBook: https://www.overdrive.com/media/5704714/the-exiled-fleet  
+By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+
+Reading Notes: Think the "The Expanse."  The first quarter of this book isn't as fast-paced as the first volume of "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  A lot of its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a start-powered power plant for a jump drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they use to escape The Edge of the universe. This story adds a lot to what we know about a suite of core characters in this series. They search/fight for fuel and escape for the 4000 lives on their 300 year old ship, finding unexpected allies along the way.  
+
+...This is also another ready-for-streaming novel.  
+
+Links to reviews: https://www.jsdewes.com/news  
+
+</details>
+
+
 <details><summary>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
 
 ### Far North.  (9:00)  
@@ -3948,23 +3964,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
-
-### The Exiled Fleet -- The Divide. (19:00)  
-Audio: https://www.overdrive.com/media/5697184/the-exiled-fleet  
-eBook: https://www.overdrive.com/media/5704714/the-exiled-fleet  
-By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
-
-Reading Notes: Think the "The Expanse."  The first quarter of this book isn't as fast-paced as the first volume of "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  A lot of its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a start-powered power plant for a jump drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they use to escape The Edge of the universe. This story adds a lot to what we know about a suite of core characters in this series. They search/fight for fuel and escape for the 4000 lives on their 300 year old ship, finding unexpected allies along the way.  
-
-...This is also another ready-for-streaming novel.  
-
-Links to reviews: https://www.jsdewes.com/news  
-
-</details>
 
 
 
