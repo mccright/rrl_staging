@@ -601,6 +601,25 @@ Librivox Summary:
 </details>  
 
 
+<details><summary><a name="billy_budd_by_herman_melville"></a>Billy Budd. By Herman Melville. 1924 </summary>
+
+### Billy Budd. (3:07)  
+Audio: https://librivox.org/billy-budd-by-herman-melville/  
+eBook1: https://melville.electroniclibrary.org/versions-of-billy-budd  
+eBook2: https://babel.hathitrust.org/cgi/pt?id=uc1.b3549801&view=1up&seq=7  
+By [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville)  (1819 - 1891)  
+
+Reading Notes: This is an interesting story. After listening to it I went back and read it to ensure that I caught as much of the text as possible.  I don't know what to think about "Billy Budd" other than it strikes me as an excellent story well told.  There are [a range of interpretations](https://en.wikipedia.org/wiki/Billy_Budd#Literary_significance_and_reception).  
+```NOTE:``` *I'm now veering off into strongly opinionated territory which may not be useful in helping you decide to read this book but satisfies my need to scratch a particular itch*... The story includes a couple of what my life experiences leads me to believe are *universal* characters.  First, the extraordinarly good looking and socially successful Billy Budd, described by Captain Vere as "the young fellow who seems so popular with the men -- Billy, the Handsome Sailor."  And second, the Master-at-arms John Claggart characterized by Melville as driven by his "spiritual depravity" and "envy," seems like a *type* too often encountered in any long life, and currently (*Spring 2025*) headlined by *example #1* Donald J. Trump, and to a lessor extent a tribe of his sycophantic minions...  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Billy_Budd  
+[Librivox Summary](https://librivox.org/billy-budd-by-herman-melville/):  
+>Young naive sailor Billy Budd is impressed into military service with the British navy in the 1790s, framed for conspiracy to mutiny [*who strikes and inadvertently kills his false accuser, Master-at-arms John Claggart,"the direct reverse of a saint" and envious of Billy*], summarily convicted in a drum-head court martial, and hanged. Billy Budd is the final published work by Herman Melville, discovered in his personal papers three decades after his death. (Summary by [ScientificMethodist](https://librivox.org/billy-budd-by-herman-melville/))  
+
+</details>
+
+
 <details><summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
@@ -1273,6 +1292,22 @@ eBook: https://www.overdrive.com/media/4500529/emily-eternal
 By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
 
 Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details><summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
+
+### The Exiled Fleet -- The Divide. (19:00)  
+Audio: https://www.overdrive.com/media/5697184/the-exiled-fleet  
+eBook: https://www.overdrive.com/media/5704714/the-exiled-fleet  
+By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+
+Reading Notes: Think the "The Expanse."  The first quarter of this book isn't as fast-paced as the first volume of "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  A lot of its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a start-powered power plant for a jump drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they use to escape The Edge of the universe. This story adds a lot to what we know about a suite of core characters in this series. They search/fight for fuel and escape for the 4000 lives on their 300 year old ship, finding unexpected allies along the way.  
+
+...This is also another ready-for-streaming novel.  
+
+Links to reviews: https://www.jsdewes.com/news  
 
 </details>
 
@@ -2037,8 +2072,10 @@ By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (19
 <details><summary><a name="the_last_watch_j_s_dewes"></a>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
 
 ### The Last Watch.  (17:00)  
-https://www.overdrive.com/media/5418299/the-last-watch  
+Audio: https://www.overdrive.com/media/5418299/the-last-watch  
+eBook: https://www.overdrive.com/media/5716552/the-last-watch  
 By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+
 Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *[space opera](https://en.wikipedia.org/wiki/Space_opera)*.  It is also a ready-for-streaming novel.  
 Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
 https://www.goodreads.com/book/show/53205794-the-last-watch  
@@ -2422,7 +2459,7 @@ Audio: https://www.overdrive.com/media/10638161/ministry-of-truth
 eBook: https://www.overdrive.com/media/10644645/ministry-of-truth  
 By [Steve Benen](https://en.wikipedia.org/wiki/Steve_Benen)  (1973 – )  
 
-Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s): "*winning*" the 2020 presidential election, casting *January 6th* insurrection as a spontaneous peaceful protest, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities/behaviors, Republican's activities/behaviors, their *obligation* to *deal with* with what they characterize as hateful opponents who misuse the levers of government, and the social & economic conditions of the United States of America under their *leadership*.  At the time -- late January 2025 -- this book was a sad reminder of how successful they might be at these tasks...  
+Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s): "*winning*" the 2020 presidential election, casting *January 6th* insurrection as a spontaneous peaceful protest, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities/behaviors, Republican's activities/behaviors, their *obligation* to *deal with* with what they characterize as hateful opponents who misuse the levers of government (*an unsubtle program to dehumanize those with whom they disagree*), and the social & economic conditions of the United States of America under their *leadership*.  At the time -- late January 2025 -- this book was a sad reminder of how successful they might be at these tasks...  
 
 OverDrive Summary [https://www.overdrive.com/media/10638161/ministry-of-truth](https://www.overdrive.com/media/10638161/ministry-of-truth): 
 >For as long as historical records have existed, authoritarian regimes have tried to rewrite history to suit their purposes, using their dictatorial powers to create myths, spread propaganda, justify decisions, erase opponents, and even dispose of crimes.  Today, as America's Republican Party becomes increasingly radicalized, it's not surprising to see the GOP read from a similarly despotic script. Indeed, the party is taking dangerous, aggressive steps to rewrite history—and not just from generations past. Unable to put a positive spin on Trump-era scandals and fiascos, GOP voices and their allies have grown determined to rewrite the stories of the last few years—from the 2020 election results and the horror of January 6th to their own legislative record—treating the recent past as an enemy to be overpowered, crushed, and conquered. The consequences for our future, in turn, are dramatic.  Extraordinarily timely and undeniably important, Steve Benen's new book tells the staggering chronicle of the Republican party's unsettling attempts at historical revisionism. It reveals not only how dependent they have grown on the tactic, but also how dangerous the consequences are if we allow the party to continue. The stakes, Benen argues, couldn't be higher: the future of democracy hinges on both our accurate understanding of events and the end of alternative narratives that challenge reality.
@@ -3927,6 +3964,63 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="book_and_dagger_by_elyse_graham"></a>Book and Dagger -- How Scholars and Librarians Became the Unlikely Spies of World War II. By Elyse Graham. 2024 </summary>
+
+### Book and Dagger  (11:00)  
+Audio: https://www.overdrive.com/media/10358695/book-and-dagger  
+eBook: https://www.overdrive.com/media/10382397/book-and-dagger  
+By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )  
+
+Reading Notes: "Graham described how academics and other 'bookworms' helped the Allied cause through scholarly work instrumental to the Office of Strategic Services, the precursor to the Central Intelligence Agency: “The war may have been fought in the battlefields, but it was won in the libraries”. She delved into examples including Joseph Curtiss, Adele Kibre and Sherman Kent."  
+
+CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
+Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-graham](https://www.nytimes.com/2024/09/24/books/review/book-and-dagger-elyse-graham.html)  
+
+</details>
+
+
+
+<details>
+<summary><a name="Op_Center_1_By_Tom_Clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+
+
+### Op-Center -- Op-Center Series.  (9:00)  
+Audio: https://www.overdrive.com/media/567041/op-center  
+eBook: https://www.overdrive.com/media/584529/op-center  
+[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+
+Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+
+This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
+
+</details>
+
+
+
+
+
+
+
+<details>
+<summary><a name="cold_storage_by_david_koepp"></a>Cold Storage -- A Novel. By David Koepp. 2019 </summary>
+
+### Cold Storage -- A Novel.  (8:00)  
+Audio: https://www.overdrive.com/media/4455228/cold-storage  
+eBook: https://www.overdrive.com/media/4455251/cold-storage  
+By [David Koepp](https://en.wikipedia.org/wiki/David_Koepp)  (1963 – )  
+
+Reading Notes: What a cool story and excellent characters. And a fantastic performance by narrator [Rupert Friend](https://en.wikipedia.org/wiki/Rupert_Friend). I recommend this story (*and performance*) to everyone.  
+
+[Overdrive Summary](https://www.overdrive.com/media/4455228/cold-storage):  
+>When Pentagon bioterror operative Roberto Diaz was sent to investigate a suspected biochemical attack, he found something far worse: a highly mutative organism capable of extinction-level destruction. He contained it and buried it in cold storage deep beneath a little-used military repository. Now, after decades of festering in a forgotten sub-basement, the specimen has found its way out and is on a lethal feeding frenzy. Only Diaz knows how to stop it.  He races across the country to help two unwitting security guards—one an ex-con, the other a single mother. Over one harrowing night, the unlikely trio must figure out how to quarantine this horror again. All they have is luck, fearlessness, and a mordant sense of humor. Will that be enough to save all of humanity?  
+
+
+</details>
+
+
 
 
 
@@ -3956,7 +4050,34 @@ Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](htt
 
 
 
+
 Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+| # | Title | Publication year | Authors |
+|:-:|:-----:|:----------------:|:-------:|
+| 1 | Tom Clancy's Op-Center | 1995 | Jeff Rovin |
+| 2 | Mirror Image | 1995 | Jeff Rovin |
+| 3 | Games of State | 1996 | Jeff Rovin |
+| 4 | Acts of War | 1997 | Jeff Rovin |
+| 5 | Balance of Power | 1998 | Jeff Rovin |
+| 6 | State of Siege | 1999 | Jeff Rovin |
+| 7 | Divide and Conquer | 2000 | Jeff Rovin |
+| 8 | Line of Control | 2001 | Jeff Rovin |
+| 9 | Mission of Honor | 2002 | Jeff Rovin |
+| 10 | Sea of Fire | 2003 | Jeff Rovin |
+| 11 | Call to Treason | 2004 | Jeff Rovin |
+| 12 | War of Eagles | 2005 | Jeff Rovin |
+| 13 | Out of the Ashes | 2014 | Dick Couch and George Galdorisi |
+| 14 | Into the Fire | 2015 | Dick Couch and George Galdorisi |
+| 15 | Scorched Earth | 2016 | George Galdorisi |
+| 16 | Dark Zone | 2017 | Jeff Rovin and George Galdorisi |
+| 17 | For Honor | 2018 | Jeff Rovin |
+| 18 | Sting of the Wasp | 2019 | Jeff Rovin |
+| 19 | God of War | 2020 | Jeff Rovin |
+| 20 | The Black Order | 2021 | Jeff Rovin |
+| 21 | Call of Duty | 2022 | Jeff Rovin |
+| 22 | Fallout | 2023 | Jeff Rovin
+
+
 
 Look through these *history of Scotland* options:  https://www.overdrive.com/search?q=History%20Scotland&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False  
 
@@ -3990,24 +4111,6 @@ Reading Notes: This recording includes an excellent 40 minute history of the sto
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
 >Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
-
-
-<details>
-<summary>Billy Budd. By Herman Melville. 1924 </summary>
-
-### Billy Budd. (3:07)  
-Audio: https://librivox.org/billy-budd-by-herman-melville/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=uc1.b3549801&view=1up&seq=7  
-By [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville)  (1819 - 1891)  
-
-Reading Notes:  
-
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Billy_Budd  
-[Librivox Summary](https://librivox.org/billy-budd-by-herman-melville/):  
->Young naive sailor Billy Budd is impressed into military service with the British navy in the 1790s, framed for conspiracy to mutiny, summarily convicted in a drum-head court martial, and hanged. Billy Budd is the final published work by Herman Melville, discovered in his personal papers three decades after his death. (Summary by ScientificMethodist)  
 
 </details>
 
