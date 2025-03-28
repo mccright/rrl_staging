@@ -3964,6 +3964,43 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="book_and_dagger_by_elyse_graham"></a>Book and Dagger -- How Scholars and Librarians Became the Unlikely Spies of World War II. By Elyse Graham. 2024 </summary>
+
+### Book and Dagger  (11:00)  
+Audio: https://www.overdrive.com/media/10358695/book-and-dagger  
+eBook: https://www.overdrive.com/media/10382397/book-and-dagger  
+By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )  
+
+Reading Notes: "Graham described how academics and other 'bookworms' helped the Allied cause through scholarly work instrumental to the Office of Strategic Services, the precursor to the Central Intelligence Agency: “The war may have been fought in the battlefields, but it was won in the libraries”. She delved into examples including Joseph Curtiss, Adele Kibre and Sherman Kent."  
+
+CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
+Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-graham](https://www.nytimes.com/2024/09/24/books/review/book-and-dagger-elyse-graham.html)  
+
+</details>
+
+
+
+<details>
+<summary><a name="Op_Center_1_By_Tom_Clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+
+
+### Op-Center -- Op-Center Series.  (9:00)  
+Audio: https://www.overdrive.com/media/567041/op-center  
+eBook: https://www.overdrive.com/media/584529/op-center  
+[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+
+Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+
+This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
+
+</details>
+
+
+
+
 
 
 
@@ -4015,6 +4052,32 @@ Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](htt
 
 
 Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+| # | Title | Publication year | Authors |
+|:-:|:-----:|:----------------:|:-------:|
+| 1 | Tom Clancy's Op-Center | 1995 | Jeff Rovin |
+| 2 | Mirror Image | 1995 | Jeff Rovin |
+| 3 | Games of State | 1996 | Jeff Rovin |
+| 4 | Acts of War | 1997 | Jeff Rovin |
+| 5 | Balance of Power | 1998 | Jeff Rovin |
+| 6 | State of Siege | 1999 | Jeff Rovin |
+| 7 | Divide and Conquer | 2000 | Jeff Rovin |
+| 8 | Line of Control | 2001 | Jeff Rovin |
+| 9 | Mission of Honor | 2002 | Jeff Rovin |
+| 10 | Sea of Fire | 2003 | Jeff Rovin |
+| 11 | Call to Treason | 2004 | Jeff Rovin |
+| 12 | War of Eagles | 2005 | Jeff Rovin |
+| 13 | Out of the Ashes | 2014 | Dick Couch and George Galdorisi |
+| 14 | Into the Fire | 2015 | Dick Couch and George Galdorisi |
+| 15 | Scorched Earth | 2016 | George Galdorisi |
+| 16 | Dark Zone | 2017 | Jeff Rovin and George Galdorisi |
+| 17 | For Honor | 2018 | Jeff Rovin |
+| 18 | Sting of the Wasp | 2019 | Jeff Rovin |
+| 19 | God of War | 2020 | Jeff Rovin |
+| 20 | The Black Order | 2021 | Jeff Rovin |
+| 21 | Call of Duty | 2022 | Jeff Rovin |
+| 22 | Fallout | 2023 | Jeff Rovin
+
+
 
 Look through these *history of Scotland* options:  https://www.overdrive.com/search?q=History%20Scotland&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False  
 
