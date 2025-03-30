@@ -714,7 +714,7 @@ By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )
 
 Reading Notes:  This is good story-telling about important issues of protecting Democracy using our brains as well as our might.  "At the start of WWII, the U.S. found itself in desperate need of an intelligence agency. The Office of Strategic Services (OSS), a precursor to today's CIA, was quickly formed -- and, in an effort to fill its ranks with experts, the OSS turned to academia for recruits. Suddenly, literature professors, librarians, and historians were training to perform undercover operations and investigative work -- and these surprising spies would go on to profoundly shape both the course of the war and our cultural institutions with their efforts." ([Overdrive](https://www.overdrive.com/media/10358695/book-and-dagger))  
 
-Academic experts and other academics who were broadly-educated humanities generalists helped the Allied cause through scholarly work now called "*intelligence analysis*," as well as data collection (often incorporated into on-the-ground *spying* & its accompanying physical risks), spy-hunting, and, sometimes, even assassination in this collection of *true* stories about academics who were critically important to Allied efforts to defeat the Nazis.  The author argues -- I think convincingly -- that her telling of these stories "reveals the indelible power of the humanities to change the world."  
+Academic experts and other academics who were broadly-educated humanities generalists helped the Allied cause through scholarly work now called "*intelligence analysis*," as well as data collection (often incorporated into on-the-ground *spying* & its accompanying physical risks), spy-hunting, and, sometimes, even assassination in this collection of *true* stories about academics who were critically important to Allied efforts to defeat the Nazis.  The author argues -- I think convincingly -- that her telling of these stories "reveals the indelible power of the humanities to change the world."  *...and it describes how American intelligence organizations promoted the Iowa Writer's Workshop...*  
 
 
 CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
@@ -2740,6 +2740,27 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
  
 
+<details>
+<summary>On the Duty of Civil Disobedience. By Henry David Thoreau. 1849  </summary>
+
+### On the Duty of Civil Disobedience. (1:07)  
+Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
+eBook: https://www.gutenberg.org/ebooks/71  
+By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (1817 - 1862)  
+
+Reading Notes: Thoreau argues that waiting passively to vote for justice is as ineffective as simply *wishing* for justice, and that what you need to do is to actually **be** just.  He denies that you have an [obligation to devote your life to fighting for justice, but you do have an obligation not to commit injustice and not to give injustice your practical support](https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)).  There is academic and political disagreement about what to do with this essay and what Thoreau meant for us to **do** (*see the Wikipedia summary](https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau))*).  Thoreau was writing at a time of enthusiastic anti-slavery protest, enthusiastic pro-slavery *business* and *governing* and masses of *passive* law-abiding citizens attempting to live their lives in alignment with the law.  Finally, Thoreau seems to argue for anarchism or an extreme form of libertarianism, but does not flesh out what he believes that would mean in terms of implementation is a society made up of extremely diverse interests and passions.  
+   
+>"What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn."  
+
+>"Under a government which imprisons any unjustly, the true place for a just man is also a prison."  
+
+>"A minority is powerless while it conforms to the majority; it is not even a minority then; but it is irresistible when it clogs by its whole weight."  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
+
+</details>
+
+
 <details><summary><a name="on_writing_by_stephen_king"></a>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
 
 ### On Writing -- A Memoir Of The Craft.  
@@ -3964,8 +3985,8 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 
 -----
 
-## Pending or Currently Underway:  
 
+## Pending or Currently Underway:  
 
 <details>
 <summary><a name=""></a>Empty_Template </summary>
@@ -3986,7 +4007,6 @@ Reading Notes:
 <details>
 <summary><a name="Op_Center_1_By_Tom_Clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
 
-
 ### Op-Center -- Op-Center Series.  (9:00)  
 Audio: https://www.overdrive.com/media/567041/op-center  
 eBook: https://www.overdrive.com/media/584529/op-center  
@@ -3999,10 +4019,6 @@ This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org
 Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
 
 </details>
-
-
-
-
 
 
 
@@ -4021,9 +4037,6 @@ Reading Notes: What a cool story and excellent characters. And a fantastic perfo
 
 
 </details>
-
-
-
 
 
 <details>
@@ -4049,7 +4062,71 @@ Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](htt
 
 
 
+<details>
+<summary><a name="daughter_of_the_sky_by_paul_l_briand"></a>Daughter of the Sky: The Story of Amelia Earhart. By Paul L. Briand, Jr.  1960 </summary>
 
+### Daughter of the Sky: The Story of Amelia Earhart. (7:58)  
+Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/  
+eBook: https://www.gutenberg.org/ebooks/70263  
+By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
+
+Reading Notes:   
+
+Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, " Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="tragedy_in_dedham_by_francis_russell"></a>Tragedy in Dedham: The Story of the Sacco-Vanzetti Case. By Francis Russell. 1963 </summary>
+
+### Tragedy in Dedham: The Story of the Sacco-Vanzetti Case.  (21:07)  
+Audio: https://librivox.org/tragedy-in-dedham-sacco-vanzetti-case-by-francis-russell/  
+eBook: https://www.gutenberg.org/ebooks/70970  
+By [Francis Russell](https://en.wikipedia.org/wiki/Francis_Russell_(author))  (1910 - 1989)  
+
+Reading Notes:   
+
+Librivox Summary: The Sacco and Vanzetti trial was one of the most divisive events of 1920's America. As Russell writes, " If one was middle class and Republican...one thought Sacco and Vanzetti guilty. But if one was a university liberal, one tended to think the trial unfair..." In this book, historical author Francis Russell brings the participants and events of this tragic drama to life. The book received the Edgar Award for Best Fact Crime in 1963. - Summary by Ciufi Galeazzi.  
+
+
+</details>
+
+
+<details>
+<summary><a name="germany_before_the_war_by_beyens"></a>Germany Before the War.  By Napoleon-Eugène Beyens.  1916 </summary>
+
+### Germany Before the War.  (9:00)  
+Audio: https://librivox.org/germany-before-the-war-by-napoleon-eugene-beyens/  
+eBook: https://archive.org/details/germanybeforewar00beyeuoft/page/n5/mode/2up  
+By [Napoleon-Eugène Beyens](https://en.wikipedia.org/wiki/Beyens_(Belgian_family)#Napol%C3%A9on-Eug%C3%A8ne_Beyens)  (1855 - 1934)  
+Translated by Paul V. Cohn (1884 - 1956)  
+
+Reading Notes:   
+
+Librivox Summary: Baron Beyens was a senior member of the Belgian diplomatic service who was posted to Berlin in 1912. His book, published in early 1916, is in part the result of his personal observations in Germany from 1912 until late 1914, when he departed the country after the German invasion of neutral Belgium at the beginning of the First World War. He had contacts with the political elite in Germany - including the Emperor - and knew their views on the key issues that contributed to international tension. In this volume Beyens profiled the men, their motives, and their reactions to events.  In addition, Beyens discusses the economic causes of the war, and explains some of the most pressing issues faced by European diplomats and governments in the years immediately preceding the war. The causes of World War I were so complex that they are still, over a century later, vigorously debated. This thoughtful book helps to throw light on the fateful decisions that brought on a disastrous war. - Summary by Ted Lienhart  
+
+</details>
+
+
+<details>
+<summary><a name="century_of_dishonor_by_helen_hunt_jackson"></a>A Century of Dishonor. By Helen Hunt Jackson. </summary>
+
+### A Century of Dishonor.  (12:11)  
+Audio: https://librivox.org/a-century-of-dishonor-by-helen-hunt-jackson/  
+eBook: https://gutenberg.org/ebooks/50560  
+By [Helen Hunt Jackson](https://en.wikipedia.org/wiki/Helen_Hunt_Jackson)  (1830 - 1885)  
+
+Reading Notes:   
+
+Librivox Summary: In this work, a predecessor to "Ramona", HH describes the systematic process of segregation, dispossession, and relocation that Native Americans experienced from the late XVIII to the late XIX century. When written, the last conflicts between Native Americans and the US Government were being held. She wrote the book in efforts to fight for the rights of the Natives and to change people's opinions and governmental policies. The Appendix has been left out. - Summary by Mario Pineda.  
+
+Wikipedia Summary: [https://en.wikipedia.org/...A_Century_of_Dishonor](https://en.wikipedia.org/wiki/A_Century_of_Dishonor)  
+
+
+</details>
 
 
 
@@ -4081,23 +4158,9 @@ Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia
 
 
 
+
 Look through these *history of Scotland* options:  https://www.overdrive.com/search?q=History%20Scotland&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False  
 
-
-
-<details>
-<summary>On the Duty of Civil Disobedience </summary>
-
-### On the Duty of Civil Disobedience. (1:07)  
-Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
-eBook: https://www.gutenberg.org/ebooks/71  
-By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (1817 - 1862)  
-
-Reading Notes:  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
-
-</details>
 
 
 <details>
@@ -4108,7 +4171,7 @@ Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-i
 eBook: https://www.gutenberg.org/ebooks/3190  
 By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
 
-Reading Notes: This recording includes an excellent 40 minute history of the story and its publication.  
+Reading Notes: This recording includes an excellent 40 minute history of the story and its publication -- which I found more interesting than the story itself.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
