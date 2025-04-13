@@ -2788,8 +2788,7 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
  
 
-<details>
-<summary>On the Duty of Civil Disobedience. By Henry David Thoreau. 1849  </summary>
+<details><summary><a name="civil_disobedience_by_henry_david_thoreau"></a>On the Duty of Civil Disobedience. By Henry David Thoreau. 1849  </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
 Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
@@ -4122,7 +4121,7 @@ Reading Notes:
 <details>
 <summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
-### The Red Eagles.  
+### The Red Eagles.  (7:00)  
 Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
 eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
 By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
