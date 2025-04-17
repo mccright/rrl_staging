@@ -4142,10 +4142,34 @@ By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 
 
 Reading Notes:   
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
+History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
+Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
+Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
+Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+
 
 </details>
 
 
+
+<details>
+<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+
+### An Officer and a Spy -- A novel.  (16:00)  
+Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
+eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
+By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
+
+Reading Notes:   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
+
+OverDrive Summary:  
+>Alfred Dreyfus has been convicted of treason, sentenced to life imprisonment on a far-off island, and publicly stripped of his rank. Among the witnesses to his humiliation is Georges Picquart, an ambitious military officer who believes in Dreyfus's guilt as staunchly as any member of the public. But when he is promoted to head of the French counter-espionage agency, Picquart finds evidence that a spy still remains at large in the military—indicating that Dreyfus is innocent. As evidence of the most malignant deceit mounts and spirals inexorably toward the uppermost levels of government, Picquart is compelled to question not only the case against Dreyfus but also his most deeply held beliefs about his country, and about himself.  
+
+
+</details>
 
 
 
