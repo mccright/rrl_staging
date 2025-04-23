@@ -4160,7 +4160,7 @@ Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy
 eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
 By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
 
-Reading Notes:   
+Reading Notes: This is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
 
