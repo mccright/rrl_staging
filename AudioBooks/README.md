@@ -433,9 +433,9 @@ Audio: https://www.overdrive.com/media/10335398/attack-from-within
 eBook: https://www.overdrive.com/media/9830572/attack-from-within  
 By [Barbara McQuade](https://en.wikipedia.org/wiki/Barbara_McQuade)  (1964 – )  
 
-Reading Notes: This is an excellent essay.  Read or listen to it.  
+Reading Notes: This is an excellent essay (*see the [Overdrive Summary](https://www.overdrive.com/media/10335398/attack-from-within)*).  Read or listen to it.  
 
-[Overdrive Summary]():  
+[Overdrive Summary](https://www.overdrive.com/media/10335398/attack-from-within):  
 >(Barbara McQuade) breaks down the ways disinformation has become a tool to drive voters to extremes, disempower our legal structures, and consolidate power in the hands of the few. American society is more polarized than ever before. We are strategically being pushed apart by disinformation-the deliberate spreading of lies disguised as truth-and it comes at us from all sides: opportunists on the far right, Russian misinformed social media influencers, among others. It's endangering our democracy and causing havoc in our electoral system, schools, hospitals, workplaces, and in our Capitol. Advances in technology including rapid developments in artificial intelligence threaten to make the problems even worse by amplifying false claims and manufacturing credibility. In Attack from Within, legal scholar and analyst Barbara McQuade, shows us how to identify the ways disinformation is seeping into all facets of our society and how we can fight against it. Disinformation is designed to evoke a strong emotional response to push us toward more extreme views, unable to find common ground with others. The false claims that led to the breathtaking attack on our Capitol in 2020 may have been only a dress rehearsal. Attack from Within shows us how to prevent it from happening again, thus preserving our country's hard-won democracy.  
 
 </details>
@@ -2426,7 +2426,7 @@ Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motio
 eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
 By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
 
-Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
+Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/) “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
 
 Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
 Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
@@ -3761,7 +3761,7 @@ eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=20
 By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
 Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
 
-Reading Notes: In this detailed description of island life, [Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) mines his romantic vision of all segments of [Guernsey](https://en.wikipedia.org/wiki/Guernsey) society.  Overall, this seems like a literary [romance novel](https://en.wikipedia.org/wiki/Romance_novel) with a strong [tragic hero](https://en.wikipedia.org/wiki/Tragic_hero) thread throughout.  See the Wikipedia summary]() for a more detailed summary.  
+Reading Notes: In this detailed description of island life, [Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) mines his romantic vision of all segments of [Guernsey](https://en.wikipedia.org/wiki/Guernsey) society.  Overall, this seems like a literary [romance novel](https://en.wikipedia.org/wiki/Romance_novel) with a strong [tragic hero](https://en.wikipedia.org/wiki/Tragic_hero) thread throughout.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Toilers_of_the_Sea) for a more detailed summary.  
 Key Characters:  
 * Gilliatt: a fisherman  
 * Mess Lethierry: owner of the ship Durande, the island's first steam ship  
@@ -4135,6 +4135,38 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
+
+### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
+Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
+eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
+By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
+
+Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
+
+
+[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
+>Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
+
+
+</details>
+
+
+<details>
+<summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
+
+### Creation Lake.  (11:00)  
+Audio: https://www.overdrive.com/media/10480247/creation-lake  
+eBook: https://www.overdrive.com/media/10480407/creation-lake  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 
 <details>
@@ -4145,7 +4177,10 @@ Audio: https://www.overdrive.com/media/2204520/the-red-eagles
 eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
 By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
 
-Reading Notes:   
+Reading Notes: This is an interesting story outlining one way to *explain* how the Soviet Union could so quickly developed an atomic bomb after WWII.  It is fast-paced spy fiction that kept me involved throughout.  
+
+[Overdrive Summary](https://www.overdrive.com/media/2204520/the-red-eagles):  
+>World War II is nearly over. For the Russians, the enemy is no longer Nazi Germany, but the American behemoth that threatens to topple the Communist revolution. Deep within the walls of the Kremlin, Stalin's top man hatches a brilliant plan that will alter the course of postwar history-and it's all based on a deception as simple as the shell game. Five years later, an atomic bomb detonates deep within the borders of the Soviet Union, stunning the experts who had predicted that Russian science could not produce such a devastating weapon for at least another generation. The Red Eagles traces the adventures of two spies, Jack Kuznetzky and Amy Brandon, as they track down the most deadly force in the world while hiding their true allegiances and intentions from their compatriots. They are the "red" eagles, sent to America by one of its enemies to steal the greatest secret of all: the key to producing the atomic bomb. Critically acclaimed spy thriller writer David Downing draws fascinating portrayals of Stalin and Hitler as they determine the fate of the world, drawing us at breakneck speed from the Kremlin to Berchtesgaden, from Manhattan and Washington to Tennessee ad Louisiana, from Cuba to Sweden and New Zealand. And so the question remains unanswered to this day: how did the Russians produce the bomb so quickly? In The Read Eagles, Downing has created a story that will not only provide the ultimate clue, but also satisfy the most demanding thriller devotee.  
 
 
 </details>
@@ -4160,7 +4195,7 @@ Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy
 eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
 By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
 
-Reading Notes: This is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
+Reading Notes: This story is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
 
@@ -4737,7 +4772,7 @@ By [Michael C. Grumley](https://michaelgrumley.com/about)  ( – )
 
 Reading Notes:  
 
-OverDrive [Summary]():  
+OverDrive [Summary](https://www.overdrive.com/media/9790834/deep-freeze):  
 >The accident came quickly. With no warning. In the dead of night, a precipitous plunge into a freezing river trapped everyone inside the bus. It was then that Army veteran John Reiff's life came to an end. Extinguished in the sudden rush of frigid water.  There was no expectation of survival. None. Let alone waking up beneath blinding hospital lights. Struggling to move, or see, or even breathe. But the doctors assure him that everything is normal. That things will improve. And yet, he has a strange feeling that there's something they're not telling him. As Reiff's mind and body gradually recover, he becomes certain that the doctors are lying to him. One-by-one, puzzle pieces are slowly falling into place, and he soon realizes that things are not at all what they seem. Critical information is being kept from him. Secrets. Supposedly for his own good. But who is doing this? Why? And the most important question: can he keep himself alive long enough to uncover the truth?  
 
 </details>
