@@ -2760,11 +2760,30 @@ https://librivox.org/no-17-by-joseph-jefferson-farjeon/
 Text: https://catalog.hathitrust.org/Record/000781052  
 By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
 
-Reader's Notes:  
-See the Wikipedia summary.  It was worth its runtime to me.  
+Reader's Notes:  See the Wikipedia summary.  It was worth its runtime to me.  
 Librivox Summary:  
 >A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
+<details>
+<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+
+### An Officer and a Spy -- A novel.  (16:00)  
+Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
+eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
+By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
+
+Reading Notes: This story is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
+
+OverDrive Summary:  
+>Alfred Dreyfus has been convicted of treason, sentenced to life imprisonment on a far-off island, and publicly stripped of his rank. Among the witnesses to his humiliation is Georges Picquart, an ambitious military officer who believes in Dreyfus's guilt as staunchly as any member of the public. But when he is promoted to head of the French counter-espionage agency, Picquart finds evidence that a spy still remains at large in the military—indicating that Dreyfus is innocent. As evidence of the most malignant deceit mounts and spirals inexorably toward the uppermost levels of government, Picquart is compelled to question not only the case against Dreyfus but also his most deeply held beliefs about his country, and about himself.  
+
 
 </details>
 
@@ -4195,25 +4214,6 @@ Review by [Laura Marsh](https://newrepublic.com/authors/laura-marsh): [https://n
 
 
 
-
-
-<details>
-<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
-
-### An Officer and a Spy -- A novel.  (16:00)  
-Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
-eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
-By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
-
-Reading Notes: This story is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
-
-OverDrive Summary:  
->Alfred Dreyfus has been convicted of treason, sentenced to life imprisonment on a far-off island, and publicly stripped of his rank. Among the witnesses to his humiliation is Georges Picquart, an ambitious military officer who believes in Dreyfus's guilt as staunchly as any member of the public. But when he is promoted to head of the French counter-espionage agency, Picquart finds evidence that a spy still remains at large in the military—indicating that Dreyfus is innocent. As evidence of the most malignant deceit mounts and spirals inexorably toward the uppermost levels of government, Picquart is compelled to question not only the case against Dreyfus but also his most deeply held beliefs about his country, and about himself.  
-
-
-</details>
 
 
 
