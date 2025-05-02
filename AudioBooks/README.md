@@ -4169,7 +4169,23 @@ Reading Notes:
 
 
 <details>
-<summary><a name=""></a>The Safekeep.  By Yael van der Wouden.  2024 </summary>
+<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson. 2017 </summary>
+
+### The Rise and Fall of D.O.D.O.  (24:00)  
+Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+
+Reading Notes:   
+
+* Department of Diachronic Operations -- DP.O.D.O.  
+Photography collapses the wave function of life.  
+
+</details>
+
+
+<details>
+<summary><a name="the_safekeep_by_yael_van_der_wouden"></a>The Safekeep.  By Yael van der Wouden.  2024 </summary>
 
 ### The Safekeep. (9:30)  
 Audio: https://www.overdrive.com/media/10216839/the-safekeep  
