@@ -4284,6 +4284,22 @@ Review by [Laura Marsh](https://newrepublic.com/authors/laura-marsh): [https://n
 
 
 
+<details>
+<summary><a name="mars_room_by_rachel_kushner"></a>The Mars Room -- A Novel.  By Rachel Kushner. 2018 </summary>
+
+### The Mars Room -- A Novel.  By Rachel Kushner.   
+Audio: https://www.overdrive.com/media/3591300/the-mars-room  
+eBook: https://www.overdrive.com/media/3718294/the-mars-room  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
 
 
 
