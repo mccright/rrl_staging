@@ -310,6 +310,7 @@ By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 
 Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
 
 See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution).  
+
 [OverDrive Summary](https://www.overdrive.com/media/4608846/the-andromeda-evolution): 
 >The Evolution is Coming.  
 >In 1967, an extraterrestrial microbe came crashing down to Earth and nearly ended the human race. Accidental exposure to the particle—designated The Andromeda Strain—killed every resident of the town of Piedmont, Arizona, save for an elderly man and an infant boy. Over the next five days, a team of top scientists assigned to Project Wildfire worked valiantly to save the world from an epidemic of unimaginable proportions. In the moments before a catastrophic nuclear detonation, they succeeded.  
@@ -1160,6 +1161,21 @@ Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he 
 </details>
 
 
+<details><summary><a name="daughter_of_the_sky_by_paul_l_briand"></a>Daughter of the Sky: The Story of Amelia Earhart. By Paul L. Briand, Jr.  1960 </summary>
+
+### Daughter of the Sky: The Story of Amelia Earhart. (7:58)  
+Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/  
+eBook: https://www.gutenberg.org/ebooks/70263  
+By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
+
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+
+Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
+
+
+</details>
+
+
 <details><summary><a name="dead_fall_by_brad_thor"></a>Dead Fall. By Brad Thor. 2023 </summary>
 
 ### Dead Fall. (12:00)  
@@ -1647,6 +1663,23 @@ Reading Notes:
 Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
 Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
 Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
+
+</details>
+
+
+<details><summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
+
+### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
+Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
+eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
+By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
+
+Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
+
+
+[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
+>Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
+
 
 </details>
 
@@ -3312,6 +3345,23 @@ Wikipedia Summary of this book: https://en.wikipedia.org/wiki/Robopocalypse
 </details>
 
 
+<details><summary><a name="the_safekeep_by_yael_van_der_wouden"></a>The Safekeep.  By Yael van der Wouden.  2024 </summary>
+
+### The Safekeep. (9:30)  
+Audio: https://www.overdrive.com/media/10216839/the-safekeep  
+eBook: https://www.overdrive.com/media/10217126/the-safekeep  
+By [Yael van der Wouden](https://en.wikipedia.org/wiki/Yael_van_der_Wouden)  (1987 – )  
+
+Reading Notes: See [Wikipedia](https://en.wikipedia.org/wiki/The_Safekeep) for a proper summary. This story explores one example of how some, the *lucky* maybe(?), take advantage of the desperate -- in this case, during WWII.  And how, sometimes, those acts have influence widespread, long lived and also intimate and cutting. The author created a satisfying reminder and caution.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Safekeep  
+
+[OverDrive Summmary](https://www.overdrive.com/media/10217126/the-safekeep):  
+>It is 1961 and the rural Dutch province of Overijssel is quiet. Bomb craters have been filled, buildings reconstructed, and the war is truly over. Living alone in her late mother's country home, Isabel knows her life is as it should be—led by routine and discipline. But all is upended when her brother Louis brings his graceless new girlfriend Eva, leaving her at Isabel's doorstep as a guest, to stay for the season. Eva is Isabel's antithesis: she sleeps late, walks loudly through the house, and touches things she shouldn't. In response, Isabel develops a fury-fueled obsession, and when things start disappearing around the house—a spoon, a knife, a bowl—Isabel's suspicions begin to spiral. In the sweltering peak of summer, Isabel's paranoia gives way to infatuation, leading to a discovery that unravels all Isabel has ever known. The war might not be well and truly over after all, and neither Eva—nor the house in which they live—are what they seem. Mysterious, sophisticated, sensual, and infused with intrigue, atmosphere, and sex, The Safekeep is "a brave and thrilling debut about facing up to the truth of history, and to one's own desires" (The Guardian).  
+
+</details>
+
+
 <details><summary><a name="saint_joan_preface_by_george_bernard_shaw"></a>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -4168,24 +4218,58 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson. 2017 </summary>
+
+### The Rise and Fall of D.O.D.O.  (24:00)  
+Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+
+Reading Notes:   
+
+* Department of Diachronic Operations -- DP.O.D.O.  
+Photography collapses the wave function of life.  
+
+</details>
+
+
 
 
 <details>
-<summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
+<summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
 
-### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
-Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
-eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
-By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
+### Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination.  
+Audio: https://www.overdrive.com/media/10180478/do-i-know-you  
+eBook: https://www.overdrive.com/media/10180708/do-i-know-you  
+By [Sadie Dingfelder](https://www.sadied.com/about)  ( – )  
 
-Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
-
-
-[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
->Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
+Reading Notes:   
 
 
 </details>
+
+
+
+<details>
+<summary><a name="last_and_first_men_by_olaf_stapledon"></a>Last and first men -- SF Masterworks,11.  By Olaf Stapledon. </summary>
+
+### Last and First Men.  
+Audio:   
+eBook: https://www.overdrive.com/media/1850679/last-and-first-men  
+By [Olaf Stapledon, AKA William Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)  (1886 – 1950)  
+
+Reading Notes: *Thank you Noah Diegel for recommending this book*.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men  
+[OverDrive Summary](https://www.overdrive.com/media/1850679/last-and-first-men):  
+>This text is not so much a novel as a history of the future Over the course of 2,000 million years it describes the evolutionary rise and fall of eighteen distinct races of men, of which Homo sapiens is the first and most primitive.  
+
+
+</details>
+
+
+
 
 
 <details>
@@ -4196,7 +4280,7 @@ Audio: https://www.overdrive.com/media/10480247/creation-lake
 eBook: https://www.overdrive.com/media/10480407/creation-lake  
 By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
 
-Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
 
 References:  
 [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
@@ -4215,23 +4299,23 @@ Review by [Laura Marsh](https://newrepublic.com/authors/laura-marsh): [https://n
 
 
 
-
-
-
 <details>
-<summary><a name="daughter_of_the_sky_by_paul_l_briand"></a>Daughter of the Sky: The Story of Amelia Earhart. By Paul L. Briand, Jr.  1960 </summary>
+<summary><a name="mars_room_by_rachel_kushner"></a>The Mars Room -- A Novel.  By Rachel Kushner. 2018 </summary>
 
-### Daughter of the Sky: The Story of Amelia Earhart. (7:58)  
-Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/  
-eBook: https://www.gutenberg.org/ebooks/70263  
-By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
+### The Mars Room -- A Novel.  By Rachel Kushner.   
+Audio: https://www.overdrive.com/media/3591300/the-mars-room  
+eBook: https://www.overdrive.com/media/3718294/the-mars-room  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
 
 Reading Notes:   
 
-Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, " Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
-
 
 </details>
+
+
+
+
+
 
 
 
@@ -4281,12 +4365,14 @@ Librivox Summary: In this work, a predecessor to "Ramona", HH describes the syst
 
 Wikipedia Summary: [https://en.wikipedia.org/...A_Century_of_Dishonor](https://en.wikipedia.org/wiki/A_Century_of_Dishonor)  
 
-
 </details>
 
 
 
-Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+<details>
+<summary>Try listening to books in the Tom Clancy Op-Center Series  </summary>
+
+### Try listening to books in the "[Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)."  
 | # | Title | Publication year | Authors |
 |:-:|:-----:|:----------------:|:-------:|
 | 1 | Tom Clancy's Op-Center | 1995 | Jeff Rovin |
@@ -4312,6 +4398,7 @@ Try listening to books in the [Tom Clancy Op-Center Series](https://en.wikipedia
 | 21 | Call of Duty | 2022 | Jeff Rovin |
 | 22 | Fallout | 2023 | Jeff Rovin
 
+</details>
 
 
 
@@ -4335,7 +4422,7 @@ Reading Notes:
 Short summary on Wikipedia:  
 >Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent  
 
 </details>
 
@@ -4408,7 +4495,7 @@ Audio: https://www.overdrive.com/media/9703516/the-exchange
 eBook: https://www.overdrive.com/media/9704022/the-exchange  
 By [John Grisham](https://en.wikipedia.org/wiki/John_Grisham)  (1955 – )  
 
-Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(novel))’ (1991). 
+Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(novel))’ (1991).  
 
 Review by Karin Tanabe: [https://www.washingtonpost.com/...john-grisham-the-firm-sequel/](https://www.washingtonpost.com/books/2023/10/18/john-grisham-the-firm-sequel/)  
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm  
@@ -4455,7 +4542,7 @@ By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-
 
 Reading Notes:  
 
-Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-
+Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
 
 </details>
 
