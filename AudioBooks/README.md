@@ -2697,7 +2697,7 @@ OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists
 
 <details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
 
-### All Systems Red -- The Murderbot Diaries.  (3:17)  
+###  The Murderbot Diaries -- All Systems Red.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -3090,6 +3090,20 @@ Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [he
 </details>
 
 
+<details>
+<summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
+
+### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
+Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
+eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin  
+Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
+
+Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
+
+</details>
+
+
 <details><summary><a name="pierre_curie_marie_curie"></a>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -3312,6 +3326,30 @@ By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 --  )
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)  
+
+</details>
+
+
+<details>
+<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+
+### The Rise and Fall of D.O.D.O.  (24:00)  
+Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _) and [Nicole Galland](https://en.wikipedia.org/wiki/Nicole_Galland) and [nicolegalland.com](https://www.nicolegalland.com/about-the-author)  
+
+Reading Notes: Stephenson builds a world where "magic," "witches" and quantum physics are brought together to help fight *enemies* of the U.S. That setup might be off-putting for some, but his imagination and skills as a writer make every one of its 768 pages and every minute of the recording's 24 hours worth the investment.  The audio version is performed by a talented cast that add to the joy of experiencing this entertaining novel.  It is a complicated story and I couldn't do it justice here, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.) for a proper outline/overview.  
+The *sciencey* thread of the story depends on the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*)  
+In 2021, Nicole Galland published a sequel named [Master of the Revels: A Return to Neal Stephenson's D.O.D.O.](https://en.wikipedia.org/wiki/Master_of_the_Revels:_A_Return_to_Neal_Stephenson%27s_D.O.D.O.).  
+
+* Dr. Melisande Stokes, Tristan Lyons, Dr. Frank Oda, Erszebet Karpathy,   
+* Department of Diachronic Operations -- D.O.D.O.  
+* Photography collapses the wave function of life.  
+* Ontic Decoherence Cavity -- "ODC" (*by Professor Frank Oda*)  
+* Diachronic Shear, a catastrophic *explosion* that occurs when history is changed too much or too quickly...  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.  
+OverDrive Summary: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
 
 </details>
 
@@ -4218,22 +4256,94 @@ Reading Notes:
 </details>
 
 
+ 
+  
 <details>
-<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson. 2017 </summary>
+<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
 
-### The Rise and Fall of D.O.D.O.  (24:00)  
-Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
-eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o  
-By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
+Audio: https://www.overdrive.com/media/4294677/exit-strategy  
+eBook: https://www.overdrive.com/media/3750075/exit-strategy  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
 
-Reading Notes:   
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to rescue a scientist/politician/bureaucrat, Dr. Mensah (his former owner), being held hostage by the GrayCris corporation. This short novella again left me wanting access the next episode... The BookMarks Reviews below covers the rest.  
 
-* Department of Diachronic Operations -- DP.O.D.O.  
-Photography collapses the wave function of life.  
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+
+BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://bookmarks.reviews/reviews/exit-strategy-the-murderbot-diaries/)  
+
 
 </details>
 
 
+
+<details>
+<summary><a name="the_longest_race_by_kara_goucher"></a>
+The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
+ </summary>
+
+### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
+  
+By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
+
+Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
+
+</details>
+
+
+
+<details>
+<summary><a name="arsenals_of_folly_by_richard_rhodes"></a>Arsenals of Folly -- The Making of the Nuclear Arms Race. By Richard Rhodes. 2007 </summary>
+
+### Arsenals of Folly. (14:11)  
+Audio: https://www.overdrive.com/media/138702/arsenals-of-folly  
+eBook: https://www.overdrive.com/media/148008/arsenals-of-folly  
+By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
+886 pages (hardcover)  
+
+Reading Notes: I lived through the period covered in this book and was reminded of the many ways individuals coveting power lied about non-existant "*secrets*" and then exaggerated *threats* to justify their actions. I think it should be required reading for anyone who finds themselves believing political or military actors who use lies and/or fear to motivate their followers and justify their actions. There is [a lot of science supporting the negative impacts of lying and dishonesty on the human brain](https://duckduckgo.com/?q=what+lying+does+to+the+brain&t=h_&ia=web) and this book appears to illustrate some critical outcomes when leaders (*at many levels*) make lying and exaggerating threats a habit.  At the end of the book, Rhodes argued that the the military investments driven by the repeated fake intelligence and threat inflation displaced  *trillions of dollars* in social and infrastructure investments, leaving the U.S. much worse off than it would have been.  Many of the same *characters* repeatedly appear through the Reagan, Bush *senior* and Bush (*junior*) adminstrations.  Some of them also helped create academic *research* and public and private policy organizations to nurture new generations to carry on and evolve their ideas and practices.  Their progeny remain influential today.  Richard Rhodes shares a *lot* of detail throughout this historical nonfiction book.  Unless you have an interest in Nuclear Weapons and their proliferation from the 1960s through the early 1990s this book might be a slog.  
+
+Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://www.c-span.org/video/?202128-1/arsenals-folly)  
+[OverDrive Summary](https://www.overdrive.com/media/148008/arsenals-of-folly):  
+>In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising -– a revelatory re-creation of a hugely important era of our recent history.  
+
+</details>
+
+
+
+<details>
+<summary><a name="light_years_from_home_by_mike_chen"></a>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
+
+### Light Years From Home -- A Novel.  (12:00)
+Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
+eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
+By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
+
+Reading Notes:  Evie Shao and her elder siblings, twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
+
+Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
+Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
+Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
+
+</details>
+
+
+<details>
+<summary><a name="stanton_white_by_asa_zadel_hall"></a>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
+
+### Stanton White: A Romance of the New South. (5:31:26)  
+Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
+Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
+By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
+297 pages.
+
+Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
+
+Librivox Summary:  
+>In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
+>This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+
+</details>
 
 
 <details>
@@ -4271,6 +4381,37 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men
 
 
 
+<details>
+<summary><a name="end_of_drum_time_by_hanna_pylvainen"></a>The End of Drum-Time -- A Novel.  By Hanna Pylväinen. 2023 
+ </summary>
+
+### The End of Drum-Time.  (15:00)  
+Audio: https://www.overdrive.com/media/8916796/the-end-of-drum-time  
+eBook: https://www.overdrive.com/media/8884262/the-end-of-drum-time  
+By [Hanna Pylväinen](https://en.wikipedia.org/wiki/Hanna_Pylv%C3%A4inen) and [anna Pylväinen](https://www.hannapylvainen.com/about)  ( – )  
+
+Reading Notes: This story incorporates an exploration of conflicts that too often appear when Christian, government functionary, and commercial business (both professional and amateur) enthusiasts colonize areas populated by indigenous people -- some with the explicit goal of eradicating the indigenous culture.  But its strength is really in how it does so through the thoughts and actions of *real people* and the nature they inhabit.  Set in 1851, at [a remote village in the northern Scandinavian tundra, a Lutheran minister, Lars Levi Laestadius, known as *Mad Lasse* tries to convert Swedes, Finns, and a group of Sámi nomadic reindeer herders to his faith](https://www.hannapylvainen.com/the-end-of-drum-time).  When a poor, but respected Sámi shaman and herder, Biettar Rasti, has an unexpected Christian awakening and dedicates his life to the church, Mad Lasse's following grows and his reputation ranges far. The convert's son, Ivvár, is left to manage their diminishing herd alone. Mad Lasse's daughter, Willa, becomes infatuated with Ivvár and follows the herders on their seasonal migration to the sea.  Envious of his successes, Frans orders Lars Levi to pastor at another church far South, then arrives to take over *Mad Lasse's* church and begins to manage finances of Henrik's store.  
+
+Some of the Characters:  
+* Lars Levi Laestadius, also known as *Mad Lasse*, Lutheran minister  
+* Biettar Rasti, Sámi shaman and herder, alcoholic, Lutheran convert and wannabe missionary.  
+* Ivvár, Biettar's son, alcoholic, Sámi herder.  
+* Henrik, the storekeeper.  
+* Frans, Henrik’s (*corrupt*) uncle, financer and the religious and legal leader of the area.  
+* Willa, Mad Lasse's daughter, infatuated with Ivvár.  
+* Risten, daughter of a successful Sámi herding family who once had a romance with Ivvár, and who later helped rescue, house, and train Willa about Sámi ways.  
+* Nora, Mad Lasse's daughter, marries Henrik.  
+
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/The_End_of_Drum-Time](https://en.wikipedia.org/wiki/The_End_of_Drum-Time)  
+Review by [Joan Gaylord](): [https://www.csmonitor.com/...The-End-of-Drum-Time...](https://www.csmonitor.com/Books/Book-Reviews/2023/0522/The-End-of-Drum-Time-weaves-a-poignant-tale-of-clashing-cultures)  
+Review By [Cory Oldweiler](): [https://www.startribune.com/review-the-end-of-drum-time...](https://www.startribune.com/review-the-end-of-drum-time-by-hanna-pylvainen/600247013)
+NPR's Scott Simon interviews Hanna Pylvainen about "The End of Drum-Time." [https://www.npr.org/...the-end-of-drum-time](https://www.npr.org/2023/01/28/1152313326/hanna-pylvainen-on-her-new-novel-the-end-of-drum-time)  
+Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time...](https://www.churchtimes.co.uk/articles/2024/1-november/books-arts/book-reviews/book-review-the-end-of-drum-time-by-hanna-pylvaeinen)  
+
+</details>
+
+
 
 <details>
 <summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
@@ -4280,14 +4421,13 @@ Audio: https://www.overdrive.com/media/10480247/creation-lake
 eBook: https://www.overdrive.com/media/10480407/creation-lake  
 By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
 
-Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
-
-References:  
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune said by her employer to be planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
+ 
 [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
 Bruno Lacombe: "Leaving the world behind."  
 Pascal's "Zones of Incivility," a vague wannabe *handbook for insurrection*.  
 
-
+Wikipedia summary: [https://en.wikipedia.org/wiki/Creation_Lake](https://en.wikipedia.org/wiki/Creation_Lake)  
 Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../creation-lake-rachel-kushner...](https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html?unlocked_article_code=1.CE8.GeY3.UVE5vcg0oqs2&smid=url-share)  
 Review by [Lily Meyer](): [https://www.theatlantic.com/.../rachel-kushner-creation-lake-review...](https://www.theatlantic.com/magazine/archive/2024/10/rachel-kushner-creation-lake-review/679571/)  
 Review by [Maureen Corrigan](https://www.npr.org/people/4529709/maureen-corrigan): [https://www.npr.org/.../creation-lake-review-rachel-kushner](https://www.npr.org/2024/09/10/nx-s1-5104725/creation-lake-review-rachel-kushner)  
@@ -4627,33 +4767,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 
-<details>
-<summary>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
-
-### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
-Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
-eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin  
-Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
-
-Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
-
-</details>
-
-
-<details>
-<summary>
-The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
- </summary>
-
-### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
-  
-By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
-
-Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
-
-</details>
-
 See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
 * [Artificial Condition](https://www.overdrive.com/media/3954857/artificial-condition)   (May 8, 2018)  
 * [Rogue Protocol](https://www.overdrive.com/media/4200634/rogue-protocol)         (August 7, 2018)  
@@ -4681,41 +4794,6 @@ OverDrive Summary:
 
 </details>
 
-
-<details>
-<summary>Arsenals of Folly -- The Making of the Nuclear Arms Race. By Richard Rhodes. 2007 </summary>
-
-### Arsenals of Folly. (14:11)  
-Audio: https://www.overdrive.com/media/138702/arsenals-of-folly  
-eBook: https://www.overdrive.com/media/148008/arsenals-of-folly  
-By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
-886 pages (hardcover)  
-
-Reading Notes: I lived through the period covered in this book and was reminded of the many ways individuals coveting power lied about non-existant "*secrets*" and then exaggerated *threats* to justify their actions. I think it should be required reading for anyone who finds themselves believing political or military actors who use lies and/or fear to motivate their followers and justify their actions. There is [a lot of science supporting the negative impacts of lying and dishonesty on the human brain](https://duckduckgo.com/?q=what+lying+does+to+the+brain&t=h_&ia=web) and this book appears to illustrate some critical outcomes when leaders (*at many levels*) make lying and exaggerating threats a habit.  At the end of the book, Rhodes argued that the the military investments driven by the repeated fake intelligence and threat inflation displaced  *trillions of dollars* in social and infrastructure investments, leaving the U.S. much worse off than it would have been.  Many of the same *characters* repeatedly appear through the Reagan, Bush *senior* and Bush (*junior*) adminstrations.  Some of them also helped create academic *research* and public and private policy organizations to nurture new generations to carry on and evolve their ideas and practices.  Their progeny remain influential today.  Richard Rhodes shares a *lot* of detail throughout this historical nonfiction book.  Unless you have an interest in Nuclear Weapons and their proliferation from the 1960s through the early 1990s this book might be a slog.  
-
-Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://www.c-span.org/video/?202128-1/arsenals-folly)  
-[OverDrive Summary](https://www.overdrive.com/media/148008/arsenals-of-folly):  
->In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising -– a revelatory re-creation of a hugely important era of our recent history.  
-
-</details>
-
-
-
-<details>
-<summary>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
-
-### Light Years From Home -- A Novel.  (12:00)
-Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
-eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
-By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
-
-Reading Notes:  Evie Shao and her elder siblings, twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
-
-Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
-Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
-Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
-
-</details>
 
 
 <details>
@@ -4756,24 +4834,6 @@ Reading Notes:
 Wikipedia summary: https://en.wikipedia.org/wiki/Mr._Weston's_Good_Wine  
 Librivox summary:  
 >This 1927 novel describes an evening in 1923 when Mr. Weston, who is apparently a wine merchant, but is evidently God, visits the fictional village of Folly Down in Dorset, and meets some of its individuals, whose backgrounds and lives leading up to this day are described during the course of the novel. Mr. Weston's colleague is named Michael, which is an allusion to the Archangel. For a while time stands still, and these individuals, according to their possessing qualities of good or evil, find their ultimate reward. - Summary by [Wikipedia and David Wales](https://librivox.org/mr-westons-good-wine-by-t-f-powys/).  
-
-</details>
-
-
-<details>
-<summary>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
-
-### Stanton White: A Romance of the New South. (5:31:26)  
-Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
-Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
-By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
-297 pages.
-
-Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
-
-Librivox Summary:  
->In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
->This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
 
 </details>
 
