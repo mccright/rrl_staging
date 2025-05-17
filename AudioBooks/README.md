@@ -2391,6 +2391,18 @@ Reading Notes: An eight minute read aimed at the very young.  The story warrants
 </details>
 
 
+<details><summary><a name="the_longest_race_by_kara_goucher"></a>The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
+ </summary>
+
+### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
+  
+By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
+
+Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
+
+</details>
+
+
 <details><summary><a name="longitude_dava_sobel"></a>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
 
 ### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
@@ -2697,7 +2709,7 @@ OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists
 
 <details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
 
-###  The Murderbot Diaries -- All Systems Red.  (3:17)  
+###  #1 of the The Murderbot Diaries -- All Systems Red.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2729,7 +2741,7 @@ Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artif
 </details>
 
 
-<details><summary><a name="murderbot_rogue_protocol"></a>#3 of The Murderbot Diaries --Rogue Protocol. By Martha Wells. 2018 </summary>
+<details><summary><a name="murderbot_rogue_protocol"></a>#3 of The Murderbot Diaries -- Rogue Protocol. By Martha Wells. 2018 </summary>
 
 ### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
 Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
@@ -2741,6 +2753,23 @@ Reading Notes: Once again, this story is expertly told from the perspective of a
 Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
 Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
 [OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
+
+</details>
+
+
+<details>
+<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
+
+### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
+Audio: https://www.overdrive.com/media/4294677/exit-strategy  
+eBook: https://www.overdrive.com/media/3750075/exit-strategy  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to rescue a scientist/politician/bureaucrat, Dr. Mensah (his former owner), being held hostage by the GrayCris corporation. This short novella again left me wanting access the next episode... The [BookMarks Reviews](https://bookmarks.reviews/reviews/exit-strategy-the-murderbot-diaries/) below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+
+BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://bookmarks.reviews/reviews/exit-strategy-the-murderbot-diaries/)  
 
 </details>
 
@@ -4257,38 +4286,6 @@ Reading Notes:
 
 
  
-  
-<details>
-<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
-
-### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
-Audio: https://www.overdrive.com/media/4294677/exit-strategy  
-eBook: https://www.overdrive.com/media/3750075/exit-strategy  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to rescue a scientist/politician/bureaucrat, Dr. Mensah (his former owner), being held hostage by the GrayCris corporation. This short novella again left me wanting access the next episode... The BookMarks Reviews below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-
-BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://bookmarks.reviews/reviews/exit-strategy-the-murderbot-diaries/)  
-
-
-</details>
-
-
-
-<details>
-<summary><a name="the_longest_race_by_kara_goucher"></a>
-The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
- </summary>
-
-### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
-  
-By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
-
-Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
-
-</details>
 
 
 
