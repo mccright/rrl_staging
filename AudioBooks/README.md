@@ -4304,6 +4304,61 @@ Reading Notes:
 
  
 
+<details>
+<summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 2005/2011/1969/1970
+ </summary>
+
+### Master and Commander.  By Patrick O'Brian. (13:26)  
+Audio: https://www.overdrive.com/media/61448/master-and-commander  
+eBook: https://www.overdrive.com/media/676907/master-and-commander  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
+
+Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
+Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
+Ships mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Ships](https://en.wikipedia.org/wiki/Master_and_Commander#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
+<details>
+<summary><a name="post_captain_by_patrick_obrian"></a>#2 Aubrey & Maturin Series: Post Captain.  By Patrick O'Brian. 2011/2009/1990/1972
+ </summary>
+
+### Post Captain.  By Patrick O'Brian. (16:00)  
+Audio:   
+eBook:   
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia]()*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
+
+Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
+Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
+Ships mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
+<details>
+<summary><a name="deaths_of_despair_by_anne_case_and_angus_deaton"></a>Deaths of Despair and the Future of Capitalism. By Anne Case and Angus Deaton. 2020 </summary>
+
+### Deaths of Despair and the Future of Capitalism  
+Audio: https://www.overdrive.com/media/5301693/deaths-of-despair-and-the-future-of-capitalism  
+eBook: https://www.overdrive.com/media/2683836/deaths-of-despair-and-the-future-of-capitalism  
+By [Anne Case](https://en.wikipedia.org/wiki/Anne_Case) and [Anne Case @ Princeton](https://accase.scholar.princeton.edu/research)  (1958 – ) and By [Angus Deaton](https://en.wikipedia.org/wiki/Angus_Deaton)  (1945 – )  
+
+Reading Notes:   
+
+
+</details>
+
 
 
 
