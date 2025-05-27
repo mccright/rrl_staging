@@ -125,8 +125,7 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
-<details>
-<summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
+<details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
 Audio: https://www.overdrive.com/media/8742777/act-of-oblivion  
@@ -1185,10 +1184,9 @@ Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-p
 eBook: https://www.gutenberg.org/ebooks/70263  
 By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
 
-Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *adds some "detail" to* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
 
 Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
-
 
 </details>
 
@@ -2638,8 +2636,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
-<details>
-<summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
+<details><summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/6508251/a-prayer-for-the-crown-shy  
@@ -2654,8 +2651,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/A_Prayer_for_the_Crown-Shy
 </details>
 
 
-<details>
-<summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
+<details><summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
 
 ### A Psalm for the Wild-Built -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/5704893/a-psalm-for-the-wild-built  
@@ -2740,7 +2736,7 @@ OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists
 </details>
 
 
-<details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
+<details><summary><a name="murderbot_all_systems_red"></a>#1 of The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
 
 ###  #1 of the The Murderbot Diaries -- All Systems Red.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
@@ -2759,7 +2755,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red
 
 <details><summary><a name="murderbot_artificial condition"></a>#2 of The Murderbot Diaries -- Artificial Condition. By Martha Wells. 2018 </summary>
 
-### The Murderbot Diaries -- Artificial Condition.  (3:21)  
+### #2 of The Murderbot Diaries -- Artificial Condition.  (3:21)  
 Audio: https://www.overdrive.com/media/3954857/artificial-condition  
 eBook: https://www.overdrive.com/media/3469914/artificial-condition  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2790,8 +2786,7 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
-<details>
-<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
+<details><summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
 
 ### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
 Audio: https://www.overdrive.com/media/4294677/exit-strategy  
@@ -2864,8 +2859,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
-<details>
-<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+<details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
 ### An Officer and a Spy -- A novel.  (16:00)  
 Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
@@ -3027,8 +3021,7 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 
 
 
-<details>
-<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+<details><summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 ### The Other Valley -- A Novel.  (11:00)  
 Audio: https://www.overdrive.com/media/9907011/the-other-valley  
@@ -3152,8 +3145,7 @@ Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [he
 </details>
 
 
-<details>
-<summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
+<details><summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
 
 ### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
 Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
@@ -3392,8 +3384,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details>
-<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+<details><summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
 
 ### The Rise and Fall of D.O.D.O.  (24:00)  
 Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
@@ -3872,8 +3863,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details>
-<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
+<details><summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
 
 ### Termination Shock. (23:00) (720 pages)  
 Audio: https://www.overdrive.com/media/6270840/termination-shock  
@@ -3937,8 +3927,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
-<details>
-<summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+<details><summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
 
 ### Toilers of the Sea. (17:05)  
 Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
@@ -4086,8 +4075,7 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+<details><summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
 Audio: https://www.overdrive.com/media/5761819/unwell-women  
@@ -4242,8 +4230,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 </details>
 
 
-<details>
-<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+<details><summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
 
 ### Winter World -- Long Winter. (11:00)  
 Audio: https://www.overdrive.com/media/4496399/winter-world  
@@ -4318,7 +4305,21 @@ Reading Notes:
 </details>
 
 
- 
+
+<details>
+<summary><a name="dark_space_by_rob_hart_and_alex_segura"></a>Dark Space. By Rob Hart and Alex Segura.  2024 </summary>
+
+### Dark Space.  
+Audio: https://www.overdrive.com/media/10572175/dark-space  
+eBook: https://www.overdrive.com/media/10572020/dark-space  
+By [Rob Hart](https://en.wikipedia.org/wiki/Rob_Hart_(author)) and [https://robwhart.com/](https://robwhart.com/)  (1982 – ) and By [Alex Segura](https://en.wikipedia.org/wiki/Alex_Segura) & [Alex Segura](https://www.alexsegura.com/about/)  (1980 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 <details>
 <summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 2005/2011/1969/1970
