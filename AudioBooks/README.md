@@ -4306,6 +4306,25 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary><a name="changing_planes_by_ursula_le_guin"></a>Changing Planes. By Ursula Le Guin. 2003 </summary>
+
+### Changing Planes. (7:40)  
+Audio: https://www.overdrive.com/media/8854859/changing-planes  
+eBook: https://www.overdrive.com/media/1638295/changing-planes  
+By [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018)  
+
+Reading Notes: This is a collection of short stories -- like brief ethnographic profiles of the societies they describe (14 of them).  Each of those societies exist on another "plane" of reality reached using  "Sita Dulip's Method" of *twisting* one's body while sitting in an airport between flights.  
+
+Wikipedia Summary of Changing Planes: https://en.wikipedia.org/wiki/Changing_Planes  
+
+</details>
+
+
+
+
 <details>
 <summary><a name="dark_space_by_rob_hart_and_alex_segura"></a>Dark Space. By Rob Hart and Alex Segura.  2024 </summary>
 
@@ -4347,11 +4366,11 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
  </summary>
 
 ### Post Captain.  By Patrick O'Brian. (16:00)  
-Audio:   
-eBook:   
+Audio: https://www.overdrive.com/media/74610/post-captain  
+eBook: https://www.overdrive.com/media/676909/post-captain  
 By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
 
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia]()*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
 
 Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
 Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
@@ -4543,18 +4562,21 @@ Librivox Summary: Baron Beyens was a senior member of the Belgian diplomatic ser
 
 
 <details>
-<summary><a name="century_of_dishonor_by_helen_hunt_jackson"></a>A Century of Dishonor. By Helen Hunt Jackson. </summary>
+<summary><a name="century_of_dishonor_by_helen_hunt_jackson"></a>A Century of Dishonor. By Helen Hunt Jackson. 1881 </summary>
 
 ### A Century of Dishonor.  (12:11)  
 Audio: https://librivox.org/a-century-of-dishonor-by-helen-hunt-jackson/  
 eBook: https://gutenberg.org/ebooks/50560  
 By [Helen Hunt Jackson](https://en.wikipedia.org/wiki/Helen_Hunt_Jackson)  (1830 - 1885)  
 
-Reading Notes:   
+Reading Notes: This book is largely an historical review of the seven major Native American tribes: The Delawares (Lenni Lenape, "*original people*" or Wapenachki, "*people at the rising of the sun*"), Cheyennes, Nez Percés, Sioux, Poncas,  Winnebagoes and Cherokees.  
+"Discoverers were understood to have the right of conquest."    
 
-Librivox Summary: In this work, a predecessor to "Ramona", HH describes the systematic process of segregation, dispossession, and relocation that Native Americans experienced from the late XVIII to the late XIX century. When written, the last conflicts between Native Americans and the US Government were being held. She wrote the book in efforts to fight for the rights of the Natives and to change people's opinions and governmental policies. The Appendix has been left out. - Summary by Mario Pineda.  
+Wikipedia Summary: [https://en.wikipedia.org/wiki/A_Century_of_Dishonor#Synopsis](https://en.wikipedia.org/wiki/A_Century_of_Dishonor#Synopsis)  
 
-Wikipedia Summary: [https://en.wikipedia.org/...A_Century_of_Dishonor](https://en.wikipedia.org/wiki/A_Century_of_Dishonor)  
+Librivox Summary: In this work, a predecessor to "Ramona", HH describes the systematic process of segregation, dispossession, and relocation that Native Americans experienced from the late XVIII to the late XIX century. When written, the last conflicts between Native Americans and the US Government were being held. She wrote the book in efforts to fight for the rights of the Natives and to change people's opinions and governmental policies. The Appendix has been left out. - [Summary by Mario Pineda]().  
+
+
 
 </details>
 
