@@ -980,6 +980,25 @@ Listening Notes: This recording is **not** an example of the excellence that can
 </details>
 
 
+<details><summary><a name="changing_planes_by_ursula_le_guin"></a>Changing Planes. By Ursula Le Guin. 2003 </summary>
+
+### Changing Planes. (7:40)  
+Audio: https://www.overdrive.com/media/8854859/changing-planes  
+eBook: https://www.overdrive.com/media/1638295/changing-planes  
+By [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018) and https://www.ursulakleguin.com/biography  
+
+Reading Notes: This is a collection of short stories -- like brief ethnographic profiles of the societies they describe (14 of them).  Each of those societies exist on another "plane" of reality reached using  "Sita Dulip's Method" of *twisting* one's body while sitting in an airport between flights.  This reads like a master class in creative writing AND a travel book.  
+
+Wikipedia Summary of Changing Planes: https://en.wikipedia.org/wiki/Changing_Planes  
+
+Illustrations for Changing Planes: [https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations](https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations)  
+
+Review by Kathy Weissman: https://www.bookreporter.com/reviews/changing-planes  
+Review in the NYT by Gerald Jonas: https://www.nytimes.com/2003/07/27/books/science-fiction.html  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
@@ -4306,21 +4325,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="changing_planes_by_ursula_le_guin"></a>Changing Planes. By Ursula Le Guin. 2003 </summary>
-
-### Changing Planes. (7:40)  
-Audio: https://www.overdrive.com/media/8854859/changing-planes  
-eBook: https://www.overdrive.com/media/1638295/changing-planes  
-By [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018)  
-
-Reading Notes: This is a collection of short stories -- like brief ethnographic profiles of the societies they describe (14 of them).  Each of those societies exist on another "plane" of reality reached using  "Sita Dulip's Method" of *twisting* one's body while sitting in an airport between flights.  
-
-Wikipedia Summary of Changing Planes: https://en.wikipedia.org/wiki/Changing_Planes  
-
-</details>
 
 
 
