@@ -4325,6 +4325,21 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name=""></a>The Stars Are Legion. By Kameron Hurley.  2017 
+ </summary>
+
+### The Stars Are Legion.  (12:00) 
+Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
+eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
+By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
+
+Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")
+
+
+</details>
+
+
 
 
 
