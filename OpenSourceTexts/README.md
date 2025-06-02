@@ -352,7 +352,10 @@ Reading Notes:  This is a short biography and then the focus is on Hoover's role
 eBook: https://www.gutenberg.org/ebooks/73731  
 By [Victor Rubin]()  (1892 - 1967) ([photo](https://content.mpl.org/digital/collection/WWI/id/9306) and [photo](https://www.omnia.ie/index.php?navigation_function=2&navigation_item=6cfa8273e47f0a956df007a323d6b3d0&repid=2))  
 
-Reading Notes:  
+Reading Notes:  ...a novel centered on themes that made up *real life* American racism and accompaning violence in the early 20th century.  It is not easy reading and (*for many reasons*) will be hurtful to many.  This is a part of relatively recent American history that is too often ignored and is being actively suppressed throughout much of the United States today.  
+
+Summary/Review from "[Ku Klux Kulture: America and the Klan in the 1920s](https://dokumen.pub/ku-klux-kulture-america-and-the-klan-in-the-1920s-9780226376295.html)," page 89, (2017) by Felix Harcourt:  
+>Tar and Feathers by Victor Rubin, a Chicago newspaperman, was not much of an improvement. The 1923 novel described the ethical awakening of Robert Hamilton, a young Georgian, the grandson of a Confederate captain, and heir to an extensive cotton plantation. Returning home after World War I, Hamilton joins the “Trick Track Tribe,” where he meets William J. Simmons’s fictional counterpart. By the novel’s end, though, the Georgian has been disabused of the organization’s worth by his true friends, a Catholic soldier and Jewish doctor.  An effective argument against the real-life Klan’s official propaganda, Rubin’s novel met with some success, and was rushed into a second printing by his publisher, Dorrance & Company of Philadelphia. Once again, however, the book’s true appeal seems to have resided not in its story but in its message -- combined with the Klan’s seemingly ever-present ability to attract public attention. Reviewers noted that Tar and Feathers kept “the interest sustained,” but it was the “timely enough, and incidentally worthy enough,” theme of the book that would “justify its publication.”  
 
 See: https://academic.oup.com/chicago-scholarship-online/book/21466/chapter-abstract/181251787?redirectedFrom=fulltext  
      and  

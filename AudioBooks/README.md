@@ -125,8 +125,7 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
-<details>
-<summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
+<details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
 Audio: https://www.overdrive.com/media/8742777/act-of-oblivion  
@@ -981,6 +980,25 @@ Listening Notes: This recording is **not** an example of the excellence that can
 </details>
 
 
+<details><summary><a name="changing_planes_by_ursula_le_guin"></a>Changing Planes. By Ursula Le Guin. 2003 </summary>
+
+### Changing Planes. (7:40)  
+Audio: https://www.overdrive.com/media/8854859/changing-planes  
+eBook: https://www.overdrive.com/media/1638295/changing-planes  
+By [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018) and https://www.ursulakleguin.com/biography  
+
+Reading Notes: This is a collection of short stories -- like brief ethnographic profiles of the societies they describe (14 of them).  Each of those societies exist on another "plane" of reality reached using  "Sita Dulip's Method" of *twisting* one's body while sitting in an airport between flights.  This reads like a master class in creative writing AND a travel book.  
+
+Wikipedia Summary of Changing Planes: https://en.wikipedia.org/wiki/Changing_Planes  
+
+Illustrations for Changing Planes: [https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations](https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations)  
+
+Review by Kathy Weissman: https://www.bookreporter.com/reviews/changing-planes  
+Review in the NYT by Gerald Jonas: https://www.nytimes.com/2003/07/27/books/science-fiction.html  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
@@ -1185,10 +1203,9 @@ Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-p
 eBook: https://www.gutenberg.org/ebooks/70263  
 By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
 
-Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *adds some "detail" to* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
 
 Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
-
 
 </details>
 
@@ -2638,8 +2655,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
-<details>
-<summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
+<details><summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/6508251/a-prayer-for-the-crown-shy  
@@ -2654,8 +2670,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/A_Prayer_for_the_Crown-Shy
 </details>
 
 
-<details>
-<summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
+<details><summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
 
 ### A Psalm for the Wild-Built -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/5704893/a-psalm-for-the-wild-built  
@@ -2740,7 +2755,7 @@ OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists
 </details>
 
 
-<details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
+<details><summary><a name="murderbot_all_systems_red"></a>#1 of The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
 
 ###  #1 of the The Murderbot Diaries -- All Systems Red.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
@@ -2759,7 +2774,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red
 
 <details><summary><a name="murderbot_artificial condition"></a>#2 of The Murderbot Diaries -- Artificial Condition. By Martha Wells. 2018 </summary>
 
-### The Murderbot Diaries -- Artificial Condition.  (3:21)  
+### #2 of The Murderbot Diaries -- Artificial Condition.  (3:21)  
 Audio: https://www.overdrive.com/media/3954857/artificial-condition  
 eBook: https://www.overdrive.com/media/3469914/artificial-condition  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2790,8 +2805,7 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
-<details>
-<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
+<details><summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
 
 ### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
 Audio: https://www.overdrive.com/media/4294677/exit-strategy  
@@ -2864,8 +2878,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
-<details>
-<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+<details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
 ### An Officer and a Spy -- A novel.  (16:00)  
 Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
@@ -3027,8 +3040,7 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 
 
 
-<details>
-<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+<details><summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 ### The Other Valley -- A Novel.  (11:00)  
 Audio: https://www.overdrive.com/media/9907011/the-other-valley  
@@ -3152,8 +3164,7 @@ Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [he
 </details>
 
 
-<details>
-<summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
+<details><summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
 
 ### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
 Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
@@ -3392,8 +3403,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details>
-<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+<details><summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
 
 ### The Rise and Fall of D.O.D.O.  (24:00)  
 Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
@@ -3872,8 +3882,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details>
-<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
+<details><summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
 
 ### Termination Shock. (23:00) (720 pages)  
 Audio: https://www.overdrive.com/media/6270840/termination-shock  
@@ -3937,8 +3946,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
-<details>
-<summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+<details><summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
 
 ### Toilers of the Sea. (17:05)  
 Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
@@ -4086,8 +4094,7 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+<details><summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
 Audio: https://www.overdrive.com/media/5761819/unwell-women  
@@ -4242,8 +4249,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 </details>
 
 
-<details>
-<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+<details><summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
 
 ### Winter World -- Long Winter. (11:00)  
 Audio: https://www.overdrive.com/media/4496399/winter-world  
@@ -4318,7 +4324,86 @@ Reading Notes:
 </details>
 
 
- 
+
+
+
+<details>
+<summary><a name="as_you_wish_by_cary_elwes"></a>As You Wish -- Inconceivable Tales from the Making of The Princess Bride. By Cary Elwes and Joe Layden.  2014 </summary>
+
+### As You Wish -- Inconceivable Tales from the Making of The Princess Bride. (:)  
+Audio: https://www.overdrive.com/media/1902824/as-you-wish  
+eBook: https://www.overdrive.com/media/1984294/as-you-wish  
+By [Cary Elwes](https://en.wikipedia.org/wiki/Cary_Elwes) (1962 – )  and  [Joe Layden](https://joelayden.com/about/) and [Joe Leyden on LibraryThing](https://www.librarything.com/author/laydenjoe)  
+
+Reading Notes: Includes "*never-before-told* stories, exclusive behind-the-scenes photographs, and interviews with co-stars [Robin Wright](https://en.wikipedia.org/wiki/Robin_Wright), [Wallace Shawn](https://en.wikipedia.org/wiki/Wallace_Shawn), [Billy Crystal](https://en.wikipedia.org/wiki/Billy_Crystal), [Christopher Guest](https://en.wikipedia.org/wiki/Christopher_Guest), [Fred Savage](https://en.wikipedia.org/wiki/Fred_Savage) and [Mandy Patinkin](https://en.wikipedia.org/wiki/Mandy_Patinkin), as well as screenwriter [William Goldman](https://en.wikipedia.org/wiki/William_Goldman), producer [Norman Lear](https://en.wikipedia.org/wiki/Norman_Lear), and director [Rob Reiner](https://en.wikipedia.org/wiki/Rob_Reiner)." From [Wikipedia](https://en.wikipedia.org/wiki/Cary_Elwes#2010%E2%80%93present)  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
+
+### The Stars Are Legion.  (12:00) 
+Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
+eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
+By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
+
+Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")
+
+
+</details>
+
+
+
+<details>
+<summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
+
+### Empty_Template  
+Audio: https://www.overdrive.com/media/10753022/erasing-history  
+eBook: https://www.overdrive.com/media/10480453/erasing-history  
+By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
+
+Reading Notes:   
+Fascism & Totalitarianism
+Political Ideologies
+a global call to action that tells us “why the past is a frontline in the struggle for a future free of fascism” (Jeff Sharlet, New York Times bestselling author) as it reveals the far right’s efforts to rewrite history and undo a century of progress on race, gender, sexuality, and class.
+
+This is both a readable and invaluable book for teachers who are concerned about the impact of the Trump administration of the future of education in this country and the survival of democracy in America.
+
+
+Publisher's Description:  
+>In the United States, democracy is under attack by an authoritarian movement that has found fertile ground among the country’s conservative politicians and voters, but similar movements have found homes in the hearts and minds of people around the globe. To understand the shape, form, and stakes of this assault, we must go back to extract lessons from our past.  
+
+>In authoritarian countries, critical examination of those nations’ history and traditions is discouraged if not an outright danger to those who do it. And it is no accident that local and global institutions of education have become a battleground, where learning and efforts to upend a hierarchal status quo can be put to end by coercion and threats of violence. Democracies entrust schools and universities to preserve a common memory of positive change, generated by protests, social movements, and rebellions. The authoritarian right must erase this history, and, along with it, the very practice of critical inquiry that has so often been the engine of future progress.  
+
+>In Erasing History, Yale professor of philosophy Jason Stanley exposes the true danger of the authoritarian right’s attacks on education, identifies their key tactics and funders, and traces their intellectual roots. He illustrates how fears of a fascist future have metastasized, from hypothetical threat to present reality. And with his “urgent, piercing, and altogether brilliant” (Johnathan M. Metzi, author of What We’ve Become) insight, he illustrates that hearts and minds are won in our schools and universities—places that democratic societies across the world are now ill-prepared to defend against the fascist assault currently underway.  
+
+Review by [Alan Singer](https://alansinger.net/about/): [https://teachingsocialstudies.org/.../book-review-erasing-history...](https://teachingsocialstudies.org/2025/05/27/book-review-erasing-history-how-fascists-rewrite-the-past-to-control-the-future-by-jason-stanley/)
+Review by [Lorraine Berry]():  [https://www.latimes.com/...erasing-history-jason-stanley-book-review](https://www.latimes.com/opinion/story/2024-09-13/on-freedom-timothy-snyder-erasing-history-jason-stanley-book-review)  
+Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_history](https://www.democracynow.org/2024/9/17/erasing_history)  
+</details>
+
+
+
+
+
+
+<details>
+<summary><a name="dark_space_by_rob_hart_and_alex_segura"></a>Dark Space. By Rob Hart and Alex Segura.  2024 </summary>
+
+### Dark Space.  
+Audio: https://www.overdrive.com/media/10572175/dark-space  
+eBook: https://www.overdrive.com/media/10572020/dark-space  
+By [Rob Hart](https://en.wikipedia.org/wiki/Rob_Hart_(author)) and [https://robwhart.com/](https://robwhart.com/)  (1982 – ) and By [Alex Segura](https://en.wikipedia.org/wiki/Alex_Segura) & [Alex Segura](https://www.alexsegura.com/about/)  (1980 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 <details>
 <summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 2005/2011/1969/1970
@@ -4346,11 +4431,11 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
  </summary>
 
 ### Post Captain.  By Patrick O'Brian. (16:00)  
-Audio:   
-eBook:   
+Audio: https://www.overdrive.com/media/74610/post-captain  
+eBook: https://www.overdrive.com/media/676909/post-captain  
 By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
 
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia]()*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
 
 Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
 Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
@@ -4542,18 +4627,21 @@ Librivox Summary: Baron Beyens was a senior member of the Belgian diplomatic ser
 
 
 <details>
-<summary><a name="century_of_dishonor_by_helen_hunt_jackson"></a>A Century of Dishonor. By Helen Hunt Jackson. </summary>
+<summary><a name="century_of_dishonor_by_helen_hunt_jackson"></a>A Century of Dishonor. By Helen Hunt Jackson. 1881 </summary>
 
 ### A Century of Dishonor.  (12:11)  
 Audio: https://librivox.org/a-century-of-dishonor-by-helen-hunt-jackson/  
 eBook: https://gutenberg.org/ebooks/50560  
 By [Helen Hunt Jackson](https://en.wikipedia.org/wiki/Helen_Hunt_Jackson)  (1830 - 1885)  
 
-Reading Notes:   
+Reading Notes: This book is largely an historical review of the seven major Native American tribes: The Delawares (Lenni Lenape, "*original people*" or Wapenachki, "*people at the rising of the sun*"), Cheyennes, Nez Percés, Sioux, Poncas,  Winnebagoes and Cherokees.  
+"Discoverers were understood to have the right of conquest."    
 
-Librivox Summary: In this work, a predecessor to "Ramona", HH describes the systematic process of segregation, dispossession, and relocation that Native Americans experienced from the late XVIII to the late XIX century. When written, the last conflicts between Native Americans and the US Government were being held. She wrote the book in efforts to fight for the rights of the Natives and to change people's opinions and governmental policies. The Appendix has been left out. - Summary by Mario Pineda.  
+Wikipedia Summary: [https://en.wikipedia.org/wiki/A_Century_of_Dishonor#Synopsis](https://en.wikipedia.org/wiki/A_Century_of_Dishonor#Synopsis)  
 
-Wikipedia Summary: [https://en.wikipedia.org/...A_Century_of_Dishonor](https://en.wikipedia.org/wiki/A_Century_of_Dishonor)  
+Librivox Summary: In this work, a predecessor to "Ramona", HH describes the systematic process of segregation, dispossession, and relocation that Native Americans experienced from the late XVIII to the late XIX century. When written, the last conflicts between Native Americans and the US Government were being held. She wrote the book in efforts to fight for the rights of the Natives and to change people's opinions and governmental policies. The Appendix has been left out. - [Summary by Mario Pineda]().  
+
+
 
 </details>
 
