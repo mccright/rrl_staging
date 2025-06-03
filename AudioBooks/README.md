@@ -3693,6 +3693,19 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
+<details><summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
+
+### The Stars Are Legion.  (12:00) 
+Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
+eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
+By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
+
+Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")  
+
+
+</details>
+
+
 <details><summary><a name="the_stars_like_dust_by_isaac_asimov"></a>The Stars, Like Dust -- Galactic Empire Series. By Isaac Asimov. 1951 </summary>
 
 ### The Stars, Like Dust.  (7:00)  
@@ -4336,21 +4349,6 @@ eBook: https://www.overdrive.com/media/1984294/as-you-wish
 By [Cary Elwes](https://en.wikipedia.org/wiki/Cary_Elwes) (1962 – )  and  [Joe Layden](https://joelayden.com/about/) and [Joe Leyden on LibraryThing](https://www.librarything.com/author/laydenjoe)  
 
 Reading Notes: Includes "*never-before-told* stories, exclusive behind-the-scenes photographs, and interviews with co-stars [Robin Wright](https://en.wikipedia.org/wiki/Robin_Wright), [Wallace Shawn](https://en.wikipedia.org/wiki/Wallace_Shawn), [Billy Crystal](https://en.wikipedia.org/wiki/Billy_Crystal), [Christopher Guest](https://en.wikipedia.org/wiki/Christopher_Guest), [Fred Savage](https://en.wikipedia.org/wiki/Fred_Savage) and [Mandy Patinkin](https://en.wikipedia.org/wiki/Mandy_Patinkin), as well as screenwriter [William Goldman](https://en.wikipedia.org/wiki/William_Goldman), producer [Norman Lear](https://en.wikipedia.org/wiki/Norman_Lear), and director [Rob Reiner](https://en.wikipedia.org/wiki/Rob_Reiner)." From [Wikipedia](https://en.wikipedia.org/wiki/Cary_Elwes#2010%E2%80%93present)  
-
-
-</details>
-
-
-
-<details>
-<summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
-
-### The Stars Are Legion.  (12:00) 
-Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
-eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
-By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
-
-Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")
 
 
 </details>
