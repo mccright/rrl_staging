@@ -478,6 +478,26 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
 </details>
 
 
+<details><summary><a name="post_captain_by_patrick_obrian"></a>#2 Aubrey & Maturin Series: Post Captain.  By Patrick O'Brian. 2011/2009/1990/1972
+ </summary>
+
+### Post Captain.  By Patrick O'Brian. (16:00)  
+Audio: https://www.overdrive.com/media/74610/post-captain  
+eBook: https://www.overdrive.com/media/676909/post-captain  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
+
+Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
+Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
+Ships mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -4416,27 +4436,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="post_captain_by_patrick_obrian"></a>#2 Aubrey & Maturin Series: Post Captain.  By Patrick O'Brian. 2011/2009/1990/1972
- </summary>
-
-### Post Captain.  By Patrick O'Brian. (16:00)  
-Audio: https://www.overdrive.com/media/74610/post-captain  
-eBook: https://www.overdrive.com/media/676909/post-captain  
-By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
-
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
-
-Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
-Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
-Ships mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships)  
-Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
-Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
-
-
-</details>
 
 
 <details>
