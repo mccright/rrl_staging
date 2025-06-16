@@ -4402,6 +4402,21 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="icebound_by_andrea_pitzer"></a>Icebound -- Shipwrecked at the Edge of the World.  By Andrea Pitzer.  2021 </summary>
+
+### Icebound -- Shipwrecked at the Edge of the World. (9:18)  
+Audio: https://www.overdrive.com/media/5207444/icebound  
+eBook: https://www.overdrive.com/media/5588545/icebound  
+By [Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Author's Bio.](https://andreapitzer.com/bio/) (1968 – )  
+
+Reading Notes: 16th-century Dutch explorer [William Barents](https://en.wikipedia.org/wiki/Willem_Barentsz) (1550 - 1597) and his crew of sixteen, who ventured farther north than any Europeans before and, on their third polar exploration, lost their ship off the frozen coast of [Nova Zembla](https://en.wikipedia.org/wiki/Novaya_Zemlya) to unforgiving ice. The men would spend the next year fighting off ravenous polar bears, gnawing hunger, and endless winter.  
+
+Author's Summary: https://andreapitzer.com/icebound/  
+
+</details>
+
+
 
 
 <details>
