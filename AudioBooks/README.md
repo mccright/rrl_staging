@@ -4402,6 +4402,31 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
+
+### Marco Polo -- From Venice to Xanadu. (16:30)  
+Audio: https://www.overdrive.com/media/138750/marco-polo  
+eBook: https://www.overdrive.com/media/148020/marco-polo  
+By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
+
+Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
+
+Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
+
+Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
+
+[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
+>As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
+>Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
+
+
+</details>
+
+
+
 <details>
 <summary><a name="icebound_by_andrea_pitzer"></a>Icebound -- Shipwrecked at the Edge of the World.  By Andrea Pitzer.  2021 </summary>
 
@@ -4410,11 +4435,38 @@ Audio: https://www.overdrive.com/media/5207444/icebound
 eBook: https://www.overdrive.com/media/5588545/icebound  
 By [Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Author's Bio.](https://andreapitzer.com/bio/) (1968 – )  
 
-Reading Notes: 16th-century Dutch explorer [William Barents](https://en.wikipedia.org/wiki/Willem_Barentsz) (1550 - 1597) and his crew of sixteen, who ventured farther north than any Europeans before and, on their third polar exploration, lost their ship off the frozen coast of [Nova Zembla](https://en.wikipedia.org/wiki/Novaya_Zemlya) to unforgiving ice. The men would spend the next year fighting off ravenous polar bears, gnawing hunger, and endless winter.  
+Reading Notes: This book documents attempts by 16th-century Dutch explorer [William Barents](https://en.wikipedia.org/wiki/Willem_Barentsz) (1550 - 1597) to find a northern route to China -- North of what is now Russia.  He sailed farther north than any Europeans before. On his third polar voyage, one funded by wealthy optimistic Dutch merchants, his ship was locked in ice off the coast of [Nova Zembla](https://en.wikipedia.org/wiki/Novaya_Zemlya).  The sailors, unprepared for the Arctic winter, spent the next year fighting off polar bears, hunger and fiercely cold winter.  
 
 Author's Summary: https://andreapitzer.com/icebound/  
 
 </details>
+
+
+
+
+<details>
+<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
+ </summary>
+
+### Under the Tulip Tree. (10:00)  
+Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
+eBook: https://www.overdrive.com/media/5318414/under-the-tulip-tree  
+By [Michelle Shocklee](https://michelleshocklee.com/about-me-and-my-books/)  ( – )  
+
+Reading Notes:   
+
+Publisher's Summary:  
+>Sixteen-year-old Lorena Leland’s dreams of a rich and fulfilling life as a writer are dashed when the stock market crashes in 1929. Seven years into the Great Depression, Rena’s banker father has retreated into the bottle, her sister is married to a lazy charlatan and gambler, and Rena is an unemployed newspaper reporter. Eager for any writing job, Rena accepts a position interviewing former slaves for the Federal Writers’ Project. There, she meets Frankie Washington, a 101-year-old woman whose honest yet tragic past captivates Rena.  
+
+>As Frankie recounts her life as a slave, Rena is horrified to learn of all the older woman has endured—especially because Rena’s ancestors owned slaves. While Frankie’s story challenges Rena’s preconceptions about slavery, it also connects the two women whose lives are otherwise separated by age, race, and circumstances. But will this bond of respect, admiration, and friendship be broken by a revelation neither woman sees coming?  
+
+References:  
+* [Library of Congress: Manuscripts from the Federal Writers' Project 1936-1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)  
+* [Federal Writers' Project](https://www.loc.gov/rr/program/bib/newdeal/fwp.html)  
+
+
+</details>
+
 
 
 
