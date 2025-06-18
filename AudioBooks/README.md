@@ -458,6 +458,46 @@ Reading Notes: This is an excellent essay (*see the [Overdrive Summary](https://
 </details>
 
 
+<details><summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 1969/1970/2005/2011
+ </summary>
+
+### Master and Commander.  By Patrick O'Brian. (13:26)  
+Audio: https://www.overdrive.com/media/61448/master-and-commander  
+eBook: https://www.overdrive.com/media/676907/master-and-commander  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
+
+Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
+Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
+Ships mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Ships](https://en.wikipedia.org/wiki/Master_and_Commander#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
+<details><summary><a name="post_captain_by_patrick_obrian"></a>#2 Aubrey & Maturin Series: Post Captain.  By Patrick O'Brian. 2011/2009/1990/1972
+ </summary>
+
+### Post Captain.  By Patrick O'Brian. (16:00)  
+Audio: https://www.overdrive.com/media/74610/post-captain  
+eBook: https://www.overdrive.com/media/676909/post-captain  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
+
+Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
+Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
+Ships mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -1408,6 +1448,30 @@ eBook: https://www.overdrive.com/media/4500529/emily-eternal
 By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
 
 Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details><summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
+
+### Erasing History -- How Fascists Rewrite the Past to Control the Future. (5:00)  
+Audio: https://www.overdrive.com/media/10753022/erasing-history  
+eBook: https://www.overdrive.com/media/10480453/erasing-history  
+By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
+
+Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions.  Key terms: Fascism & Totalitarianism, Political Ideologies. 
+
+
+Publisher's Description:  
+>In the United States, democracy is under attack by an authoritarian movement that has found fertile ground among the country’s conservative politicians and voters, but similar movements have found homes in the hearts and minds of people around the globe. To understand the shape, form, and stakes of this assault, we must go back to extract lessons from our past.  
+
+>In authoritarian countries, critical examination of those nations’ history and traditions is discouraged if not an outright danger to those who do it. And it is no accident that local and global institutions of education have become a battleground, where learning and efforts to upend a hierarchal status quo can be put to end by coercion and threats of violence. Democracies entrust schools and universities to preserve a common memory of positive change, generated by protests, social movements, and rebellions. The authoritarian right must erase this history, and, along with it, the very practice of critical inquiry that has so often been the engine of future progress.  
+
+>In Erasing History, Yale professor of philosophy Jason Stanley exposes the true danger of the authoritarian right’s attacks on education, identifies their key tactics and funders, and traces their intellectual roots. He illustrates how fears of a fascist future have metastasized, from hypothetical threat to present reality. And with his “urgent, piercing, and altogether brilliant” (Johnathan M. Metzi, author of What We’ve Become) insight, he illustrates that hearts and minds are won in our schools and universities—places that democratic societies across the world are now ill-prepared to defend against the fascist assault currently underway.  
+
+Review by [Alan Singer](https://alansinger.net/about/): [https://teachingsocialstudies.org/.../book-review-erasing-history...](https://teachingsocialstudies.org/2025/05/27/book-review-erasing-history-how-fascists-rewrite-the-past-to-control-the-future-by-jason-stanley/)
+Review by [Lorraine Berry]():  [https://www.latimes.com/...erasing-history-jason-stanley-book-review](https://www.latimes.com/opinion/story/2024-09-13/on-freedom-timothy-snyder-erasing-history-jason-stanley-book-review)  
+Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_history](https://www.democracynow.org/2024/9/17/erasing_history)  
 
 </details>
 
@@ -3693,6 +3757,19 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
+<details><summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
+
+### The Stars Are Legion.  (12:00) 
+Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
+eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
+By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
+
+Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")  
+
+
+</details>
+
+
 <details><summary><a name="the_stars_like_dust_by_isaac_asimov"></a>The Stars, Like Dust -- Galactic Empire Series. By Isaac Asimov. 1951 </summary>
 
 ### The Stars, Like Dust.  (7:00)  
@@ -4328,6 +4405,73 @@ Reading Notes:
 
 
 <details>
+<summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
+
+### Marco Polo -- From Venice to Xanadu. (16:30)  
+Audio: https://www.overdrive.com/media/138750/marco-polo  
+eBook: https://www.overdrive.com/media/148020/marco-polo  
+By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
+
+Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
+
+Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
+
+Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
+
+[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
+>As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
+>Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="icebound_by_andrea_pitzer"></a>Icebound -- Shipwrecked at the Edge of the World.  By Andrea Pitzer.  2021 </summary>
+
+### Icebound -- Shipwrecked at the Edge of the World. (9:18)  
+Audio: https://www.overdrive.com/media/5207444/icebound  
+eBook: https://www.overdrive.com/media/5588545/icebound  
+By [Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Author's Bio.](https://andreapitzer.com/bio/) (1968 – )  
+
+Reading Notes: This book documents attempts by 16th-century Dutch explorer [William Barents](https://en.wikipedia.org/wiki/Willem_Barentsz) (1550 - 1597) to find a northern route to China -- North of what is now Russia.  He sailed farther north than any Europeans before. On his third polar voyage, one funded by wealthy optimistic Dutch merchants, his ship was locked in ice off the coast of [Nova Zembla](https://en.wikipedia.org/wiki/Novaya_Zemlya).  The sailors, unprepared for the Arctic winter, spent the next year fighting off polar bears, hunger and fiercely cold winter.  
+
+Author's Summary: https://andreapitzer.com/icebound/  
+
+</details>
+
+
+
+
+<details>
+<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
+ </summary>
+
+### Under the Tulip Tree. (10:00)  
+Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
+eBook: https://www.overdrive.com/media/5318414/under-the-tulip-tree  
+By [Michelle Shocklee](https://michelleshocklee.com/about-me-and-my-books/)  ( – )  
+
+Reading Notes:   
+
+Publisher's Summary:  
+>Sixteen-year-old Lorena Leland’s dreams of a rich and fulfilling life as a writer are dashed when the stock market crashes in 1929. Seven years into the Great Depression, Rena’s banker father has retreated into the bottle, her sister is married to a lazy charlatan and gambler, and Rena is an unemployed newspaper reporter. Eager for any writing job, Rena accepts a position interviewing former slaves for the Federal Writers’ Project. There, she meets Frankie Washington, a 101-year-old woman whose honest yet tragic past captivates Rena.  
+
+>As Frankie recounts her life as a slave, Rena is horrified to learn of all the older woman has endured—especially because Rena’s ancestors owned slaves. While Frankie’s story challenges Rena’s preconceptions about slavery, it also connects the two women whose lives are otherwise separated by age, race, and circumstances. But will this bond of respect, admiration, and friendship be broken by a revelation neither woman sees coming?  
+
+References:  
+* [Library of Congress: Manuscripts from the Federal Writers' Project 1936-1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)  
+* [Federal Writers' Project](https://www.loc.gov/rr/program/bib/newdeal/fwp.html)  
+
+
+</details>
+
+
+
+
+
+<details>
 <summary><a name="as_you_wish_by_cary_elwes"></a>As You Wish -- Inconceivable Tales from the Making of The Princess Bride. By Cary Elwes and Joe Layden.  2014 </summary>
 
 ### As You Wish -- Inconceivable Tales from the Making of The Princess Bride. (:)  
@@ -4340,50 +4484,6 @@ Reading Notes: Includes "*never-before-told* stories, exclusive behind-the-scene
 
 </details>
 
-
-
-<details>
-<summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
-
-### The Stars Are Legion.  (12:00) 
-Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
-eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
-By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
-
-Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")
-
-
-</details>
-
-
-
-<details>
-<summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
-
-### Empty_Template  
-Audio: https://www.overdrive.com/media/10753022/erasing-history  
-eBook: https://www.overdrive.com/media/10480453/erasing-history  
-By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
-
-Reading Notes:   
-Fascism & Totalitarianism
-Political Ideologies
-a global call to action that tells us “why the past is a frontline in the struggle for a future free of fascism” (Jeff Sharlet, New York Times bestselling author) as it reveals the far right’s efforts to rewrite history and undo a century of progress on race, gender, sexuality, and class.
-
-This is both a readable and invaluable book for teachers who are concerned about the impact of the Trump administration of the future of education in this country and the survival of democracy in America.
-
-
-Publisher's Description:  
->In the United States, democracy is under attack by an authoritarian movement that has found fertile ground among the country’s conservative politicians and voters, but similar movements have found homes in the hearts and minds of people around the globe. To understand the shape, form, and stakes of this assault, we must go back to extract lessons from our past.  
-
->In authoritarian countries, critical examination of those nations’ history and traditions is discouraged if not an outright danger to those who do it. And it is no accident that local and global institutions of education have become a battleground, where learning and efforts to upend a hierarchal status quo can be put to end by coercion and threats of violence. Democracies entrust schools and universities to preserve a common memory of positive change, generated by protests, social movements, and rebellions. The authoritarian right must erase this history, and, along with it, the very practice of critical inquiry that has so often been the engine of future progress.  
-
->In Erasing History, Yale professor of philosophy Jason Stanley exposes the true danger of the authoritarian right’s attacks on education, identifies their key tactics and funders, and traces their intellectual roots. He illustrates how fears of a fascist future have metastasized, from hypothetical threat to present reality. And with his “urgent, piercing, and altogether brilliant” (Johnathan M. Metzi, author of What We’ve Become) insight, he illustrates that hearts and minds are won in our schools and universities—places that democratic societies across the world are now ill-prepared to defend against the fascist assault currently underway.  
-
-Review by [Alan Singer](https://alansinger.net/about/): [https://teachingsocialstudies.org/.../book-review-erasing-history...](https://teachingsocialstudies.org/2025/05/27/book-review-erasing-history-how-fascists-rewrite-the-past-to-control-the-future-by-jason-stanley/)
-Review by [Lorraine Berry]():  [https://www.latimes.com/...erasing-history-jason-stanley-book-review](https://www.latimes.com/opinion/story/2024-09-13/on-freedom-timothy-snyder-erasing-history-jason-stanley-book-review)  
-Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_history](https://www.democracynow.org/2024/9/17/erasing_history)  
-</details>
 
 
 
@@ -4403,48 +4503,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 2005/2011/1969/1970
- </summary>
-
-### Master and Commander.  By Patrick O'Brian. (13:26)  
-Audio: https://www.overdrive.com/media/61448/master-and-commander  
-eBook: https://www.overdrive.com/media/676907/master-and-commander  
-By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
-
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
-
-Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
-Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
-Ships mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Ships](https://en.wikipedia.org/wiki/Master_and_Commander#Ships)  
-Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
-Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
-
-
-</details>
-
-
-<details>
-<summary><a name="post_captain_by_patrick_obrian"></a>#2 Aubrey & Maturin Series: Post Captain.  By Patrick O'Brian. 2011/2009/1990/1972
- </summary>
-
-### Post Captain.  By Patrick O'Brian. (16:00)  
-Audio: https://www.overdrive.com/media/74610/post-captain  
-eBook: https://www.overdrive.com/media/676909/post-captain  
-By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
-
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
-
-Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
-Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
-Ships mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships)  
-Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
-Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
-
-
-</details>
 
 
 <details>
