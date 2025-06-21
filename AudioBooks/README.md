@@ -3754,6 +3754,20 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
+<details><summary><a name="stanton_white_by_asa_zadel_hall"></a>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
+
+### Stanton White: A Romance of the New South. (5:31:26)  
+Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
+Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
+By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
+297 pages.
+
+Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
+
+Librivox Summary:  
+>In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
+>This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+
 </details>
 
 
@@ -4413,6 +4427,7 @@ eBook: https://www.overdrive.com/media/148020/marco-polo
 By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
 
 Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
+The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met Kublai Khan. When they returned to Venice they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "Cathay."  
 
 Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
 
@@ -4453,7 +4468,7 @@ Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree
 eBook: https://www.overdrive.com/media/5318414/under-the-tulip-tree  
 By [Michelle Shocklee](https://michelleshocklee.com/about-me-and-my-books/)  ( – )  
 
-Reading Notes:   
+Reading Notes: Overall, this is an interesting [historical novel](https://en.wikipedia.org/wiki/Historical_fiction) about a young woman in the depths of the [1930s depression](https://en.wikipedia.org/wiki/Great_Depression) and her learning details about [slavery](https://en.wikipedia.org/wiki/Slavery_in_the_United_States#Civil_War_and_emancipation) in her home town of [Nashville, TN](https://en.wikipedia.org/wiki/Nashville,_Tennessee#18th_and_19th_centuries), with special emphasis on the U.S. [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) period.  This was my first read of a ["*Christian faith*" novel](https://en.wikipedia.org/wiki/Christian_novel#Modern_American_Christian_novels).  Be aware that in this story the "*Christian faith*" content grew increasingly prominent as the novel progressed.  
 
 Publisher's Summary:  
 >Sixteen-year-old Lorena Leland’s dreams of a rich and fulfilling life as a writer are dashed when the stock market crashes in 1929. Seven years into the Great Depression, Rena’s banker father has retreated into the bottle, her sister is married to a lazy charlatan and gambler, and Rena is an unemployed newspaper reporter. Eager for any writing job, Rena accepts a position interviewing former slaves for the Federal Writers’ Project. There, she meets Frankie Washington, a 101-year-old woman whose honest yet tragic past captivates Rena.  
@@ -4519,24 +4534,6 @@ Reading Notes:
 </details>
 
 
-
-
-<details>
-<summary><a name="stanton_white_by_asa_zadel_hall"></a>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
-
-### Stanton White: A Romance of the New South. (5:31:26)  
-Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
-Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
-By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
-297 pages.
-
-Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
-
-Librivox Summary:  
->In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
->This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
-
-</details>
 
 
 <details>
@@ -5233,7 +5230,7 @@ historical romance
 
 
 <details>
-<summary>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019</summary>
+<summary><a name="funny_you_dont_look_autistic_by_michael_mccreary"></a>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019</summary>
 
 ### Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. (??:??)  
 
@@ -5242,6 +5239,7 @@ Ebook: https://www.overdrive.com/media/4627687/funny-you-dont-look-autistic
 By [Michael McCreary](https://www.aspiecomic.com/) (1997? -  )  
 
 </details>
+
 
 <a name="mars_series"></a>
 
@@ -5335,23 +5333,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Template </summary>  
 
-###  
-  
-By []() ()  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->  
-
-</details>
-</details>
 <details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
 
 The Flight of the Shadow.  (2:02)  
