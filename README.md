@@ -21,6 +21,8 @@ This is where I maintain a list of the books that I am reading or have read or a
   * Evans Early American Imprint Collection  [https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse](https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse)  
   * World Digital Library (WDL) projec [https://www.loc.gov/books/collections/](https://www.loc.gov/books/collections/) or the broader [https://www.loc.gov/collections/](https://www.loc.gov/collections/) from the U.S. Library of Congress  
   * Baen Free Library (science fiction) [https://www.baen.com/](https://www.baen.com/)  
+  * [Digital Silk Road Project](https://dsr.nii.ac.jp/), a digital humanities research project about creating digital archives of cultural heritage based on collaboration between informatics and humanities -- with special emphasis on the [Digital Archive of Toyo Bunko Rare Books](https://dsr.nii.ac.jp/toyobunko/)  
+  * [The Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) -- helping to "improve research methodology by collaboratively making biodiversity literature openly available to the world as part of a global biodiversity community."  
   * Smashwords [https://www.smashwords.com/shelves/home/1/free/any](https://www.smashwords.com/shelves/home/1/free/any)  
 
 
