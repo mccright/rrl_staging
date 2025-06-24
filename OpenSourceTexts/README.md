@@ -4,7 +4,7 @@
 ## Completed:  
 
 
-<details><summary>Anchorite. By Randall Garrett.  1962 </summary>
+<details><summary><a name="anchorite_by_randall_garrett"></a>Anchorite. By Randall Garrett.  1962 </summary>
 
 ### Anchorite.  1962  
 https://www.gutenberg.org/ebooks/23561  
@@ -16,8 +16,21 @@ Reading Notes:  This story (*and the Librivox summary below*) while entertaining
 
 </details>
 
+<details><summary><a name="apiary_experiments_comb_building_by_c_p_gillette"></a>Apiary Experiments. Foundation in Comb Building. By C. P. (Clarence Preston) Gillette.  1900 </summary>
 
-<details><summary>The Call of the Wild.  By Jack London.  1903</summary>
+### Apiary experiments. Foundation in comb building. 1900  
+By [Gillette, C. P. (Clarence Preston)]() (1859-1941)  
+Publication info: Fort Collins, Colo, The Experiment station, 1900  
+Notes: "Bulletin 54. The Agricultural experiment station of the Agricultural college of Colorado."  
+https://www.biodiversitylibrary.org/bibliography/55796  
+https://www.biodiversitylibrary.org/item/116514#page/8/mode/1up  
+https://ia801301.us.archive.org/16/items/cu31924003192543/cu31924003192543.pdf  
+
+Reading Notes:  The title says it all...  If you have any interest in how honey bees build their honey combs, this might be a useful, short introduction to the subject.  
+
+</details>
+
+<details><summary><a name="call_of_the_wild_by_jack_london"></a>The Call of the Wild.  By Jack London.  1903</summary>
 
 ### The Call of the Wild  
 https://www.gutenberg.org/ebooks/215  
@@ -27,7 +40,7 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 </details>
 
 
-<details><summary>Critical difference.  By Murray Leinster.  1956</summary>
+<details><summary><a name="critical_difference_by_murray_leinster"></a>Critical difference.  By Murray Leinster.  1956</summary>
 
 ### Critical difference  
 https://www.gutenberg.org/ebooks/68686  
@@ -38,7 +51,7 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 
 
 <details>
-<summary>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+<summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
 
 ### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
 This ebook: https://www.loc.gov/item/17001543/  
@@ -260,21 +273,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk
 
 ## Pending or Currently Underway:  
 
+
 <details>
-<summary>Empty_Template </summary>
+<summary><a name=""></a>Empty_Template </summary>
 
 ### Empty_Template  
-  
+Audio:   
+eBook:   
 By []()  ( – )  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>
 
-Reading Notes:  
+Reading Notes:   
 
-3rd Party Summaries:  
 
 </details>
-</details>
+
 
 
 <details>
