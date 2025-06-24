@@ -5059,7 +5059,7 @@ Librivox summary:
 
 
 <details>
-<summary>*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:* </summary>
+<summary>One or more of the Lionel Shriver novels below: </summary>
 
 	<details>
 	<summary>Mania. By Lionel Shriver. 2024 </summary>
