@@ -4462,6 +4462,24 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="death_on_the_nile_by_agatha_christie"></a>#18 in the Hercule Poirot Series -- Death on the Nile. By Agatha Christie 1937 </summary>
+
+### #18 in the Hercule Poirot Series -- Death on the Nile. (8:00)  
+Audio: https://www.overdrive.com/media/5195485/death-on-the-nile  
+eBook: https://www.overdrive.com/media/72813/death-on-the-nile  
+By [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)  (1890 – 1976)  
+Narrator [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh) (1960 -- )  
+
+Reading Notes:   
+
+Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_the_Nile)  
+
+[Hercule Poirot](https://en.wikipedia.org/wiki/Hercule_Poirot)  
+
+</details>
+
+
 
 
 
