@@ -1963,6 +1963,25 @@ Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-h
 </details>
 
 
+<details>
+<summary><a name="death_on_the_nile_by_agatha_christie"></a>#18 in the Hercule Poirot Series -- Death on the Nile. By Agatha Christie 1937 </summary>
+
+### #18 in the Hercule Poirot Series -- Death on the Nile. (8:15)  
+Audio: https://www.overdrive.com/media/5195485/death-on-the-nile  
+eBook: https://www.overdrive.com/media/72813/death-on-the-nile  
+By [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)  (1890 – 1976)  
+Narrator [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh) (1960 -- )  
+
+Reading Notes: This is a complex [whodunit](https://en.wikipedia.org/wiki/Whodunit) from a master of the genre, performed by another master of his craft, [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh).  In that context, it might be entertaining for many.  
+We listened to this story on a road trip and sometimes found it a little difficult to keep track of the characters and the many important details (*maybe this was the distractions of traffic and navigation, combined with a trained inability to focus carefully for hours on a single topic through a single input stream -- damn the evil emperors of social media!!!*).  
+
+Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_the_Nile)  
+
+[Hercule Poirot](https://en.wikipedia.org/wiki/Hercule_Poirot)  
+
+</details>
+
+
 <details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
 
 ### Here, Right Matters -- An American Story. (7:00)  
@@ -4485,23 +4504,6 @@ Reading Notes:
 
 </details>
 
-
-<details>
-<summary><a name="death_on_the_nile_by_agatha_christie"></a>#18 in the Hercule Poirot Series -- Death on the Nile. By Agatha Christie 1937 </summary>
-
-### #18 in the Hercule Poirot Series -- Death on the Nile. (8:00)  
-Audio: https://www.overdrive.com/media/5195485/death-on-the-nile  
-eBook: https://www.overdrive.com/media/72813/death-on-the-nile  
-By [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)  (1890 – 1976)  
-Narrator [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh) (1960 -- )  
-
-Reading Notes:   
-
-Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_the_Nile)  
-
-[Hercule Poirot](https://en.wikipedia.org/wiki/Hercule_Poirot)  
-
-</details>
 
 
 
