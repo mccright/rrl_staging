@@ -1963,6 +1963,25 @@ Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-h
 </details>
 
 
+<details>
+<summary><a name="death_on_the_nile_by_agatha_christie"></a>#18 in the Hercule Poirot Series -- Death on the Nile. By Agatha Christie 1937 </summary>
+
+### #18 in the Hercule Poirot Series -- Death on the Nile. (8:15)  
+Audio: https://www.overdrive.com/media/5195485/death-on-the-nile  
+eBook: https://www.overdrive.com/media/72813/death-on-the-nile  
+By [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)  (1890 – 1976)  
+Narrator [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh) (1960 -- )  
+
+Reading Notes: This is a complex [whodunit](https://en.wikipedia.org/wiki/Whodunit) from a master of the genre, performed by another master of his craft, [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh).  In that context, it might be entertaining for many.  
+We listened to this story on a road trip and sometimes found it a little difficult to keep track of the characters and the many important details (*maybe this was the distractions of traffic and navigation, combined with a trained inability to focus carefully for hours on a single topic through a single input stream -- damn the evil emperors of social media!!!*).  
+
+Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_the_Nile)  
+
+[Hercule Poirot](https://en.wikipedia.org/wiki/Hercule_Poirot)  
+
+</details>
+
+
 <details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
 
 ### Here, Right Matters -- An American Story. (7:00)  
@@ -2222,6 +2241,25 @@ Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://histor
 Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
 Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
 
+
+</details>
+
+
+<details>
+<summary><a name="kindred_by_octavia_e_butler"></a>Kindred. By Octavia E. Butler. </summary>
+
+### Kindred. (11:00)  
+Audio: https://www.overdrive.com/media/3122010/kindred  
+eBook: https://www.overdrive.com/media/208574/kindred  
+By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
+
+Reading Notes: This story incorporates time travel into the first-person account of a young African-American writer who is repeatedly transported in time from her Los Angeles home in 1976 with her white husband to an early 19th-century Maryland plantation outside Easton. See the [Wikipedia summmary](https://en.wikipedia.org/wiki/Kindred_(novel)) for more context for this important exploration of the grim realities of antebellum slavery and its impacts on everyone associated with it -- continuing through today.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Kindred_(novel)  
+Author's site: https://www.octaviabutler.com/kindred  
+
+"[The Essential Octavia Butler](https://www.nytimes.com/2021/01/15/books/review/the-essential-octavia-butler.html?unlocked_article_code=1.S08.Ty8O.TnprlBAgYQj-&smid=url-share)."  
+"[The Visions of Octavia Butler](https://www.nytimes.com/interactive/2022/11/17/arts/octavia-butler-vision-kindred.html?unlocked_article_code=1.S08.JTHN.RmJfB_Qf7uow&smid=url-share)."  
 
 </details>
 
@@ -3164,7 +3202,7 @@ Some characters:
     Odile’s school teacher Pichegru  
     Odile's friend Edme, a student musician
     Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
-	The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
+    The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
     Odile's apprenticeship Conseil teacher conseiller Ivret  
 
 Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
@@ -4053,7 +4091,7 @@ Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): http
 
 </details>
 
-	
+
 <details><summary><a name="a_thousand_ships_by_natalie_haynes"></a>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
@@ -4228,6 +4266,30 @@ Reading Notes: This novel is an entertaining view into a slice of Vietnamese his
 
 Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
 Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
+
+</details>
+
+
+<details>
+<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
+ </summary>
+
+### Under the Tulip Tree. (10:00)  
+Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
+eBook: https://www.overdrive.com/media/5318414/under-the-tulip-tree  
+By [Michelle Shocklee](https://michelleshocklee.com/about-me-and-my-books/)  ( – )  
+
+Reading Notes: Overall, this is an interesting [historical novel](https://en.wikipedia.org/wiki/Historical_fiction) about a young woman in the depths of the [1930s depression](https://en.wikipedia.org/wiki/Great_Depression) and her learning details about [slavery](https://en.wikipedia.org/wiki/Slavery_in_the_United_States#Civil_War_and_emancipation) in her home town of [Nashville, TN](https://en.wikipedia.org/wiki/Nashville,_Tennessee#18th_and_19th_centuries), with special emphasis on the U.S. [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) period.  This was my first read of a ["*Christian faith*" novel](https://en.wikipedia.org/wiki/Christian_novel#Modern_American_Christian_novels).  Be aware that in this story the "*Christian faith*" content grew increasingly prominent as the novel progressed.  
+
+Publisher's Summary:  
+>Sixteen-year-old Lorena Leland’s dreams of a rich and fulfilling life as a writer are dashed when the stock market crashes in 1929. Seven years into the Great Depression, Rena’s banker father has retreated into the bottle, her sister is married to a lazy charlatan and gambler, and Rena is an unemployed newspaper reporter. Eager for any writing job, Rena accepts a position interviewing former slaves for the Federal Writers’ Project. There, she meets Frankie Washington, a 101-year-old woman whose honest yet tragic past captivates Rena.  
+
+>As Frankie recounts her life as a slave, Rena is horrified to learn of all the older woman has endured—especially because Rena’s ancestors owned slaves. While Frankie’s story challenges Rena’s preconceptions about slavery, it also connects the two women whose lives are otherwise separated by age, race, and circumstances. But will this bond of respect, admiration, and friendship be broken by a revelation neither woman sees coming?  
+
+References:  
+* [Library of Congress: Manuscripts from the Federal Writers' Project 1936-1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)  
+* [Federal Writers' Project](https://www.loc.gov/rr/program/bib/newdeal/fwp.html)  
+
 
 </details>
 
@@ -4466,6 +4528,9 @@ Reading Notes:
 
 
 
+
+
+
 <details>
 <summary><a name="icebound_by_andrea_pitzer"></a>Icebound -- Shipwrecked at the Edge of the World.  By Andrea Pitzer.  2021 </summary>
 
@@ -4481,30 +4546,6 @@ Author's Summary: https://andreapitzer.com/icebound/
 </details>
 
 
-
-
-<details>
-<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
- </summary>
-
-### Under the Tulip Tree. (10:00)  
-Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
-eBook: https://www.overdrive.com/media/5318414/under-the-tulip-tree  
-By [Michelle Shocklee](https://michelleshocklee.com/about-me-and-my-books/)  ( – )  
-
-Reading Notes: Overall, this is an interesting [historical novel](https://en.wikipedia.org/wiki/Historical_fiction) about a young woman in the depths of the [1930s depression](https://en.wikipedia.org/wiki/Great_Depression) and her learning details about [slavery](https://en.wikipedia.org/wiki/Slavery_in_the_United_States#Civil_War_and_emancipation) in her home town of [Nashville, TN](https://en.wikipedia.org/wiki/Nashville,_Tennessee#18th_and_19th_centuries), with special emphasis on the U.S. [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) period.  This was my first read of a ["*Christian faith*" novel](https://en.wikipedia.org/wiki/Christian_novel#Modern_American_Christian_novels).  Be aware that in this story the "*Christian faith*" content grew increasingly prominent as the novel progressed.  
-
-Publisher's Summary:  
->Sixteen-year-old Lorena Leland’s dreams of a rich and fulfilling life as a writer are dashed when the stock market crashes in 1929. Seven years into the Great Depression, Rena’s banker father has retreated into the bottle, her sister is married to a lazy charlatan and gambler, and Rena is an unemployed newspaper reporter. Eager for any writing job, Rena accepts a position interviewing former slaves for the Federal Writers’ Project. There, she meets Frankie Washington, a 101-year-old woman whose honest yet tragic past captivates Rena.  
-
->As Frankie recounts her life as a slave, Rena is horrified to learn of all the older woman has endured—especially because Rena’s ancestors owned slaves. While Frankie’s story challenges Rena’s preconceptions about slavery, it also connects the two women whose lives are otherwise separated by age, race, and circumstances. But will this bond of respect, admiration, and friendship be broken by a revelation neither woman sees coming?  
-
-References:  
-* [Library of Congress: Manuscripts from the Federal Writers' Project 1936-1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)  
-* [Federal Writers' Project](https://www.loc.gov/rr/program/bib/newdeal/fwp.html)  
-
-
-</details>
 
 
 
@@ -5061,52 +5102,53 @@ Librivox summary:
 <details>
 <summary>One or more of the Lionel Shriver novels below: </summary>
 
-	<details>
-	<summary>Mania. By Lionel Shriver. 2024 </summary>
+<details>
+<summary>Mania. By Lionel Shriver. 2024 </summary>
 
-	### Mania. (??:??)  
-	Audio: (*still unreleased as of this entry*)  
-	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-	Harper. 288 pp.  
+### Mania. (??:??)  
+Audio: https://www.overdrive.com/media/9974774/mania  
+eBook: https://www.overdrive.com/media/9974850/mania  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 288 pp.  
 
-	Reading Notes:  
-	Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+Reading Notes:  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
 
-	</details>
-
-
-	<details>
-	<summary>So Much for That. By Lionel Shriver. 2010 </summary>
-
-	### So Much for That. (??:??)  
-	eBook: https://www.overdrive.com/media/291503/so-much-for-that  
-	Audio: https://www.overdrive.com/media/291355/so-much-for-that  
-	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-	Harper. 436 pp.
-	OverDrive Summary: 
-	>... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
-	Reading Notes:  
-	Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
-	Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
-
-	</details>
+</details>
 
 
-	<details>
-	<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
+<details>
+<summary>So Much for That. By Lionel Shriver. 2010 </summary>
 
-	### The Mandibles. A Family, 2029-2047. (??:??)  
-	eBook: https://www.overdrive.com/media/2486094/the-mandibles  
-	Audio: https://www.overdrive.com/media/2466085/the-mandibles  
-	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+### So Much for That. (??:??)  
+eBook: https://www.overdrive.com/media/291503/so-much-for-that  
+Audio: https://www.overdrive.com/media/291355/so-much-for-that  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 436 pp.
+OverDrive Summary: 
+>... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
+Reading Notes:  
+Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
+Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
 
-	OverDrive Summary:  
-	>In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
-	>The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
-	>Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
-	>The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
+</details>
 
-	</details>
+
+<details>
+<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
+
+### The Mandibles. A Family, 2029-2047. (??:??)  
+eBook: https://www.overdrive.com/media/2486094/the-mandibles  
+Audio: https://www.overdrive.com/media/2466085/the-mandibles  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+
+OverDrive Summary:  
+>In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
+>The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
+>Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
+>The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
+
+</details>
 
 </details>
 
