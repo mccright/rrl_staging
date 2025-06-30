@@ -393,6 +393,21 @@ Reading Notes:
 
 
 <details>
+<summary><a name="a_worse_place_than_hell_by_john_matteson"></a>Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
+
+### Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
+Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
+eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
+By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
+
+Reading Notes: Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+
+
+</details>
+
+
+
+<details>
 <summary><a name="on_tyranny_by_timothy_snyder"></a>On Tyranny -- Twenty Lessons from the Twentieth Century. By Timothy Snyder 2017 </summary>
 
 ### On Tyranny -- Twenty Lessons from the Twentieth Century.  
