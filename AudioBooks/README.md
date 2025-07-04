@@ -4544,6 +4544,57 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
+
+### Drum-Taps. (1:36)  
+Audio: https://librivox.org/drum-taps-by-walt-whitman/  
+eBook: https://www.gutenberg.org/ebooks/8801  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="leaves_of_grass_by_walt_whitman"></a>Leaves of Grass. By Walt Whitman. 1881 Edition (1855) </summary>
+
+### Leaves of Grass. (18:44)  
+Audio: https://librivox.org/leaves-of-grass-by-walt-whitman-2/  
+eBook: https://www.gutenberg.org/ebooks/1322  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+
+Wikipedia page for [Leaves of Grass](https://en.wikipedia.org/wiki/Leaves_of_Grass).  
+
+</details>
+
+
+
+<details>
+<summary><a name="brotherhood_of_the_flying_coffin_by_scott_mcgaugh 2023 "></a>Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  By Scott McGaugh 2023  </summary>
+
+### Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  (9:10)  
+Audio: https://www.overdrive.com/media/9232918/brotherhood-of-the-flying-coffin  
+eBook:   
+By [Scott McGaugh](https://scottmcgaugh.com/about.html) and [AuthorScottMcGaugh](https://www.facebook.com/AuthorScottMcGaugh) ( – )  
+
+Reading Notes: Every major European invasion of the war was led by gliders delivering troops, medical teams, arms, fuel and more -- generally into enemy territory.  The author uses piles of first-person reports by pilots, co-pilots and flight engineers to tell the story of these one-way missions...  
+
+[Author's Summary](https://scottmcgaugh.com/newrelease.html):  
+>The untold story of WWII's glider pilots who volunteered to fly one-way missions into enemy territory with no motors, no parachutes, no second chances, and no shortage of guts. In a defenseless, fabric-covered aircraft not yet invented at the start of the war.  
+>This is their story, in their words. Brotherhood is my latest nonfiction thriller about battlefield heroes you would like to have over for dinner. Dinner guests like glider pilot Harry Loftis...  
+>"I keep getting flashbacks of things that happened. I had high school friends, college friends, frat brothers, but I never put them close to the category that I do those glider pilots...courage that you would never believe."  
+
+
+</details>
 
 
 
