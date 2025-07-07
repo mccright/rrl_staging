@@ -59,7 +59,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 </details>
 
 
-<details><summary><a name="2034_by_Ackerman_and_Stavridis"></a>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
+<details><summary><a name="2034_by_Ackerman_and_Stavridis"></a>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 (Recommend it: read it carefully and invest in discussions about it with others) </summary>
 
 ### 2034 -- A Novel of the Next World War. (11:00)  
 Audio: https://www.overdrive.com/media/5558540/2034  
@@ -4572,6 +4572,44 @@ Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).
 
 
 </details>
+
+
+
+
+<details>
+<summary><a name="lummox_by_fannie_hurst"></a>Lummox by Fannie Hurst. 1923 </summary>
+
+### Lummox  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/76447  
+By [Fannie Hurst](https://en.wikipedia.org/wiki/Fannie_Hurst)  (1889 - 1968)  
+
+Reading Notes:   
+
+Wikipedia for Lummox (*the film*): https://en.wikipedia.org/wiki/Lummox_(film)
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="woman_in_the_nineteenth_century_by_margaret_fuller"></a>Woman in the Nineteenth Century. By Margaret Fuller. 1843 </summary>
+
+### Woman in the Nineteenth Century  (10:15)  
+Audio: [https://librivox.org/woman-in-the-nineteenth-century.../](https://librivox.org/woman-in-the-nineteenth-century-and-kindred-papers-relating-to-the-sphere-condition-and-duties-of-women-by-margaret-fuller/)  
+eBook: https://www.overdrive.com/media/1348815/woman-in-the-nineteenth-century 
+  and  https://www.gutenberg.org/ebooks/8642  
+By [Margaret Fuller](https://en.wikipedia.org/wiki/Margaret_Fuller)  (1810 – 1850)  
+
+Reading Notes:   
+
+Wikipedia page for [Woman in the 19th Century](https://en.wikipedia.org/wiki/Woman_in_the_Nineteenth_Century)  
+
+
+</details>
+
 
 
 
