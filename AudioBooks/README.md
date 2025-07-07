@@ -4612,6 +4612,22 @@ Wikipedia page for [Woman in the 19th Century](https://en.wikipedia.org/wiki/Wom
 
 
 
+<details>
+<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
+
+### Drum-Taps. (1:36)  
+Audio: https://librivox.org/drum-taps-by-walt-whitman/  
+eBook: https://www.gutenberg.org/ebooks/8801  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="leaves_of_grass_by_walt_whitman"></a>Leaves of Grass. By Walt Whitman. 1881 Edition (1855) </summary>
