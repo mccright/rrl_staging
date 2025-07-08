@@ -4654,7 +4654,7 @@ Audio: https://www.overdrive.com/media/9232918/brotherhood-of-the-flying-coffin
 eBook:   
 By [Scott McGaugh](https://scottmcgaugh.com/about.html) and [AuthorScottMcGaugh](https://www.facebook.com/AuthorScottMcGaugh) ( – )  
 
-Reading Notes: Every major European invasion of the war was led by gliders delivering troops, medical teams, arms, fuel and more -- generally into enemy territory.  The author uses piles of first-person reports by pilots, co-pilots and flight engineers to tell the story of these one-way missions...  
+Reading Notes: Every major European invasion of WWII was led by gliders delivering troops, medical teams, arms, fuel and more -- generally into enemy territory.  The author uses piles of first-person reports by pilots, co-pilots and flight engineers to tell the story of these one-way missions...  
 
 [Author's Summary](https://scottmcgaugh.com/newrelease.html):  
 >The untold story of WWII's glider pilots who volunteered to fly one-way missions into enemy territory with no motors, no parachutes, no second chances, and no shortage of guts. In a defenseless, fabric-covered aircraft not yet invented at the start of the war.  
