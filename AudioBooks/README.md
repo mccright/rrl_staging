@@ -4626,6 +4626,39 @@ Reading Notes:
 </details>
 
 
+A Year In China : And A Narrative Of Capture And Imprisonment, When Homeward Bound, On Board The Rebel Pirate Florida.  By Martha Noyes Williams. 1864  
+Martha Noyes Williams (1813-1879)
+
+Celebrated naval and military trials." By Peter Burke and Loewy Benno. 1866 
+https://www.gutenberg.org/ebooks/76472
+
+
+Hospital Sketches. (3:08) By Louisa May Alcott. 1863 
+https://librivox.org/hospital-sketches-by-louisa-may-alcott/
+https://www.gutenberg.org/ebooks/3837
+By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott)  (1832-1888)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Hospital_Sketches  
+
+
+<details>
+<summary><a name="moods_by_louisa_may_alcott"></a>Moods. By Louisa May Alcott. 1864 </summary>
+
+### Moods. (9:55) 
+Audio: https://librivox.org/moods-by-louisa-may-alcott/  
+eBook: https://www.gutenberg.org/ebooks/28203  
+By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott)  (1832-1888)  
+
+Reading Notes: "Alcott herself claimed it was focused on the issues that come from living by impulse rather than principle." 
+  
+Sylvia Yule  
+Geoffrey Moor  
+Adam Warwick  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Moods_(novel)
+
+</details>
 
 
 
