@@ -4633,12 +4633,22 @@ Celebrated naval and military trials." By Peter Burke and Loewy Benno. 1866
 https://www.gutenberg.org/ebooks/76472
 
 
-Hospital Sketches. (3:08) By Louisa May Alcott. 1863 
-https://librivox.org/hospital-sketches-by-louisa-may-alcott/
-https://www.gutenberg.org/ebooks/3837
+
+
+<details>
+<summary><a name="hospital_sketches_by_louisa_may_alcott"></a>Hospital Sketches. By Louisa May Alcott. 1863 </summary>
+
+### Hospital Sketches. (3:08)  
+Audio: https://librivox.org/hospital-sketches-by-louisa-may-alcott/  
+eBook: https://www.gutenberg.org/ebooks/3837  
 By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott)  (1832-1888)  
 
+Reading Notes:   
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hospital_Sketches  
+
+</details>
+
 
 
 <details>
