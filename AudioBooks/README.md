@@ -4634,6 +4634,23 @@ https://www.gutenberg.org/ebooks/76472
 
 
 
+<details>
+<summary><a name="king_a_life_by_jonathan_eig"></a>King -- A Life. By Jonathan Eig. 2023  </summary>
+
+### King -- A Life. (20:44)  
+Audio: https://www.overdrive.com/media/9254575/king  
+eBook: https://www.overdrive.com/media/9191470/king  
+By [Jonathan Eig](https://en.wikipedia.org/wiki/Jonathan_Eig) and [here](https://www.jonathaneig.com/about)  (1964 – )  
+688 pages  
+
+Reading Notes: This is a recent, well-received biography of MLK.  I particularly liked the last third of the book as it wrapped King's activities in a complex and rapidly-evolving environment of the 1960s.  
+
+See a list of reviews [here](https://www.jonathaneig.com/king-a-life)  
+Wikipedia Page: https://en.wikipedia.org/wiki/King:_A_Life  
+
+</details>
+
+
 
 <details>
 <summary><a name="hospital_sketches_by_louisa_may_alcott"></a>Hospital Sketches. By Louisa May Alcott. 1863 </summary>
