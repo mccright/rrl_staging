@@ -4626,6 +4626,66 @@ Reading Notes:
 </details>
 
 
+
+
+
+<details>
+<summary><a name="hum_by_helen_phillips"></a>Hum. By Helen Phillips 2024 </summary>
+
+### Hum. ()  
+Audio: https://www.overdrive.com/media/10216756/hum  
+eBook: https://www.overdrive.com/media/10057015/hum  
+By [Helen Phillips](https://en.wikipedia.org/wiki/Helen_Phillips_(novelist)) and [here](https://www.helencphillips.com/bio)  (1981 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="i_who_have_never_known_men_by_jacqueline_harpman"></a>I Who Have Never Known Men.  By Jacqueline Harpman.  (1997)2022/2024 </summary>
+
+### I Who Have Never Known Men. ()  
+Audio: https://www.overdrive.com/media/10908540/i-who-have-never-known-men  
+eBook: https://www.overdrive.com/media/8731531/i-who-have-never-known-men  
+By [Jacqueline Harpman](https://en.wikipedia.org/wiki/Jacqueline_Harpman)  (1929 – 2012)  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name=""></a>After the Flood. By Kassandra Montag. 2019 </summary>
+
+### After the Flood. (13:00) 
+Audio: https://www.overdrive.com/media/4471070/after-the-flood  
+eBook: https://www.overdrive.com/media/4471533/after-the-flood  
+By [Kassandra Montag](https://kassandramontag.com/bio)  ( – )  
+
+Reading Notes:   
+future climate-change-altered world overrun by water  
+dystopian post-apocalyptic subgenre  
+They roam the waters of what used to be the Rocky Mountains in North America (*now just a string of islands*) in a small boat Myra’s grandfather built.  
+Myra and her 7 year-old daughter, Pearl, fish from their small boat, the Bird, visiting dry land only to trade for supplies and information in the few remaining outposts of civilization  
+12 year old daughter, Row  
+Myra and 7 year old Pearl join the crew of another ship
+Myra discovers that Row was last seen in a distant encampment near the Artic Circle. Throwing aside her usual caution, Myra and Pearl embark on a perilous voyage into the icy northern seas, hoping against hope that Row will still be there.
+
+On their journey, Myra and Pearl join forces with a larger ship and Myra finds herself bonding with her fellow seekers who hope to build a safe haven together in this dangerous new world.
+
+Review by [Megan Kloustin](https://www.goodreads.com/user/show/15511127-megan-kloustin): https://literaryquicksand.com/2019/09/review-after-the-flood/  
+
+</details>
+
+
+The Lightest Object in the Universe.  By Kimi Eisele
+
+
 A Year In China : And A Narrative Of Capture And Imprisonment, When Homeward Bound, On Board The Rebel Pirate Florida.  By Martha Noyes Williams. 1864  
 Martha Noyes Williams (1813-1879)
 
