@@ -156,6 +156,24 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary><a name="after_the_flood_by_kassandra_montag"></a>After the Flood. By Kassandra Montag. 2019 </summary>
+
+### After the Flood. (13:00)  
+Audio: https://www.overdrive.com/media/4471070/after-the-flood  
+eBook: https://www.overdrive.com/media/4471533/after-the-flood  
+By [Kassandra Montag](https://kassandramontag.com/bio)  ( – )  
+
+Reading Notes: This is a dystopian post-apocalyptic novel about a climate-change-altered world overrun by water a century (*or more*) in the future.  At the opening, Myra and her 7 year-old daughter, Pearl, have been fishing from their small boat originally built by Myra’s grandfather, the Bird, for almost seven years.  They roam the waters of what used to be the Rocky Mountains in North America (*now just a string of islands*).  They visit dry land only to trade for supplies and information in the few remaining outposts of civilization -- looking for Myra's 12 year old daughter, Row, who had been taken away by Myra's husband.  
+Myra discovers that Row was last seen in a community on land near the Artic Circle.  Myra and Pearl begin a journey into the cold and dangerous northern ocean in search of Row.  It is a complicated path that forms the bulk of the novel.  
+
+The vocabulary and plot choices made this seem a little like a young adult (YA) novel.  That is not necessarily a bad thing, but it sometimes seems to constrain how interpersonal relations play out.  
+
+Review by [Megan Kloustin](https://www.goodreads.com/user/show/15511127-megan-kloustin): https://literaryquicksand.com/2019/09/review-after-the-flood/  
+
+</details>
+
+
 <details><summary><a name="after_house_by_mary_roberts_rinehart"></a>The After House. By Mary Roberts Rinehart. 1914 </summary>
 
 ### The After House.  (5:52)  
@@ -4626,12 +4644,65 @@ Reading Notes:
 </details>
 
 
+
+
+
+<details>
+<summary><a name="hum_by_helen_phillips"></a>Hum. By Helen Phillips 2024 </summary>
+
+### Hum. ()  
+Audio: https://www.overdrive.com/media/10216756/hum  
+eBook: https://www.overdrive.com/media/10057015/hum  
+By [Helen Phillips](https://en.wikipedia.org/wiki/Helen_Phillips_(novelist)) and [here](https://www.helencphillips.com/bio)  (1981 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="i_who_have_never_known_men_by_jacqueline_harpman"></a>I Who Have Never Known Men.  By Jacqueline Harpman.  (1997)2022/2024 </summary>
+
+### I Who Have Never Known Men. ()  
+Audio: https://www.overdrive.com/media/10908540/i-who-have-never-known-men  
+eBook: https://www.overdrive.com/media/8731531/i-who-have-never-known-men  
+By [Jacqueline Harpman](https://en.wikipedia.org/wiki/Jacqueline_Harpman)  (1929 – 2012)  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+The Lightest Object in the Universe.  By Kimi Eisele
+
+
 A Year In China : And A Narrative Of Capture And Imprisonment, When Homeward Bound, On Board The Rebel Pirate Florida.  By Martha Noyes Williams. 1864  
 Martha Noyes Williams (1813-1879)
 
 Celebrated naval and military trials." By Peter Burke and Loewy Benno. 1866 
 https://www.gutenberg.org/ebooks/76472
 
+
+
+<details>
+<summary><a name="king_a_life_by_jonathan_eig"></a>King -- A Life. By Jonathan Eig. 2023  </summary>
+
+### King -- A Life. (20:44)  
+Audio: https://www.overdrive.com/media/9254575/king  
+eBook: https://www.overdrive.com/media/9191470/king  
+By [Jonathan Eig](https://en.wikipedia.org/wiki/Jonathan_Eig) and [here](https://www.jonathaneig.com/about)  (1964 – )  
+688 pages  
+
+Reading Notes: This is a recent, well-received biography of MLK.  I particularly liked the last third of the book as it wrapped King's activities in a complex and rapidly-evolving environment of the 1960s.  
+
+See a list of reviews [here](https://www.jonathaneig.com/king-a-life)  
+Wikipedia Page: https://en.wikipedia.org/wiki/King:_A_Life  
+
+</details>
 
 
 
