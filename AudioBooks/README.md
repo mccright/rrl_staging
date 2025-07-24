@@ -4646,6 +4646,22 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+
+### A Gentleman in Moscow.  (18:00)  
+Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
+eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
+By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 – )  
+
+Reading Notes: The story begins shortly after the [Bolshevik revolution](https://en.wikipedia.org/wiki/Bolshevik_revolution) of 1917 when the 28 year old fictional Count Alexander Ilyich Rostov is arrested and charged with "[social parasitism](https://en.wikipedia.org/wiki/Social_parasitism_(offense))."  Upon conviction, the Count is sentenced to life under [house arrest](https://en.wikipedia.org/wiki/House_arrest) in the former servants quarters in the attic of luxury hotel Hotel Metropol in central [Moscow](https://en.wikipedia.org/wiki/Moscow).  The author takes us through the Count's inner dialog and self-reflection, his interactions and conversations with those around him, and wraps that in snippits of [Russian](https://en.wikipedia.org/wiki/Russian) and world [history](https://en.wikipedia.org/wiki/History) throughout the rest of the Count's life.  The writing and the story are just fantastic.  Everyone should find a reason to read or listen to this book.  The writing -- a fine [full-course dinner](https://en.wikipedia.org/wiki/Full-course_dinner) with your family and/or friends.  The audio presentation by [Nicholas Guy Smith](https://thatvoice.net/about-nick-british-voiceover/) -- beautiful music and a soft, warm, perfectly tailored winter outfit.  It illustrates a life lived well and augments the reader's understanding of Russian and world history.  
+  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Gentleman_in_Moscow  
+
+</details>
+
+
 
 <details>
 <summary><a name="hum_by_helen_phillips"></a>Hum. By Helen Phillips 2024 </summary>
