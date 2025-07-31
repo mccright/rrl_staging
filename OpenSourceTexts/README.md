@@ -73,6 +73,9 @@ and finally, that:
 >"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
 The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/item/17001543/) wrap *some* late-1850s social context to the Supreme Court opinion.  Unfortunately, some of the "*race science*" and "state's rights" themes in those two essays seem to be appearing again in Far Right and Trumpist/Trumper *[dog whistle](https://en.wikipedia.org/wiki/Dog_whistle_(politics))* talking points.  
 
+[Here](https://billofrightsinstitute.org/lessons/roger-taney-and-injustice) is what may be a useful resource for thinking about "The Dred Scott decision."  It was assembled by the [Bill of Rights Institute](https://billofrightsinstitute.org/) as a teaching resource.  
+
+
 </details>
 
 
