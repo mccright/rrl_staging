@@ -4677,6 +4677,42 @@ Reading Notes:
 
 
 <details>
+<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
+
+### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
+Audio: https://www.overdrive.com/media/9383040/essex-dogs  
+eBook: https://www.overdrive.com/media/8998137/essex-dogs  
+By [Dan Jones](https://en.wikipedia.org/wiki/Dan_Jones_(writer))  (1981 – )  
+
+Reading Notes: This story follows a fictional team of English contract fighters through a small slice of the [Hundred Years’ War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) (1337-1453), "a conflict between the kingdoms of [England](https://en.wikipedia.org/wiki/Kingdom_of_England) and [France](https://en.wikipedia.org/wiki/Kingdom_of_France) and a civil war in France during the [Late Middle Ages](https://en.wikipedia.org/wiki/Late_Middle_Ages)."  The "Essex Dogs," 10 men under contract to [Sir Richard le Straunge for 40 days -- Sir Richard serving England’s King Edward III (1312-77). Dan Jones takes readers on the journey from first landing on Normandy beaches in early July 1346 through the [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy) [*or see [this summary](https://warhistory.org/@msw/article/battle-of-crecy-august-26-1346)*], 26 August 1346 where the English shattered a larger French force under [King Philip VI]().   
+
+The audio book has excellent narration by [Ben Miles](https://en.wikipedia.org/wiki/Ben_Miles).  
+
+Review by [Ian McGuire](https://en.wikipedia.org/wiki/Ian_McGuire): [https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html](https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html?unlocked_article_code=1.aU8.cn7h.GOQ6PNh15JVu&smid=url-share)  
+
+</details>
+
+
+<details>
+<summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
+
+### Whalefall.  (8:00)  
+Audio: https://www.overdrive.com/media/9310752/whalefall  
+eBook: https://www.overdrive.com/media/9313802/whalefall  
+By [Daniel Kraus](https://en.wikipedia.org/wiki/Daniel_Kraus_(author))  (1975 – )  
+
+Reading Notes: A teenager living in the [Monterey, California](https://en.wikipedia.org/wiki/Monterey,_California) area struggles with the legacies of his recently deceased father...  
+Jay Gardiner's father Mitt Gardiner was well-known in the local scuba diving community, but struggled with parenting and with keeping jobs. Mitt is diagnosed with advanced mesothelioma and soon after commits suicide by weighing himself down with diving weights and jumping off a boat near [Monastery Beach](https://www.explore.com/1812877/california-monastery-beach-scenic-earned-chilling-nickname-dangerous-reputation/).  A year later, Jay attempts to retrieve his father's remains near Monastery Beach.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Whalefall_(novel)) for a more complete summary.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)  
+
+
+</details>
+
+
+
+
+<details>
 <summary><a name="hum_by_helen_phillips"></a>Hum. By Helen Phillips 2024 </summary>
 
 ### Hum. ()  
