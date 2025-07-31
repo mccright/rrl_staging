@@ -289,6 +289,7 @@ Reading Notes:
 
 
 
+
 <details>
 <summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
@@ -300,6 +301,39 @@ By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985
 Reading Notes:  
 
 </details>
+
+
+
+<details>
+<summary><a name="the_slide_rule_by_charles_n_pickworth"></a>The Slide Rule : A Practical Manual. By Charles N. Pickworth. 1920 </summary>
+
+###  Slide Rule : A Practical Manual  
+PDF scan: https://www.sliderulemuseum.com/Manuals/TheSlideRule_A_Practical_Manual_Charles_N_Pickworth.pdf  (6th edition)  
+eBook: https://www.gutenberg.org/ebooks/75904  (17th edition)  
+By [Charles N. Pickworth]()  ( – )  
+
+Reading Notes:   
+
+Other slide rule books: http://tinas-sliderules.me.uk/Slide%20Rules/SlideRuleBooks.html
+
+
+</details>
+
+
+
+<details>
+<summary><a name="instruction_for_using_a_slide_rule_by_w_stanley"></a>Instruction for Using a Slide Rule. By W. Stanley. </summary>
+
+### Instruction for Using a Slide Rule.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/20214  
+By [W. Stanley]()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
 
 
 

@@ -1803,6 +1803,19 @@ Review By [Ilana Masad](https://www.ilanamasad.com/bio): [https://www.latimes.co
 </details>
 
 
+<details><summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+### A Gentleman in Moscow.  (18:00)  
+Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
+eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
+By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 – )  
+
+Reading Notes: The story begins shortly after the [Bolshevik revolution](https://en.wikipedia.org/wiki/Bolshevik_revolution) of 1917 when the 28 year old fictional Count Alexander Ilyich Rostov is arrested and charged with "[social parasitism](https://en.wikipedia.org/wiki/Social_parasitism_(offense))."  Upon conviction, the Count is sentenced to life under [house arrest](https://en.wikipedia.org/wiki/House_arrest) in the former servants quarters in the attic of luxury hotel Hotel Metropol in central [Moscow](https://en.wikipedia.org/wiki/Moscow).  The author takes us through the Count's inner dialog and self-reflection, his interactions and conversations with those around him, and wraps that in snippits of [Russian](https://en.wikipedia.org/wiki/Russian) and world [history](https://en.wikipedia.org/wiki/History) throughout the rest of the Count's life.  The writing and the story are just fantastic.  Everyone should find a reason to read or listen to this book.  The writing -- a fine [full-course dinner](https://en.wikipedia.org/wiki/Full-course_dinner) with your family and/or friends.  The audio presentation by [Nicholas Guy Smith](https://thatvoice.net/about-nick-british-voiceover/) -- beautiful music and a soft, warm, perfectly tailored winter outfit.  It illustrates a life lived well and, I believe, will augment many reader's understanding of Russian and world history.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Gentleman_in_Moscow  
+
+</details>
+
+
 <details><summary><a name="the_gettysburg_address_abraham_lincoln"></a>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
 ### The Gettysburg Address (0:02:41)  
@@ -2380,6 +2393,22 @@ Author's site: https://www.octaviabutler.com/kindred
 
 "[The Essential Octavia Butler](https://www.nytimes.com/2021/01/15/books/review/the-essential-octavia-butler.html?unlocked_article_code=1.S08.Ty8O.TnprlBAgYQj-&smid=url-share)."  
 "[The Visions of Octavia Butler](https://www.nytimes.com/interactive/2022/11/17/arts/octavia-butler-vision-kindred.html?unlocked_article_code=1.S08.JTHN.RmJfB_Qf7uow&smid=url-share)."  
+
+</details>
+
+
+<details><summary><a name="king_a_life_by_jonathan_eig"></a>King -- A Life. By Jonathan Eig. 2023  </summary>
+
+### King -- A Life. (20:44)  
+Audio: https://www.overdrive.com/media/9254575/king  
+eBook: https://www.overdrive.com/media/9191470/king  
+By [Jonathan Eig](https://en.wikipedia.org/wiki/Jonathan_Eig) and [here](https://www.jonathaneig.com/about)  (1964 – )  
+688 pages  
+
+Reading Notes: This is a recent, well-received biography of MLK.  I particularly liked the last third of the book as it wrapped King's activities in a complex and rapidly-evolving environment of the 1960s.  
+
+See a list of reviews [here](https://www.jonathaneig.com/king-a-life)  
+Wikipedia Page: https://en.wikipedia.org/wiki/King:_A_Life  
 
 </details>
 
@@ -4646,20 +4675,40 @@ Reading Notes:
 
 
 
+
 <details>
-<summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
 
-### A Gentleman in Moscow.  (18:00)  
-Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
-eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
-By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 – )  
+### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
+Audio: https://www.overdrive.com/media/9383040/essex-dogs  
+eBook: https://www.overdrive.com/media/8998137/essex-dogs  
+By [Dan Jones](https://en.wikipedia.org/wiki/Dan_Jones_(writer))  (1981 – )  
 
-Reading Notes: The story begins shortly after the [Bolshevik revolution](https://en.wikipedia.org/wiki/Bolshevik_revolution) of 1917 when the 28 year old fictional Count Alexander Ilyich Rostov is arrested and charged with "[social parasitism](https://en.wikipedia.org/wiki/Social_parasitism_(offense))."  Upon conviction, the Count is sentenced to life under [house arrest](https://en.wikipedia.org/wiki/House_arrest) in the former servants quarters in the attic of luxury hotel Hotel Metropol in central [Moscow](https://en.wikipedia.org/wiki/Moscow).  The author takes us through the Count's inner dialog and self-reflection, his interactions and conversations with those around him, and wraps that in snippits of [Russian](https://en.wikipedia.org/wiki/Russian) and world [history](https://en.wikipedia.org/wiki/History) throughout the rest of the Count's life.  The writing and the story are just fantastic.  Everyone should find a reason to read or listen to this book.  The writing -- a fine [full-course dinner](https://en.wikipedia.org/wiki/Full-course_dinner) with your family and/or friends.  The audio presentation by [Nicholas Guy Smith](https://thatvoice.net/about-nick-british-voiceover/) -- beautiful music and a soft, warm, perfectly tailored winter outfit.  It illustrates a life lived well and augments the reader's understanding of Russian and world history.  
-  
+Reading Notes: This story follows a fictional team of English contract fighters through a small slice of the [Hundred Years’ War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) (1337-1453), "a conflict between the kingdoms of [England](https://en.wikipedia.org/wiki/Kingdom_of_England) and [France](https://en.wikipedia.org/wiki/Kingdom_of_France) and a civil war in France during the [Late Middle Ages](https://en.wikipedia.org/wiki/Late_Middle_Ages)."  The "Essex Dogs," 10 men under contract to [Sir Richard le Straunge for 40 days -- Sir Richard serving England’s King Edward III (1312-77). Dan Jones takes readers on the journey from first landing on Normandy beaches in early July 1346 through the [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy) [*or see [this summary](https://warhistory.org/@msw/article/battle-of-crecy-august-26-1346)*], 26 August 1346 where the English shattered a larger French force under [King Philip VI]().   
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/A_Gentleman_in_Moscow  
+The audio book has excellent narration by [Ben Miles](https://en.wikipedia.org/wiki/Ben_Miles).  
+
+Review by [Ian McGuire](https://en.wikipedia.org/wiki/Ian_McGuire): [https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html](https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html?unlocked_article_code=1.aU8.cn7h.GOQ6PNh15JVu&smid=url-share)  
 
 </details>
+
+
+<details>
+<summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
+
+### Whalefall.  (8:00)  
+Audio: https://www.overdrive.com/media/9310752/whalefall  
+eBook: https://www.overdrive.com/media/9313802/whalefall  
+By [Daniel Kraus](https://en.wikipedia.org/wiki/Daniel_Kraus_(author))  (1975 – )  
+
+Reading Notes: A teenager living in the [Monterey, California](https://en.wikipedia.org/wiki/Monterey,_California) area struggles with the legacies of his recently deceased father...  
+Jay Gardiner's father Mitt Gardiner was well-known in the local scuba diving community, but struggled with parenting and with keeping jobs. Mitt is diagnosed with advanced mesothelioma and soon after commits suicide by weighing himself down with diving weights and jumping off a boat near [Monastery Beach](https://www.explore.com/1812877/california-monastery-beach-scenic-earned-chilling-nickname-dangerous-reputation/).  A year later, Jay attempts to retrieve his father's remains near Monastery Beach.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Whalefall_(novel)) for a more complete summary.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)  
+
+
+</details>
+
 
 
 
@@ -4702,23 +4751,6 @@ Martha Noyes Williams (1813-1879)
 Celebrated naval and military trials." By Peter Burke and Loewy Benno. 1866 
 https://www.gutenberg.org/ebooks/76472
 
-
-
-<details>
-<summary><a name="king_a_life_by_jonathan_eig"></a>King -- A Life. By Jonathan Eig. 2023  </summary>
-
-### King -- A Life. (20:44)  
-Audio: https://www.overdrive.com/media/9254575/king  
-eBook: https://www.overdrive.com/media/9191470/king  
-By [Jonathan Eig](https://en.wikipedia.org/wiki/Jonathan_Eig) and [here](https://www.jonathaneig.com/about)  (1964 – )  
-688 pages  
-
-Reading Notes: This is a recent, well-received biography of MLK.  I particularly liked the last third of the book as it wrapped King's activities in a complex and rapidly-evolving environment of the 1960s.  
-
-See a list of reviews [here](https://www.jonathaneig.com/king-a-life)  
-Wikipedia Page: https://en.wikipedia.org/wiki/King:_A_Life  
-
-</details>
 
 
 
