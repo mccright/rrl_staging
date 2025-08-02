@@ -1580,6 +1580,23 @@ Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_histo
 </details>
 
 
+<details>
+<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
+
+### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
+Audio: https://www.overdrive.com/media/9383040/essex-dogs  
+eBook: https://www.overdrive.com/media/8998137/essex-dogs  
+By [Dan Jones](https://en.wikipedia.org/wiki/Dan_Jones_(writer))  (1981 – )  
+
+Reading Notes: This story follows a fictional team of English contract fighters through a small slice of the [Hundred Years’ War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) (1337-1453), "a conflict between the kingdoms of [England](https://en.wikipedia.org/wiki/Kingdom_of_England) and [France](https://en.wikipedia.org/wiki/Kingdom_of_France) and a civil war in France during the [Late Middle Ages](https://en.wikipedia.org/wiki/Late_Middle_Ages)."  The "Essex Dogs," 10 men under contract to [Sir Richard le Straunge for 40 days -- Sir Richard serving England’s [King Edward III](https://en.wikipedia.org/wiki/Edward_III_of_England) (1312-77). Dan Jones takes readers on the journey from first landing on Normandy beaches in early July 1346 through the [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy) [*or see [this summary](https://warhistory.org/@msw/article/battle-of-crecy-august-26-1346)*], 26 August 1346 where the English shattered a larger French force under [King Philip VI](https://en.wikipedia.org/wiki/Philip_VI_of_France).  
+
+The audio book has excellent narration by [Ben Miles](https://en.wikipedia.org/wiki/Ben_Miles).  
+
+Review by [Ian McGuire](https://en.wikipedia.org/wiki/Ian_McGuire): [https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html](https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html?unlocked_article_code=1.aU8.cn7h.GOQ6PNh15JVu&smid=url-share)  
+
+</details>
+
+
 <details><summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
 
 ### The Exiled Fleet -- The Divide. (19:00)  
@@ -4674,23 +4691,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
-
-### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
-Audio: https://www.overdrive.com/media/9383040/essex-dogs  
-eBook: https://www.overdrive.com/media/8998137/essex-dogs  
-By [Dan Jones](https://en.wikipedia.org/wiki/Dan_Jones_(writer))  (1981 – )  
-
-Reading Notes: This story follows a fictional team of English contract fighters through a small slice of the [Hundred Years’ War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) (1337-1453), "a conflict between the kingdoms of [England](https://en.wikipedia.org/wiki/Kingdom_of_England) and [France](https://en.wikipedia.org/wiki/Kingdom_of_France) and a civil war in France during the [Late Middle Ages](https://en.wikipedia.org/wiki/Late_Middle_Ages)."  The "Essex Dogs," 10 men under contract to [Sir Richard le Straunge for 40 days -- Sir Richard serving England’s King Edward III (1312-77). Dan Jones takes readers on the journey from first landing on Normandy beaches in early July 1346 through the [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy) [*or see [this summary](https://warhistory.org/@msw/article/battle-of-crecy-august-26-1346)*], 26 August 1346 where the English shattered a larger French force under [King Philip VI]().   
-
-The audio book has excellent narration by [Ben Miles](https://en.wikipedia.org/wiki/Ben_Miles).  
-
-Review by [Ian McGuire](https://en.wikipedia.org/wiki/Ian_McGuire): [https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html](https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html?unlocked_article_code=1.aU8.cn7h.GOQ6PNh15JVu&smid=url-share)  
-
-</details>
 
 
 <details>
