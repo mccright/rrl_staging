@@ -4710,6 +4710,26 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)
 </details>
 
 
+<details>
+<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
+
+### The Dream Hotel.  (12:00)  
+Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
+eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
+By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
+
+Reading Notes:  
+
+Wikipedia Summary:  
+>Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity to committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
+
+Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
+Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
+
+
+</details>
+
+
 
 
 <details>
