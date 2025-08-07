@@ -4692,6 +4692,24 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="power_and_empire_by_marc_cameron"></a>#17 Jack Ryan Series -- Power and Empire. By Marc Cameron. 2017 </summary>
+
+### Power and Empire. (16:00)  
+Audio: https://www.overdrive.com/media/3241476/power-and-empire  
+eBook: https://www.overdrive.com/media/3242215/power-and-empire  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
+
+Reading Notes:   
+https://en.wikipedia.org/wiki/Jack_Ryan_(character)  
+
+[Wikipedia Summary](https://en.wikipedia.org/wiki/Power_and_Empire):  
+>"In the novel, President Ryan and The Campus must prevent a secret cabal heightening the tensions between the United States and China from causing a violent coup in the Chinese government." https://en.wikipedia.org/wiki/Power_and_Empire  
+
+</details>
+
+
+
 
 <details>
 <summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
