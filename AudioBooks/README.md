@@ -4573,6 +4573,23 @@ ebook: https://www.overdrive.com/media/10381296/weyward-by-emilia-hart-summary-s
 </details>
 
 
+<details>
+<summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
+
+### Whalefall.  (8:00)  
+Audio: https://www.overdrive.com/media/9310752/whalefall  
+eBook: https://www.overdrive.com/media/9313802/whalefall  
+By [Daniel Kraus](https://en.wikipedia.org/wiki/Daniel_Kraus_(author))  (1975 – )  
+
+Reading Notes: A teenager living in the [Monterey, California](https://en.wikipedia.org/wiki/Monterey,_California) area struggles with the legacies of his recently deceased father...  
+Jay Gardiner's father Mitt Gardiner was well-known in the local scuba diving community, but struggled with parenting and with keeping jobs. Mitt is diagnosed with advanced mesothelioma and soon after commits suicide by weighing himself down with diving weights and jumping off a boat near [Monastery Beach](https://www.explore.com/1812877/california-monastery-beach-scenic-earned-chilling-nickname-dangerous-reputation/).  A year later, Jay attempts to retrieve his father's remains near Monastery Beach and is swallowed by a sperm whale.  The rest of the book is about Jay working out how to live and how to understand his relationship with his father.  Much of the story seemed so farfetched that I was repeatedly deciding whether to continue or return the book unfinished...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Whalefall_(novel)) for a more complete summary.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)  
+
+
+</details>
+
+
 <details><summary>What The Left Hand Was Doing.  By Randall Garrett.  1960</summary>
 
 ### What The Left Hand Was Doing.  (1:11)  
@@ -4700,7 +4717,7 @@ Audio: https://www.overdrive.com/media/3241476/power-and-empire
 eBook: https://www.overdrive.com/media/3242215/power-and-empire  
 By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
 
-Reading Notes:   
+Reading Notes: A central thread in this story involves violent child sex trafficing and some of the violence that surrounds that activity.  
 https://en.wikipedia.org/wiki/Jack_Ryan_(character)  
 
 [Wikipedia Summary](https://en.wikipedia.org/wiki/Power_and_Empire):  
@@ -4709,23 +4726,6 @@ https://en.wikipedia.org/wiki/Jack_Ryan_(character)
 </details>
 
 
-
-
-<details>
-<summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
-
-### Whalefall.  (8:00)  
-Audio: https://www.overdrive.com/media/9310752/whalefall  
-eBook: https://www.overdrive.com/media/9313802/whalefall  
-By [Daniel Kraus](https://en.wikipedia.org/wiki/Daniel_Kraus_(author))  (1975 – )  
-
-Reading Notes: A teenager living in the [Monterey, California](https://en.wikipedia.org/wiki/Monterey,_California) area struggles with the legacies of his recently deceased father...  
-Jay Gardiner's father Mitt Gardiner was well-known in the local scuba diving community, but struggled with parenting and with keeping jobs. Mitt is diagnosed with advanced mesothelioma and soon after commits suicide by weighing himself down with diving weights and jumping off a boat near [Monastery Beach](https://www.explore.com/1812877/california-monastery-beach-scenic-earned-chilling-nickname-dangerous-reputation/).  A year later, Jay attempts to retrieve his father's remains near Monastery Beach and is swallowed by a sperm whale.  The rest of the book is about Jay working out how to live and how to understand his relationship with his father.  Much of the story seemed so farfetched that I was repeatedly deciding whether to continue or return the book unfinished...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Whalefall_(novel)) for a more complete summary.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)  
-
-
-</details>
 
 
 <details>
