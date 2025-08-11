@@ -4573,6 +4573,23 @@ ebook: https://www.overdrive.com/media/10381296/weyward-by-emilia-hart-summary-s
 </details>
 
 
+<details>
+<summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
+
+### Whalefall.  (8:00)  
+Audio: https://www.overdrive.com/media/9310752/whalefall  
+eBook: https://www.overdrive.com/media/9313802/whalefall  
+By [Daniel Kraus](https://en.wikipedia.org/wiki/Daniel_Kraus_(author))  (1975 – )  
+
+Reading Notes: A teenager living in the [Monterey, California](https://en.wikipedia.org/wiki/Monterey,_California) area struggles with the legacies of his recently deceased father...  
+Jay Gardiner's father Mitt Gardiner was well-known in the local scuba diving community, but struggled with parenting and with keeping jobs. Mitt is diagnosed with advanced mesothelioma and soon after commits suicide by weighing himself down with diving weights and jumping off a boat near [Monastery Beach](https://www.explore.com/1812877/california-monastery-beach-scenic-earned-chilling-nickname-dangerous-reputation/).  A year later, Jay attempts to retrieve his father's remains near Monastery Beach and is swallowed by a sperm whale.  The rest of the book is about Jay working out how to live and how to understand his relationship with his father.  Much of the story seemed so farfetched that I was repeatedly deciding whether to continue or return the book unfinished...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Whalefall_(novel)) for a more complete summary.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)  
+
+
+</details>
+
+
 <details><summary>What The Left Hand Was Doing.  By Randall Garrett.  1960</summary>
 
 ### What The Left Hand Was Doing.  (1:11)  
@@ -4692,19 +4709,40 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="power_and_empire_by_marc_cameron"></a>#17 Jack Ryan Series -- Power and Empire. By Marc Cameron. 2017 </summary>
+
+### Power and Empire. (16:00)  
+Audio: https://www.overdrive.com/media/3241476/power-and-empire  
+eBook: https://www.overdrive.com/media/3242215/power-and-empire  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
+
+Reading Notes: A central thread in this story involves violent child sex trafficing and some of the violence that surrounds that activity.  
+https://en.wikipedia.org/wiki/Jack_Ryan_(character)  
+
+[Wikipedia Summary](https://en.wikipedia.org/wiki/Power_and_Empire):  
+>"In the novel, President Ryan and The Campus must prevent a secret cabal heightening the tensions between the United States and China from causing a violent coup in the Chinese government." https://en.wikipedia.org/wiki/Power_and_Empire  
+
+</details>
+
+
+
 
 <details>
-<summary><a name="whalefall_by_daniel_kraus"></a>Whalefall. By Daniel Kraus. 2023 </summary>
+<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
 
-### Whalefall.  (8:00)  
-Audio: https://www.overdrive.com/media/9310752/whalefall  
-eBook: https://www.overdrive.com/media/9313802/whalefall  
-By [Daniel Kraus](https://en.wikipedia.org/wiki/Daniel_Kraus_(author))  (1975 – )  
+### The Dream Hotel.  (12:00)  
+Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
+eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
+By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
 
-Reading Notes: A teenager living in the [Monterey, California](https://en.wikipedia.org/wiki/Monterey,_California) area struggles with the legacies of his recently deceased father...  
-Jay Gardiner's father Mitt Gardiner was well-known in the local scuba diving community, but struggled with parenting and with keeping jobs. Mitt is diagnosed with advanced mesothelioma and soon after commits suicide by weighing himself down with diving weights and jumping off a boat near [Monastery Beach](https://www.explore.com/1812877/california-monastery-beach-scenic-earned-chilling-nickname-dangerous-reputation/).  A year later, Jay attempts to retrieve his father's remains near Monastery Beach and is swallowed by a sperm whale.  The rest of the book is about Jay working out how to live and how to understand his relationship with his father.  Much of the story seemed so farfetched that I was repeatedly deciding whether to continue or return the book unfinished...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Whalefall_(novel)) for a more complete summary.  
+Reading Notes:  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/Whalefall_(novel)  
+Wikipedia Summary:  
+>Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity to committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
+
+Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
+Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
 
 
 </details>
