@@ -7,14 +7,16 @@
 <details><summary><a name="anchorite_by_randall_garrett"></a>Anchorite. By Randall Garrett.  1962 </summary>
 
 ### Anchorite.  1962  
-https://www.gutenberg.org/ebooks/23561  
-Audio at: https://librivox.org/anchorite-by-randall-garrett/  
+eBook: https://www.gutenberg.org/ebooks/23561  
+Audio: https://librivox.org/anchorite-by-randall-garrett/  -- Running Time: 02:02:14  
 By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
-Reading Notes:  This story (*and the Librivox summary below*) while entertaining and a worthwhile read, seem loosely like a science fiction expression of [Ayn Rand'ian romantic realism](https://en.wikipedia.org/wiki/Ayn_Rand#Literary_approach_and_influences) -- with the central characters as heroic individualists or ignorant villains who emphasize duty to your team and collectivist moral ideals.  
+
+Reading Notes:  This story (*and the Librivox summary below*) while entertaining and a worthwhile read, seems loosely like a science fiction expression of [Ayn Rand'ian romantic realism](https://en.wikipedia.org/wiki/Ayn_Rand#Literary_approach_and_influences) -- with the central characters as heroic individualists or ignorant villains who emphasize duty to your team and collectivist moral ideals.  
 [Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
 >Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
 
 </details>
+
 
 <details><summary><a name="apiary_experiments_comb_building_by_c_p_gillette"></a>Apiary Experiments. Foundation in Comb Building. By C. P. (Clarence Preston) Gillette.  1900 </summary>
 
@@ -30,6 +32,7 @@ Reading Notes:  The title says it all...  If you have any interest in how honey 
 
 </details>
 
+- - -
 <details><summary><a name="call_of_the_wild_by_jack_london"></a>The Call of the Wild.  By Jack London.  1903</summary>
 
 ### The Call of the Wild  
@@ -64,10 +67,10 @@ Appendix. "Natural History Of The Prognathous Species Of Mankind." By Dr. [Samue
 
 Reader notes:  I read this in early 2024 while thinking about the increasing volume of *race-related* arguments in Far Right and Trumpist/Trumper rhetoric that I see in *print* news and in streaming *news-like* programming.  It is a depressing read -- made more depressing when paired with its "*echos*" in political speech in the U.S. today.  That said, I recommend this exercise to anyone who has only a foggy memory (*or less*) of the kind of language and logic used in mid-19th century America to justify and solidify Black slavery in the U.S. [*Update* late February 2024: Listening to some of the legislative debate about a bill to specify content of public school social studies classes in Iowa, I heard one Iowa legislator argue that the topic of slavery in the U.S. is not important enough to include in the Iowa public school social studies curriculum. Ugg... Some people need much more help than will be found in this 1857 publication.]  
 As a reminder to those who forgot their High School history or government class summary of this case, "[Taney infamously delivered the majority opinion in Dred Scott v. Sandford (1857), ruling that African Americans could not be considered U.S. citizens (*and thus they could not enjoy the rights and privileges the Constitution conferred upon American citizens*) and that Congress could not prohibit slavery in the U.S. territories.](https://en.wikipedia.org/wiki/Roger_B._Taney)."  Chief Justice Taney wrote for the majority that African Americans:  
->"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated 18 or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." ([page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
+>"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." (images [10](https://www.loc.gov/resource/llst.022/?sp=10&st=image) and [11](https://www.loc.gov/resource/llst.022/?sp=11&st=image)  or [page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
 
 and that:  
->"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... ([page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
+>"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... (image [13](https://www.loc.gov/resource/llst.022/?sp=13&st=image) or [page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
 
 and finally, that:  
 >"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
