@@ -1556,8 +1556,7 @@ Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time
 </details>
 
 
-<details>
-<summary><a name="enemy_contact_by_mike_maden"></a>#6 Jack Ryan Jr. Series -- Enemy Contact.  By Mike Maden.  2019 </summary>
+<details><summary><a name="enemy_contact_by_mike_maden"></a>#6 Jack Ryan Jr. Series -- Enemy Contact.  By Mike Maden.  2019 </summary>
 
 ### Enemy Contact. (13:15)  
 Audio: https://www.overdrive.com/media/4362327/enemy-contact  
