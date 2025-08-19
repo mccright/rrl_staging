@@ -4740,8 +4740,6 @@ Reading Notes:
 
 
 
-
-
 <details>
 <summary><a name="legacy_of_ashes_by_tim_weiner"></a>Legacy of Ashes. -- The History of the CIA. By Tim Weiner.  2007 </summary>
 
@@ -4754,10 +4752,18 @@ Reading Notes:
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)  
 
+Review by [Evan Thomas](https://en.wikipedia.org/wiki/Evan_Thomas): [https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html](https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html?unlocked_article_code=1.fE8.D9kh.pXMcMdSB7u1-&smid=url-share)
+
+CIA Statement on “Legacy of Ashes:” [https://web.archive.org...https://www.cia.gov/.../legacy-of-ashes.html](https://web.archive.org/web/20080109055832/https://www.cia.gov/news-information/press-releases-statements/press-release-archive-2007/legacy-of-ashes.html)  
+
+CIA Historian Nicholas Dujmovic on "Legacy of Ashes:" [https://web.archive.org...https://www.cia.gov/...legacy-of-ashes.pdf](https://web.archive.org/web/20210119222226/https://www.cia.gov/static/49561e0c75f85cc633453c8d40888e94/legacy-of-ashes.pdf)
 
 </details>
 
 
+Check on:  
+THE MISSION: The CIA in the 21st Century | By Tim Weiner | Mariner | 454 pp.  
+Review: https://www.nytimes.com/2025/07/15/books/review/the-mission-tim-weiner.html  
 
 
 <details>
