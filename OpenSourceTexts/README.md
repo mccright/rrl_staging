@@ -36,9 +36,14 @@ Reading Notes:  The title says it all...  If you have any interest in how honey 
 <details><summary><a name="call_of_the_wild_by_jack_london"></a>The Call of the Wild.  By Jack London.  1903</summary>
 
 ### The Call of the Wild  
-https://www.gutenberg.org/ebooks/215  
-https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
+eBook: https://www.gutenberg.org/ebooks/215  
+eBook: https://www.overdrive.com/media/260071/the-call-of-the-wild  
+Audio: https://www.overdrive.com/media/65007/the-call-of-the-wild  
+Audio: https://librivox.org/the-call-of-the-wild-version-5-by-jack-london/  
+
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 
 </details>
 
