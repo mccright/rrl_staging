@@ -168,8 +168,7 @@ This book includes some sterotyping based on race, ethnicity and other character
 </details>
 
 
-<details>
-<summary>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
+<details><summary><a name="observations_on_the_slave_trade_by_carl_bernhard_wadström"></a>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
 https://www.gutenberg.org/ebooks/69156  
@@ -183,19 +182,20 @@ For additional context, you might want to read an article by Morton D. Paley, "[
 </details>
 
 
-<details><summary>The Quantum Jump.  By Robert Wicks.  1958</summary>
+<details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958</summary>
 
 ### The Quantum Jump.  
-https://www.gutenberg.org/ebooks/24418  
-This story was published in Amazing Science Fiction Stories, October 1958.  
+eBook: https://www.gutenberg.org/ebooks/24418  
+Audio: There are at least three audio versions of this short story (~22:00 each).  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+This short story was published in Amazing Science Fiction Stories, October 1958.  
 By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
 Reading Notes:  
-This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  There are at least three audio versions of this short story.  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  
 
 </details>
 
 
-<details><summary>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+<details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
@@ -220,7 +220,7 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 </details>
 
 
-<details><summary>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
+<details><summary><a name=""></a>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
 https://www.gutenberg.org/ebooks/68694  
@@ -231,7 +231,7 @@ Reader Summary: Historical fiction likely targeted at middle-schoolers...  [Char
 </details>
 
 
-<details><summary>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
+<details><summary><a name=""></a>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
 
 ### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
 https://www.gutenberg.org/ebooks/68780  
@@ -241,7 +241,7 @@ Note: This mid-19th century travel narrative (novel?) includes an early usage of
 </details>
 
 
-<details><summary>The shipwreck. By William Falconer.  1762 </summary>
+<details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
@@ -264,7 +264,7 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 </details>
 
 
-<details><summary>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
+<details><summary><a name=""></a>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
 
 ### The Souls of Black Folk: Essays and Sketches.  
 eBook: https://www.gutenberg.org/ebooks/408  
@@ -301,7 +301,7 @@ Reading Notes:
 
 
 <details>
-<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+<summary><a name=""></a>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
 ### Cue for Quiet.  
 eBook: https://www.gutenberg.org/ebooks/32889  
@@ -348,7 +348,7 @@ Reading Notes:
 
 
 <details>
-<summary>Woodcraft and Camping. By George Washington Sears. 1920 (1884) </summary>
+<summary><a name=""></a>Woodcraft and Camping. By George Washington Sears. 1920 (1884) </summary>
 
 ### Woodcraft and Camping.  
 eBook: https://www.gutenberg.org/ebooks/34607    
@@ -377,7 +377,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespe
 </details>
 
 <details>
-<summary>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
+<summary><a name=""></a>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
 
 ### The Radio Amateur's Handbook.  
 eBook: https://www.gutenberg.org/ebooks/6934  
@@ -389,7 +389,7 @@ Reading Notes:
 
 
 <details>
-<summary>Herbert Hoover: The Man and His Work. By Vernon L. Kellogg. 1920 </summary>
+<summary><a name=""></a>Herbert Hoover: The Man and His Work. By Vernon L. Kellogg. 1920 </summary>
 
 ### Herbert Hoover: The Man and His Work.  
 eBook: https://www.gutenberg.org/ebooks/29489  
@@ -402,7 +402,7 @@ Reading Notes:  This is a short biography and then the focus is on Hoover's role
 
  
 <details>
-<summary>Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact. By Victor Rubin. (1892- ) 1923</summary>
+<summary><a name=""></a>Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact. By Victor Rubin. (1892- ) 1923</summary>
 
 ### Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact.  
 eBook: https://www.gutenberg.org/ebooks/73731  
@@ -423,7 +423,7 @@ See: https://academic.oup.com/chicago-scholarship-online/book/21466/chapter-abst
   
 
 <details>
-<summary>The Radio Amateur's Hand Book by A. Frederick Collins. </summary>
+<summary><a name=""></a>The Radio Amateur's Hand Book by A. Frederick Collins. </summary>
 
 ### The Radio Amateur's Hand Book.  
 eBook: https://www.gutenberg.org/ebooks/6934  
