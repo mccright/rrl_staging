@@ -32,7 +32,7 @@ Reading Notes:  The title says it all...  If you have any interest in how honey 
 
 </details>
 
-- - -
+
 <details><summary><a name="call_of_the_wild_by_jack_london"></a>The Call of the Wild.  By Jack London.  1903</summary>
 
 ### The Call of the Wild  
@@ -58,8 +58,7 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 </details>
 
 
-<details>
-<summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+<details><summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
 
 ### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
 This ebook: https://www.loc.gov/item/17001543/  
@@ -87,7 +86,7 @@ The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/it
 </details>
 
 
-<details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
+<details><summary><a name="the_expendables_by_a_e_van_vogt"></a>The Expendables. by A. E. Van Vogt  1963</summary>  
 
 ### The Expendables.  
 https://www.gutenberg.org/ebooks/70235  
@@ -98,8 +97,8 @@ Reading Notes:  This short book begins with "One hundred and nine years after le
 
 </details>
 
-
-<details><summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+- - -
+<details><summary><a name="the_farmers_bride_by_charlotte_mew"></a>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  
 Text: https://www.gutenberg.org/ebooks/71305  
@@ -113,7 +112,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Invasion.  By Murray Leinster.  1933</summary>
+<details><summary><a name="invasion_by_murray_leinster"></a>Invasion.  By Murray Leinster.  1933</summary>
 
 ### Invasion  
 https://www.gutenberg.org/ebooks/29455  
@@ -122,7 +121,7 @@ By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975),
 </details>
 
 
-<details><summary>The Lake.  By Ray Bradbury.  1944</summary>
+<details><summary><a name="the_lake_by_ray_bradbury"></a>The Lake.  By Ray Bradbury.  1944</summary>
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
 . . . and the Lake keeps people as they were, forever and ever  
@@ -138,7 +137,7 @@ Background from Wikipedia:
 </details>
 
 
-<details><summary>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
+<details><summary><a name="lord_of_the_sea_by_m_p_shiel"></a>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
 
 ### The Lord of the Sea  
 https://www.gutenberg.org/ebooks/6993  
@@ -152,7 +151,7 @@ Reading Notes: This book is characterized by "choppy" story telling -- skipping 
 </details>
 
 
-<details><summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
+<details><summary><a name="three_years_in_manipur_by_ethel_st_clair_grimwood"></a>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
 
 ### My Three Years In Manipur: And Escape From The Recent Mutiny.  
 https://www.gutenberg.org/ebooks/71726  
@@ -161,7 +160,7 @@ https://archive.org/details/in.ernet.dli.2015.44982/mode/2up
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
 
 Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.  
-This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
+This book includes some sterotyping based on race, ethnicity and other characteristics "that may shape society" (*at least in the popular understanding of many late 19th century Westerners*).  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
 
 [Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
 >The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
