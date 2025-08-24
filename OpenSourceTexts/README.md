@@ -97,7 +97,7 @@ Reading Notes:  This short book begins with "One hundred and nine years after le
 
 </details>
 
-- - -
+
 <details><summary><a name="the_farmers_bride_by_charlotte_mew"></a>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  
@@ -120,12 +120,12 @@ By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975),
 
 </details>
 
-
+- - -
 <details><summary><a name="the_lake_by_ray_bradbury"></a>The Lake.  By Ray Bradbury.  1944</summary>
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
 . . . and the Lake keeps people as they were, forever and ever  
-https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+eBook: https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
 
 Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
