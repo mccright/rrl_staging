@@ -1556,6 +1556,21 @@ Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time
 </details>
 
 
+<details><summary><a name="enemy_contact_by_mike_maden"></a>#6 Jack Ryan Jr. Series -- Enemy Contact.  By Mike Maden.  2019 </summary>
+
+### Enemy Contact. (13:15)  
+Audio: https://www.overdrive.com/media/4362327/enemy-contact  
+eBook: https://www.overdrive.com/media/4362284/enemy-contact  
+By [Mike Maden](https://en.wikipedia.org/wiki/Mike_Maden)  (1960 – )  
+
+Reading Notes: Hendley Associates financial analyst Jack Ryan Jr. is assigned to investigate the *business* activities of a powerful U.S. Senator's family in Poland.  He links up with Polish intelligence officer Liliana Pilecki for the investigation and later watches her drown in the Baltic.  Jack has a personal crisis, but recovers (*involves violence*).  Concurrently, a U.S. traitor sells access to the cloud infrastructure of the entire U.S. intelligence community.  The two plot threads converge via the "Iron Syndicate," leader known as "*the Czech.*"  This is another action-heavy Jack Ryan novel.  If you want to know more, see the [Wikipedia summary](https://en.wikipedia.org/wiki/Enemy_Contact).  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Enemy_Contact  
+
+</details>
+
+
 <details><summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
 
 ### Erasing History -- How Fascists Rewrite the Past to Control the Future. (5:00)  
@@ -2551,6 +2566,27 @@ Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behi
 </details>
 
 
+<details>
+<summary><a name="legacy_of_ashes_by_tim_weiner"></a>Legacy of Ashes. -- The History of the CIA. By Tim Weiner.  2007 </summary>
+
+### Legacy of Ashes. -- The History of the CIA.  (21:22)  
+Audio: https://www.overdrive.com/media/137124/legacy-of-ashes  
+eBook: https://www.overdrive.com/media/148005/legacy-of-ashes  
+By [Tim Weiner](https://en.wikipedia.org/wiki/Tim_Weiner)  (1956 – )  
+
+Reading Notes: The author describes a roughly 60 year run of CIA failure (*with a few, sporatic successes*).  It seems like required reading for everyone in the U.S.  Our leaders regularly tell us that some peoples are evil and worthy of the violence that U.S. forces (public and secret) can inflict upon them.  This book might help build some context for making better informed decisions about voting for those leaders who offer no more than *intelligence* as their justification for war (*or more somply **violence** without the structure of war*).  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)) to get some sense of the range of criticisms aimed at this book as well.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)  
+
+Review by [Evan Thomas](https://en.wikipedia.org/wiki/Evan_Thomas): [https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html](https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html?unlocked_article_code=1.fE8.D9kh.pXMcMdSB7u1-&smid=url-share)
+
+CIA Statement on “Legacy of Ashes:” [https://web.archive.org...https://www.cia.gov/.../legacy-of-ashes.html](https://web.archive.org/web/20080109055832/https://www.cia.gov/news-information/press-releases-statements/press-release-archive-2007/legacy-of-ashes.html)  
+
+CIA Historian Nicholas Dujmovic on "Legacy of Ashes:" [https://web.archive.org...https://www.cia.gov/...legacy-of-ashes.pdf](https://web.archive.org/web/20210119222226/https://www.cia.gov/static/49561e0c75f85cc633453c8d40888e94/legacy-of-ashes.pdf)
+
+</details>
+
+
 <details><summary><a name="the_legion_of_lazarus_by_edmond_hamilton"></a>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>
 
 ### The Legion of Lazarus (2:38)  
@@ -3541,6 +3577,23 @@ Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-r
 </details>
 
 
+<details>
+<summary><a name="power_and_empire_by_marc_cameron"></a>#17 Jack Ryan Series -- Power and Empire. By Marc Cameron. 2017 </summary>
+
+### Power and Empire. (16:00)  
+Audio: https://www.overdrive.com/media/3241476/power-and-empire  
+eBook: https://www.overdrive.com/media/3242215/power-and-empire  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
+
+Reading Notes: A central thread in this story involves violent child sex trafficing and some of the violence that surrounds that activity.  
+https://en.wikipedia.org/wiki/Jack_Ryan_(character)  
+
+[Wikipedia Summary](https://en.wikipedia.org/wiki/Power_and_Empire):  
+>"In the novel, President Ryan and The Campus must prevent a secret cabal heightening the tensions between the United States and China from causing a violent coup in the Chinese government." https://en.wikipedia.org/wiki/Power_and_Empire  
+
+</details>
+
+
 <details><summary><a name="precipice_the_grand_tour_by_ben_bova"></a>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
 
 ### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
@@ -3691,7 +3744,7 @@ Reading Notes: This is an interesting story outlining one way to *explain* how t
 </details>
 
 
-<details><summary><a name="red_winter_by_marc_cameron"></a>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+<details><summary><a name="red_winter_by_marc_cameron"></a>#22 Jack Ryan Series -- Red Winter. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
 https://www.overdrive.com/media/8822188/red-winter  
@@ -4708,24 +4761,9 @@ Reading Notes:
 
 
 
-
-<details>
-<summary><a name="power_and_empire_by_marc_cameron"></a>#17 Jack Ryan Series -- Power and Empire. By Marc Cameron. 2017 </summary>
-
-### Power and Empire. (16:00)  
-Audio: https://www.overdrive.com/media/3241476/power-and-empire  
-eBook: https://www.overdrive.com/media/3242215/power-and-empire  
-By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
-
-Reading Notes: A central thread in this story involves violent child sex trafficing and some of the violence that surrounds that activity.  
-https://en.wikipedia.org/wiki/Jack_Ryan_(character)  
-
-[Wikipedia Summary](https://en.wikipedia.org/wiki/Power_and_Empire):  
->"In the novel, President Ryan and The Campus must prevent a secret cabal heightening the tensions between the United States and China from causing a violent coup in the Chinese government." https://en.wikipedia.org/wiki/Power_and_Empire  
-
-</details>
-
-
+Check on:  
+THE MISSION: The CIA in the 21st Century | By Tim Weiner | Mariner | 454 pp.  
+Review: https://www.nytimes.com/2025/07/15/books/review/the-mission-tim-weiner.html  
 
 
 <details>

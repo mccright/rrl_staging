@@ -32,13 +32,18 @@ Reading Notes:  The title says it all...  If you have any interest in how honey 
 
 </details>
 
-- - -
+
 <details><summary><a name="call_of_the_wild_by_jack_london"></a>The Call of the Wild.  By Jack London.  1903</summary>
 
 ### The Call of the Wild  
-https://www.gutenberg.org/ebooks/215  
-https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
+eBook: https://www.gutenberg.org/ebooks/215  
+eBook: https://www.overdrive.com/media/260071/the-call-of-the-wild  
+Audio: https://www.overdrive.com/media/65007/the-call-of-the-wild  
+Audio: https://librivox.org/the-call-of-the-wild-version-5-by-jack-london/  
+
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 
 </details>
 
@@ -53,8 +58,7 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 </details>
 
 
-<details>
-<summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+<details><summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
 
 ### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
 This ebook: https://www.loc.gov/item/17001543/  
@@ -82,7 +86,7 @@ The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/it
 </details>
 
 
-<details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
+<details><summary><a name="the_expendables_by_a_e_van_vogt"></a>The Expendables. by A. E. Van Vogt  1963</summary>  
 
 ### The Expendables.  
 https://www.gutenberg.org/ebooks/70235  
@@ -94,7 +98,7 @@ Reading Notes:  This short book begins with "One hundred and nine years after le
 </details>
 
 
-<details><summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+<details><summary><a name="the_farmers_bride_by_charlotte_mew"></a>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  
 Text: https://www.gutenberg.org/ebooks/71305  
@@ -108,7 +112,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Invasion.  By Murray Leinster.  1933</summary>
+<details><summary><a name="invasion_by_murray_leinster"></a>Invasion.  By Murray Leinster.  1933</summary>
 
 ### Invasion  
 https://www.gutenberg.org/ebooks/29455  
@@ -117,11 +121,11 @@ By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975),
 </details>
 
 
-<details><summary>The Lake.  By Ray Bradbury.  1944</summary>
+<details><summary><a name="the_lake_by_ray_bradbury"></a>The Lake.  By Ray Bradbury.  1944</summary>
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
 . . . and the Lake keeps people as they were, forever and ever  
-https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+eBook: https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
 
 Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
@@ -132,11 +136,11 @@ Background from Wikipedia:
 
 </details>
 
-
-<details><summary>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
+- - -
+<details><summary><a name="lord_of_the_sea_by_m_p_shiel"></a>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
 
 ### The Lord of the Sea  
-https://www.gutenberg.org/ebooks/6993  
+eBook: https://www.gutenberg.org/ebooks/6993  
 By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 Reading Notes and 3rd Party Summaries:  
 Reading Notes: This book is characterized by "choppy" story telling -- skipping from one vignette to another, sometimes with minimal connective tissue, and fleshing out some (*few*) scenes while leaving others dryly skeletal. Shiel seems most consistent in his threading of anti-semitism throughout the many literary sketches that make up this book (*this content may be offensive for many, even inappropriate for some*).  
@@ -147,7 +151,7 @@ Reading Notes: This book is characterized by "choppy" story telling -- skipping 
 </details>
 
 
-<details><summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
+<details><summary><a name="three_years_in_manipur_by_ethel_st_clair_grimwood"></a>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
 
 ### My Three Years In Manipur: And Escape From The Recent Mutiny.  
 https://www.gutenberg.org/ebooks/71726  
@@ -156,7 +160,7 @@ https://archive.org/details/in.ernet.dli.2015.44982/mode/2up
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
 
 Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.  
-This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
+This book includes some sterotyping based on race, ethnicity and other characteristics "that may shape society" (*at least in the popular understanding of many late 19th century Westerners*).  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
 
 [Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
 >The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
@@ -164,8 +168,7 @@ This book includes some sterotyping based on race, ethnicity and other character
 </details>
 
 
-<details>
-<summary>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
+<details><summary><a name="observations_on_the_slave_trade_by_carl_bernhard_wadström"></a>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
 https://www.gutenberg.org/ebooks/69156  
@@ -179,19 +182,20 @@ For additional context, you might want to read an article by Morton D. Paley, "[
 </details>
 
 
-<details><summary>The Quantum Jump.  By Robert Wicks.  1958</summary>
+<details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958</summary>
 
 ### The Quantum Jump.  
-https://www.gutenberg.org/ebooks/24418  
-This story was published in Amazing Science Fiction Stories, October 1958.  
+eBook: https://www.gutenberg.org/ebooks/24418  
+Audio: There are at least three audio versions of this short story (~22:00 each).  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+This short story was published in Amazing Science Fiction Stories, October 1958.  
 By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
 Reading Notes:  
-This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  There are at least three audio versions of this short story.  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  
 
 </details>
 
 
-<details><summary>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+<details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
@@ -216,7 +220,7 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 </details>
 
 
-<details><summary>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
+<details><summary><a name=""></a>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
 https://www.gutenberg.org/ebooks/68694  
@@ -227,7 +231,7 @@ Reader Summary: Historical fiction likely targeted at middle-schoolers...  [Char
 </details>
 
 
-<details><summary>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
+<details><summary><a name=""></a>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
 
 ### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
 https://www.gutenberg.org/ebooks/68780  
@@ -237,7 +241,7 @@ Note: This mid-19th century travel narrative (novel?) includes an early usage of
 </details>
 
 
-<details><summary>The shipwreck. By William Falconer.  1762 </summary>
+<details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
@@ -260,7 +264,7 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 </details>
 
 
-<details><summary>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
+<details><summary><a name=""></a>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
 
 ### The Souls of Black Folk: Essays and Sketches.  
 eBook: https://www.gutenberg.org/ebooks/408  
@@ -297,7 +301,7 @@ Reading Notes:
 
 
 <details>
-<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+<summary><a name=""></a>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
 ### Cue for Quiet.  
 eBook: https://www.gutenberg.org/ebooks/32889  
@@ -344,7 +348,7 @@ Reading Notes:
 
 
 <details>
-<summary>Woodcraft and Camping. By George Washington Sears. 1920 (1884) </summary>
+<summary><a name=""></a>Woodcraft and Camping. By George Washington Sears. 1920 (1884) </summary>
 
 ### Woodcraft and Camping.  
 eBook: https://www.gutenberg.org/ebooks/34607    
@@ -373,7 +377,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespe
 </details>
 
 <details>
-<summary>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
+<summary><a name=""></a>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
 
 ### The Radio Amateur's Handbook.  
 eBook: https://www.gutenberg.org/ebooks/6934  
@@ -385,7 +389,7 @@ Reading Notes:
 
 
 <details>
-<summary>Herbert Hoover: The Man and His Work. By Vernon L. Kellogg. 1920 </summary>
+<summary><a name=""></a>Herbert Hoover: The Man and His Work. By Vernon L. Kellogg. 1920 </summary>
 
 ### Herbert Hoover: The Man and His Work.  
 eBook: https://www.gutenberg.org/ebooks/29489  
@@ -398,7 +402,7 @@ Reading Notes:  This is a short biography and then the focus is on Hoover's role
 
  
 <details>
-<summary>Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact. By Victor Rubin. (1892- ) 1923</summary>
+<summary><a name=""></a>Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact. By Victor Rubin. (1892- ) 1923</summary>
 
 ### Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact.  
 eBook: https://www.gutenberg.org/ebooks/73731  
@@ -419,7 +423,7 @@ See: https://academic.oup.com/chicago-scholarship-online/book/21466/chapter-abst
   
 
 <details>
-<summary>The Radio Amateur's Hand Book by A. Frederick Collins. </summary>
+<summary><a name=""></a>The Radio Amateur's Hand Book by A. Frederick Collins. </summary>
 
 ### The Radio Amateur's Hand Book.  
 eBook: https://www.gutenberg.org/ebooks/6934  
