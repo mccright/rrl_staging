@@ -120,7 +120,7 @@ By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975),
 
 </details>
 
-- - -
+
 <details><summary><a name="the_lake_by_ray_bradbury"></a>The Lake.  By Ray Bradbury.  1944</summary>
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
@@ -136,11 +136,11 @@ Background from Wikipedia:
 
 </details>
 
-
+- - -
 <details><summary><a name="lord_of_the_sea_by_m_p_shiel"></a>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
 
 ### The Lord of the Sea  
-https://www.gutenberg.org/ebooks/6993  
+eBook: https://www.gutenberg.org/ebooks/6993  
 By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 Reading Notes and 3rd Party Summaries:  
 Reading Notes: This book is characterized by "choppy" story telling -- skipping from one vignette to another, sometimes with minimal connective tissue, and fleshing out some (*few*) scenes while leaving others dryly skeletal. Shiel seems most consistent in his threading of anti-semitism throughout the many literary sketches that make up this book (*this content may be offensive for many, even inappropriate for some*).  

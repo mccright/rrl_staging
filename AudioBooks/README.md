@@ -2566,6 +2566,27 @@ Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behi
 </details>
 
 
+<details>
+<summary><a name="legacy_of_ashes_by_tim_weiner"></a>Legacy of Ashes. -- The History of the CIA. By Tim Weiner.  2007 </summary>
+
+### Legacy of Ashes. -- The History of the CIA.  (21:22)  
+Audio: https://www.overdrive.com/media/137124/legacy-of-ashes  
+eBook: https://www.overdrive.com/media/148005/legacy-of-ashes  
+By [Tim Weiner](https://en.wikipedia.org/wiki/Tim_Weiner)  (1956 – )  
+
+Reading Notes: The author describes a roughly 60 year run of CIA failure (*with a few, sporatic successes*).  It seems like required reading for everyone in the U.S.  Our leaders regularly tell us that some peoples are evil and worthy of the violence that U.S. forces (public and secret) can inflict upon them.  This book might help build some context for making better informed decisions about voting for those leaders who offer no more than *intelligence* as their justification for war (*or more somply **violence** without the structure of war*).  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)) to get some sense of the range of criticisms aimed at this book as well.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)  
+
+Review by [Evan Thomas](https://en.wikipedia.org/wiki/Evan_Thomas): [https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html](https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html?unlocked_article_code=1.fE8.D9kh.pXMcMdSB7u1-&smid=url-share)
+
+CIA Statement on “Legacy of Ashes:” [https://web.archive.org...https://www.cia.gov/.../legacy-of-ashes.html](https://web.archive.org/web/20080109055832/https://www.cia.gov/news-information/press-releases-statements/press-release-archive-2007/legacy-of-ashes.html)  
+
+CIA Historian Nicholas Dujmovic on "Legacy of Ashes:" [https://web.archive.org...https://www.cia.gov/...legacy-of-ashes.pdf](https://web.archive.org/web/20210119222226/https://www.cia.gov/static/49561e0c75f85cc633453c8d40888e94/legacy-of-ashes.pdf)
+
+</details>
+
+
 <details><summary><a name="the_legion_of_lazarus_by_edmond_hamilton"></a>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>
 
 ### The Legion of Lazarus (2:38)  
@@ -4738,27 +4759,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="legacy_of_ashes_by_tim_weiner"></a>Legacy of Ashes. -- The History of the CIA. By Tim Weiner.  2007 </summary>
-
-### Legacy of Ashes. -- The History of the CIA.  (21:22)  
-Audio: https://www.overdrive.com/media/137124/legacy-of-ashes  
-eBook: https://www.overdrive.com/media/148005/legacy-of-ashes  
-By [Tim Weiner](https://en.wikipedia.org/wiki/Tim_Weiner)  (1956 – )  
-
-Reading Notes:   
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)  
-
-Review by [Evan Thomas](https://en.wikipedia.org/wiki/Evan_Thomas): [https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html](https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html?unlocked_article_code=1.fE8.D9kh.pXMcMdSB7u1-&smid=url-share)
-
-CIA Statement on “Legacy of Ashes:” [https://web.archive.org...https://www.cia.gov/.../legacy-of-ashes.html](https://web.archive.org/web/20080109055832/https://www.cia.gov/news-information/press-releases-statements/press-release-archive-2007/legacy-of-ashes.html)  
-
-CIA Historian Nicholas Dujmovic on "Legacy of Ashes:" [https://web.archive.org...https://www.cia.gov/...legacy-of-ashes.pdf](https://web.archive.org/web/20210119222226/https://www.cia.gov/static/49561e0c75f85cc633453c8d40888e94/legacy-of-ashes.pdf)
-
-</details>
 
 
 Check on:  
