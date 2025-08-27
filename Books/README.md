@@ -368,6 +368,7 @@ eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell
 By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
 
 <details><summary>Reading Notes:</summary>
+
 Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
 The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
 
