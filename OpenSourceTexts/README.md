@@ -136,7 +136,7 @@ Background from Wikipedia:
 
 </details>
 
-- - -
+
 <details><summary><a name="lord_of_the_sea_by_m_p_shiel"></a>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
 
 ### The Lord of the Sea  
@@ -150,7 +150,7 @@ Reading Notes: This book is characterized by "choppy" story telling -- skipping 
 
 </details>
 
-
+- - -
 <details><summary><a name="three_years_in_manipur_by_ethel_st_clair_grimwood"></a>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
 
 ### My Three Years In Manipur: And Escape From The Recent Mutiny.  
