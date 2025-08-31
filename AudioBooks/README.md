@@ -1578,7 +1578,7 @@ Audio: https://www.overdrive.com/media/10753022/erasing-history
 eBook: https://www.overdrive.com/media/10480453/erasing-history  
 By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
 
-Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions.  Key terms: Fascism & Totalitarianism, Political Ideologies. 
+Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions, *including health research and education institutions.*  Key terms: Fascism & Totalitarianism, Political Ideologies. 
 
 
 Publisher's Description:  
@@ -4776,6 +4776,8 @@ eBook:
 By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
 
 Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Conflict. Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+
+Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
 
 
 </details>
