@@ -154,9 +154,9 @@ Reading Notes: This book is characterized by "choppy" story telling -- skipping 
 <details><summary><a name="three_years_in_manipur_by_ethel_st_clair_grimwood"></a>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
 
 ### My Three Years In Manipur: And Escape From The Recent Mutiny.  
-https://www.gutenberg.org/ebooks/71726  
-https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
-https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
+eBook: https://www.gutenberg.org/ebooks/71726  
+OnLine: https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
+OnLine: https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
 
 Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.  
