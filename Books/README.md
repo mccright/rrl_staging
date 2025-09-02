@@ -475,6 +475,19 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="fear_drive_my_feet_by_peter_ryan"></a>Fear Drive My Feet. By Peter Ryan. 1959  </summary>
+
+### Fear Drive My Feet.  
+eBook: https://www.overdrive.com/media/2164148/fear-drive-my-feet  
+
+By [Peter Ryan](https://en.wikipedia.org/wiki/Peter_Ryan_(columnist)) and [obituary](https://www.smh.com.au/national/obituary-never-an-ugly-sentence-from-this-mischiefmaking-publishers-pen-20151222-gltob4.html?js-chunk-not-found-refresh=true)  (1923 – 2015)  
+
+Reading Notes:  
+
+
+</details>
+
 
 <details>
 <summary><a name="on_tyranny_by_timothy_snyder"></a>On Tyranny -- Twenty Lessons from the Twentieth Century. By Timothy Snyder 2017 </summary>
