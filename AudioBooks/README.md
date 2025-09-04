@@ -4761,6 +4761,41 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
+Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
+eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
+By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (~1962 – )  
+
+Reading Notes: This is a *light* review of Franklin D. Roosevelt's early presidency by focusing on some of his most trusted advisors:  
+* Director of the Bureau of the Budget [Lewis Douglas](https://en.wikipedia.org/wiki/Lewis_Williams_Douglas)  
+* Secretary of labor, [Frances Perkins](https://en.wikipedia.org/wiki/Frances_Perkins)  
+* Secretary of agriculture [Henry A. Wallace](https://en.wikipedia.org/wiki/Henry_A._Wallace)  
+* [Harry Hopkins](https://en.wikipedia.org/wiki/Harry_Hopkins) directed [New Deal](https://en.wikipedia.org/wiki/New_Deal) relief programs.  
+The author wraps that in content about *before* and *after* Roosevelt's first 100 days and brief *biographies* of each advisor.  
+
+</details>
+
+
+
+
+<details>
+<summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+
+### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
+Audio: https://www.overdrive.com/media/8346811/notre-dame  
+eBook: https://www.overdrive.com/media/4815891/notre-dame  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: Written in response to the near catastrophic fire that burned much of Notre-Dame de Paris, Follett shares a brief history of the cathedral -- from the rationale for such expensive and time consuming exercises to their construction and its impact on localities as well as across Europe and beyond.  
+
+
+</details>
+
+
+
+
 Check on:  
 THE MISSION: The CIA in the 21st Century | By Tim Weiner | Mariner | 454 pp.  
 Review: https://www.nytimes.com/2025/07/15/books/review/the-mission-tim-weiner.html  
