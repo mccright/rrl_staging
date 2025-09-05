@@ -476,6 +476,19 @@ Reading Notes:
 
 
 <details>
+<summary><a name=""></a>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
 <summary><a name="fear_drive_my_feet_by_peter_ryan"></a>Fear Drive My Feet. By Peter Ryan. 1959  </summary>
 
 ### Fear Drive My Feet.  
@@ -510,12 +523,12 @@ From [Wikipedia](https://en.wikipedia.org/wiki/On_Tyranny):
 <details>
 <summary><a name="on_freedom_by_timothy_snyder"></a>On Freedom. By Timothy Snyder. 2024 </summary>
 
-### On Tyranny -- Twenty Lessons from the Twentieth Century.  
+### On Freedom -- Twenty Lessons from the Twentieth Century.  
 Audio: https://www.overdrive.com/media/10477783/on-freedom  
 eBook: https://www.overdrive.com/media/10345052/on-freedom  
 By [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder)  (1969 – )  
 
-Reading Notes: This short book outlines one humane approach to resisting the corruption of politics and government by Trumpers & too many Republicans (some of which is described in Steve Benen's "[Ministry of Truth](https://mccright.github.io/rrl/#ministry_of_truth_by_steve_benen)."  If you read his "[On Tyranny](#on_tyranny_by_timothy_snyder)" you might enjoy this (*these are very different books*) equally thoughtful approach to resisting political lies and authoritarianism.  
+Reading Notes: This book outlines one humane approach to resisting the corruption of politics and government by Trumpers & too many Republicans (some of which is described in Steve Benen's "[Ministry of Truth](https://mccright.github.io/rrl/#ministry_of_truth_by_steve_benen)."  If you read his "[On Tyranny](#on_tyranny_by_timothy_snyder)" you might enjoy this (*these are very different books*) equally thoughtful approach to resisting political lies and authoritarianism.  
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Timothy_Snyder#Views_on_threats_to_democracy_and_pursuit_of_freedom):  
 >On Freedom, launched September 17, 2024, answers questions asked of him by readers of On Tyranny, "What exactly is that good thing that you're defending, what is the opposite of tyranny?" In the book, he asserts that Americans tend to think of freedom as absence of something, the removal of occupation, oppression, or even government. While agreeing with the need to remove bad systems, Snyder offers a positive notion of freedom that puts the focus on human aspirations, values and how these can be realized in the world, also explaining how proper notions of freedom allow good government to exist.  
