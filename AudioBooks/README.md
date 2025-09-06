@@ -3213,6 +3213,23 @@ Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intellige
 </details>
 
 
+<details>
+<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
+Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
+eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
+By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (~1962 – )  
+
+Reading Notes: This is a *light* review of Franklin D. Roosevelt's early presidency by focusing on some of his most trusted advisors:  
+* Director of the Bureau of the Budget [Lewis Douglas](https://en.wikipedia.org/wiki/Lewis_Williams_Douglas)  
+* Secretary of labor, [Frances Perkins](https://en.wikipedia.org/wiki/Frances_Perkins)  
+* Secretary of agriculture [Henry A. Wallace](https://en.wikipedia.org/wiki/Henry_A._Wallace)  
+* [Harry Hopkins](https://en.wikipedia.org/wiki/Harry_Hopkins) directed [New Deal](https://en.wikipedia.org/wiki/New_Deal) relief programs.  
+The author wraps that in content about *before* and *after* Roosevelt's first 100 days and brief *biographies* of each advisor.  
+
+</details>
+
+
 <details><summary>Number 17.  By J. Jefferson Farjeon. 1926 </summary>
 
 ### No. 17 (Number Seventeen)  (5:37)  
@@ -4759,23 +4776,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
-### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
-Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
-eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
-By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (~1962 – )  
-
-Reading Notes: This is a *light* review of Franklin D. Roosevelt's early presidency by focusing on some of his most trusted advisors:  
-* Director of the Bureau of the Budget [Lewis Douglas](https://en.wikipedia.org/wiki/Lewis_Williams_Douglas)  
-* Secretary of labor, [Frances Perkins](https://en.wikipedia.org/wiki/Frances_Perkins)  
-* Secretary of agriculture [Henry A. Wallace](https://en.wikipedia.org/wiki/Henry_A._Wallace)  
-* [Harry Hopkins](https://en.wikipedia.org/wiki/Harry_Hopkins) directed [New Deal](https://en.wikipedia.org/wiki/New_Deal) relief programs.  
-The author wraps that in content about *before* and *after* Roosevelt's first 100 days and brief *biographies* of each advisor.  
-
-</details>
 
 
 
