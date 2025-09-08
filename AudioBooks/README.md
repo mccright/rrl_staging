@@ -3246,6 +3246,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details>
+<summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+
+### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
+Audio: https://www.overdrive.com/media/8346811/notre-dame  
+eBook: https://www.overdrive.com/media/4815891/notre-dame  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: Written in response to the near catastrophic fire that burned much of Notre-Dame de Paris, Follett shares a brief history of the cathedral -- from the rationale for such expensive and time consuming exercises to their construction and its impact on localities as well as across Europe and beyond.  
+
+
+</details>
+
+
 <details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
 ### An Officer and a Spy -- A novel.  (16:00)  
@@ -4781,17 +4795,20 @@ Reading Notes:
 
 
 <details>
-<summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+<summary><a name=""></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
 
-### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
-Audio: https://www.overdrive.com/media/8346811/notre-dame  
-eBook: https://www.overdrive.com/media/4815891/notre-dame  
-By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
+Audio: https://www.overdrive.com/media/5715471/the-nine  
+eBook: https://www.overdrive.com/media/5678338/the-nine  
+By [Gwen Strauss](https://www.gwenstrauss.com/bio.htm) and on [Wikipedia](https://en.wikipedia.org/wiki/Gwen_Strauss)  (1963 – )  
 
-Reading Notes: Written in response to the near catastrophic fire that burned much of Notre-Dame de Paris, Follett shares a brief history of the cathedral -- from the rationale for such expensive and time consuming exercises to their construction and its impact on localities as well as across Europe and beyond.  
+Reading Notes: A non-fiction story about nine female resistance fighters who survived the [Ravensbrück concentration camp](https://encyclopedia.ushmm.org/content/en/article/ravensbrueck) (*also [here](https://en.wikipedia.org/wiki/Ravensbr%C3%BCck_concentration_camp)*) North of [Berlin](https://en.wikipedia.org/wiki/Berlin) in [Fürstenberg/Havel](https://en.wikipedia.org/wiki/F%C3%BCrstenberg/Havel) Germany, escaped a death march.  Their routes home started with a ten-day journey together across the front lines of WWII to [Colditz](https://en.wikipedia.org/wiki/Colditz) where they were fed and housed by the U.S. Army.  One of the nine was the author's great aunt Helene Podliasky, a twenty-four-year-old engineer.  See the author's page on this book for a proper summary: https://www.gwenstrauss.com/the_nine.htm  
+
+Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-women/  
 
 
 </details>
+
 
 
 
