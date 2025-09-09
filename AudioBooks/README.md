@@ -1578,7 +1578,7 @@ Audio: https://www.overdrive.com/media/10753022/erasing-history
 eBook: https://www.overdrive.com/media/10480453/erasing-history  
 By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
 
-Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions.  Key terms: Fascism & Totalitarianism, Political Ideologies. 
+Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions, *including health research and education institutions.*  Key terms: Fascism & Totalitarianism, Political Ideologies. 
 
 
 Publisher's Description:  
@@ -3213,6 +3213,23 @@ Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intellige
 </details>
 
 
+<details>
+<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
+Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
+eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
+By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (~1962 – )  
+
+Reading Notes: This is a *light* review of Franklin D. Roosevelt's early presidency by focusing on some of his most trusted advisors:  
+* Director of the Bureau of the Budget [Lewis Douglas](https://en.wikipedia.org/wiki/Lewis_Williams_Douglas)  
+* Secretary of labor, [Frances Perkins](https://en.wikipedia.org/wiki/Frances_Perkins)  
+* Secretary of agriculture [Henry A. Wallace](https://en.wikipedia.org/wiki/Henry_A._Wallace)  
+* [Harry Hopkins](https://en.wikipedia.org/wiki/Harry_Hopkins) directed [New Deal](https://en.wikipedia.org/wiki/New_Deal) relief programs.  
+The author wraps that in content about *before* and *after* Roosevelt's first 100 days and brief *biographies* of each advisor.  
+
+</details>
+
+
 <details><summary>Number 17.  By J. Jefferson Farjeon. 1926 </summary>
 
 ### No. 17 (Number Seventeen)  (5:37)  
@@ -3225,6 +3242,19 @@ Librivox Summary:
 >A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
+<details><summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+
+### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
+Audio: https://www.overdrive.com/media/8346811/notre-dame  
+eBook: https://www.overdrive.com/media/4815891/notre-dame  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: Written in response to the near catastrophic fire that burned much of Notre-Dame de Paris, Follett shares a brief history of the cathedral -- from the rationale for such expensive and time consuming exercises to their construction and its impact on localities as well as across Europe and beyond.  
+
 
 </details>
 
@@ -4761,9 +4791,63 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary><a name="the_nine_by_gwen_strauss"></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
+
+### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
+Audio: https://www.overdrive.com/media/5715471/the-nine  
+eBook: https://www.overdrive.com/media/5678338/the-nine  
+By [Gwen Strauss](https://www.gwenstrauss.com/bio.htm) and on [Wikipedia](https://en.wikipedia.org/wiki/Gwen_Strauss)  (1963 – )  
+
+Reading Notes: A non-fiction story about nine female resistance fighters who survived the [Ravensbrück concentration camp](https://encyclopedia.ushmm.org/content/en/article/ravensbrueck) (*also [here](https://en.wikipedia.org/wiki/Ravensbr%C3%BCck_concentration_camp)*) North of [Berlin](https://en.wikipedia.org/wiki/Berlin) in [Fürstenberg/Havel](https://en.wikipedia.org/wiki/F%C3%BCrstenberg/Havel) Germany, escaped a death march.  Their routes home started with a ten-day journey together across the front lines of WWII to [Colditz](https://en.wikipedia.org/wiki/Colditz) where they were fed and housed by the U.S. Army.  One of the nine was the author's great aunt Helene Podliasky, a twenty-four-year-old engineer.  See the author's page on this book for a proper summary: https://www.gwenstrauss.com/the_nine.htm  
+
+Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-women/  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="madhouse_at_the_end_of_the_earth_by_julian_sancton"></a>Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. By Julian Sancton. 2021 </summary>
+
+### Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. (13:00)  
+Audio: https://www.overdrive.com/media/5664460/madhouse-at-the-end-of-the-earth  
+eBook: https://www.overdrive.com/media/5665688/madhouse-at-the-end-of-the-earth  
+By [Julian Sancton](https://www.instagram.com/jsancton/) and [on LinkedIn](https://www.linkedin.com/in/julian-sancton-65b32347/)  ( – )  
+
+Reading Notes:   
+
+Article by [the author] about writing and researching the book: [https://lithub.com/polar-nightmare...](https://lithub.com/polar-nightmare-on-one-of-the-first-international-expeditions-of-the-modern-era/)  
+
+</details>
+
+
+
+
 Check on:  
 THE MISSION: The CIA in the 21st Century | By Tim Weiner | Mariner | 454 pp.  
 Review: https://www.nytimes.com/2025/07/15/books/review/the-mission-tim-weiner.html  
+
+
+
+<details>
+<summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
+
+### Anomaly.  (10:00)  
+Audio: https://www.overdrive.com/media/4871889/anomaly  
+eBook:   
+By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
+
+Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Conflict. Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+
+Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
+
+
+</details>
+
 
 
 <details>
