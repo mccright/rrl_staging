@@ -3246,8 +3246,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
-<details>
-<summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+<details><summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
 
 ### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
 Audio: https://www.overdrive.com/media/8346811/notre-dame  
@@ -4795,7 +4794,7 @@ Reading Notes:
 
 
 <details>
-<summary><a name=""></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
+<summary><a name="the_nine_by_gwen_strauss"></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
 
 ### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
 Audio: https://www.overdrive.com/media/5715471/the-nine  
@@ -4809,6 +4808,21 @@ Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-wom
 
 </details>
 
+
+
+<details>
+<summary><a name="madhouse_at_the_end_of_the_earth_by_julian_sancton"></a>Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. By Julian Sancton. 2021 </summary>
+
+### Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. (13:00)  
+Audio: https://www.overdrive.com/media/5664460/madhouse-at-the-end-of-the-earth  
+eBook: https://www.overdrive.com/media/5665688/madhouse-at-the-end-of-the-earth  
+By [Julian Sancton](https://www.instagram.com/jsancton/) and [on LinkedIn](https://www.linkedin.com/in/julian-sancton-65b32347/)  ( – )  
+
+Reading Notes:   
+
+Article by [the author] about writing and researching the book: [https://lithub.com/polar-nightmare...](https://lithub.com/polar-nightmare-on-one-of-the-first-international-expeditions-of-the-modern-era/)  
+
+</details>
 
 
 
