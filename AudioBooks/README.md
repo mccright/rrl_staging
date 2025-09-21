@@ -1836,6 +1836,7 @@ Review By [Ilana Masad](https://www.ilanamasad.com/bio): [https://www.latimes.co
 
 
 <details><summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+
 ### A Gentleman in Moscow.  (18:00)  
 Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
 eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
@@ -3243,6 +3244,7 @@ Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-wom
 
 
 <details><summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+
 ### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
 Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
 eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
@@ -4827,13 +4829,12 @@ Reading Notes:
 ### The Long Way Home. (12:00)  
 Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
 eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
 
-Reading Notes:  
-[Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
-Also, Gamache uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
+Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
+Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
 
-If you like this series or are considering starting it there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
 
 If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
 
@@ -4841,15 +4842,18 @@ If you must see a summary that will reveal all, see: [GamacheSeries.com Summary]
 
 
 <details>
-<summary><a name=""></a>Empty_Template </summary>
+<summary><a name="the_correspondent_by_virginia_evans"></a>The Correspondent -- A Novel. By Virginia Evans. 2025  </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### The Correspondent -- A Novel. (8:36)  
+Audio: https://www.overdrive.com/media/11126156/the-correspondent  
+eBook: https://www.overdrive.com/media/11078174/the-correspondent  
+By [Virginia Evans](https://www.virginiaevansauthor.com/about) and [here](https://ursummary.com/the-correspondent-summary-book-review/#Virginia_Evans_The_20-Year_Overnight_Sensation)  (~1973 – )  
 
-Reading Notes:   
+Reading Notes: Author [Virginia Evans](https://www.virginiaevansauthor.com/about) is a literary master. I listened to this book on a long drive east on Interstate 80 with my wife and we both found ourselves an emotional journey (*[Maggi-Meg Reed](https://www.goodreads.com/author/show/547911.Maggi_Meg_Reed) is a perfect fit as the voice of Sybil Van Antwerp*).  
+The author shares the evolution of Sybil Van Antwerp via her written correspondence (*this is a collection of letters and emails*).  We learn about the character's experiences, relationships and values as she navigates her 70s.  Decisions from years before present challenges.  Being increasingly present in the world offers a spectrum of opportunities.  
+And the writing is just fantastic.  Some of it is just hard to believe.  How does an author so thoroughly inhabit a character that it *rings* perfectly true, even as that character struggles and evolves -- and do that, at varying depths, for a suite of central characters? Author [Virginia Evans](https://www.virginiaevansauthor.com/about) has certainly figured it out.  
 
+There are 14 or 15 performers on audio edition.  The central characters are great.  If you have an opportunity, I recommend listening to (*as well as reading*) this story.  
 
 </details>
 
