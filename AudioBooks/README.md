@@ -1836,6 +1836,7 @@ Review By [Ilana Masad](https://www.ilanamasad.com/bio): [https://www.latimes.co
 
 
 <details><summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+
 ### A Gentleman in Moscow.  (18:00)  
 Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
 eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
@@ -2833,6 +2834,20 @@ Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* s
 </details>
 
 
+<details><summary><a name="madhouse_at_the_end_of_the_earth_by_julian_sancton"></a>Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. By Julian Sancton. 2021 </summary>
+
+### Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. (13:00)  
+Audio: https://www.overdrive.com/media/5664460/madhouse-at-the-end-of-the-earth  
+eBook: https://www.overdrive.com/media/5665688/madhouse-at-the-end-of-the-earth  
+By [Julian Sancton](https://www.instagram.com/jsancton/) and [on LinkedIn](https://www.linkedin.com/in/julian-sancton-65b32347/)  ( – )  
+
+Reading Notes: The [Belgian Antarctic Expedition of 1897–1899](https://en.wikipedia.org/wiki/Belgian_Antarctic_Expedition) was the first expedition to winter in the Antarctic region. Led by [Adrien de Gerlache de Gomery](https://en.wikipedia.org/wiki/Adrien_de_Gerlache_de_Gomery) aboard the [RV Belgica](https://en.wikipedia.org/wiki/RV_Belgica_(1884)), it was the [first Belgian Antarctic expedition](https://en.wikipedia.org/wiki/Belgian_Antarctic_Program).  Among its members were [Frederick Cook](https://en.wikipedia.org/wiki/Frederick_Cook) and [Roald Amundsen](https://en.wikipedia.org/wiki/Roald_Amundsen), explorers who would later attempt the respective conquests of the North Pole. On 28 February 1898, Gerlache's expedition became trapped in the ice of the Bellingshausen Sea, near Peter I Island.  The author details this expedition in great detail.  
+
+Article by [the author] about writing and researching the book: [https://lithub.com/polar-nightmare...](https://lithub.com/polar-nightmare-on-one-of-the-first-international-expeditions-of-the-modern-era/)  
+
+</details>
+
+
 <details><summary><a name="the_making_of_another_major_motion_picture_masterpiece"></a>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
 
 ### The Making of Another Major Motion Picture Masterpiece (16:00)  
@@ -3213,8 +3228,23 @@ Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intellige
 </details>
 
 
-<details>
-<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+<details><summary><a name="the_nine_by_gwen_strauss"></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
+
+### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
+Audio: https://www.overdrive.com/media/5715471/the-nine  
+eBook: https://www.overdrive.com/media/5678338/the-nine  
+By [Gwen Strauss](https://www.gwenstrauss.com/bio.htm) and on [Wikipedia](https://en.wikipedia.org/wiki/Gwen_Strauss)  (1963 – )  
+
+Reading Notes: A non-fiction story about a group of nine female resistance fighters who survived the [Ravensbrück concentration camp](https://encyclopedia.ushmm.org/content/en/article/ravensbrueck) (*also [here](https://en.wikipedia.org/wiki/Ravensbr%C3%BCck_concentration_camp)*) North of [Berlin](https://en.wikipedia.org/wiki/Berlin) in [Fürstenberg/Havel](https://en.wikipedia.org/wiki/F%C3%BCrstenberg/Havel) Germany, escaped a death march and then overcame many challenges as they walked through *enemy territory* to relative freedom.  Their routes home started with a ten-day journey together across the front lines of WWII to [Colditz](https://en.wikipedia.org/wiki/Colditz) where they were fed and housed by the U.S. Army.  One of the nine was the author's great aunt Helene Podliasky, a twenty-four-year-old engineer.  See the author's page on this book for a proper summary: https://www.gwenstrauss.com/the_nine.htm  
+
+Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-women/  
+
+
+</details>
+
+
+<details><summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+
 ### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
 Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
 eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
@@ -4794,35 +4824,39 @@ Reading Notes:
 
 
 <details>
-<summary><a name="the_nine_by_gwen_strauss"></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
+<summary><a name="long_way_home_by_louise_penny"></a>The Long Way Home. By Louise Penny. 2014 </summary>
 
-### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
-Audio: https://www.overdrive.com/media/5715471/the-nine  
-eBook: https://www.overdrive.com/media/5678338/the-nine  
-By [Gwen Strauss](https://www.gwenstrauss.com/bio.htm) and on [Wikipedia](https://en.wikipedia.org/wiki/Gwen_Strauss)  (1963 – )  
+### The Long Way Home. (12:00)  
+Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
+eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
 
-Reading Notes: A non-fiction story about nine female resistance fighters who survived the [Ravensbrück concentration camp](https://encyclopedia.ushmm.org/content/en/article/ravensbrueck) (*also [here](https://en.wikipedia.org/wiki/Ravensbr%C3%BCck_concentration_camp)*) North of [Berlin](https://en.wikipedia.org/wiki/Berlin) in [Fürstenberg/Havel](https://en.wikipedia.org/wiki/F%C3%BCrstenberg/Havel) Germany, escaped a death march.  Their routes home started with a ten-day journey together across the front lines of WWII to [Colditz](https://en.wikipedia.org/wiki/Colditz) where they were fed and housed by the U.S. Army.  One of the nine was the author's great aunt Helene Podliasky, a twenty-four-year-old engineer.  See the author's page on this book for a proper summary: https://www.gwenstrauss.com/the_nine.htm  
+Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
+Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
 
-Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-women/  
+If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
 
+If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
 
 </details>
-
 
 
 <details>
-<summary><a name="madhouse_at_the_end_of_the_earth_by_julian_sancton"></a>Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. By Julian Sancton. 2021 </summary>
+<summary><a name="the_correspondent_by_virginia_evans"></a>The Correspondent -- A Novel. By Virginia Evans. 2025  </summary>
 
-### Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. (13:00)  
-Audio: https://www.overdrive.com/media/5664460/madhouse-at-the-end-of-the-earth  
-eBook: https://www.overdrive.com/media/5665688/madhouse-at-the-end-of-the-earth  
-By [Julian Sancton](https://www.instagram.com/jsancton/) and [on LinkedIn](https://www.linkedin.com/in/julian-sancton-65b32347/)  ( – )  
+### The Correspondent -- A Novel. (8:36)  
+Audio: https://www.overdrive.com/media/11126156/the-correspondent  
+eBook: https://www.overdrive.com/media/11078174/the-correspondent  
+By [Virginia Evans](https://www.virginiaevansauthor.com/about) and [here](https://ursummary.com/the-correspondent-summary-book-review/#Virginia_Evans_The_20-Year_Overnight_Sensation)  (~1973 – )  
 
-Reading Notes:   
+Reading Notes: Author [Virginia Evans](https://www.virginiaevansauthor.com/about) is a literary master. I listened to this book on a long drive east on Interstate 80 with my wife and we both found ourselves an emotional journey (*[Maggi-Meg Reed](https://www.goodreads.com/author/show/547911.Maggi_Meg_Reed) is a perfect fit as the voice of Sybil Van Antwerp*).  
+The author shares the evolution of Sybil Van Antwerp via her written correspondence (*this is a collection of letters and emails*).  We learn about the character's experiences, relationships and values as she navigates her 70s.  Decisions from years before present challenges.  Being increasingly present in the world offers a spectrum of opportunities.  
+And the writing is just fantastic.  Some of it is just hard to believe.  How does an author so thoroughly inhabit a character that it *rings* perfectly true, even as that character struggles and evolves -- and do that, at varying depths, for a suite of central characters? Author [Virginia Evans](https://www.virginiaevansauthor.com/about) has certainly figured it out.  
 
-Article by [the author] about writing and researching the book: [https://lithub.com/polar-nightmare...](https://lithub.com/polar-nightmare-on-one-of-the-first-international-expeditions-of-the-modern-era/)  
+There are 14 or 15 performers on audio edition.  The central characters are great.  If you have an opportunity, I recommend listening to (*as well as reading*) this story.  
 
 </details>
+
 
 
 
