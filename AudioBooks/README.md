@@ -4871,6 +4871,21 @@ Reading Notes: The [Overdrive summary](https://www.overdrive.com/media/8328671/s
 </details>
 
 
+<details>
+<summary><a name="nuclear_war_a_scenario_by_annie_jacobsen"></a>Nuclear War -- A Scenario. By Annie Jacobsen. 2024 </summary>
+
+### Nuclear War -- A Scenario. (11:00)  
+Audio: https://www.overdrive.com/media/10043401/nuclear-war  
+eBook: https://www.overdrive.com/media/9970979/nuclear-war  
+By [Annie Jacobsen](https://en.wikipedia.org/wiki/Annie_Jacobsen)  (1967 – )  
+
+Reading Notes:  Excellent writing and terrifying storyline.  "The book combines historical analysis of U.S. nuclear war planning with a minute-by-minute account of a hypothetical first strike by North Korea against the United States, showing how the conflict escalates to global thermonuclear war within 72 minutes, leading to nuclear winter and 5 billion deaths."[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario)  The power to start and/or escalate global nuclear war is concentrated in a very few leaders on earth, especially in the U.S. President.  Risks materially increase whenever we populate these leadership positions with unstable, insecure, unprincipled narcissists.  Given the gravity of the challenges, this is an important book that should be read by everyone from high schooler to senior citizen.  Read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) for additional detail.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
+
+</details>
+
+
 
 
 
