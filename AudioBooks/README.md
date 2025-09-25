@@ -2747,6 +2747,23 @@ NYT Learning Resource on this topic: https://archive.nytimes.com/www.nytimes.com
 </details>
 
 
+<details><summary><a name="long_way_home_by_louise_penny"></a>The Long Way Home. By Louise Penny. 2014 </summary>
+
+### The Long Way Home. (12:00)  
+Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
+eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
+
+Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
+Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
+
+If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
+
+</details>
+
+
 <details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
@@ -4821,24 +4838,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="long_way_home_by_louise_penny"></a>The Long Way Home. By Louise Penny. 2014 </summary>
-
-### The Long Way Home. (12:00)  
-Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
-eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
-
-Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
-Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
-
-If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
-
-If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
-
-</details>
 
 
 <details>
