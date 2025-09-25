@@ -2764,7 +2764,7 @@ If you must see a summary that will reveal all, see: [GamacheSeries.com Summary]
 </details>
 
 
-<details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+<details><summary><a name="the_longest_letsgoboy_by_derick_wilder"></a>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
 Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
