@@ -4152,6 +4152,18 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="starry_messenger_by_neil_degrasse_tyson"></a>Starry Messenger -- Cosmic Perspectives on Civilization. By Neil deGrasse Tyson. 2022 </summary>
+
+### Starry Messenger -- Cosmic Perspectives on Civilization. (7:00)  
+Audio: https://www.overdrive.com/media/8557422/starry-messenger  
+eBook: https://www.overdrive.com/media/8328671/starry-messenger  
+By [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)  (1958 – )  
+
+Reading Notes: The [Overdrive summary](https://www.overdrive.com/media/8328671/starry-messenger) says that "Neil deGrasse Tyson shines new light on the crucial fault lines of our time -- war, politics, religion, truth, beauty, gender, and race -- in a way that stimulates a deeper sense of unity for us all."  It's an interesting set of essays that uses "the rationality of science" to support evolving our relations in ways that reject polarization and emphasize our similarities.  
+
+</details>
+
+
 <details><summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
 
 ### The Stars Are Legion.  (12:00) 
@@ -4848,24 +4860,11 @@ Audio: https://www.overdrive.com/media/11126156/the-correspondent
 eBook: https://www.overdrive.com/media/11078174/the-correspondent  
 By [Virginia Evans](https://www.virginiaevansauthor.com/about) and [here](https://ursummary.com/the-correspondent-summary-book-review/#Virginia_Evans_The_20-Year_Overnight_Sensation)  (~1973 – )  
 
-Reading Notes: Author [Virginia Evans](https://www.virginiaevansauthor.com/about) is a literary master. I listened to this book with my wife on a long drive east on Interstate 80 and we both found ourselves an emotional journey (*[Maggi-Meg Reed](https://www.goodreads.com/author/show/547911.Maggi_Meg_Reed) is a perfect fit as the voice of Sybil Van Antwerp*).  
-The author shares the evolution of Sybil Van Antwerp via her written correspondence (*this is a collection of letters and emails*).  We learn about Van Antwerp's character, experiences, relationships and values as she navigates her 70s.  Decisions from years before present internal and external challenges.  Being increasingly present in the world offers a spectrum of opportunities late in life.  
+Reading Notes: Author [Virginia Evans](https://www.virginiaevansauthor.com/about) is a literary master. I listened to this book with my wife on a long drive east on Interstate 80 and we both found ourselves an emotional journey (*and [Maggi-Meg Reed](https://www.goodreads.com/author/show/547911.Maggi_Meg_Reed) is a perfect fit as the voice of Sybil Van Antwerp*).  
+The author shares the evolution of Sybil Van Antwerp via her written correspondence (*this is a collection of letters and emails*).  We learn about Van Antwerp's character, experiences, relationships and values as she navigates her 70s.  Decisions from years before present internal and external challenges.  Being increasingly present in the world offers a spectrum of opportunities late in her life.  
 And the writing is just fantastic.  Some of it is just hard to believe.  How does an author so thoroughly inhabit a character that it *rings* perfectly true, even as that character struggles and evolves -- and do that, at varying depths, for a suite of central characters? Author [Virginia Evans](https://www.virginiaevansauthor.com/about) has certainly figured it out.  
 
 There are 14 or 15 performers on audio edition.  The central characters are great.  If you have an opportunity, I recommend listening to (*as well as reading*) this story.  
-
-</details>
-
-
-<details>
-<summary><a name=""></a>Starry Messenger -- Cosmic Perspectives on Civilization. By Neil deGrasse Tyson. 2022v </summary>
-
-### Starry Messenger -- Cosmic Perspectives on Civilization. (7:00)  
-Audio: https://www.overdrive.com/media/8557422/starry-messenger  
-eBook: https://www.overdrive.com/media/8328671/starry-messenger  
-By [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)  (1958 – )  
-
-Reading Notes: The [Overdrive summary](https://www.overdrive.com/media/8328671/starry-messenger) says that "Neil deGrasse Tyson shines new light on the crucial fault lines of our time -- war, politics, religion, truth, beauty, gender, and race -- in a way that stimulates a deeper sense of unity for us all."  It's an interesting set of essays that uses "the rationality of science" to support evolving our relations in ways that reject polarization and emphasize our similarities.  
 
 </details>
 
