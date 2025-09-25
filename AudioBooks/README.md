@@ -2732,7 +2732,7 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
-<details><summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
+<details><summary><a name="the_lindbergh_nanny_by_mariah_fredericks"></a>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
 
 ### The Lindbergh Nanny. (12:19)  
 Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
