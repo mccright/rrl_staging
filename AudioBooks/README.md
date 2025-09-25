@@ -2747,7 +2747,24 @@ NYT Learning Resource on this topic: https://archive.nytimes.com/www.nytimes.com
 </details>
 
 
-<details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+<details><summary><a name="long_way_home_by_louise_penny"></a>The Long Way Home. By Louise Penny. 2014 </summary>
+
+### The Long Way Home. (12:00)  
+Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
+eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
+
+Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
+Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
+
+If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
+
+</details>
+
+
+<details><summary><a name="the_longest_letsgoboy_by_derick_wilder"></a>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
 Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
@@ -4824,24 +4841,6 @@ Reading Notes:
 
 
 <details>
-<summary><a name="long_way_home_by_louise_penny"></a>The Long Way Home. By Louise Penny. 2014 </summary>
-
-### The Long Way Home. (12:00)  
-Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
-eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
-
-Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
-Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
-
-If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
-
-If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
-
-</details>
-
-
-<details>
 <summary><a name="the_correspondent_by_virginia_evans"></a>The Correspondent -- A Novel. By Virginia Evans. 2025  </summary>
 
 ### The Correspondent -- A Novel. (8:36)  
@@ -4867,6 +4866,21 @@ eBook: https://www.overdrive.com/media/8328671/starry-messenger
 By [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)  (1958 – )  
 
 Reading Notes: The [Overdrive summary](https://www.overdrive.com/media/8328671/starry-messenger) says that "Neil deGrasse Tyson shines new light on the crucial fault lines of our time -- war, politics, religion, truth, beauty, gender, and race -- in a way that stimulates a deeper sense of unity for us all."  It's an interesting set of essays that uses "the rationality of science" to support evolving our relations in ways that reject polarization and emphasize our similarities.  
+
+</details>
+
+
+<details>
+<summary><a name="nuclear_war_a_scenario_by_annie_jacobsen"></a>Nuclear War -- A Scenario. By Annie Jacobsen. 2024 </summary>
+
+### Nuclear War -- A Scenario. (11:00)  
+Audio: https://www.overdrive.com/media/10043401/nuclear-war  
+eBook: https://www.overdrive.com/media/9970979/nuclear-war  
+By [Annie Jacobsen](https://en.wikipedia.org/wiki/Annie_Jacobsen)  (1967 – )  
+
+Reading Notes:  Excellent writing and terrifying storyline.  "The book combines historical analysis of U.S. nuclear war planning with a minute-by-minute account of a hypothetical first strike by North Korea against the United States, showing how the conflict escalates to global thermonuclear war within 72 minutes, leading to nuclear winter and 5 billion deaths."[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario)  The power to start and/or escalate global nuclear war is concentrated in a very few leaders on earth, especially in the U.S. President.  Risks materially increase whenever we populate these leadership positions with unstable, insecure, unprincipled narcissists.  Given the gravity of the challenges, this is an important book that should be read by everyone from high schooler to senior citizen.  Read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) for additional detail.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
 
 </details>
 
