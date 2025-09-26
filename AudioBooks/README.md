@@ -4851,6 +4851,27 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="america_fantastica_by_tim_obrien"></a>America Fantastica -- A Novel. By Tim O'Brien. 2023   </summary>
+
+### America Fantastica -- A Novel. (14:00)  
+Audio: https://www.overdrive.com/media/9581906/america-fantastica  
+eBook: https://www.overdrive.com/media/9565616/america-fantastica  
+By [Tim O'Brien](https://en.wikipedia.org/wiki/Tim_O%27Brien_(author))  (1946 – )  
+
+Reading Notes:   
+
+Review by [Noah Hawley](https://en.wikipedia.org/wiki/Noah_Hawley): [https://www.nytimes.com/...america-fantastica](https://www.nytimes.com/2023/10/23/books/review/tim-obrien-america-fantastica.html)  
+Review by [John Walters](https://johnwalterswriter.com/about/): [https://johnwalterswriter.com/...america-fantastica...](https://johnwalterswriter.com/2024/10/12/book-review-america-fantastica-by-tim-obrien/)  
+</details>
+
+
+Check on:  
+Trust Me, I'm Lying -- Confessions of a Media Manipulator. By Ryan Holiday. 2012  
+eBook: https://www.overdrive.com/media/999511/trust-me-im-lying  
+
+
+
 
 <details>
 <summary><a name="the_correspondent_by_virginia_evans"></a>The Correspondent -- A Novel. By Virginia Evans. 2025  </summary>
@@ -4872,17 +4893,36 @@ There are 14 or 15 performers on audio edition.  The central characters are grea
 <details>
 <summary><a name="nuclear_war_a_scenario_by_annie_jacobsen"></a>Nuclear War -- A Scenario. By Annie Jacobsen. 2024 </summary>
 
-### Nuclear War -- A Scenario. (11:00)  
+### Nuclear War -- A Scenario. (11:20)  
 Audio: https://www.overdrive.com/media/10043401/nuclear-war  
 eBook: https://www.overdrive.com/media/9970979/nuclear-war  
 By [Annie Jacobsen](https://en.wikipedia.org/wiki/Annie_Jacobsen)  (1967 – )  
 
-Reading Notes:  Excellent writing and terrifying storyline.  "The book combines historical analysis of U.S. nuclear war planning with a minute-by-minute account of a hypothetical first strike by North Korea against the United States, showing how the conflict escalates to global thermonuclear war within 72 minutes, leading to nuclear winter and 5 billion deaths."[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario)  The power to start and/or escalate global nuclear war is concentrated in a very few leaders on earth, especially in the U.S. President.  Risks materially increase whenever we populate these leadership positions with unstable, insecure, unprincipled narcissists.  Given the gravity of the challenges, this is an important book that should be read by everyone from high schooler to senior citizen.  Read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) for additional detail.  
+Reading Notes:  Excellent writing and terrifying storyline.  "The book combines historical analysis of U.S. nuclear war planning with a minute-by-minute account of a hypothetical first strike by North Korea against the United States, showing how the conflict escalates to global thermonuclear war within 72 minutes, leading to [nuclear winter](https://en.wikipedia.org/wiki/Nuclear_winter) and 5 billion deaths."[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario)  The power to start and/or escalate global nuclear war is concentrated in a very few leaders on earth, especially in the U.S. President.  Risks materially increase whenever we populate these leadership positions with unstable, insecure, unprincipled narcissists (*or 'mad kings'*).  Given the gravity of the challenges -- the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock) is "Closer than ever" at [89 seconds to midnight](https://thebulletin.org/doomsday-clock/2025-statement/) as I write -- this is an important book that should be read by everyone from high schooler to senior citizen.  Read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) for additional detail.  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
+Also see:  
+* Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
+* "[The Effects of a Global Thermonuclear War 4th edition: escalation in 1988](https://www.johnstonsarchive.net/nuclear/nuclearwar1.html)." by Wm. Robert Johnston and more broadly "[Johnston's Archive Nuclear Weapons](https://www.johnstonsarchive.net/nuclear/index.html).  
+
 
 </details>
 
+
+
+
+
+<details>
+<summary><a name="if_i_die_in_a_combat_zone_by_tim_obrien"></a>If I Die in a Combat Zone, Box Me Up and Ship Me Home. By Tim O'Brien. 1973   </summary>
+
+### If I Die in a Combat Zone, Box Me Up and Ship Me Home.  
+Audio:   
+eBook: https://www.overdrive.com/media/621099/if-i-die-in-a-combat-zone  
+By [Tim O'Brien](https://en.wikipedia.org/wiki/Tim_O%27Brien_(author))  (1946 – )  
+
+Reading Notes:   
+
+
+</details>
 
 
 
