@@ -150,7 +150,7 @@ Reading Notes: This book is characterized by "choppy" story telling -- skipping 
 
 </details>
 
-- - -
+
 <details><summary><a name="three_years_in_manipur_by_ethel_st_clair_grimwood"></a>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
 
 ### My Three Years In Manipur: And Escape From The Recent Mutiny.  
@@ -181,7 +181,7 @@ For additional context, you might want to read an article by Morton D. Paley, "[
 
 </details>
 
-
+- - -
 <details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958</summary>
 
 ### The Quantum Jump.  
