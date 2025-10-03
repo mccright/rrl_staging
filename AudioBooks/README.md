@@ -4904,10 +4904,12 @@ Audio: https://www.overdrive.com/media/9581906/america-fantastica
 eBook: https://www.overdrive.com/media/9565616/america-fantastica  
 By [Tim O'Brien](https://en.wikipedia.org/wiki/Tim_O%27Brien_(author))  (1946 – )  
 
-Reading Notes:   
+Reading Notes: **I strongly recommend this book.** O'Brien's [satire](https://en.wikipedia.org/wiki/Satire) about the rise and impacts of the lying *disease* that has consumed the Trump-centric right over the last decade gushes with [sarcasm](https://en.wikipedia.org/wiki/Sarcasm) and "*[militant](https://en.wiktionary.org/wiki/militant)" irony*. The tactical and strategic use of lying and *misleading oversimplification*, the need to *control the narrative* via emotional resonance, the distrust of mainstream media, the repetition of lies by trusted leaders and normalized deception help drive this excellent story forward.  O'Brien opens the book with "Boyd Halverson" robbing a bank in Fulda, California and taking the teller, Angie Bing, hostage. Boyd, Angie, and a broad cast of characters live out the "*mythomaniac*" life-style in cross-country criminality, self-discovery and corruption before returning home.  Read one or more of the reviews below if you want to know more details about the story.  
 
 Review by [Noah Hawley](https://en.wikipedia.org/wiki/Noah_Hawley): [https://www.nytimes.com/...america-fantastica](https://www.nytimes.com/2023/10/23/books/review/tim-obrien-america-fantastica.html)  
 Review by [John Walters](https://johnwalterswriter.com/about/): [https://johnwalterswriter.com/...america-fantastica...](https://johnwalterswriter.com/2024/10/12/book-review-america-fantastica-by-tim-obrien/)  
+
+
 </details>
 
 
@@ -4927,8 +4929,8 @@ eBook: https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-s
 Book: https://books.google.com/books?id=uwBjEAAAQBAJ  
 By [Amber Ruffin](https://en.wikipedia.org/wiki/Amber_Ruffin)  (1979 – )  and [Lacey Lamar](https://nebraskaauthors.org/authors/lacey-lamar)  ( – )  
 
-Reading Notes: [OverDrive Summary]() just about says it all:  
->"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber and Lacey’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
+Reading Notes: [OverDrive Summary](https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories) just about says it all:  
+>"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber (Ruffin) and Lacey (Lamar)’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
 
 
 </details>
@@ -5372,7 +5374,7 @@ Look through these *history of Scotland* options:  https://www.overdrive.com/sea
 
 
 <details>
-<summary>The Secret Agent: A Simple Tale. By Joseph Conrad. 1907 </summary>
+<summary><a name=""></a>The Secret Agent: A Simple Tale. By Joseph Conrad. 1907 </summary>
 
 ### The Secret Agent: A Simple Tale.  
 Audio: https://librivox.org/the-secret-agent-by-joseph-conrad/ (9:53)  
@@ -5392,7 +5394,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
 
 
 <details>
-<summary>The Tourist. By Robert Dickinson. 2016 </summary>
+<summary><a name=""></a>The Tourist. By Robert Dickinson. 2016 </summary>
 
 ### The Tourist.  (10:00)  
 Audio: https://www.overdrive.com/media/2890301/the-tourist  
@@ -5407,7 +5409,7 @@ See a November 4, 2016 review by Stevie Kincade on: https://www.goodreads.com/bo
 
 
 <details>
-<summary>Loving the Dead and Gone. By Judith Turner-Yamamoto. 2022 </summary>
+<summary><a name=""></a>Loving the Dead and Gone. By Judith Turner-Yamamoto. 2022 </summary>
 
 ### Loving the Dead and Gone. (:)  
 Audio: https://www.overdrive.com/media/9101292/loving-the-dead-and-gone  
@@ -5420,7 +5422,7 @@ Reading Notes:
 
 
 <details>
-<summary>The Magic Mountain. By Thomas Mann  1927 </summary>
+<summary><a name=""></a>The Magic Mountain. By Thomas Mann  1927 </summary>
 
 ### The Magic Mountain. (34:56)  
 Audio: (Volume One, 16:20) https://librivox.org/the-magic-mountain-vol1-by-thomas-mann/ and  https://librivox.org/the-magic-mountain-volume-two-by-thomas-mann/ (Volume Two, 18:36)  
@@ -5436,7 +5438,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Magic_Mountain
 
 
 <details>
-<summary>Buddenbrooks. By Thomas Mann  1901 </summary>
+<summary><a name=""></a>Buddenbrooks. By Thomas Mann  1901 </summary>
 
 ### Buddenbrooks.  (29:09)    
 Audio: https://librivox.org/buddenbrooks-by-thomas-mann/  
@@ -5452,7 +5454,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Buddenbrooks
 
 
 <details>
-<summary>The Exchange: After the Firm. By John Grisham. 2023 </summary>
+<summary><a name=""></a>The Exchange: After the Firm. By John Grisham. 2023 </summary>
 
 ### The Exchange: After the Firm. (9:00)  
 Audio: https://www.overdrive.com/media/9703516/the-exchange  
@@ -5470,7 +5472,7 @@ BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-af
 
 
 <details>
-<summary>Playground. By Richard Powers. 2024 </summary>
+<summary><a name=""></a>Playground. By Richard Powers. 2024 </summary>
 
 ### Playground. (:)  
 Audio: https://www.overdrive.com/media/10590127/playground  
@@ -5483,7 +5485,7 @@ Reading Notes:
 
 
 <details>
-<summary>The Life of Oscar Wilde. By Robert Sherard.  </summary>
+<summary><a name=""></a>The Life of Oscar Wilde. By Robert Sherard.  </summary>
 
 ### The Life of Oscar Wilde (11:38)  
 Audio: https://librivox.org/the-life-of-oscar-wilde-by-robert-sherard/  
@@ -5497,7 +5499,7 @@ Reading Notes:
 
 
 <details>
-<summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
+<summary><a name=""></a>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
 ### Frontier Ballads. (5:02)  
 Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
@@ -5514,7 +5516,7 @@ Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/boo
 
 
 <details>
-<summary>Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. By Abigail Adams.  1840 </summary>
+<summary><a name=""></a>Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. By Abigail Adams.  1840 </summary>
 
 ### Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. (7:41)  
 Audio: https://librivox.org/letters-of-mrs-adams-the-wife-of-john-adams-vol-1-by-abigail-adams/  
@@ -5527,7 +5529,7 @@ Reading Notes:
 
 
 <details>
-<summary>Exhalation. By Ted Chiang. 2019 </summary>
+<summary><a name=""></a>Exhalation. By Ted Chiang. 2019 </summary>
 
 ### Exhalation. (11:00)  
 Audio: https://www.overdrive.com/media/4238776/exhalation  
@@ -5604,7 +5606,7 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 <details>
-<summary>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
+<summary><a name=""></a>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
 
 ### Making of the Atomic Bomb.  
 Audio: https://www.overdrive.com/media/657572/making-of-the-atomic-bomb  
@@ -5633,7 +5635,7 @@ or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (
 
 
 <details>
-<summary>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
+<summary><a name=""></a>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
 
 ### The Re-creation of Brian Kent. (7:36)  
 Audio: https://librivox.org/the-re-creation-of-brian-kent-by-harold-bell-wright/  
@@ -5649,7 +5651,7 @@ Librivox Summary:
 
 
 <details>
-<summary>Mr. Weston's Good Wine. By T. F. Powys. 1927 </summary>
+<summary><a name=""></a>Mr. Weston's Good Wine. By T. F. Powys. 1927 </summary>
 
 ### Mr. Weston's Good Wine. (7:45:16)  
 Audio: https://librivox.org/mr-westons-good-wine-by-t-f-powys/  
@@ -5669,7 +5671,7 @@ Librivox summary:
 <summary>One or more of the Lionel Shriver novels below: </summary>
 
 <details>
-<summary>Mania. By Lionel Shriver. 2024 </summary>
+<summary><a name=""></a>Mania. By Lionel Shriver. 2024 </summary>
 
 ### Mania. (??:??)  
 Audio: https://www.overdrive.com/media/9974774/mania  
@@ -5684,7 +5686,7 @@ Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[
 
 
 <details>
-<summary>So Much for That. By Lionel Shriver. 2010 </summary>
+<summary><a name=""></a>So Much for That. By Lionel Shriver. 2010 </summary>
 
 ### So Much for That. (??:??)  
 eBook: https://www.overdrive.com/media/291503/so-much-for-that  
@@ -5701,7 +5703,7 @@ Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insuranc
 
 
 <details>
-<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
+<summary><a name=""></a>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
 
 ### The Mandibles. A Family, 2029-2047. (??:??)  
 eBook: https://www.overdrive.com/media/2486094/the-mandibles  
@@ -5720,7 +5722,7 @@ OverDrive Summary:
 
 
 <details>
-<summary>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
+<summary><a name=""></a>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
 
 ### The Hunter -- A Novel · Cal Hooper. ()  
 Audio: https://www.overdrive.com/media/9951409/the-hunter  
@@ -5737,7 +5739,7 @@ Review by [Bruce DeSilva](): [https://apnews.com/article/hunter-tana-french-book
 
 
 <details>
-<summary>The Tusks of Extinction.  By Ray Nayler. 2024 </summary>
+<summary><a name=""></a>The Tusks of Extinction.  By Ray Nayler. 2024 </summary>
 
 ### The Tusks of Extinction. (11:00)  
 Audio: https://www.overdrive.com/media/10361459/the-tusks-of-extinction  
@@ -5752,7 +5754,7 @@ Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://
 
 
 <details>
-<summary>Deep Freeze. By Michael C. Grumley. 2024 </summary>
+<summary><a name=""></a>Deep Freeze. By Michael C. Grumley. 2024 </summary>
 
 ### Deep Freeze.  
 Audio: https://www.overdrive.com/media/9790834/deep-freeze  
@@ -5771,7 +5773,7 @@ OverDrive [Summary](https://www.overdrive.com/media/9790834/deep-freeze):
 
   
 <details>
-<summary>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
+<summary><a name=""></a>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
 
 ### The Midnight Library -- A Novel  
 Audio: https://www.overdrive.com/media/5328992/the-midnight-library  
@@ -5784,7 +5786,7 @@ Reading Notes:
 
 
 <details>
-<summary>Half American. By Matthew F. Delmont. 2022</summary>
+<summary><a name=""></a>Half American. By Matthew F. Delmont. 2022</summary>
 
 ### Half American: The Epic Story of African Americans Fighting World War II at Home and Abroad.  
 Audio: https://www.overdrive.com/media/8720855/half-american  
@@ -5800,7 +5802,7 @@ Some of Dr. Delmont's other writing is available at: [https://www.bunkhistory.or
 
 
 <details>
-<summary>The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. By Tim Alberta 2023</summary>
+<summary><a name=""></a>The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. By Tim Alberta 2023</summary>
 
 ### The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. ()  
 Audio: https://www.overdrive.com/media/9597271/the-kingdom-the-power-and-the-glory  
@@ -5812,7 +5814,7 @@ By [Tim Alberta]() ( - )
 
 
 <details>
-<summary>Is Shakespeare Dead? By Mark Twain.  1909</summary>
+<summary><a name=""></a>Is Shakespeare Dead? By Mark Twain.  1909</summary>
 
 ### Is Shakespeare Dead? (2:57)  
 https://librivox.org/is-shakespeare-dead-by-mark-twain/  
@@ -5827,7 +5829,7 @@ Librivox Summary:
 
 
 <details>
-<summary>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
+<summary><a name=""></a>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
 
 ### A Magician Among the Spirits. (11:03)  
 https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
@@ -5841,7 +5843,7 @@ Librivox Summary:
 
 
 <details>
-<summary>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
+<summary><a name=""></a>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
 
 ### The Last of the Vikings. (9:17)  
 Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
@@ -5857,7 +5859,7 @@ In a small village on the coast of Northern Norway lives the Myran family. Fathe
 
 
 <details>
-<summary>The Second Mrs. Astor.  By Shana Abe.  2021</summary>
+<summary><a name=""></a>The Second Mrs. Astor.  By Shana Abe.  2021</summary>
 
 ### The Second Mrs. Astor.  
 Audio: https://www.overdrive.com/media/6107969/the-second-mrs-astor  
@@ -5948,7 +5950,7 @@ Ebook: https://www.overdrive.com/media/5428480/the-lost-apothecary
 
 
 <details>
-<summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
+<summary><a name=""></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
 
 ### Collected Works of Saint Patrick. (01:01)  
 https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
@@ -5962,7 +5964,7 @@ Librivox Summary:
 
 
 
-<details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
+<details><summary><a name=""></a>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
 
 The Flight of the Shadow.  (2:02)  
 https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/  
@@ -5973,7 +5975,7 @@ The original printing of The Flight of the Shadow is a highly sought novel among
 
 </details>
 
-<details><summary>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022</summary>
+<details><summary><a name=""></a>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022</summary>
 
 ### Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol  
 Running Time: 22:24:13, Read by: Aaron Bennett  
@@ -5988,7 +5990,7 @@ Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20
 
 
 <details>
-<summary>The Seven Stairs.  1962 </summary>  
+<summary><a name=""></a>The Seven Stairs.  1962 </summary>  
 
 ### The Seven Stairs.  (7:13)  
 https://librivox.org/the-seven-stairs-by-stuart-brent/  
@@ -6005,7 +6007,7 @@ Librivox Summary:
 
 
 <details>
-<summary>Template </summary>
+<summary><a name=""></a>Template </summary>
 
 ###  
   
@@ -6024,7 +6026,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>
+<details><summary><a name=""></a>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>
 
 ### The Basis Of Morality.  (7:19)  
 https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/  
@@ -6040,7 +6042,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/On_the_Basis_of_Morality
 </details>
 
 
-<details><summary>The Nature and Authority of Conscience. By Rufus Jones. 1920 </summary>
+<details><summary><a name=""></a>The Nature and Authority of Conscience. By Rufus Jones. 1920 </summary>
 
 ### The Nature and Authority of Conscience. (1:48)  
 https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/  
@@ -6056,7 +6058,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Men Without Women. By Ernest Hemingway. 1927</summary>
+<details><summary><a name=""></a>Men Without Women. By Ernest Hemingway. 1927</summary>
 
 ### Men Without Women.  (4:26)  
 https://librivox.org/men-without-women-by-ernest-hemingway/  
@@ -6073,7 +6075,7 @@ https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)
 </details>
 
 
-<details><summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915 </summary>
+<details><summary><a name=""></a>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915 </summary>
 
 ### A Far Country. (19:48)  
 https://librivox.org/a-far-country-by-winston-churchill/  
@@ -6089,7 +6091,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
+<details><summary><a name=""></a>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
 
 ### The Four Horsemen of the Apocalypse  (16:27)  
 https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/  
@@ -6103,7 +6105,7 @@ Summary from Librivox:
 
 </details>
 
-<details><summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
+<details><summary><a name=""></a>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
 ### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
 https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
