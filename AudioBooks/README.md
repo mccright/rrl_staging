@@ -4870,6 +4870,8 @@ By [Amber Ruffin](https://en.wikipedia.org/wiki/Amber_Ruffin)  (1979 – )  and 
 Reading Notes: [OverDrive Summary](https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories) just about says it all:  
 >"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber (Ruffin) and Lacey (Lamar)’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
 
+Short reviews: [https://app.thestorygraph.com...](https://app.thestorygraph.com/book_reviews/b370f977-35fd-4f4c-ac8b-96f8013df3b1)  
+
 
 </details>
 
@@ -4902,6 +4904,40 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 Audio:   
 eBook:   
 By []()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+
+
+
+<details>
+<summary><a name="good_economics_for_hard_times_banerjee_and_duflo"></a>Good Economics For Hard Times. By Abhijit V. Banerjee & Esther Duflo. 2019 </summary>
+
+### Good Economics For Hard Times.  
+Audio:   
+eBook:   
+By [Abhijit V. Banerjee]() ( – ) and By [Esther Duflo]() ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="red_memory_by_tania_branigan"></a>Red Memory -- The Afterlives Of China's Cultural Revolution. by Tania Branigan. 2023  </summary>
+
+### Red Memory -- The Afterlives Of China's Cultural Revolution.  
+Audio:   
+eBook:   
+By [Tania Branigan]()  ( – )  
 
 Reading Notes:   
 
