@@ -4914,15 +4914,77 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="the_serviceberry_by_robin_wall_kimmerer"></a>The Serviceberry: Abundance and Reciprocity in the Natural World. By Robin Wall Kimmerer. 2024 </summary>
+
+### The Serviceberry: Abundance and Reciprocity in the Natural World. (2:00)  
+Audio: https://www.overdrive.com/media/10685178/the-serviceberry  
+eBook: https://www.overdrive.com/media/11249286/the-serviceberry  
+By [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer)  (1953 – )  
+
+Reading Notes:   
+
+Review by [Lori Hall-Araujo](https://muckrack.com/lori-hall-araujo): [https://chireviewofbooks.com/...the-serviceberry/](https://chireviewofbooks.com/2024/12/06/enoughness-in-the-serviceberry/)  
+Review by [Julie Lane-Gay](https://www.regent-college.edu/faculty/summer-faculty-list/gay-julie-lane/): [https://englewoodreview.org/...the-serviceberry...](https://englewoodreview.org/robin-wall-kimmerer-the-serviceberry-feature-review/https://englewoodreview.org/robin-wall-kimmerer-the-serviceberry-feature-review/)  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="mad_house_by_Karni_and_Broadwater"></a>Mad House -- How Donald Trump, Maga Mean Girls, A Former Used Car Salesman, A Florida Nepo Baby, And A Man With Rats In His Walls Broke Congress. by Annie Karni & Luke Broadwater. 2025  </summary>
+
+### Mad House -- How Donald Trump, Maga Mean Girls, A Former Used Car Salesman, A Florida Nepo Baby, And A Man With Rats In His Walls Broke Congress.  
+Audio: https://www.overdrive.com/media/11042129/mad-house  
+eBook: https://www.overdrive.com/media/11042645/mad-house  
+By [Annie Karni](https://en.wikipedia.org/wiki/Annie_Karni) (1983 – ) By [Luke Broadwater](https://en.wikipedia.org/wiki/Luke_Broadwater) ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="summer_of_fire_and_blood_by_lyndal_roper"></a>Summer Of Fire And Blood -- The German Peasants' War. by Lyndal Roper. 2025  </summary>
+
+### Summer Of Fire And Blood -- The German Peasants' War.  
+Audio: https://www.overdrive.com/media/11042169/summer-of-fire-and-blood  
+eBook: https://www.overdrive.com/media/10823067/summer-of-fire-and-blood  
+By [Lyndal Roper](https://en.wikipedia.org/wiki/Lyndal_Roper)  (1956 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="our_brains_our_selves_by_masud_husain"></a>Our Brains, Our Selves -- What a Neurologist's Patients Taught Him About the Brain. By Masud Husain. 2025 </summary>
+
+### Our Brains, Our Selves -- What a Neurologist's Patients Taught Him About the Brain.  
+Audio: https://www.overdrive.com/media/12163023/our-brains-our-selves  
+eBook: https://www.overdrive.com/media/11090211/our-brains-our-selves  
+By [Masud Husain]()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 
 <details>
 <summary><a name="good_economics_for_hard_times_banerjee_and_duflo"></a>Good Economics For Hard Times. By Abhijit V. Banerjee & Esther Duflo. 2019 </summary>
 
 ### Good Economics For Hard Times.  
-Audio:   
-eBook:   
-By [Abhijit V. Banerjee]() ( – ) and By [Esther Duflo]() ( – )  
+Audio: https://www.overdrive.com/media/4876092/good-economics-for-hard-times  
+eBook: https://www.overdrive.com/media/4608316/good-economics-for-hard-times  
+By [Abhijit V. Banerjee](https://en.wikipedia.org/wiki/Abhijit_Banerjee) (1961 – ) and By [Esther Duflo](https://en.wikipedia.org/wiki/Esther_Duflo) (1972 – )  
 
 Reading Notes:   
 
