@@ -4944,6 +4944,39 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="Krasznahorkai"></a>One or more books by László Krasznahorkai. </summary>
+
+### Try to get books by László Krasznahorkai.  
+OverDrive search: [https://www.overdrive.com/search?...L%C3%A1szl%C3%B3%20Krasznahorkai](https://www.overdrive.com/search?f-contentCreatorNames=L%C3%A1szl%C3%B3%20Krasznahorkai)  
+By [László Krasznahorkai](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Krasznahorkai)  (1954 – )  
+
+Notes: László Krasznahorkai is a Hungarian novelist and screenwriter. He was awarded the Nobel Prize in Literature in 2025.  
+
+
+</details>
+
+
+The_City_In_The_Sea_By_H_De_Vere_Stacpoole_1925
+
+<details>
+<summary><a name="the_city_in_the_sea_by_h_de_vere_stacpoole"></a>The City In The Sea. By H. De Vere Stacpoole. 1925 </summary>
+
+### The City In The Sea.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/75608  
+By [Henry de Vere Stacpoole](https://en.wikipedia.org/wiki/Henry_de_Vere_Stacpoole)  (1863 – 1951)  
+
+Reading Notes:   
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/75608):  
+>"The City in the Sea" by H. De Vere Stacpoole is a novel written in the early 20th century. The narrative begins with a foreword explaining the author's inspiration and connection to the discovery of submerged cities in the Mediterranean, hinting at a blend of adventure and romance. The story follows Robert Lestrange, a young writer, as he navigates his personal and professional life in London, intertwining the themes of love, exploration, and the fondness for the sea as he embarks on an expedition to uncover treasures from the submerged city of Hyalos. At the start of the novel, we are introduced to Robert Lestrange, who is trying to find his place in the world as both a writer and a person dealing with the loss of his father. He meets Martia Hare, an ambitious and insightful woman who works at a literary agency, and together they explore the challenges of life and writing. Their conversations reveal Robert's lack of experience and his newfound determination. The narrative quickly develops to include an intriguing proposition from Jacob Behrens, who has plans for an adventurous treasure hunt to Hyalos, a city submerged under the sea. This sets the stage for a thrilling journey, as Robert is faced with the choice of diving into an unpredictable adventure, sharing the experience with Martia, and potentially uncovering the secrets of the past.  
+
+
+</details>
+
+
+
 
 <details>
 <summary><a name="the_paris_express_by_emma_donoghue"></a>The Paris Express. By Emma Donoghue. 2025 </summary>
