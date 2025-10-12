@@ -5013,7 +5013,6 @@ Notes: László Krasznahorkai is a Hungarian novelist and screenwriter. He was a
 </details>
 
 
-The_City_In_The_Sea_By_H_De_Vere_Stacpoole_1925
 
 <details>
 <summary><a name="the_city_in_the_sea_by_h_de_vere_stacpoole"></a>The City In The Sea. By H. De Vere Stacpoole. 1925 </summary>
