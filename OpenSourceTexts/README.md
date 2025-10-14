@@ -298,6 +298,62 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="northmen_columbus_and_cabot_985_1503_by_olson_and_bourne"></a>The Northmen, Columbus and Cabot, 985-1503 by Olson and Bourne. 1906  </summary>
+
+### The Northmen, Columbus and Cabot, 985-1503.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/18571  
+By [Julius Emil Olson](https://www.jstor.org/stable/40915190?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A2000177d95442fafbd664128f20dc92c&initiator=recommender&seq=1)  (1858 – ) and [Edward Gaylord Bourne]()  (1860 - 1908)   
+
+Reading Notes:   
+
+
+</details>
+
+
+<details>
+<summary><a name="the_discovery_of_america_vol_1_of_2_by_john_fiske"></a>The Discovery of America Vol. 1 (of 2) by John Fiske. 1892 </summary>
+
+### The Discovery of America Vol. 1 (of 2)  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/27253  
+By [John Fiske]()  (1842 - 1901)  
+
+Reading Notes:   
+
+
+</details>
+
+
+<details>
+<summary><a name="myths_of_the_cherokee_by_james_mooney"></a>Myths of the Cherokee by James Mooney. 1902 </summary>
+
+### Myths of the Cherokee.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/45634  
+By [James Mooney]()  (1861 - 1921)  
+
+Reading Notes:   
+
+
+</details>
+
+
+<details>
+<summary><a name="Seneca_Myths_And_Folk_Tales_By_Arthur_C_Parker"></a>Seneca Myths And Folk Tales. by Arthur C. Parker. 1923  </summary>
+
+### Seneca Myths And Folk Tales.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/61477  
+By [Arthur Caswell Parker]()  (1881 - 1955)  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 
 <details>
