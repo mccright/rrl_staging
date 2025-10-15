@@ -3637,6 +3637,20 @@ Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone
 </details>
 
 
+<details>
+<summary><a name="the_paris_express_by_emma_donoghue"></a>The Paris Express. By Emma Donoghue. 2025 </summary>
+
+### The Paris Express.  (7:00)  
+Audio: https://www.overdrive.com/media/10823834/the-paris-express  
+eBook: https://www.overdrive.com/media/11283593/the-paris-express  
+By [Emma Donoghue](https://en.wikipedia.org/wiki/Emma_Donoghue)  (1969 – )  
+
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) was inspired by the [Montparnasse derailment](https://en.wikipedia.org/wiki/Montparnasse_derailment) of 1895 Paris when the [Granville–Paris](https://en.wikipedia.org/wiki/Granville,_Manche) Express overran the [buffer stop](https://en.wikipedia.org/wiki/Buffer_stop) at its [Gare Montparnasse](https://en.wikipedia.org/wiki/Gare_Montparnasse) terminus.  
+
+
+</details>
+
+
 <details><summary><a name="paris_in_ruins_by_sebastian_smee"></a>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
 
 ### Paris in Ruins -- Love, War, and the Birth of Impressionism. (12:00)  
@@ -4944,19 +4958,98 @@ Reading Notes:
 
 
 
-
 <details>
-<summary><a name="the_paris_express_by_emma_donoghue"></a>The Paris Express. By Emma Donoghue. 2025 </summary>
+<summary><a name="what_we_can_know_by_ian_mcewan"></a>What We Can Know. By Ian McEwan. 2025 </summary>
 
-### The Paris Express.  (7:00)  
-Audio: https://www.overdrive.com/media/10823834/the-paris-express  
-eBook: https://www.overdrive.com/media/11283593/the-paris-express  
-By [Emma Donoghue](https://en.wikipedia.org/wiki/Emma_Donoghue)  (1969 – )  
+### What We Can Know.  (11:00)  
+Audio: https://www.overdrive.com/media/11822883/what-we-can-know  
+eBook: https://www.overdrive.com/media/11568560/what-we-can-know  
+By [Ian McEwan](https://en.wikipedia.org/wiki/Ian_McEwan)  (1948 – )  
 
-Reading Notes: This [historical fiction]() was inspired by the [Montparnasse derailment](https://en.wikipedia.org/wiki/Montparnasse_derailment) of 1895 Paris when the [Granville–Paris](https://en.wikipedia.org/wiki/Granville,_Manche) Express overran the [buffer stop](https://en.wikipedia.org/wiki/Buffer_stop) at its [Gare Montparnasse](https://en.wikipedia.org/wiki/Gare_Montparnasse) terminus.  
+Reading Notes: [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner)'s [description](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html) is a perfect fit: McEwan's 'What We Can Know' is "sophisticated entertainment of a high order."  
+Set in 2119 after climate change and nuclear war have remade some nations, *undone* others and killed billions. The story is largely told through a 22nd-century English humanities professor, Tom Metcalfe, who is searching for a poem titled "A Corona for Vivien," and then later in the book by Vivien Blundy herself.  
+See: "[Sonnet Sequences](https://blog.prepscholar.com/types-of-sonnets)" for a description of the Corona construction.  
+Metcalfe and his colleague *and later wife* Rose Church risk a dangerous journey in search of the poem.  
+  * “The Derangement:" A time when everyone knew about climate change but failed to act.  
+  * "The Inundation:" A Russian nuclear weapon goes off course and explodes in the middle of the Atlantic. A resulting tsunami initiates a series of catastrophies -- the sea already high from climate change -- that leave only the mountain peaks of the U.K. and much of Europe above sealevel.  
+This book appears to be about a lot. Global catastrophe, the humanities, academia, relationships between couples (*and beyond*), narcissim, suffering, *social blindness*, doing history, ignorance (*willful, learned or other*), what the self-absorbed are capable of, and much more.  
+
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html)  
+Interview/Review by [Sarah Lyall](https://en.wikipedia.org/wiki/Sarah_Lyall): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/25/books/review/ian-mcewan-interview-what-we-can-know.html)  
+Review by [Kevin Power](https://en.wikipedia.org/wiki/Kevin_Power): [https://www.theguardian.com/...what-we-can-know...](https://www.theguardian.com/books/2025/sep/16/what-we-can-know-by-ian-mcewan-review-the-limits-of-liberalism)  
 
 
 </details>
+
+
+
+<details>
+<summary><a name=""></a>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+
+<details>
+<summary><a name="to_be_taught_if_fortunate_by_becky_chambers"></a>To Be Taught, If Fortunate. By Becky Chambers. 2019 </summary>
+
+### To Be Taught, If Fortunate. (5:00)  
+Audio: https://www.overdrive.com/media/4824364/to-be-taught-if-fortunate  
+eBook: https://www.overdrive.com/media/4455304/to-be-taught-if-fortunate  
+By [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)  (1985 – )  
+
+Reading Notes: This is another excellent book by Becky Chambers.  I recommend it to everyone.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/To_Be_Taught,_If_Fortunate) for an outline.  
+
+[Wikipedia summary](https://en.wikipedia.org/wiki/To_Be_Taught,_If_Fortunate):  
+>To Be Taught, If Fortunate follows four astronauts as they travel beyond the Solar System on a research mission to document extraterrestrial life on four planets. The explorers are put into suspended animation for extended periods of time while they travel between the planets. The book chronicles their adventures and explores how they decide what is important to them. As they leave the second planet, they realize that they have received no communication from Earth for months; as they arrive at the fourth, they receive a message indicating that a natural disaster has crippled Earth's technological capability, rendering them potentially the last astronauts. They decide to send a message back to Earth to ask whether they should return as planned, or head outward to explore more planets; if they never receive an answer, they will remain in suspended animation indefinitely.  
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="Krasznahorkai"></a>One or more books by László Krasznahorkai. </summary>
+
+### Try to get books by László Krasznahorkai.  
+OverDrive search: [https://www.overdrive.com/search?...L%C3%A1szl%C3%B3%20Krasznahorkai](https://www.overdrive.com/search?f-contentCreatorNames=L%C3%A1szl%C3%B3%20Krasznahorkai)  
+By [László Krasznahorkai](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Krasznahorkai)  (1954 – )  
+
+Notes: László Krasznahorkai is a Hungarian novelist and screenwriter. He was awarded the Nobel Prize in Literature in 2025.  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="the_city_in_the_sea_by_h_de_vere_stacpoole"></a>The City In The Sea. By H. De Vere Stacpoole. 1925 </summary>
+
+### The City In The Sea.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/75608  
+By [Henry de Vere Stacpoole](https://en.wikipedia.org/wiki/Henry_de_Vere_Stacpoole)  (1863 – 1951)  
+
+Reading Notes:   
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/75608):  
+>"The City in the Sea" by H. De Vere Stacpoole is a novel written in the early 20th century. The narrative begins with a foreword explaining the author's inspiration and connection to the discovery of submerged cities in the Mediterranean, hinting at a blend of adventure and romance. The story follows Robert Lestrange, a young writer, as he navigates his personal and professional life in London, intertwining the themes of love, exploration, and the fondness for the sea as he embarks on an expedition to uncover treasures from the submerged city of Hyalos. At the start of the novel, we are introduced to Robert Lestrange, who is trying to find his place in the world as both a writer and a person dealing with the loss of his father. He meets Martia Hare, an ambitious and insightful woman who works at a literary agency, and together they explore the challenges of life and writing. Their conversations reveal Robert's lack of experience and his newfound determination. The narrative quickly develops to include an intriguing proposition from Jacob Behrens, who has plans for an adventurous treasure hunt to Hyalos, a city submerged under the sea. This sets the stage for a thrilling journey, as Robert is faced with the choice of diving into an unpredictable adventure, sharing the experience with Martia, and potentially uncovering the secrets of the past.  
+
+
+</details>
+
+
 
 
 
@@ -5101,7 +5194,7 @@ Audio: https://www.overdrive.com/media/4871889/anomaly
 eBook:   
 By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
 
-Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Conflict. Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
 
 Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
 
