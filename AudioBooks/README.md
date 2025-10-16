@@ -10,7 +10,7 @@
 ### 12 Months to Live (*Jane Smith*)  (9:32)
 Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
 eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
 
 Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An [action](https://en.wikipedia.org/wiki/Action_fiction), *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
 
@@ -338,7 +338,7 @@ Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
 eBook: https://www.overdrive.com/media/4591747/the-andromeda-evolution  
-By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  )  
+By [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  ) and [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton) 
 
 Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
 
@@ -4984,14 +4984,14 @@ Review by [Kevin Power](https://en.wikipedia.org/wiki/Kevin_Power): [https://www
 
 
 <details>
-<summary><a name=""></a>Empty_Template </summary>
+<summary><a name="eruption_by_michael_crichton"></a>Eruption. By Michael Crichton and James Patterson. 2024 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### Eruption. (11:00)  
+Audio: https://www.overdrive.com/media/10180481/eruption  
+eBook: https://www.overdrive.com/media/10180717/eruption  
+By [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton) (1942 – 2008) and [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  
 
-Reading Notes:   
+Reading Notes: This is a easy-to-read [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) novel about an eruption of [Mauna Loa](https://en.wikipedia.org/wiki/Mauna_Loa) volcano on the [Island of Hawaii](https://en.wikipedia.org/wiki/Hawaii_(island)) and its threat to a secret military waste *dump* containing enough of a [DARPA](https://en.wikipedia.org/wiki/DARPA)-developed radioactive liquid pathogin to kill everyone on earth...  Lots of action.  None of the characters seem comprehensively developed but in the context of a high-action thriller that doesn't seem like much of a caution.  In my reading/opinion, development of the central characters seem appropriate for this genera and few fall into the truely '*wooden*' category.   
 
 
 </details>
