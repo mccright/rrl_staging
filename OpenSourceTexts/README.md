@@ -298,6 +298,26 @@ Reading Notes:
 </details>
 
 
+
+
+
+
+<details>
+<summary><a name="psychological_warfare_by_paul_myron_anthony_linebarger"></a>Psychological Warfare. By Paul Myron Anthony Linebarger. 1954 edition (1948)  </summary>
+
+### Psychological Warfare.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/48612  
+By [Paul Myron Anthony Linebarger (AKA: Cordwainer Smith)](https://en.wikipedia.org/wiki/Cordwainer_Smith) (1913-1966)  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
 <details>
 <summary><a name="northmen_columbus_and_cabot_985_1503_by_olson_and_bourne"></a>The Northmen, Columbus and Cabot, 985-1503 by Olson and Bourne. 1906  </summary>
 

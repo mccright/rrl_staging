@@ -10,7 +10,7 @@
 ### 12 Months to Live (*Jane Smith*)  (9:32)
 Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
 eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
 
 Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An [action](https://en.wikipedia.org/wiki/Action_fiction), *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
 
@@ -338,7 +338,7 @@ Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
 eBook: https://www.overdrive.com/media/4591747/the-andromeda-evolution  
-By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  )  
+By [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  ) and [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton) 
 
 Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
 
@@ -4835,6 +4835,29 @@ Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-
 </details>
 
 
+<details><summary><a name="what_we_can_know_by_ian_mcewan"></a>What We Can Know. By Ian McEwan. 2025 </summary>
+
+### What We Can Know.  (11:00)  
+Audio: https://www.overdrive.com/media/11822883/what-we-can-know  
+eBook: https://www.overdrive.com/media/11568560/what-we-can-know  
+By [Ian McEwan](https://en.wikipedia.org/wiki/Ian_McEwan)  (1948 – )  
+
+Reading Notes: [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner)'s [description](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html) is a perfect fit: McEwan's 'What We Can Know' is "sophisticated entertainment of a high order."  
+Set in 2119 after climate change and nuclear war have remade some nations, *undone* others and killed billions. The story is largely told through a 22nd-century English humanities professor, Tom Metcalfe, who is searching for a poem titled "A Corona for Vivien," and then later in the book by Vivien Blundy herself.  
+See: "[Sonnet Sequences](https://blog.prepscholar.com/types-of-sonnets)" for a description of the Corona construction.  
+Metcalfe and his colleague *and later wife* Rose Church risk a dangerous journey in search of the poem.  
+  * “The Derangement:" A time when everyone knew about climate change but failed to act.  
+  * "The Inundation:" A Russian nuclear weapon goes off course and explodes in the middle of the Atlantic. A resulting tsunami initiates a series of catastrophies -- the sea already high from climate change -- that leave only the mountain peaks of the U.K. and much of Europe above sealevel.  
+This book appears to be about a lot. Global catastrophe, the humanities, academia, relationships between couples (*and beyond*), narcissim, suffering, *social blindness*, doing history, ignorance (*willful, learned or other*), what the self-absorbed are capable of, and much more.  
+
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html)  
+Interview/Review by [Sarah Lyall](https://en.wikipedia.org/wiki/Sarah_Lyall): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/25/books/review/ian-mcewan-interview-what-we-can-know.html)  
+Review by [Kevin Power](https://en.wikipedia.org/wiki/Kevin_Power): [https://www.theguardian.com/...what-we-can-know...](https://www.theguardian.com/books/2025/sep/16/what-we-can-know-by-ian-mcewan-review-the-limits-of-liberalism)  
+
+
+</details>
+
+
 <details><summary><a name="william_the_third_henry_duff_traill"></a>William the Third. By Henry Duff Traill.  1888 </summary>
 
 ### William the Third. (6:21)  
@@ -4958,40 +4981,35 @@ Reading Notes:
 
 
 
+
 <details>
-<summary><a name="what_we_can_know_by_ian_mcewan"></a>What We Can Know. By Ian McEwan. 2025 </summary>
+<summary><a name=""></a>The Lord of the Rings: Book 1 -- The Fellowship of the Ring. By J.R.R. Tolkien. 2021 (1954)   </summary>
 
-### What We Can Know.  (11:00)  
-Audio: https://www.overdrive.com/media/11822883/what-we-can-know  
-eBook: https://www.overdrive.com/media/11568560/what-we-can-know  
-By [Ian McEwan](https://en.wikipedia.org/wiki/Ian_McEwan)  (1948 – )  
+### The Fellowship of the Ring.  
+Audio: https://www.overdrive.com/media/6404869/the-fellowship-of-the-ring  
+eBook: https://www.overdrive.com/media/235099/the-fellowship-of-the-ring  
+By [J.R.R. Tolkien (*John Ronald Reuel*)](https://en.wikipedia.org/wiki/J._R._R._Tolkien)  (1892 – 1973)  
 
-Reading Notes: [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner)'s [description](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html) is a perfect fit: McEwan's 'What We Can Know' is "sophisticated entertainment of a high order."  
-Set in 2119 after climate change and nuclear war have remade some nations, *undone* others and killed billions. The story is largely told through a 22nd-century English humanities professor, Tom Metcalfe, who is searching for a poem titled "A Corona for Vivien," and then later in the book by Vivien Blundy herself.  
-See: "[Sonnet Sequences](https://blog.prepscholar.com/types-of-sonnets)" for a description of the Corona construction.  
-Metcalfe and his colleague *and later wife* Rose Church risk a dangerous journey in search of the poem.  
-  * “The Derangement:" A time when everyone knew about climate change but failed to act.  
-  * "The Inundation:" A Russian nuclear weapon goes off course and explodes in the middle of the Atlantic. A resulting tsunami initiates a series of catastrophies -- the sea already high from climate change -- that leave only the mountain peaks of the U.K. and much of Europe above sealevel.  
-This book appears to be about a lot. Global catastrophe, the humanities, academia, relationships between couples (*and beyond*), narcissim, suffering, *social blindness*, doing history, ignorance (*willful, learned or other*), what the self-absorbed are capable of, and much more.  
+Reading Notes:   
 
-Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html)  
-Interview/Review by [Sarah Lyall](https://en.wikipedia.org/wiki/Sarah_Lyall): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/25/books/review/ian-mcewan-interview-what-we-can-know.html)  
-Review by [Kevin Power](https://en.wikipedia.org/wiki/Kevin_Power): [https://www.theguardian.com/...what-we-can-know...](https://www.theguardian.com/books/2025/sep/16/what-we-can-know-by-ian-mcewan-review-the-limits-of-liberalism)  
-
+Wikipedia summary: [The Fellowship of the Ring](The Fellowship of the Ring).  
 
 </details>
 
 
 
+
+
+
 <details>
-<summary><a name=""></a>Empty_Template </summary>
+<summary><a name="eruption_by_michael_crichton"></a>Eruption. By Michael Crichton and James Patterson. 2024 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### Eruption. (11:00)  
+Audio: https://www.overdrive.com/media/10180481/eruption  
+eBook: https://www.overdrive.com/media/10180717/eruption  
+By [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton) (1942 – 2008) and [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  
 
-Reading Notes:   
+Reading Notes: This is a easy-to-read [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) novel about an eruption of [Mauna Loa](https://en.wikipedia.org/wiki/Mauna_Loa) volcano on the [Island of Hawaii](https://en.wikipedia.org/wiki/Hawaii_(island)) and its threat to a secret military waste *dump* containing enough of a [DARPA](https://en.wikipedia.org/wiki/DARPA)-developed radioactive liquid pathogin to kill everyone on earth...  Lots of action.  None of the characters seem comprehensively developed but in the context of a high-action thriller that doesn't seem like much of a caution.  In my reading/opinion, development of the central characters seem appropriate for this genera and few fall into the truely '*wooden*' category.   
 
 
 </details>
