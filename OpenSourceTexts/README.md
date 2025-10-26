@@ -195,13 +195,15 @@ This short story was published in Amazing Science Fiction Stories, October 1958.
 
 </details>
 
-- - -
+
 <details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
 https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
+
+Reading Notes: 
 Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
 Main characters: Phillip Dru, Gloria Strawn, Senator Selwyn  
 Also: Governor James R. Rockland (earmarks of a demagogue)…  
@@ -220,7 +222,7 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 
 </details>
 
-
+- - -
 <details><summary><a name=""></a>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
