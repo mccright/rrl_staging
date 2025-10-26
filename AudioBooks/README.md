@@ -4985,18 +4985,16 @@ Reading Notes:
 <details>
 <summary><a name=""></a>The Lord of the Rings: Book 1 -- The Fellowship of the Ring. By J.R.R. Tolkien. 2021 (1954)   </summary>
 
-### The Fellowship of the Ring.  
+### The Fellowship of the Ring.  (23:00)
 Audio: https://www.overdrive.com/media/6404869/the-fellowship-of-the-ring  
 eBook: https://www.overdrive.com/media/235099/the-fellowship-of-the-ring  
 By [J.R.R. Tolkien (*John Ronald Reuel*)](https://en.wikipedia.org/wiki/J._R._R._Tolkien)  (1892 – 1973)  
 
-Reading Notes:   
+Reading Notes: See the [Wikipedia summary]() for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
 
-Wikipedia summary: [The Fellowship of the Ring](The Fellowship of the Ring).  
+Wikipedia summary: [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring).  
 
 </details>
-
-
 
 
 
