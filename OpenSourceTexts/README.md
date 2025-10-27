@@ -181,16 +181,17 @@ For additional context, you might want to read an article by Morton D. Paley, "[
 
 </details>
 
-- - -
-<details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958</summary>
+
+<details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958 </summary>
 
 ### The Quantum Jump.  
 eBook: https://www.gutenberg.org/ebooks/24418  
 Audio: There are at least three audio versions of this short story (~22:00 each).  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
-This short story was published in Amazing Science Fiction Stories, October 1958.  
+
 By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
-Reading Notes:  
-This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  
+
+Reading Notes:  This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  
+This short story was published in Amazing Science Fiction Stories, October 1958.  
 
 </details>
 
@@ -201,6 +202,8 @@ This is an excellent short science fiction story about a small team of space exp
 https://www.gutenberg.org/ebooks/6711  
 https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
+
+Reading Notes: 
 Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
 Main characters: Phillip Dru, Gloria Strawn, Senator Selwyn  
 Also: Governor James R. Rockland (earmarks of a demagogue)…  
@@ -219,7 +222,7 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 
 </details>
 
-
+- - -
 <details><summary><a name=""></a>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
