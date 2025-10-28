@@ -4994,6 +4994,37 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name=""></a>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="malta_exchange_by_steve_berry"></a>The Malta Exchange -- Cotton Malone.  By Steve Berry.  2019  </summary>
+
+### The Malta Exchange -- a Cotton Malone story. (14:00)  
+Audio: https://www.overdrive.com/media/3980801/the-malta-exchange  
+eBook: https://www.overdrive.com/media/3994830/the-malta-exchange  
+By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
+
+Reading Notes: Another formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)).  A pope just dies and the conclave to select his replacement is about to begin.  While many corrupt Cardinals lobby for selection in Vatican City, one chases information and historical artifacts on Malta in order to blackmail his way to a two thirds vote.  Cotton Malone (*former U.S. agent*) and Luke Daniels (*Magellan Billet agent*), targeted by the Knights of Malta and the Secreti attempt to locate some correspondence between Winston Churchill and Benito Mussolini, which gets them involved in a search for 4th century document from Constantine the Great. Lots of violence, lying, back-stabbing, racing from site to site and heavy action in between.  
+
+
+</details>
+
+
+
 
 <details>
 <summary><a name=""></a>The Lord of the Rings: Book 1 -- The Fellowship of the Ring. By J.R.R. Tolkien. 2021 (1954)   </summary>
