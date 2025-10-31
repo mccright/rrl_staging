@@ -4993,6 +4993,20 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="recursion_by_blake_crouch"></a>Recursion -- A Novel. By Blake Crouch. 2019  </summary>
+
+### Recursion -- A Novel.  
+Audio: https://www.overdrive.com/media/4295342/recursion  
+eBook: https://www.overdrive.com/media/4483738/recursion  
+By [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)  (1978 – )  
+
+Reading Notes: Subjects -- Fiction, Science Fiction, Suspense and Thriller  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="the_heart_goes_last_by_margaret_atwood"></a>The Heart Goes Last. By Margaret Atwood. 2015  </summary>
@@ -5050,6 +5064,61 @@ Wikipedia summary: [The Fellowship of the Ring](https://en.wikipedia.org/wiki/Th
 
 
 
+
+
+<details>
+<summary><a name="hole_in_the_sky_by_daniel_h_wilson"></a>Hole In The Sky.  By Daniel H. Wilson. RELEASE DATE: Oct. 7, 2025  </summary>
+
+### Hole In The Sky.  
+Audio: https://www.overdrive.com/media/11597595/hole-in-the-sky  
+eBook: https://www.overdrive.com/media/11510002/hole-in-the-sky  
+By [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson)  (1978 – )  
+
+Reading Notes:   
+
+
+[OverDrive Summary](https://www.overdrive.com/media/11510002/hole-in-the-sky):  
+>On the Great Plains of Oklahoma, in the heart of the Cherokee Nation, a strange atmospheric disturbance is noticed by Jim Hardgray, a down-on-his-luck single father trying to reconnect with his teenage daughter, Tawny. At NASA’s headquarters in Houston, Texas, astrophysicist Dr. Mikayla Johnson observes an interaction with the Voyager 1 spacecraft on the far side of the solar system, and she concludes that something enormous and unidentified is heading directly for Earth. And in an undisclosed bunker somewhere in the United States, an American threat forecaster known only as the Man Downstairs intercepts a cryptic communication and sends a message directly to the president and highest-ranking military brass: “First contact imminent.”
+Daniel H. Wilson’s Hole in the Sky is a riveting thriller in the most creative tradition of extraterrestrial fiction. Drawing on Wilson’s unique background as both a threat forecaster for the United States Air Force and a Cherokee Nation citizen, this propulsive novel asks probing questions about nonhuman intelligence, the Western mindset, and humans’ understanding of reality.  
+
+Interview with the author, [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) by [Jeff Spry](): [https://www.space.com/...daniel-wilsons-next-book](https://www.space.com/entertainment/nyt-bestselling-author-daniel-wilsons-next-book-is-hole-in-the-sky-an-alien-first-contact-story-on-a-cherokee-reservation-and-its-already-been-picked-up-by-netflix-interview)  
+
+Review on Kirkus Reviews: [kirkusreviews.com/.../hole-in-the-sky-3/](https://www.kirkusreviews.com/book-reviews/daniel-h-wilson/hole-in-the-sky-3/)  
+
+</details>
+
+
+
+
+<details>
+<summary><a name="all_that_we_see_or_seem_by_ken_liu"></a>Julia Z series #1 -- All That We See Or Seem. By Ken Liu. RELEASE DATE: Oct. 14, 2025  </summary>
+
+### All That We See Or Seem.  
+Audio: https://www.overdrive.com/media/11640090/all-that-we-see-or-seem  
+eBook: https://www.overdrive.com/media/11564693/all-that-we-see-or-seem  
+By [Ken Liu](https://en.wikipedia.org/wiki/Ken_Liu)  (1976 – )  
+
+Reading Notes: 
+
+Review on Kirkus Reviews: [kirkusreviews.com/.../all-that-we-see-or-seem-1-a-julia-z-novel/](https://www.kirkusreviews.com/book-reviews/ken-liu/all-that-we-see-or-seem-1-a-julia-z-novel/)  
+
+
+</details>
+
+
+<details>
+<summary><a name="the_big_happy_by_david_chadwick"></a>The Big Happy.  By David Chadwick. RELEASE DATE: Aug. 29, 2025 </summary>
+
+### The Big Happy.  
+Audio:   
+eBook:   
+By [David Chadwick](https://www.davidchadwick.net/about/)  ( – )  
+
+Reading Notes:   
+
+Review on Kirkus Reviews: [kirkusreviews.com/.../the-big-happy-2/](https://www.kirkusreviews.com/book-reviews/david-chadwick-1/the-big-happy-2/)  
+
+</details>
 
 
 
