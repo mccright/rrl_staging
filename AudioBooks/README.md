@@ -1531,6 +1531,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Eifelheim#Plot_summary
 </details>
 
 
+<details><summary><a name="an_elderly_lady_is_up_to_no_good_by_helene_tursten"></a>An Elderly Lady Is Up to No Good.  By Helene Tursten.  2018  </summary>
+
+### An Elderly Lady Is Up to No Good. (3:00)  
+Audio: https://www.overdrive.com/media/4773238/an-elderly-lady-is-up-to-no-good  
+eBook: https://www.overdrive.com/media/3984170/an-elderly-lady-is-up-to-no-good  
+By [Helene Tursten](https://en.wikipedia.org/wiki/Helene_Tursten)  (1954 – )  
+
+Reading Notes: See the Overdirve summary...  I listened to this short book while driving, and it was OK entertainment in that context.  
+
+[OverDrive Summary](https://www.overdrive.com/media/3984170/an-elderly-lady-is-up-to-no-good):  
+>Maud is an irascible eighty-eight-year-old Swedish woman with no family, no friends, and . . . no qualms about a little murder. This funny, irreverent story collection by Helene Tursten, author of the Irene Huss Investigation series, features two-never-before translated stories that will keep you laughing all the way to the retirement home. Ever since her darling father's untimely death when she was only eighteen, Maud has lived in the family's spacious apartment in downtown Gothenburg rent-free, thanks to a minor clause in a hastily negotiated contract. That was how Maud learned that good things can come from tragedy. Now in her late eighties, Maud contents herself with traveling the world and surfing the net from the comfort of her father's ancient armchair. It's a solitary existence, and she likes it that way. Over the course of her adventures-or misadventures-this little bold lady will handle a crisis with a local celebrity who has her eyes on Maud's apartment, foil the engagement of her long-ago lover, and dispose of some pesky neighbors. But when the local authorities are called to investigate a dead body found in Maud's apartment, will Maud finally become a suspect?  
+
+
+</details>
+
+
 <details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
@@ -5009,6 +5025,10 @@ Reading Notes:
 </details>
 
 
+
+
+
+
 <details>
 <summary><a name="recursion_by_blake_crouch"></a>Recursion -- A Novel. By Blake Crouch. 2019  </summary>
 
@@ -5075,6 +5095,22 @@ By [J.R.R. Tolkien (*John Ronald Reuel*)](https://en.wikipedia.org/wiki/J._R._R.
 Reading Notes: See the [Wikipedia summary]() for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
 
 Wikipedia summary: [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring).  
+
+</details>
+
+
+<details>
+<summary><a name="krakatoa_by_simon_winchester"></a>Krakatoa -- The Day the World Exploded: August 27, 1883.  By Simon Winchester.  2004/2013 </summary>
+
+### Krakatoa -- The Day the World Exploded: August 27, 1883.  (12:00)  
+Pages: 432  
+Audio: https://www.overdrive.com/media/77129/krakatoa  
+eBook: https://www.overdrive.com/media/466280/krakatoa  
+By [Simon Winchester](https://en.wikipedia.org/wiki/Simon_Winchester)  (1944 – )  
+
+Reading Notes: History at its best!  Winchester examines the annihilation in 1883 of the volcano-island of [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa).  He explores many natural phenomen associated with this event, as well as related science, technology, finance, global trade, insurance, economics, political economy/colonization and more.  
+
+Wikipedia summary: [wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded](https://en.wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded)  
 
 </details>
 
