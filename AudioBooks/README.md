@@ -5027,6 +5027,24 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="phineas_gage_by_john_fleischman"></a>Phineas Gage -- A Gruesome but True Story About Brain Science.  By John Fleischman. 2007/2024   </summary>
+
+### Phineas Gage -- A Gruesome but True Story About Brain Science.  
+Audio: https://www.overdrive.com/media/2393962/phineas-gage  
+eBook: https://www.overdrive.com/media/574037/phineas-gage  
+By [John Fleischman]()  ( – )  
+
+Reading Notes:   
+
+Overdrive summary:  
+>In 1848 Vermont, railroad foreman Phineas Gage sat above a hole, preparing to blast through some granite. A 13-pound iron rod fell from his hands into the hole, triggering the explosion and sending the rod straight through Phineas' head. Thirty minutes after this terrible accident, Phineas sat on the steps of a hotel, patiently waiting for the town doctor to arrive. He chatted with his amazed coworkers as if nothing had happened. But something terrible had happened. The rod that shot through Phineas' head like a rocket had caused great damage. Yet-incredibly-Phineas survived another 11 years. This extraordinary book tells the true story of one of the most remarkable accidents in human history. Listeners will not only be fascinated by all the gruesome details, but will also learn riveting information about how Phineas helped change the history of brain science.  
+
+
+</details>
+
+
+
 
 
 <details>
@@ -5431,6 +5449,7 @@ https://www.gutenberg.org/ebooks/76472
 ### Hospital Sketches. (3:08)  
 Audio: https://librivox.org/hospital-sketches-by-louisa-may-alcott/  
 eBook: https://www.gutenberg.org/ebooks/3837  
+text: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2001.05.0116  
 By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott)  (1832-1888)  
 
 Reading Notes:   
