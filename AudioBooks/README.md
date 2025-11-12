@@ -5047,6 +5047,22 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="parable_of_the_sower_by_octavia_butler"></a>Parable of the Sower -- Earthseed Series #1. By Octavia E. Butler. 1993 </summary>
+
+### Parable of the Sower -- Earthseed Series #1  (12:00) 
+Audio: https://www.overdrive.com/media/2902085/parable-of-the-sower  
+eBook: https://www.overdrive.com/media/9722437/parable-of-the-sower  
+By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
+
+Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality).  
+radical, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) President Donner [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)  
+
+
+</details>
+
 
 
 
