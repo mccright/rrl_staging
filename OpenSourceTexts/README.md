@@ -222,7 +222,7 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 
 </details>
 
-- - -
+
 <details><summary><a name="roger_the_ranger_by_eliza_fanny_pollard"></a>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
@@ -235,16 +235,18 @@ Reader Summary: Historical fiction likely targeted at middle-schoolers...  [Char
 </details>
 
 
-<details><summary><a name=""></a>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
+<details><summary><a name="sand_and_canvas_by_samuel_bevan"></a>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
 
 ### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
-https://www.gutenberg.org/ebooks/68780  
-By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
-Note: This mid-19th century travel narrative (novel?) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
+eBook: https://www.gutenberg.org/ebooks/68780  
+By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?)  
+
+Note: This mid-19th century travel narrative (*maybe introducing some fiction as well, novel?*) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)."  
+
 
 </details>
 
-
+- - -
 <details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
