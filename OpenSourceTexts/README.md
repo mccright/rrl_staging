@@ -306,6 +306,26 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="food_plants_of_n_american_indian_by_elias_yanovsky"></a>Food Plants Of The North American Indian. By Elias Yanovsky. 1936 </summary>
+
+### Food Plants Of The North American Indian. U.S. Dept. of Agriculture.  
+U.S. Dept. of Agriculture. Miscellaneous Publication No. 237. July 1936, 90 Pages.  
+eBook (text): https://archive.org/stream/foodplantsofnort237yano/foodplantsofnort237yano_djvu.txt  
+eBook (PDF): https://babel.hathitrust.org/cgi/pt?id=mdp.39015000754237&seq=1  
+By [Elias Yanovsky]()  ?( – )  
+
+Reading Notes: Reference work.  
+
+Also see: "Food Plants of the North American Indians." by Dr. V. Harvard. U.S. Army. in Bulletin of the Torrey Botanical Club, Vol. 22, No. 3 (Mar. 27, 1895), pp. 98-123 (26 pages) at: https://www.jstor.org/stable/2477757?seq=1   
+and  
+List of food plants native to the Americas: https://en.wikipedia.org/wiki/List_of_food_plants_native_to_the_Americas  
+and  
+"Nutritional Properties of Native Plants and Traditional Foods from the Central United States."  By Kelly Kindscher, Leanne Martin, Steve Corbett, David Lafond. in Ethnobiology Letters, Vol. 9, No. 2 (2018), pp. 214-227 (13 pages), at: https://www.jstor.org/stable/26607690  
+
+</details>
+
+
 
 
 <details>
