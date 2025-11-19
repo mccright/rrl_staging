@@ -3667,20 +3667,17 @@ Summary from Librivox:
 </details>
 
 
-<details><summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+<details><summary><a name="parable_of_the_sower_by_octavia_butler"></a>Parable of the Sower -- Earthseed Series #1. By Octavia E. Butler. 1993 </summary>
 
-### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
-Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
-eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
-By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+### Parable of the Sower -- Earthseed Series #1  (12:00) 
+Audio: https://www.overdrive.com/media/2902085/parable-of-the-sower  
+eBook: https://www.overdrive.com/media/9722437/parable-of-the-sower  
+By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
 
-Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
+Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality).  
+radical, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) President Donner [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
-History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
-Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
-Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
-Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)  
 
 
 </details>
@@ -3713,6 +3710,25 @@ Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](
 Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
 Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
  
+</details>
+
+
+<details><summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+
+### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
+Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
+eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+
+Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
+History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
+Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
+Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
+Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+
+
 </details>
 
 
@@ -5065,23 +5081,44 @@ Reading Notes:
 </details>
 
 
-
-
 <details>
-<summary><a name="parable_of_the_sower_by_octavia_butler"></a>Parable of the Sower -- Earthseed Series #1. By Octavia E. Butler. 1993 </summary>
+<summary><a name="pathogenesis_by_jonathan_kennedy"></a>Pathogenesis -- A History of the World in Eight Plagues. By Jonathan Kennedy. 2023  </summary>
 
-### Parable of the Sower -- Earthseed Series #1  (12:00) 
-Audio: https://www.overdrive.com/media/2902085/parable-of-the-sower  
-eBook: https://www.overdrive.com/media/9722437/parable-of-the-sower  
-By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
+### Pathogenesis -- A History of the World in Eight Plagues [or, How germs made history]. (9:20)  
+Audio: https://www.overdrive.com/media/9090315/pathogenesis  
+eBook: https://www.overdrive.com/media/9069182/pathogenesis  
+By [Jonathan Kennedy](https://www.qmul.ac.uk/wiph/people/profiles/jonathankennedy.html), also see [wikitia.com/wiki/Jonathan_Kennedy](https://wikitia.com/wiki/Jonathan_Kennedy) ( – )  
 
-Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality).  
-radical, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) President Donner [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.
+Reading Notes:   
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Pathogenesis:_A_History_of_the_World_in_Eight_Plagues  
+Overdrive [Summary](https://www.overdrive.com/media/9090315/pathogenesis):  
+>According to the accepted narrative of progress, humans have thrived thanks to their brains and brawn, collectively bending the arc of history. But in this revelatory book, Professor Jonathan Kennedy argues that the myth of human exceptionalism overstates the role that we play in social and political change. Instead, it is the humble microbe that wins wars and topples empires.  Drawing on the latest research in fields ranging from genetics and anthropology to archaeology and economics, Pathogenesis takes us through sixty thousand years of history, exploring eight major outbreaks of infectious disease that have made the modern world. Bacteria and viruses were protagonists in the demise of the Neanderthals, the growth of Islam, the transition from feudalism to capitalism, the devastation wrought by European colonialism, and the evolution of the United States from an imperial backwater to a global superpower. Even Christianity rose to prominence in the wake of a series of deadly pandemics that swept through the Roman Empire in the second and third centuries: Caring for the sick turned what was a tiny sect into one of the world’s major religions.  By placing disease at the center of his wide-ranging history of humankind, Kennedy challenges some of the most fundamental assumptions about our collective past—and urges us to view this moment as another disease-driven inflection point that will change the course of history.  
 
 
 </details>
+
+
+
+
+
+<details>
+<summary><a name="dead_wake_by_erik_larson"></a>Dead Wake -- The Last Crossing of the Lusitania. By Erik Larson. 2015  </summary>
+
+### Dead Wake -- The Last Crossing of the Lusitania. (13:00)  
+Audio: https://www.overdrive.com/media/1771251/dead-wake  
+eBook: https://www.overdrive.com/media/1945203/dead-wake  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
+Crown Publishers. 430 pages.  
+
+Reading Notes: This is interesting [historical non-fiction](https://en.wikipedia.org/wiki/History). The RMS [Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) (launched 1906), a British ocean liner operated by the [Cunard Steamship Company](https://en.wikipedia.org/wiki/Cunard_Line) was the fastest liner in service for almost a decade. As [World War I](https://en.wikipedia.org/wiki/World_War_I) raged in Europe on surrounding seas, the German submarine [U-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)) struck the Lusitania with a torpedo on 7 May 1915 at 14:10, 11 miles off the [Old Head of Kinsale](https://en.wikipedia.org/wiki/Old_Head_of_Kinsale), Ireland. The resulting damage led to her sinking about 18 minutes later. Only six of several dozen [lifeboats and rafts](https://en.wikipedia.org/wiki/Lifeboat_(shipboard)) were successfully lowered; there were 767 survivors out of the 1,960 people on board, while 1,193 perished (*including three German [stowaways](https://en.wikipedia.org/wiki/Stowaway)*).  
+The U.S. President Woodrow Wilson was distracted.  First Lord of the Admiralty Winston Churchill was out-of-the-office in France.  Lusitania captain, William Thomas Turner, assumed the historical norms that kept civilian ships safe from attack. Walther Schwieger, the captain of [Unterseeboot-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)), believed in his country's targeting of all shipping, civilian, military or *mixed* in areas declared *at war* by Germany. Secretive British codebreakers believed in their ability to drive events/decisions in ways that would favor Great Britain in the war.  
+
+Author's Summary: https://eriklarsonbooks.com/book/dead-wake/  
+NYT Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/...the-sinking-of-the-lusitania...](https://www.nytimes.com/2015/03/05/books/review-erik-larsons-dead-wake-on-the-sinking-of-the-lusitania.html?unlocked_article_code=1.1k8.ycIA.HZX4eITIsmgp&smid=url-share)  
+
+</details>
+
 
 
 

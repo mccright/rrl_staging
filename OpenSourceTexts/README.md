@@ -246,8 +246,8 @@ Note: This mid-19th century travel narrative (*maybe introducing some fiction as
 
 </details>
 
-- - -
-<details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
+
+<details><summary><a name="the_shipwreck_by_william_falconer"></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
@@ -269,6 +269,7 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 
 </details>
 
+- - -
 
 <details><summary><a name=""></a>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
 
@@ -277,7 +278,7 @@ eBook: https://www.gutenberg.org/ebooks/408
  
 By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
 
-Reading Notes: This is a series of essays on race by Du Bois.  The [Wikipedia summary]() says that it is also "holds an important place in social science as one of the early works in the field of sociology."  
+Reading Notes: This is a series of essays on race by Du Bois.  The [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) says that it is also "holds an important place in social science as one of the early works in the field of sociology."  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk  
 
