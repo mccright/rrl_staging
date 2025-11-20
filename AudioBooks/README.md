@@ -5089,7 +5089,7 @@ Audio: https://www.overdrive.com/media/9090315/pathogenesis
 eBook: https://www.overdrive.com/media/9069182/pathogenesis  
 By [Jonathan Kennedy](https://www.qmul.ac.uk/wiph/people/profiles/jonathankennedy.html), also see [wikitia.com/wiki/Jonathan_Kennedy](https://wikitia.com/wiki/Jonathan_Kennedy) ( – )  
 
-Reading Notes:   
+Reading Notes: This is an interesting argument that infectious disease has played a material role in a collection of major social and political changes over the last 60 millenia.  It is a little humbling and I believe it is worth your time and energy.  See the [Overdrive summary](https://www.overdrive.com/media/9090315/pathogenesis) below for more.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Pathogenesis:_A_History_of_the_World_in_Eight_Plagues  
 Overdrive [Summary](https://www.overdrive.com/media/9090315/pathogenesis):  
