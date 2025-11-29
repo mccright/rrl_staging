@@ -5117,6 +5117,22 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="the_splendid_and_the_vile_by_erik_larson"></a>The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. By Erik Larson. 2020 </summary>
+
+### The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. (18:00)  
+Audio: https://www.overdrive.com/media/4825577/the-splendid-and-the-vile  
+eBook: https://www.overdrive.com/media/4941601/the-splendid-and-the-vile  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
 
 <details>
 <summary><a name="the_antidote_by_karen_russell"></a>The Antidote -- A Novel.  By Karen Russell. 2025 </summary>
