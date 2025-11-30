@@ -168,6 +168,22 @@ This book includes some sterotyping based on race, ethnicity and other character
 </details>
 
 
+<details><summary><a name="non_technical_chats_by_la_verne_w_spring"></a>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
+
+### Non-technical chats on iron and steel and their application to modern industry.  
+https://www.gutenberg.org/ebooks/73090  
+https://catalog.hathitrust.org/Record/006573289  
+https://catalog.hathitrust.org/Record/011209034  
+By [la Verne W. (Ward) Spring](https://books.google.com/books?id=dTDTAAAAMAAJ&pg=PA821&lpg=PA821&dq=%22Spring,+La+Verne+Ward%22&source=bl&ots=DU5U1RaxRm&sig=ACfU3U0lw0o59K9uvZRjd8LpIZlkVA6TNA&hl=en&sa=X&ved=2ahUKEwiPqIaf3tiEAxWCg4kEHYQxDSU4ChDoAXoECAMQAw#v=onepage&q=%22Spring%2C%20La%20Verne%20Ward%22&f=false) (1876-)  
+
+Reader notes: A collection of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and outlines his understanding (*"Western" and opinionated*) of the industry's history and technology through "Transformations and Structures of the Steels" in the early WWI era.  It you are interested in the history, chemistry and manufacture of irons and steels in the pre-WWII era this might be a fit.  For me, and I enjoyed working in a foundry many years ago, it was not an easy reader and seemed much longer than its 358 pages.  
+>"The first 13 articles were published during 1915 and 1916 in serial form in the "Valve world," the house organ of Crane company of Chicago."  
+
+Related resources: [A glossary of furnace-terms in English, French and German](https://www.loc.gov/item/25022444/). 1888, By Thomas Egleston (1832-1900) (LCCN Permalink https://lccn.loc.gov/25022444) and [The manufacture of iron, in all its various branches](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=32025952&searchType=1&permalink=y). 1853, By Frederick Overman (1810-1852)  (LCCN Permalink: https://lccn.loc.gov/32025952)  
+
+</details>
+
+
 <details><summary><a name="observations_on_the_slave_trade_by_carl_bernhard_wadström"></a>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
@@ -640,23 +656,6 @@ https://www.gutenberg.org/ebooks/73056
 By [Robert Herrick](https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)) (1868-1938)  
 
 Reading notes:  
-
-</details>
-
-
-<details>
-<summary>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
-
-### Non-technical chats on iron and steel and their application to modern industry. 
-https://www.gutenberg.org/ebooks/73090  
-https://catalog.hathitrust.org/Record/006573289  
-https://catalog.hathitrust.org/Record/011209034  
-By [la Verne W. (Ward) Spring](https://books.google.com/books?id=dTDTAAAAMAAJ&pg=PA821&lpg=PA821&dq=%22Spring,+La+Verne+Ward%22&source=bl&ots=DU5U1RaxRm&sig=ACfU3U0lw0o59K9uvZRjd8LpIZlkVA6TNA&hl=en&sa=X&ved=2ahUKEwiPqIaf3tiEAxWCg4kEHYQxDSU4ChDoAXoECAMQAw#v=onepage&q=%22Spring%2C%20La%20Verne%20Ward%22&f=false) (1876-)  
-
-Reader notes: 358 pages of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and takes us through history and technology through "Transformations and Structures of the Steels" in the early WWI era.  
->"The first 13 articles were published during 1915 and 1916 in serial form in the "Valve world," the house organ of Crane company of Chicago."  
-
-Related resources: [A glossary of furnace-terms in English, French and German](https://www.loc.gov/item/25022444/). 1888, By Thomas Egleston (1832-1900) (LCCN Permalink https://lccn.loc.gov/25022444) and [The manufacture of iron, in all its various branches](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=32025952&searchType=1&permalink=y). 1853, By Frederick Overman (1810-1852)  (LCCN Permalink: https://lccn.loc.gov/32025952)  
 
 </details>
 

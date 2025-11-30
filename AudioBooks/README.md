@@ -1370,6 +1370,23 @@ Review/Summary by Ryan Steck: [https://therealbookspy.com/...dead-fall-by-brad-t
 </details>
 
 
+<details><summary><a name="dead_wake_by_erik_larson"></a>Dead Wake -- The Last Crossing of the Lusitania. By Erik Larson. 2015  </summary>
+
+### Dead Wake -- The Last Crossing of the Lusitania. (13:00)  
+Audio: https://www.overdrive.com/media/1771251/dead-wake  
+eBook: https://www.overdrive.com/media/1945203/dead-wake  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
+Crown Publishers. 430 pages.  
+
+Reading Notes: This is interesting [historical non-fiction](https://en.wikipedia.org/wiki/History). The RMS [Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) (launched 1906), a British ocean liner operated by the [Cunard Steamship Company](https://en.wikipedia.org/wiki/Cunard_Line) was the fastest liner in service for almost a decade. As [World War I](https://en.wikipedia.org/wiki/World_War_I) raged in Europe and on surrounding seas, the German submarine [U-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)) struck the Lusitania with a torpedo on 7 May 1915 at 14:10, 11 miles off the [Old Head of Kinsale](https://en.wikipedia.org/wiki/Old_Head_of_Kinsale), Ireland. The resulting damage led to her sinking about 18 minutes later. Only six of several dozen [lifeboats and rafts](https://en.wikipedia.org/wiki/Lifeboat_(shipboard)) were successfully lowered; there were 767 survivors out of the 1,960 people on board, while 1,193 perished (*including three German [stowaways](https://en.wikipedia.org/wiki/Stowaway)*).  
+The U.S. President Woodrow Wilson was distracted.  First Lord of the Admiralty Winston Churchill was out-of-the-office in France.  Lusitania captain, William Thomas Turner, assumed the historical norms that kept civilian ships safe from attack. Walther Schwieger, the captain of [Unterseeboot-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)), believed in his country's targeting of all shipping, civilian, military or *mixed* in areas declared *at war* by Germany. Secretive British codebreakers believed in their ability to drive events/decisions in ways that would favor Great Britain in the war.  
+
+Author's Summary: https://eriklarsonbooks.com/book/dead-wake/  
+NYT Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/...the-sinking-of-the-lusitania...](https://www.nytimes.com/2015/03/05/books/review-erik-larsons-dead-wake-on-the-sinking-of-the-lusitania.html?unlocked_article_code=1.1k8.ycIA.HZX4eITIsmgp&smid=url-share)  
+
+</details>
+
+
 <details><summary><a name="deep_sky_by_yume_kitasei"></a>The Deep Sky. By Yume Kitasei. 2023 </summary>
 
 ### The Deep Sky. (12:00)  
@@ -3544,7 +3561,7 @@ https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/
 Text: https://www.gutenberg.org/ebooks/64903  
 By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
 
-Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: There are issues of race in this story-telling, particularly Native American and Black stereotypes and derogatory terms.  
+Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: The author's approach to race in this story-telling, particularly Native American and Black stereotypes and his use of derogatory terms may be hurtful to some readers.  
 
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
@@ -3669,13 +3686,13 @@ Summary from Librivox:
 
 <details><summary><a name="parable_of_the_sower_by_octavia_butler"></a>Parable of the Sower -- Earthseed Series #1. By Octavia E. Butler. 1993 </summary>
 
-### Parable of the Sower -- Earthseed Series #1  (12:00) 
+### Parable of the Sower -- Earthseed Series #1  (12:00)  
 Audio: https://www.overdrive.com/media/2902085/parable-of-the-sower  
 eBook: https://www.overdrive.com/media/9722437/parable-of-the-sower  
 By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
 
-Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality).  
-radical, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) President Donner [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.
+Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change), [economic inequality](https://en.wikipedia.org/wiki/Economic_inequality) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality). Butler presents the story in the form of a journal kept by the its central character Lauren Oya Olamina, an African American teenager who possesses "[hyper-empathy](https://en.wikipedia.org/wiki/Empathy)" or "sharing" (*the uncontrollable ability to feel the sensations she witnesses in others*).  The book follows Lauren through the violent collapse of her childhood world and her journey north to found a community based on her developing "Earthseed religion," later a collection of texts titled "Earthseed: The Books of the Living."  
+In parallel, a radical, corrupt, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) U.S. [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.  These businesses reintroduce slavery into their operations -- adding an ominous new dimension to the broader social collapse.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)  
 
@@ -5100,21 +5117,55 @@ Reading Notes:
 
 
 
+Xen 
+VeRelief Prime
+
 
 <details>
-<summary><a name="dead_wake_by_erik_larson"></a>Dead Wake -- The Last Crossing of the Lusitania. By Erik Larson. 2015  </summary>
+<summary><a name="the_aviators_by_winston_groom"></a>The Aviators -- Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight. By Winston Groom. 2013  </summary>
 
-### Dead Wake -- The Last Crossing of the Lusitania. (13:00)  
-Audio: https://www.overdrive.com/media/1771251/dead-wake  
-eBook: https://www.overdrive.com/media/1945203/dead-wake  
+### The Aviators -- Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight. (17:00)  
+Audio: https://www.overdrive.com/media/1418113/the-aviators  
+eBook: https://www.overdrive.com/media/1311441/the-aviators  
+By [Winston Groom](https://en.wikipedia.org/wiki/Winston_Groom)  (1943 - 2020)  
+
+Reading Notes: This includes capsule popular *biographies* of [Eddie Rickenbacker](https://en.wikipedia.org/wiki/Eddie_Rickenbacker), [Jimmy Doolittle](https://en.wikipedia.org/wiki/Jimmy_Doolittle) and [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) -- each of which became self-made avaition leaders by the 1920s and returned as middle-aged men to avaition leadership in World War II.  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="the_splendid_and_the_vile_by_erik_larson"></a>The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. By Erik Larson. 2020 </summary>
+
+### The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. (18:00)  
+Audio: https://www.overdrive.com/media/4825577/the-splendid-and-the-vile  
+eBook: https://www.overdrive.com/media/4941601/the-splendid-and-the-vile  
 By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
-Crown Publishers. 430 pages.  
 
-Reading Notes: This is interesting [historical non-fiction](https://en.wikipedia.org/wiki/History). The RMS [Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) (launched 1906), a British ocean liner operated by the [Cunard Steamship Company](https://en.wikipedia.org/wiki/Cunard_Line) was the fastest liner in service for almost a decade. As [World War I](https://en.wikipedia.org/wiki/World_War_I) raged in Europe on surrounding seas, the German submarine [U-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)) struck the Lusitania with a torpedo on 7 May 1915 at 14:10, 11 miles off the [Old Head of Kinsale](https://en.wikipedia.org/wiki/Old_Head_of_Kinsale), Ireland. The resulting damage led to her sinking about 18 minutes later. Only six of several dozen [lifeboats and rafts](https://en.wikipedia.org/wiki/Lifeboat_(shipboard)) were successfully lowered; there were 767 survivors out of the 1,960 people on board, while 1,193 perished (*including three German [stowaways](https://en.wikipedia.org/wiki/Stowaway)*).  
-The U.S. President Woodrow Wilson was distracted.  First Lord of the Admiralty Winston Churchill was out-of-the-office in France.  Lusitania captain, William Thomas Turner, assumed the historical norms that kept civilian ships safe from attack. Walther Schwieger, the captain of [Unterseeboot-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)), believed in his country's targeting of all shipping, civilian, military or *mixed* in areas declared *at war* by Germany. Secretive British codebreakers believed in their ability to drive events/decisions in ways that would favor Great Britain in the war.  
+Reading Notes:   
 
-Author's Summary: https://eriklarsonbooks.com/book/dead-wake/  
-NYT Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/...the-sinking-of-the-lusitania...](https://www.nytimes.com/2015/03/05/books/review-erik-larsons-dead-wake-on-the-sinking-of-the-lusitania.html?unlocked_article_code=1.1k8.ycIA.HZX4eITIsmgp&smid=url-share)  
+
+</details>
+
+
+
+
+
+<details>
+<summary><a name="the_antidote_by_karen_russell"></a>The Antidote -- A Novel.  By Karen Russell. 2025 </summary>
+
+### The Antidote -- A Novel  (18:00)  
+Audio: https://www.overdrive.com/media/10971475/the-antidote  
+eBook: https://www.overdrive.com/media/10908992/the-antidote  
+By [Karen Russell](https://en.wikipedia.org/wiki/Karen_Russell) and [at her site](https://www.karenrussellauthor.com/about)  (1981 – )  
+
+Reading Notes:   
+
+NYT Review by [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...karen-russell-the-antidote](https://www.nytimes.com/2025/03/12/books/review/karen-russell-the-antidote.html?unlocked_article_code=1.4U8.CvlK.RdtN0hayrjSa&smid=url-share) (*free access*) 
+Washington Post Review by [Ron Charles](https://en.wikipedia.org/wiki/Ron_Charles_(critic)): [washingtonpost.com/...antidote-karen-russell-review](https://wapo.st/3XS0r2D)  
+
 
 </details>
 
