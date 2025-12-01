@@ -356,6 +356,21 @@ See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/
 </details>
 
 
+<details><summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
+
+### Anomaly.  (10:00)  
+Audio: https://www.overdrive.com/media/4871889/anomaly  
+eBook:   
+By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
+
+Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+
+Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
+
+
+</details>
+
+
 <details><summary><a name="the_anomaly_herve_le_tellier"></a>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
 
 ### The Anomaly. (10:00)  
@@ -5482,22 +5497,6 @@ Check on:
 THE MISSION: The CIA in the 21st Century | By Tim Weiner | Mariner | 454 pp.  
 Review: https://www.nytimes.com/2025/07/15/books/review/the-mission-tim-weiner.html  
 
-
-
-<details>
-<summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
-
-### Anomaly.  (10:00)  
-Audio: https://www.overdrive.com/media/4871889/anomaly  
-eBook:   
-By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
-
-Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
-
-Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
-
-
-</details>
 
 
 
