@@ -212,7 +212,7 @@ This short story was published in Amazing Science Fiction Stories, October 1958.
 </details>
 
 
-<details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+<details><summary><a name="philip_dru_administrator_by_edward_mandell_house"></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
@@ -227,14 +227,18 @@ The story outlines how society is corrupted by Dark money, Control of the press,
     …who was ignorant of history  
     …who picks three compliant Supreme Court justices  
 There are recordings that capture corrupt acts by the President, and a Whistleblower.  
-Corrupt leaders are defiant & claim others were doing what they were charged with, and that they were trying to protect America…  They:  
-    …Moved troops to cities and the navy to U.S. coasts  
-    …dehumanized political opponents  
-    …chose quick violence against protest  
+Corrupt leaders are defiant & claim *others were doing what they were charged with*, and that *they were trying to protect America*…  But they:  
+    …moved Federal troops to American cities and the U.S.Navy to U.S. coasts  
+    …used the press to dehumanized political opponents  
+    …employed federal troops at the polls across the nation and denied a free ballot  
+    …chose quick violence against election protesters resulting in an "appalling" number of civilian deaths across American cities  
 Civil War follows — unrealistic assertions about the nature and practice of war.  More than 50,000 die in the one and only battle -- and the war is won…  
 General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
-At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
+At the highest level, "much of writing is sophomoric and the characters almost comically wooden." (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
+
 
 </details>
 
