@@ -5155,7 +5155,7 @@ Audio: https://www.overdrive.com/media/1418113/the-aviators
 eBook: https://www.overdrive.com/media/1311441/the-aviators  
 By [Winston Groom](https://en.wikipedia.org/wiki/Winston_Groom)  (1943 - 2020)  
 
-Reading Notes: This includes capsule popular *biographies* of [Eddie Rickenbacker](https://en.wikipedia.org/wiki/Eddie_Rickenbacker), [Jimmy Doolittle](https://en.wikipedia.org/wiki/Jimmy_Doolittle) and [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) -- each of which became self-made avaition leaders by the 1920s and returned as middle-aged men to avaition leadership in World War II.  
+Reading Notes: This includes capsule popular *biographies* of [Eddie Rickenbacker](https://en.wikipedia.org/wiki/Eddie_Rickenbacker), [Jimmy Doolittle](https://en.wikipedia.org/wiki/Jimmy_Doolittle) and [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) -- each of which became self-made avaition leaders by the late 1920s and returned as middle-aged men to military avaition leadership in World War II.  Theirs are interesting stories.  If you don't know much about these three individuals, this book might be a good place to start.  
 
 
 </details>
