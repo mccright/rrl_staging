@@ -385,6 +385,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)
 </details>
 
 
+<details><summary><a name="the_antidote_by_karen_russell"></a>The Antidote -- A Novel.  By Karen Russell. 2025 </summary>
+
+### The Antidote -- A Novel  (18:00)  
+Audio: https://www.overdrive.com/media/10971475/the-antidote  
+eBook: https://www.overdrive.com/media/10908992/the-antidote  
+By [Karen Russell](https://en.wikipedia.org/wiki/Karen_Russell) and [at her site](https://www.karenrussellauthor.com/about)  (1981 – )  
+
+Reading Notes: Ron Charles described "The Antidote" as "[dazzlingly original and ambitious](https://wapo.st/3XS0r2D)."  I couldn't agree more. The action takes place in South Central [Nebraska](https://en.wikipedia.org/wiki/Nebraska) between the [Republican](https://en.wikipedia.org/wiki/Republican_River) and [Platte](https://en.wikipedia.org/wiki/Platte_River) rivers between the 1870s and the mid-1930s, including in the fictional town of Uz.  There are a number of narrators in this historical novel -- Antonina Teresa Rossi (AKA, "The Antidote"), a prairie witch who acts as a bank or “vault” for anything local residents want to forget(*but may want to retrieve*), Asphodel “Dell” Oletsky, an orphan, a high school age basketball player (*and much more*), Harp Oletsky, farmer and Dell's Uncle & guardian, son of Polish peasants who emigrated to the U.S. in the late 19th century to become farmers in [Nebraska](https://en.wikipedia.org/wiki/Nebraska) (*displacing Native Americans*), Cleo Allfrey, a Black photographer, sent by the [New Deal](https://en.wikipedia.org/wiki/New_Deal) [Resettlement Administration](https://en.wikipedia.org/wiki/Resettlement_Administration) to document farm life, a [scarecrow](https://en.wikipedia.org/wiki/Scarecrow) and a mother cat.  Parallel threads of racism, cultural genocide, morality policing, corruption, violence and waste lead the characters to each other and begin the next phases of their lives.  
+My wife and I listened to this book on a long drive West (*Iowa, Nebraska, Kansas & plains Colorado*) and it was a good fit.  
+See one or more of the reviews below for more...  
+
+NYT Review by [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...karen-russell-the-antidote](https://www.nytimes.com/2025/03/12/books/review/karen-russell-the-antidote.html?unlocked_article_code=1.4U8.CvlK.RdtN0hayrjSa&smid=url-share) (*free access*)  
+Washington Post Review by [Ron Charles](https://en.wikipedia.org/wiki/Ron_Charles_(critic)): [washingtonpost.com/...antidote-karen-russell-review](https://wapo.st/3XS0r2D)  
+Review / author interview by [Matthew Trueherz](): [www.pdxmonthly.com/...interview-the-antidote](https://www.pdxmonthly.com/arts-and-culture/2025/03/karen-russell-interview-the-antidote)  
+
+
+</details>
+
+
 <details><summary><a name="apiary_experiments_comb_building_by_c_p_gillette"></a>Apiary Experiments. Foundation in Comb Building. By C. P. (Clarence Preston) Gillette.  1900 </summary>
 
 ### Apiary experiments. Foundation in comb building. 1900  
@@ -5145,6 +5164,26 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
+
+### The Dream Hotel.  (12:00)  
+Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
+eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
+By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
+
+Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel). This is a highly discomforting story.  It is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  Police already subscribe to "*propensity for committing crimes*" services (*that don't -- yet -- incorporate dream-reading implants*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime detention and analysis services* described in this story.  
+
+Wikipedia Summary:  
+>Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity for committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
+
+Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
+Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
+
+
+</details>
+
+
 
 
 <details>
@@ -5175,24 +5214,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="the_antidote_by_karen_russell"></a>The Antidote -- A Novel.  By Karen Russell. 2025 </summary>
-
-### The Antidote -- A Novel  (18:00)  
-Audio: https://www.overdrive.com/media/10971475/the-antidote  
-eBook: https://www.overdrive.com/media/10908992/the-antidote  
-By [Karen Russell](https://en.wikipedia.org/wiki/Karen_Russell) and [at her site](https://www.karenrussellauthor.com/about)  (1981 – )  
-
-Reading Notes: Ron Charles described "The Antidote" as "[dazzlingly original and ambitious](https://wapo.st/3XS0r2D)."  I couldn't agree more. The action takes place in South Central [Nebraska](https://en.wikipedia.org/wiki/Nebraska) between the [Republican](https://en.wikipedia.org/wiki/Republican_River) and [Platte](https://en.wikipedia.org/wiki/Platte_River) rivers between the 1870s and the mid-1930s, including in the fictional town of Uz.  There are a number of narrators in this historical novel -- Antonina Teresa Rossi (AKA, "The Antidote"), a prairie witch who acts as a bank or “vault” for anything local residents want to forget(*but may want to retrieve*), Asphodel “Dell” Oletsky, an orphan, a high school age basketball player (*and much more*), Harp Oletsky, farmer and Dell's Uncle & guardian, son of Polish peasants who emigrated to the U.S. in the late 19th century to become farmers in [Nebraska](https://en.wikipedia.org/wiki/Nebraska) (*displacing Native Americans*), Cleo Allfrey, a Black photographer, sent by the [New Deal](https://en.wikipedia.org/wiki/New_Deal) [Resettlement Administration](https://en.wikipedia.org/wiki/Resettlement_Administration) to document farm life, a [scarecrow](https://en.wikipedia.org/wiki/Scarecrow) and a mother cat.  Parallel threads of racism, cultural genocide, morality policing, corruption, violence and waste lead the characters to each other and begin the next phases of their lives.  See one or more of the reviews below for more...  
-
-NYT Review by [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...karen-russell-the-antidote](https://www.nytimes.com/2025/03/12/books/review/karen-russell-the-antidote.html?unlocked_article_code=1.4U8.CvlK.RdtN0hayrjSa&smid=url-share) (*free access*) 
-Washington Post Review by [Ron Charles](https://en.wikipedia.org/wiki/Ron_Charles_(critic)): [washingtonpost.com/...antidote-karen-russell-review](https://wapo.st/3XS0r2D)  
-Review / author interview by [Matthew Trueherz](): [www.pdxmonthly.com/...interview-the-antidote](https://www.pdxmonthly.com/arts-and-culture/2025/03/karen-russell-interview-the-antidote)  
-
-
-</details>
 
 
 
@@ -5496,26 +5517,6 @@ THE MISSION: The CIA in the 21st Century | By Tim Weiner | Mariner | 454 pp.
 Review: https://www.nytimes.com/2025/07/15/books/review/the-mission-tim-weiner.html  
 
 
-
-
-<details>
-<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
-
-### The Dream Hotel.  (12:00)  
-Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
-eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
-By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
-
-Reading Notes:  
-
-Wikipedia Summary:  
->Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity to committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
-
-Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
-Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
-
-
-</details>
 
 
 
