@@ -298,7 +298,7 @@ eBook: https://www.gutenberg.org/ebooks/408
  
 By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
 
-Reading Notes: This is a series of essays on race by Du Bois.  The [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) says that it is also "holds an important place in social science as one of the early works in the field of sociology."  
+Reading Notes: This is a series of essays on race by Du Bois.  After reading and thinking about it for a while and reading the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) I recommend that every adult should read this book to help add context to their perceptions of society and culture in the U.S.  HDu Bois is a tough, honest historian and careful observer of race relations in the U.S.  The [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) says that this book also "holds an important place in social science as one of the early works in the field of sociology."  It is a complicated book, that, if you are interested at all, but are hesitating, I recommend that you read the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk), as it is far, far, better than anything that I could produce about this volume.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk  
 
