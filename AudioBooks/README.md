@@ -1511,7 +1511,27 @@ Reader notes: If you like spy, [action](https://en.wikipedia.org/wiki/Action_fic
 
 </details>
 
- 
+
+<details>
+<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
+
+### The Dream Hotel.  (12:00)  
+Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
+eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
+By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
+
+Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people available in the U.S. and apply a risk score to each (*loosely analogous to your FICO score, but with a different mission*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison*, the broader societal mission and the corporate & facility missions are wildly misaligned.  The corporate owners of the facilities depend on detainees complying with their business model that assumes detainees will perform outsourced labor without pay.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  In that context there were vinettes throughout the story that I found involuntarily repulsive.  Other threads in this story also were both so awful and so *believable* that they lingered in my imagination long after I stopped reading.  For example, police already subscribe to "*propensity for committing crimes*" services (*that don't believe -- yet -- incorporate dream-reading implants, but are applied at the "neighborhood" level, or maybe lower today*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime identification, detention and analysis services* described in this story.  
+
+Wikipedia Summary:  
+>Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity for committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
+
+Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
+Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
+
+
+</details>
+
+
 <details><summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
 
 ### The Dutch House -- A Novel. (10:00)  
@@ -5162,26 +5182,6 @@ Reading Notes:
 </details>
 
 
-
-
-<details>
-<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
-
-### The Dream Hotel.  (12:00)  
-Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
-eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
-By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
-
-Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people in the U.S. and applied a risk score to each (*like your FICO score*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison* the broader societal mission and the corporate & facility missions are wildly misaligned.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  Police already subscribe to "*propensity for committing crimes*" services (*that don't -- yet -- incorporate dream-reading implants*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime detention and analysis services* described in this story.  
-
-Wikipedia Summary:  
->Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity for committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
-
-Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
-Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
-
-
-</details>
 
 
 
