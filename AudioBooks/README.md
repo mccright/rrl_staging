@@ -2963,7 +2963,7 @@ Audio: https://www.overdrive.com/media/6404869/the-fellowship-of-the-ring
 eBook: https://www.overdrive.com/media/235099/the-fellowship-of-the-ring  
 By [J.R.R. Tolkien (*John Ronald Reuel*)](https://en.wikipedia.org/wiki/J._R._R._Tolkien)  (1892 – 1973)  
 
-Reading Notes: See the [Wikipedia summary]() for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
+Reading Notes: See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring) for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
 
 Wikipedia summary: [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring).  
 
@@ -5198,6 +5198,26 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="the_heaven_n_earth_grocery_store_by_james_mcbride"></a>The Heaven & Earth Grocery Store -- A Novel. By James McBride. 2023
+ </summary>
+
+### The Heaven & Earth Grocery Store -- A Novel.  (12:00)  
+Audio: https://www.overdrive.com/media/9475693/the-heaven-earth-grocery-store  
+eBook: https://www.overdrive.com/media/9476452/the-heaven-earth-grocery-store  
+By [James McBride](https://en.wikipedia.org/wiki/James_McBride_(writer))  (1957 – )  
+
+Reading Notes:   
+
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store)  
+
+</details>
+
+
+
+
+
 
 
 <details>
@@ -5228,6 +5248,22 @@ Reading Notes:
 
 </details>
 
+
+
+<details>
+<summary><a name=""></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
+
+### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
+Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
+eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
+By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
+
+Reading Notes:   
+
+
+Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [https://ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
+
+</details>
 
 
 
