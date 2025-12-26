@@ -5207,10 +5207,14 @@ Audio: https://www.overdrive.com/media/9475693/the-heaven-earth-grocery-store
 eBook: https://www.overdrive.com/media/9476452/the-heaven-earth-grocery-store  
 By [James McBride](https://en.wikipedia.org/wiki/James_McBride_(writer))  (1957 – )  
 
-Reading Notes:   
+Reading Notes: What great storytelling!  This is worth your time.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store) and/or the reviews to learn more about the story.  
 
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store)  
+Review by [Danez Smith](https://en.wikipedia.org/wiki/Danez_Smith): [nytimes.com/...the-heaven-and-earth-grocery-store-james-mcbride.html](https://www.nytimes.com/2023/08/06/books/review/the-heaven-and-earth-grocery-store-james-mcbride.html)  
+Review by NPR's [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [npr.org/...james-mcbride-heaven-earth-grocery-store-review](https://www.npr.org/2023/08/14/1188327549/james-mcbride-heaven-earth-grocery-store-review)  
+
+
 
 </details>
 
