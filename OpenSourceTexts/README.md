@@ -342,6 +342,26 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary><a name="The_Northmen_by_Olson_and_Bourne"></a>The Northmen, Columbus and Cabot, 985-1503. by Olson and Bourne. 1906 </summary>
+
+### The Northmen, Columbus and Cabot, 985-1503.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/18571  
+By [Julius E. Olson]() ( – ) and [Edward Gaylord Bourne]() ( – ) 
+
+Reading Notes: This is a set of primary source narratives associated with early explorations of North America by European explorers and colonizers (translated into English, with footnotes). It covers a range of resources describing activities of Norse explorers, Columbus, and Cabot. Olson and Bourne edited these primary sources for publication.  The book helps document some early interactions between these parties and the indigenous peoples of North America.  
+
+[Project Gutenberg]() [Summary](): 
+
+
+
+</details>
+
+
+
 <details>
 <summary><a name="food_plants_of_n_american_indian_by_elias_yanovsky"></a>Food Plants Of The North American Indian. By Elias Yanovsky. 1936 </summary>
 
