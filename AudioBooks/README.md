@@ -2231,6 +2231,26 @@ Summary from Librivox:
 </details>
 
 
+<details>
+<summary><a name="the_heaven_n_earth_grocery_store_by_james_mcbride"></a>The Heaven & Earth Grocery Store -- A Novel. By James McBride. 2023
+ </summary>
+
+### The Heaven & Earth Grocery Store -- A Novel.  (12:00)  
+Audio: https://www.overdrive.com/media/9475693/the-heaven-earth-grocery-store  
+eBook: https://www.overdrive.com/media/9476452/the-heaven-earth-grocery-store  
+By [James McBride](https://en.wikipedia.org/wiki/James_McBride_(writer))  (1957 – )  
+
+Reading Notes: What great storytelling!  This is worth your time.  In 1972 Pottstown, Pennsylvania, workers discovered a skeleton in the bottom of a well, but just as an investigation begins all the potential evidence was washed away by Hurricane Agnes...  The rest of the novel explores how those remains found their way into that well in the 1920s and '30s mostly Black and Jewish Chicken Hill neighborhood as well as race and prejudice color American history.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store) and/or the reviews to learn more about the story.  
+
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store)  
+Review by [Danez Smith](https://en.wikipedia.org/wiki/Danez_Smith): [nytimes.com/...the-heaven-and-earth-grocery-store-james-mcbride.html](https://www.nytimes.com/2023/08/06/books/review/the-heaven-and-earth-grocery-store-james-mcbride.html)  
+Review by NPR's [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [npr.org/...james-mcbride-heaven-earth-grocery-store-review](https://www.npr.org/2023/08/14/1188327549/james-mcbride-heaven-earth-grocery-store-review)  
+
+
+</details>
+
+
 <details><summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
 ### The Hemingses of Monticello -- An American Family.  (31:00)  
@@ -2963,7 +2983,7 @@ Audio: https://www.overdrive.com/media/6404869/the-fellowship-of-the-ring
 eBook: https://www.overdrive.com/media/235099/the-fellowship-of-the-ring  
 By [J.R.R. Tolkien (*John Ronald Reuel*)](https://en.wikipedia.org/wiki/J._R._R._Tolkien)  (1892 – 1973)  
 
-Reading Notes: See the [Wikipedia summary]() for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
+Reading Notes: See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring) for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
 
 Wikipedia summary: [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring).  
 
@@ -5200,6 +5220,9 @@ Reading Notes:
 
 
 
+
+
+
 <details>
 <summary><a name="the_aviators_by_winston_groom"></a>The Aviators -- Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight. By Winston Groom. 2013  </summary>
 
@@ -5223,11 +5246,27 @@ Audio: https://www.overdrive.com/media/4825577/the-splendid-and-the-vile
 eBook: https://www.overdrive.com/media/4941601/the-splendid-and-the-vile  
 By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
 
-Reading Notes:   
+Reading Notes: Largely about the period covering the [Battle of Britain and the Blitz](Battle of Britain and the Blitz).  This history skims many of the personalities within Churchill's orbit at that time, as well as going deeper on the topics of his less-political/less-governmental activities.  It is an interesting non-fiction book about the time and Churchill, but I still don't understand where it *fits* in historical publication categories.  
 
 
 </details>
 
+
+
+<details>
+<summary><a name=""></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
+
+### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
+Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
+eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
+By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
+
+Reading Notes:   
+
+
+Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [https://ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
+
+</details>
 
 
 

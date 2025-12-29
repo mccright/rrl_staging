@@ -58,6 +58,20 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 </details>
 
 
+<details>
+<summary><a name="cue_for_quiet_by_thomas_l_sherred"></a>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+
+### Cue for Quiet.  
+eBook: https://www.gutenberg.org/ebooks/32889  
+Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
+(*from "Space Science Fiction." May and July 1953*)  
+By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
+
+Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he has the power to wreck things using only his mind.  He would like to monitize this power, and orchestrates a demonstration for the U.S. military.  U.S. military/government Cold Warriors "take" Mr. Miller, run tests to define the scope of his powers, and the story joins its post-WWII American Science Fiction peers...  If you enjoy that Si-Fi genera, it might be for you.  
+
+</details>
+
+
 <details><summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
 
 ### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
@@ -328,6 +342,26 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary><a name="The_Northmen_by_Olson_and_Bourne"></a>The Northmen, Columbus and Cabot, 985-1503. by Olson and Bourne. 1906 </summary>
+
+### The Northmen, Columbus and Cabot, 985-1503.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/18571  
+By [Julius E. Olson]() ( – ) and [Edward Gaylord Bourne]() ( – ) 
+
+Reading Notes: This is a set of primary source narratives associated with early explorations of North America by European explorers and colonizers (translated into English, with footnotes). It covers a range of resources describing activities of Norse explorers, Columbus, and Cabot. Olson and Bourne edited these primary sources for publication.  The book helps document some early interactions between these parties and the indigenous peoples of North America.  
+
+[Project Gutenberg]() [Summary](): 
+
+
+
+</details>
+
+
+
 <details>
 <summary><a name="food_plants_of_n_american_indian_by_elias_yanovsky"></a>Food Plants Of The North American Indian. By Elias Yanovsky. 1936 </summary>
 
@@ -423,21 +457,6 @@ Reading Notes:
 
 
 
-
-<details>
-<summary><a name=""></a>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
-
-### Cue for Quiet.  
-eBook: https://www.gutenberg.org/ebooks/32889  
-(*from "Space Science Fiction." May and July 1953*)  
-By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
-
-Reading Notes:  
-
-</details>
-
-
-
 <details>
 <summary><a name="the_slide_rule_by_charles_n_pickworth"></a>The Slide Rule : A Practical Manual. By Charles N. Pickworth. 1920 </summary>
 
@@ -487,21 +506,7 @@ Gutenberg Summary:
 
 
 <details>
-<summary>Beautiful Stories from Shakespeare. By E. Nesbit and William Shakespeare. 1907 </summary>
-
-### Beautiful Stories from Shakespeare. (5:17)  
-Audio: https://librivox.org/beautiful-stories-from-shakespeare-version-2-by-e-nesbit/ and https://librivox.org/beautiful-stories-from-shakespeare-by-edith-nesbit/  
-eBook: https://www.gutenberg.org/ebooks/1430  
-By [E. (Edith) Nesbit ](https://en.wikipedia.org/wiki/E._Nesbit) (1858-1924) and By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 – 1616)  
-
-Reading Notes:  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespeare  
-
-</details>
-
-<details>
-<summary><a name=""></a>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
+<summary><a name="the_radio_amateurs_handbook_by_a_frederick_collins"></a>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
 
 ### The Radio Amateur's Handbook.  
 eBook: https://www.gutenberg.org/ebooks/6934  
@@ -532,7 +537,7 @@ Reading Notes:  This is a short biography and then the focus is on Hoover's role
 eBook: https://www.gutenberg.org/ebooks/73731  
 By [Victor Rubin]()  (1892 - 1967) ([photo](https://content.mpl.org/digital/collection/WWI/id/9306) and [photo](https://www.omnia.ie/index.php?navigation_function=2&navigation_item=6cfa8273e47f0a956df007a323d6b3d0&repid=2))  
 
-Reading Notes:  ...a novel centered on themes that made up *real life* American racism and accompaning violence in the early 20th century.  It is not easy reading and (*for many reasons*) will be hurtful to many.  This is a part of relatively recent American history that is too often ignored and is being actively suppressed throughout much of the United States today.  
+Reading Notes:  ...a novel centered on themes that made up *real life* American racism and accompaning violence in the early 20th century.  It is not easy reading and (*for many reasons*) will be hurtful to many.  This is a part of relatively recent American history that is too often ignored and is being actively suppressed throughout much of the United States today (*2024*).  
 
 Summary/Review from "[Ku Klux Kulture: America and the Klan in the 1920s](https://dokumen.pub/ku-klux-kulture-america-and-the-klan-in-the-1920s-9780226376295.html)," page 89, (2017) by Felix Harcourt:  
 >Tar and Feathers by Victor Rubin, a Chicago newspaperman, was not much of an improvement. The 1923 novel described the ethical awakening of Robert Hamilton, a young Georgian, the grandson of a Confederate captain, and heir to an extensive cotton plantation. Returning home after World War I, Hamilton joins the “Trick Track Tribe,” where he meets William J. Simmons’s fictional counterpart. By the novel’s end, though, the Georgian has been disabused of the organization’s worth by his true friends, a Catholic soldier and Jewish doctor.  An effective argument against the real-life Klan’s official propaganda, Rubin’s novel met with some success, and was rushed into a second printing by his publisher, Dorrance & Company of Philadelphia. Once again, however, the book’s true appeal seems to have resided not in its story but in its message -- combined with the Klan’s seemingly ever-present ability to attract public attention. Reviewers noted that Tar and Feathers kept “the interest sustained,” but it was the “timely enough, and incidentally worthy enough,” theme of the book that would “justify its publication.”  
@@ -546,17 +551,6 @@ See: https://academic.oup.com/chicago-scholarship-online/book/21466/chapter-abst
 
   
 
-<details>
-<summary><a name=""></a>The Radio Amateur's Hand Book by A. Frederick Collins. </summary>
-
-### The Radio Amateur's Hand Book.  
-eBook: https://www.gutenberg.org/ebooks/6934  
-By [A. Frederick Collins]()  ( – )  
-
-Reading Notes:  
-
-
-</details>
 
 
 <details>
@@ -583,6 +577,7 @@ By [Paul Myron Anthony Linebarger (AKA: Cordwainer Smith)](https://en.wikipedia.
 https://www.gutenberg.org/ebooks/61085  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
 Editor [Ezra Pound]() (1885 - 1972)
+
 Reading Notes:  
 
 </details>
