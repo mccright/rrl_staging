@@ -343,6 +343,50 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="frankenstein_by_mary_shelley_1818"></a>Frankenstein; Or, The Modern Prometheus. by Mary Wollstonecraft Shelley. 1818 version </summary>
+
+### Frankenstein; Or, The Modern Prometheus. 1818  
+eBook: https://www.gutenberg.org/ebooks/41445  
+eBook: [https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook](https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook&autoLibrary=t&autoRegion=f&showAvailable=False) (*lots of options*)  
+By [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)  (1797 – 1851)  
+
+Reading Notes:   
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Frankenstein](https://en.wikipedia.org/wiki/Frankenstein)  
+English literature
+Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, Monsters -- Fiction, Victor Frankenstein (Fictitious character), and Frankenstein's monster (Fictitious character)  
+[Project Gutenburg](https://www.gutenberg.org/) [summary](https://www.gutenberg.org/ebooks/42324):  
+>"Frankenstein; Or, The Modern Prometheus" by Mary Wollstonecraft Shelley is a Gothic novel written in 1818 and, with sections re-written by the author published again in 1831. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts gathered from cadavers in an unorthodox experiment. When the creature awakens, Victor flees in horror, setting in motion a tragic tale of creation, abandonment, and revenge. The creature, initially innocent, learns language and seeks acceptance but faces only rejection. Embittered by humanity's cruelty, he demands his creator take responsibility, leading to devastating consequences that reach from Geneva to the Arctic. This pioneering work has become one of English literature's most influential stories, spawning an entire genre of horror and forever changing popular culture.  
+
+[Differences between 1818 and 1831 texts](https://en.wikipedia.org/wiki/Frankenstein#Differences_between_1818_and_1831_text)  
+
+
+</details>
+
+
+<details>
+<summary><a name="frankenstein_by_mary_shelley_1831"></a>Frankenstein; Or, The Modern Prometheus. by Mary Wollstonecraft Shelley. 1831 version </summary>
+
+### Frankenstein; Or, The Modern Prometheus. 1831  
+eBook: https://www.gutenberg.org/ebooks/42324  
+eBook: [https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook](https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook&autoLibrary=t&autoRegion=f&showAvailable=False) (*lots of options*)  
+By [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)  (1797 – 1851)  
+
+Reading Notes:   
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Frankenstein](https://en.wikipedia.org/wiki/Frankenstein)  
+English literature
+Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, Monsters -- Fiction, Victor Frankenstein (Fictitious character), and Frankenstein's monster (Fictitious character)  
+[Project Gutenburg](https://www.gutenberg.org/) [summary](https://www.gutenberg.org/ebooks/42324):  
+>"Frankenstein; Or, The Modern Prometheus" by Mary Wollstonecraft Shelley is a Gothic novel written in 1818 and, with sections re-written by the author published again in 1831. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts gathered from cadavers in an unorthodox experiment. When the creature awakens, Victor flees in horror, setting in motion a tragic tale of creation, abandonment, and revenge. The creature, initially innocent, learns language and seeks acceptance but faces only rejection. Embittered by humanity's cruelty, he demands his creator take responsibility, leading to devastating consequences that reach from Geneva to the Arctic. This pioneering work has become one of English literature's most influential stories, spawning an entire genre of horror and forever changing popular culture.
+
+[Differences between 1818 and 1831 texts](https://en.wikipedia.org/wiki/Frankenstein#Differences_between_1818_and_1831_text)  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="The_Northmen_by_Olson_and_Bourne"></a>The Northmen, Columbus and Cabot, 985-1503. by Olson and Bourne. 1906 </summary>
@@ -398,6 +442,14 @@ Reading Notes:
 </details>
 
 
+The story of the Great Lakes by Edward Channing and Marion Florence Lansing. 1909  
+https://www.gutenberg.org/ebooks/77559
+
+Coffee merchandising : A handbook to the coffee business giving elementary and essential facts pertaining to the history, cultivation, preparation, and making of coffee. William H. Ukers. 1924  
+https://www.gutenberg.org/ebooks/77554
+
+Black America : A study of the ex-slave and his late master by Sir W. Laird Clowes. 1891  
+https://www.gutenberg.org/ebooks/77558  
 
 
 <details>
