@@ -5252,6 +5252,51 @@ Reading Notes: Largely about the period covering the [Battle of Britain and the 
 </details>
 
 
+<details>
+<summary><a name="frankenstein_by_mary_shelley_1818"></a>Frankenstein; Or, The Modern Prometheus. by Mary Wollstonecraft Shelley. 1818 version </summary>
+
+### Frankenstein; Or, The Modern Prometheus. 1818  
+Audio: [https://librivox.org/search?title=Frankenstein&author=Shelley](https://librivox.org/search?title=Frankenstein&author=Shelley&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced) (*lots of options*)  
+Audio: [https://librivox.org/search?title=Frankenstein&author=Shelley](https://librivox.org/search?title=Frankenstein&author=Shelley&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced) (*lots of options*)  
+Audio: [https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=Audiobook](https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False) (*lots of options*)  
+eBook: https://www.gutenberg.org/ebooks/41445  
+eBook: [https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook](https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook&autoLibrary=t&autoRegion=f&showAvailable=False) (*lots of options*)  
+By [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)  (1797 – 1851)  
+
+Reading Notes:   
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Frankenstein](https://en.wikipedia.org/wiki/Frankenstein)  
+English literature
+Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, Monsters -- Fiction, Victor Frankenstein (Fictitious character), and Frankenstein's monster (Fictitious character)  
+[Project Gutenburg](https://www.gutenberg.org/) [summary](https://www.gutenberg.org/ebooks/42324):  
+>"Frankenstein; Or, The Modern Prometheus" by Mary Wollstonecraft Shelley is a Gothic novel written in 1818 and, with sections re-written by the author published again in 1831. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts gathered from cadavers in an unorthodox experiment. When the creature awakens, Victor flees in horror, setting in motion a tragic tale of creation, abandonment, and revenge. The creature, initially innocent, learns language and seeks acceptance but faces only rejection. Embittered by humanity's cruelty, he demands his creator take responsibility, leading to devastating consequences that reach from Geneva to the Arctic. This pioneering work has become one of English literature's most influential stories, spawning an entire genre of horror and forever changing popular culture.
+
+
+</details>
+
+
+<details>
+<summary><a name="frankenstein_by_mary_shelley_1831"></a>Frankenstein; Or, The Modern Prometheus. by Mary Wollstonecraft Shelley. 1831 version </summary>
+
+### Frankenstein; Or, The Modern Prometheus. 1831  
+Audio: [https://librivox.org/search?title=Frankenstein&author=Shelley](https://librivox.org/search?title=Frankenstein&author=Shelley&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced) (*lots of options*)  
+Audio: [https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=Audiobook](https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=Audiobook&autoLibrary=t&autoRegion=f&showAvailable=False) (*lots of options*)  
+eBook: https://www.gutenberg.org/ebooks/42324  
+eBook: [https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook](https://www.overdrive.com/search?q=Frankenstein%2C%20or%20the%20Modern%20Prometheus&f-formatClassification=eBook&autoLibrary=t&autoRegion=f&showAvailable=False) (*lots of options*)  
+By [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)  (1797 – 1851)  
+
+Reading Notes:   
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Frankenstein](https://en.wikipedia.org/wiki/Frankenstein)  
+English literature
+Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, Monsters -- Fiction, Victor Frankenstein (Fictitious character), and Frankenstein's monster (Fictitious character)  
+[Project Gutenburg](https://www.gutenberg.org/) [summary](https://www.gutenberg.org/ebooks/42324):  
+>"Frankenstein; Or, The Modern Prometheus" by Mary Wollstonecraft Shelley is a Gothic novel written in 1818 and, with sections re-written by the author published again in 1831. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts gathered from cadavers in an unorthodox experiment. When the creature awakens, Victor flees in horror, setting in motion a tragic tale of creation, abandonment, and revenge. The creature, initially innocent, learns language and seeks acceptance but faces only rejection. Embittered by humanity's cruelty, he demands his creator take responsibility, leading to devastating consequences that reach from Geneva to the Arctic. This pioneering work has become one of English literature's most influential stories, spawning an entire genre of horror and forever changing popular culture.
+
+
+</details>
+
+
 
 <details>
 <summary><a name=""></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
