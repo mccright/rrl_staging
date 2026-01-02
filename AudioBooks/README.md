@@ -1532,6 +1532,22 @@ Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(write
 </details>
 
 
+<details>
+<summary><a name="drum_taps_by_walt_whitman"></a>Drum-Taps. By Walt Whitman. 1865 </summary>
+
+### Drum-Taps. (1:36)  
+Audio: https://librivox.org/drum-taps-by-walt-whitman/  
+eBook: https://www.gutenberg.org/ebooks/8801  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes: This small book of poetry was mentioned in "[Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation](#a_worse_place_than_hell_by_john_matteson)." by John Matteson (*a good read*).  It appears to be a collection of poems Whitman used to document and process his experiences in the Civil War.  I don't know what to make of it & suspect that I don't understand Whitman's poetry...  See the [Wikipedia page](https://en.wikipedia.org/wiki/Drum-Taps) for more.  
+
+Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
+
+
+</details>
+
+
 <details><summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
 
 ### The Dutch House -- A Novel. (10:00)  
@@ -5684,22 +5700,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Moods_(novel)
 
 
 
-<details>
-<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
-
-### Drum-Taps. (1:36)  
-Audio: https://librivox.org/drum-taps-by-walt-whitman/  
-eBook: https://www.gutenberg.org/ebooks/8801  
-By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
-
-Reading Notes:   
-
-Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
-
-
-</details>
-
-
 
 
 <details>
@@ -5736,22 +5736,6 @@ Wikipedia page for [Woman in the 19th Century](https://en.wikipedia.org/wiki/Wom
 
 </details>
 
-
-
-<details>
-<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
-
-### Drum-Taps. (1:36)  
-Audio: https://librivox.org/drum-taps-by-walt-whitman/  
-eBook: https://www.gutenberg.org/ebooks/8801  
-By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
-
-Reading Notes:   
-
-Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
-
-
-</details>
 
 
 
