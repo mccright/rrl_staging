@@ -344,6 +344,36 @@ Reading Notes:
 
 
 <details>
+<summary><a name="african_presence_in_early_europe_by_ivan_van_sertima"></a>African Presence In Early Europe. by Ivan Van Sertima. 1987  </summary>
+
+### African Presence In Early Europe.  
+eBook: https://archive.org/details/african-presence-in-early-europe-by-dr-ivan-van-sertima/page/n17/mode/2up  
+By [Ivan Van Sertima](https://en.wikipedia.org/wiki/Ivan_Van_Sertima)  (1935 – 2009)  
+
+Reading Notes:   
+
+
+</details>
+
+
+<details>
+<summary><a name="mans_search_for_meaning_by_viktor_frankl"></a>Man's Search For Meaning: An Introduction to Logotherapy. by Viktor Frankl. 1963 (1st ed. 1946) </summary>
+
+### Man's Search For Meaning: An Introduction to Logotherapy, 1963.  
+eBook: https://archive.org/details/frankl-viktor-mans-search-for-meaning-1963  
+By [Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)  (1905 – 1997)  
+
+Reading Notes: An Austrian neurologist, psychiatrist, philosopher, and Holocaust survivor, Frankl published 39 books. This autobiographical [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning), was based on his experiences in various [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camp).  
+
+
+Wikipedia Summary: [wikipedia.org/wiki/Man%27s_Search_for_Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)  
+
+
+</details>
+
+
+
+<details>
 <summary><a name="frankenstein_by_mary_shelley_1818"></a>Frankenstein; Or, The Modern Prometheus. by Mary Wollstonecraft Shelley. 1818 version </summary>
 
 ### Frankenstein; Or, The Modern Prometheus. 1818  
@@ -389,16 +419,16 @@ Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, 
 
 
 <details>
-<summary><a name="The_Northmen_by_Olson_and_Bourne"></a>The Northmen, Columbus and Cabot, 985-1503. by Olson and Bourne. 1906 </summary>
+<summary><a name="the_northmen_by_olson_and_bourne"></a>The Northmen, Columbus and Cabot, 985-1503. by Olson and Bourne. 1906 </summary>
 
 ### The Northmen, Columbus and Cabot, 985-1503.  
 Audio:   
 eBook: https://www.gutenberg.org/ebooks/18571  
-By [Julius E. Olson]() ( – ) and [Edward Gaylord Bourne]() ( – ) 
+By [Julius E. Olson](https://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;cc=wiarchives;view=text;rgn=main;didno=uw-whs-wis000pm) also [a biography](https://www.jstor.org/stable/40915192?seq=1) (1858 - 1944) and [Edward Gaylord Bourne](https://en.wikipedia.org/wiki/Edward_Gaylord_Bourne) (1860 – 1908) 
 
 Reading Notes: This is a set of primary source narratives associated with early explorations of North America by European explorers and colonizers (translated into English, with footnotes). It covers a range of resources describing activities of Norse explorers, Columbus, and Cabot. Olson and Bourne edited these primary sources for publication.  The book helps document some early interactions between these parties and the indigenous peoples of North America.  
 
-[Project Gutenberg]() [Summary](): 
+[Project Gutenberg](https://en.wikipedia.org/) [Summary](https://www.gutenberg.org/ebooks/18571): 
 
 
 
