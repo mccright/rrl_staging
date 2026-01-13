@@ -2677,6 +2677,22 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary><a name="krakatoa_by_simon_winchester"></a>Krakatoa -- The Day the World Exploded: August 27, 1883.  By Simon Winchester.  2004/2013 </summary>
+
+### Krakatoa -- The Day the World Exploded: August 27, 1883.  (12:00)  
+Pages: 432  
+Audio: https://www.overdrive.com/media/77129/krakatoa  
+eBook: https://www.overdrive.com/media/466280/krakatoa  
+By [Simon Winchester](https://en.wikipedia.org/wiki/Simon_Winchester)  (1944 – )  
+
+Reading Notes: History at its best!  Winchester examines the annihilation in 1883 of the volcano-island of [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa).  He explores many natural phenomen associated with this event, as well as related science, technology, finance, global trade, insurance, economics, political economy/colonization and more.  
+
+Wikipedia summary: [wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded](https://en.wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded)  
+
+</details>
+
+
 <details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
 
 ### The Last Evolution.  (53:00)  
@@ -5247,8 +5263,40 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Rob Goodman. 2017 </summary>
+### A Mind at Play -- How Claude Shannon Invented the Information Age. (12:00)  
+Audio: https://www.overdrive.com/media/3351544/a-mind-at-play  
+eBook: https://www.overdrive.com/media/3022337/a-mind-at-play  
+By [Rob Goodman](https://sites.google.com/view/robgoodman/home)  ( – )  
+
+Reading Notes:   
+
+Review by [Doug Hellmann](): [doughellmann.com/...book-review-a-mind-at-play/](https://doughellmann.com/posts/book-review-a-mind-at-play/)  
+Kirkus Review: [kirkusreviews.com/...a-mind-at-play/](https://www.kirkusreviews.com/book-reviews/jimmy-soni/a-mind-at-play/)  
 
 
+</details>
+
+
+
+
+
+
+
+<details>
+<summary><a name="american_dirt_by_jeanine_cummins"></a>American Dirt -- A Novel.  By Jeanine Cummins. 2020  </summary>
+
+### American Dirt -- A Novel  (17:00)  
+Audio: [https://www.overdrive.com/media/4727757/american-dirt](https://www.overdrive.com/media/4727757/american-dirt-oprahs-book-club)  
+eBook: https://www.overdrive.com/media/4681122/american-dirt  
+By [Jeanine Cummins](https://en.wikipedia.org/wiki/Jeanine_Cummins)  (1974 – )  
+
+Reading Notes: I don't know what to make of this novel.  In a commercial sense this was a wildly popular novel in 2020, which generated *momentum* for years of follow-on sales.  The scale of its visability in the novel marketplace led me to this reading.  Upon finishing and begining to think about these notes, I realized that the writing left me unsettled -- and more clearly aware of my ignorance of topics explored in this story, of the novel writing craft and of the book publishing business.  I read the [Wikipedia summary](https://en.wikipedia.org/wiki/American_Dirt), [Rachelle Hampton](https://www.linkedin.com/in/rachelle-hampton-95355899/)'s [review of reviews](https://slate.com/culture/2020/01/american-dirt-book-controversy-explained.html),  and [Myriam Gurba](https://en.wikipedia.org/wiki/Myriam_Gurba)'s [2019 critique](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) of this novel -- all of which confirmed the depth and scope of my ignorance here (*I need to read more...*).  As a result, I recommend that you read a summary and one or more of the critical reviews (*I think [Gurba's](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) is useful*) and then in that context decide for yourself whether to read this book.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt  
+
+</details>
 
 
 
@@ -5369,22 +5417,6 @@ Reading Notes: Subjects -- Fiction, Science Fiction, Suspense and Thriller
 
 
 
-
-
-<details>
-<summary><a name="krakatoa_by_simon_winchester"></a>Krakatoa -- The Day the World Exploded: August 27, 1883.  By Simon Winchester.  2004/2013 </summary>
-
-### Krakatoa -- The Day the World Exploded: August 27, 1883.  (12:00)  
-Pages: 432  
-Audio: https://www.overdrive.com/media/77129/krakatoa  
-eBook: https://www.overdrive.com/media/466280/krakatoa  
-By [Simon Winchester](https://en.wikipedia.org/wiki/Simon_Winchester)  (1944 – )  
-
-Reading Notes: History at its best!  Winchester examines the annihilation in 1883 of the volcano-island of [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa).  He explores many natural phenomen associated with this event, as well as related science, technology, finance, global trade, insurance, economics, political economy/colonization and more.  
-
-Wikipedia summary: [wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded](https://en.wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded)  
-
-</details>
 
 
 
