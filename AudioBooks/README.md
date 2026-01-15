@@ -5183,7 +5183,7 @@ Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras
 </details>
 
 
-<details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+<details><summary><a name="the_woman_in_cabin_10_by_ruth_ware"></a>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
 Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
@@ -5264,14 +5264,18 @@ Reading Notes:
 
 
 <details>
-<summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Rob Goodman. 2017 </summary>
+<summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Jimmy Soni and Rob Goodman. 2017 </summary>
 ### A Mind at Play -- How Claude Shannon Invented the Information Age. (12:00)  
 Audio: https://www.overdrive.com/media/3351544/a-mind-at-play  
 eBook: https://www.overdrive.com/media/3022337/a-mind-at-play  
-By [Rob Goodman](https://sites.google.com/view/robgoodman/home)  ( – )  
+By [Jimmy Soni](https://en.wikipedia.org/wiki/Jimmy_Soni) and [Rob Goodman](https://sites.google.com/view/robgoodman/home) and an [academic bio](https://www.torontomu.ca/politics/people/faculty/goodman-rob/#!accordion-1592331871492-selected-publications)  ( – )  
 
-Reading Notes:   
+Reading Notes: In the 20th century [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) contributed influencial intellectual breakthroughs in and created foundational theories for digital computing, high speed communications, cryptanalysis, cryptography, secure communications, information theory and artificial intelligence. This is a biography aimed at non-mathmaticians/non-scientists. If you ever wonder about core ideas that moulded how we came to be surrounded by globally interconnected *everything*, computers of all sizes, bots, mass surveillance, *intelligent* robots, oceans of on-demand streaming entertainment, and culture-crushing social media, you might find this book worth your time.  
 
+[Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) is known for [Information theory](https://en.wikipedia.org/wiki/Information_theory), [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra), [Binary code](https://en.wikipedia.org/wiki/Binary_code), [Data compression](https://en.wikipedia.org/wiki/Data_compression), [Digital electronics](), [Entropy in information theory](https://en.wikipedia.org/wiki/Entropy_(information_theory)), [Logic gate](https://en.wikipedia.org/wiki/Logic_gate), [Pulse-code modulation](https://en.wikipedia.org/wiki/Pulse-code_modulation), [Sampling](https://en.wikipedia.org/wiki/Sampling_(signal_processing)), [Symmetric-key cryptography](https://en.wikipedia.org/wiki/Symmetric-key_cryptography), [Switching circuit theory](https://en.wikipedia.org/wiki/Switching_circuit_theory), [Units of information](https://en.wikipedia.org/wiki/Units_of_information), [Wearable computer](https://en.wikipedia.org/wiki/Wearable_computer), and more (*see: [his wikipedia entry](https://en.wikipedia.org/wiki/Claude_Shannon)*).  
+
+Wikipedia summary: [wikipedia.org/wiki/A_Mind_at_Play](https://en.wikipedia.org/wiki/A_Mind_at_Play)  
+Blinkist summary: [blinkist.com/.../a-mind-at-play-en](https://www.blinkist.com/en/books/a-mind-at-play-en)  
 Review by [Doug Hellmann](): [doughellmann.com/...book-review-a-mind-at-play/](https://doughellmann.com/posts/book-review-a-mind-at-play/)  
 Kirkus Review: [kirkusreviews.com/...a-mind-at-play/](https://www.kirkusreviews.com/book-reviews/jimmy-soni/a-mind-at-play/)  
 
@@ -5309,6 +5313,26 @@ eBook: https://www.overdrive.com/media/1311441/the-aviators
 By [Winston Groom](https://en.wikipedia.org/wiki/Winston_Groom)  (1943 - 2020)  
 
 Reading Notes: This includes capsule popular *biographies* of [Eddie Rickenbacker](https://en.wikipedia.org/wiki/Eddie_Rickenbacker), [Jimmy Doolittle](https://en.wikipedia.org/wiki/Jimmy_Doolittle) and [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) -- each of which became self-made avaition leaders by the late 1920s and returned as middle-aged men to military avaition leadership in World War II.  Theirs are interesting stories.  If you don't know much about these three individuals, this book might be an entertaining place to start.  
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="phasma_by_delilah_s_dawson"></a>Phasma -- Journey to Star Wars: The Last Jedi. By Delilah S. Dawson. 2017   </summary>
+
+### Phasma -- Journey to Star Wars: The Last Jedi. (12:00)  
+Audio: https://www.overdrive.com/media/3248568/phasma  
+eBook: https://www.overdrive.com/media/3249116/phasma  
+By [Delilah S. Dawson](https://en.wikipedia.org/wiki/Delilah_S._Dawson) and at [whimsydark.com](https://www.whimsydark.com/about)  (1977 – )  
+
+Reading Notes: In the [Star Wars franchise](https://en.wikipedia.org/wiki/Star_Wars) [Phasma](https://en.wikipedia.org/wiki/Captain_Phasma) is the commander of the [First Order](https://en.wikipedia.org/wiki/First_Order_(Star_Wars))'s force of [stormtroopers](https://en.wikipedia.org/wiki/Stormtrooper_(Star_Wars)).  
+
+Wikipedia summary: [wikipedia.org/wiki/Star_Wars:_Phasma](https://en.wikipedia.org/wiki/Star_Wars:_Phasma)
+Overdrive Summary:  
+>One of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters.  Deep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order.  What the mysterious stormtrooper wants is Phasma’s past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won’t surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.  
 
 
 </details>
