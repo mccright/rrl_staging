@@ -5183,7 +5183,7 @@ Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras
 </details>
 
 
-<details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+<details><summary><a name="the_woman_in_cabin_10_by_ruth_ware"></a>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
 Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
@@ -5313,6 +5313,26 @@ eBook: https://www.overdrive.com/media/1311441/the-aviators
 By [Winston Groom](https://en.wikipedia.org/wiki/Winston_Groom)  (1943 - 2020)  
 
 Reading Notes: This includes capsule popular *biographies* of [Eddie Rickenbacker](https://en.wikipedia.org/wiki/Eddie_Rickenbacker), [Jimmy Doolittle](https://en.wikipedia.org/wiki/Jimmy_Doolittle) and [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) -- each of which became self-made avaition leaders by the late 1920s and returned as middle-aged men to military avaition leadership in World War II.  Theirs are interesting stories.  If you don't know much about these three individuals, this book might be an entertaining place to start.  
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="phasma_by_delilah_s_dawson"></a>Phasma -- Journey to Star Wars: The Last Jedi. By Delilah S. Dawson. 2017   </summary>
+
+### Phasma -- Journey to Star Wars: The Last Jedi. (12:00)  
+Audio: https://www.overdrive.com/media/3248568/phasma  
+eBook: https://www.overdrive.com/media/3249116/phasma  
+By [Delilah S. Dawson](https://en.wikipedia.org/wiki/Delilah_S._Dawson) and at [whimsydark.com](https://www.whimsydark.com/about)  (1977 – )  
+
+Reading Notes: In the [Star Wars franchise](https://en.wikipedia.org/wiki/Star_Wars) [Phasma](https://en.wikipedia.org/wiki/Captain_Phasma) is the commander of the [First Order](https://en.wikipedia.org/wiki/First_Order_(Star_Wars))'s force of [stormtroopers](https://en.wikipedia.org/wiki/Stormtrooper_(Star_Wars)).  
+
+Wikipedia summary: [wikipedia.org/wiki/Star_Wars:_Phasma](https://en.wikipedia.org/wiki/Star_Wars:_Phasma)
+Overdrive Summary:  
+>One of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters.  Deep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order.  What the mysterious stormtrooper wants is Phasma’s past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won’t surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.  
 
 
 </details>
