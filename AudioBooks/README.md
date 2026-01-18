@@ -5275,6 +5275,62 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)  
+ </summary>
+
+### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. ()  
+Audio: https://www.overdrive.com/media/4875760/ordinary-men  
+eBook: https://www.overdrive.com/media/2726377/ordinary-men  
+By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
+
+Reading Notes:   
+
+>"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
+
+RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="the_good_enough_life_by_avram_alpert"></a>The Good-Enough Life. By Avram Alpert. 2022 </summary>
+
+### The Good-Enough Life. (9:00)  
+Audio: https://www.overdrive.com/media/8729784/the-good-enough-life  
+eBook: https://www.overdrive.com/media/8746024/the-good-enough-life  
+By [Avram Alpert](https://www.avramalpert.com/)  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="one_day_everyone_will_have_by_omar_el_akkad"></a>One Day, Everyone Will Have Always Been Against This. By Omar El Akkad. 2025 </summary>
+
+### One Day, Everyone Will Have Always Been Against This.  
+Audio: https://www.overdrive.com/media/11042157/one-day-everyone-will-have-always-been-against-this  
+eBook: https://www.overdrive.com/media/10784991/one-day-everyone-will-have-always-been-against-this  
+By [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad)  (1982 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: [wikipedia.org/.../One_Day,_Everyone_Will...](https://en.wikipedia.org/wiki/One_Day,_Everyone_Will_Have_Always_Been_Against_This)  
+Review by [Joe Stanek](https://thewarhorse.org/author/joe-stanek/): [chireviewofbooks.com/.../one-day-omar-el-akkad/](https://chireviewofbooks.com/2025/02/26/one-day-omar-el-akkad/)  
+Review by [Avram Alpert](https://www.avramalpert.com/): [dissentmagazine.org/.../moral-limits/](https://dissentmagazine.org/article/moral-limits/)  
+>"In (Omar El Akkad’s) youthful vision, Canada, and the West more broadly, had created a world order in which the ultimate mission was not only the safety and security of its own citizens, but the well-being of all humans—even if the global society of nations had not yet succeeded in that aim."  
+>More than the book itself, what appealed to his teenage self was the mere fact that he could ask the librarian where to find it and they didn’t even bat an eye. “I remember thinking,” he writes, “if this is all there is, it’s enough,” because the freedom to read promises a culture committed to “its own rights and freedoms and principles.”  
+
+</details>
+
+
 
 <details>
 <summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Jimmy Soni and Rob Goodman. 2017 </summary>
@@ -5620,20 +5676,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="one_day_everyone_will_have_by_omar_el_akkad"></a>One Day, Everyone Will Have Always Been Against This. By Omar El Akkad. 2025 </summary>
-
-### One Day, Everyone Will Have Always Been Against This.  
-Audio:   
-eBook:   
-By [Omar El Akkad]()  ( – )  
-
-Reading Notes:   
-
-
-</details>
 
 
 
