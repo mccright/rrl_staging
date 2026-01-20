@@ -3925,6 +3925,23 @@ Reading Notes: Improbable all around.  You need to be in the mood for a formulai
 </details>
 
 
+<details><summary><a name="phasma_by_delilah_s_dawson"></a>Phasma -- Journey to Star Wars: The Last Jedi. By Delilah S. Dawson. 2017   </summary>
+
+### Phasma -- Journey to Star Wars: The Last Jedi. (12:00)  
+Audio: https://www.overdrive.com/media/3248568/phasma  
+eBook: https://www.overdrive.com/media/3249116/phasma  
+By [Delilah S. Dawson](https://en.wikipedia.org/wiki/Delilah_S._Dawson) and at [whimsydark.com](https://www.whimsydark.com/about)  (1977 – )  
+
+Reading Notes: In the [Star Wars franchise](https://en.wikipedia.org/wiki/Star_Wars) Captain [Phasma](https://en.wikipedia.org/wiki/Captain_Phasma) is the commander of the [First Order](https://en.wikipedia.org/wiki/First_Order_(Star_Wars))'s force of [stormtroopers](https://en.wikipedia.org/wiki/Stormtrooper_(Star_Wars)).  "[Resistance](https://en.wikipedia.org/wiki/The_Resistance_(Star_Wars)) spy Vi Moradi is captured and brought aboard the First Order Star Destroyer Absolution, where she is interrogated in secret by Cardinal, a stormtrooper captain in red armor. Cardinal seeks information to use against his nemesis, the powerful Captain Phasma." (quoted from the [Wikipedia summary](https://en.wikipedia.org/wiki/Star_Wars:_Phasma#Plot))  
+
+Wikipedia summary: [wikipedia.org/wiki/Star_Wars:_Phasma](https://en.wikipedia.org/wiki/Star_Wars:_Phasma)  
+[Overdrive Summary](https://www.overdrive.com/media/3248568/phasma):  
+>One of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters.  Deep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order.  What the mysterious stormtrooper wants is Phasma’s past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won’t surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.  
+
+
+</details>
+
+
 <details><summary><a name="pierre_curie_marie_curie"></a>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -5275,6 +5292,62 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)  
+ </summary>
+
+### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. ()  
+Audio: https://www.overdrive.com/media/4875760/ordinary-men  
+eBook: https://www.overdrive.com/media/2726377/ordinary-men  
+By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
+
+Reading Notes:   
+
+>"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
+
+RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="the_good_enough_life_by_avram_alpert"></a>The Good-Enough Life. By Avram Alpert. 2022 </summary>
+
+### The Good-Enough Life. (9:00)  
+Audio: https://www.overdrive.com/media/8729784/the-good-enough-life  
+eBook: https://www.overdrive.com/media/8746024/the-good-enough-life  
+By [Avram Alpert](https://www.avramalpert.com/)  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="one_day_everyone_will_have_by_omar_el_akkad"></a>One Day, Everyone Will Have Always Been Against This. By Omar El Akkad. 2025 </summary>
+
+### One Day, Everyone Will Have Always Been Against This.  
+Audio: https://www.overdrive.com/media/11042157/one-day-everyone-will-have-always-been-against-this  
+eBook: https://www.overdrive.com/media/10784991/one-day-everyone-will-have-always-been-against-this  
+By [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad)  (1982 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: [wikipedia.org/.../One_Day,_Everyone_Will...](https://en.wikipedia.org/wiki/One_Day,_Everyone_Will_Have_Always_Been_Against_This)  
+Review by [Joe Stanek](https://thewarhorse.org/author/joe-stanek/): [chireviewofbooks.com/.../one-day-omar-el-akkad/](https://chireviewofbooks.com/2025/02/26/one-day-omar-el-akkad/)  
+Review by [Avram Alpert](https://www.avramalpert.com/): [dissentmagazine.org/.../moral-limits/](https://dissentmagazine.org/article/moral-limits/)  
+>"In (Omar El Akkad’s) youthful vision, Canada, and the West more broadly, had created a world order in which the ultimate mission was not only the safety and security of its own citizens, but the well-being of all humans—even if the global society of nations had not yet succeeded in that aim."  
+>More than the book itself, what appealed to his teenage self was the mere fact that he could ask the librarian where to find it and they didn’t even bat an eye. “I remember thinking,” he writes, “if this is all there is, it’s enough,” because the freedom to read promises a culture committed to “its own rights and freedoms and principles.”  
+
+</details>
+
+
 
 <details>
 <summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Jimmy Soni and Rob Goodman. 2017 </summary>
@@ -5317,24 +5390,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt
 
 
 
-
-
-<details>
-<summary><a name="phasma_by_delilah_s_dawson"></a>Phasma -- Journey to Star Wars: The Last Jedi. By Delilah S. Dawson. 2017   </summary>
-
-### Phasma -- Journey to Star Wars: The Last Jedi. (12:00)  
-Audio: https://www.overdrive.com/media/3248568/phasma  
-eBook: https://www.overdrive.com/media/3249116/phasma  
-By [Delilah S. Dawson](https://en.wikipedia.org/wiki/Delilah_S._Dawson) and at [whimsydark.com](https://www.whimsydark.com/about)  (1977 – )  
-
-Reading Notes: In the [Star Wars franchise](https://en.wikipedia.org/wiki/Star_Wars) [Phasma](https://en.wikipedia.org/wiki/Captain_Phasma) is the commander of the [First Order](https://en.wikipedia.org/wiki/First_Order_(Star_Wars))'s force of [stormtroopers](https://en.wikipedia.org/wiki/Stormtrooper_(Star_Wars)).  
-
-Wikipedia summary: [wikipedia.org/wiki/Star_Wars:_Phasma](https://en.wikipedia.org/wiki/Star_Wars:_Phasma)
-Overdrive Summary:  
->One of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters.  Deep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order.  What the mysterious stormtrooper wants is Phasma’s past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won’t surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.  
-
-
-</details>
 
 
 
@@ -5620,20 +5675,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="one_day_everyone_will_have_by_omar_el_akkad"></a>One Day, Everyone Will Have Always Been Against This. By Omar El Akkad. 2025 </summary>
-
-### One Day, Everyone Will Have Always Been Against This.  
-Audio:   
-eBook:   
-By [Omar El Akkad]()  ( – )  
-
-Reading Notes:   
-
-
-</details>
 
 
 
