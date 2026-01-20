@@ -342,6 +342,22 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="the_man_who_lost_himself_by_h_de_vere_stacpoole"></a>The Man Who Lost Himself. by H. De Vere Stacpoole. 1917 (1918) </summary>
+
+### The Man Who Lost Himself. (8:16) 
+Audio: https://librivox.org/the-man-who-lost-himself-by-h-de-vere-stacpoole/  
+eBook: https://www.gutenberg.org/ebooks/23988  
+By [H. (Henry) De Vere Stacpoole](https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole)  (1863 – 1951)  
+
+Reading Notes: This is a 1918 [comedy drama novel](https://en.wikipedia.org/wiki/Comedy_drama) by the Irish-born writer [Henry De Vere Stacpoole](https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole. The plot revolves around an American from Philadelphia, Victor Jones, arriving in London to find himself the exact [Doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a British aristocrat, the Earl of Rochester.   
+
+Wikipedia Summary: [wikipedia.org/.../The_Man_Who_Lost_Himself](https://en.wikipedia.org/wiki/The_Man_Who_Lost_Himself_(novel))  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="african_presence_in_early_europe_by_ivan_van_sertima"></a>African Presence In Early Europe. by Ivan Van Sertima. 1987  </summary>
