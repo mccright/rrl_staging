@@ -3244,7 +3244,7 @@ Short Summary on Wikipedia:
 ### A Mind at Play -- How Claude Shannon Invented the Information Age. (12:00)  
 Audio: https://www.overdrive.com/media/3351544/a-mind-at-play  
 eBook: https://www.overdrive.com/media/3022337/a-mind-at-play  
-By [Jimmy Soni](https://en.wikipedia.org/wiki/Jimmy_Soni) and [Rob Goodman](https://sites.google.com/view/robgoodman/home) and an [academic bio](https://www.torontomu.ca/politics/people/faculty/goodman-rob/#!accordion-1592331871492-selected-publications)  ( – )  
+By [Jimmy Soni](https://en.wikipedia.org/wiki/Jimmy_Soni) ( – ) and [Rob Goodman](https://sites.google.com/view/robgoodman/home) and an [academic bio](https://www.torontomu.ca/politics/people/faculty/goodman-rob/#!accordion-1592331871492-selected-publications)  ( – )  
 
 Reading Notes: In the 20th century [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) contributed influencial intellectual breakthroughs in and created foundational theories for digital computing, high speed communications, cryptanalysis, cryptography, secure communications, information theory and artificial intelligence. This is a biography aimed at non-mathmaticians/non-scientists. If you ever wonder about core ideas that moulded how we came to be surrounded by globally interconnected *everything*, computers of all sizes, bots, mass surveillance, *intelligent* robots, oceans of on-demand streaming entertainment, and culture-crushing social media, you might find this book worth your time.  
 
@@ -5309,6 +5309,7 @@ Reading Notes:
 
 </details>
 
+One or more of the "[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)" [series of books](https://en.wikipedia.org/wiki/List_of_Very_Short_Introductions_books) published by [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press).  
 
 
 <details>
