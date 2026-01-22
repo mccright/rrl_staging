@@ -3252,7 +3252,7 @@ Reading Notes: In the 20th century [Claude Shannon](https://en.wikipedia.org/wik
 
 Wikipedia summary: [wikipedia.org/wiki/A_Mind_at_Play](https://en.wikipedia.org/wiki/A_Mind_at_Play)  
 Blinkist summary: [blinkist.com/.../a-mind-at-play-en](https://www.blinkist.com/en/books/a-mind-at-play-en)  
-Review by [Doug Hellmann](): [doughellmann.com/...book-review-a-mind-at-play/](https://doughellmann.com/posts/book-review-a-mind-at-play/)  
+Review by [Doug Hellmann](https://doughellmann.com/about-me/): [doughellmann.com/...book-review-a-mind-at-play/](https://doughellmann.com/posts/book-review-a-mind-at-play/)  
 Kirkus Review: [kirkusreviews.com/...a-mind-at-play/](https://www.kirkusreviews.com/book-reviews/jimmy-soni/a-mind-at-play/)  
 
 
