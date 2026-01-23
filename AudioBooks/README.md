@@ -3241,6 +3241,7 @@ Short Summary on Wikipedia:
 
 
 <details><summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Jimmy Soni and Rob Goodman. 2017 </summary>
+
 ### A Mind at Play -- How Claude Shannon Invented the Information Age. (12:00)  
 Audio: https://www.overdrive.com/media/3351544/a-mind-at-play  
 eBook: https://www.overdrive.com/media/3022337/a-mind-at-play  
