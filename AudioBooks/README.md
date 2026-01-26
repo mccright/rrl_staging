@@ -40,7 +40,7 @@ Audio: https://www.overdrive.com/media/5295464/1939
 eBook: https://www.overdrive.com/media/5077155/1939  
 By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
 
-Reading Notes: Anyone interested in the early stages of [WWII](https://en.wikipedia.org/wiki/World_War_II) should consider this book.  Largely assembled using newspaper and diary content from Germany, [Czechoslovakia](https://en.wikipedia.org/wiki/Second_Czechoslovak_Republic), Poland and England, Taylor builds a broad view into "*people's*" interests and focus as [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) [and his senior team led *his country* into the last moves leading to war with neighbors](https://en.wikipedia.org/wiki/Causes_of_World_War_II).  
+Reading Notes: Anyone interested in the early stages of [WWII](https://en.wikipedia.org/wiki/World_War_II) should consider this book.  Largely assembled using newspaper and diary content from [Germany](https://en.wikipedia.org/wiki/Germany), [Czechoslovakia](https://en.wikipedia.org/wiki/Second_Czechoslovak_Republic), [Poland](https://en.wikipedia.org/wiki/Poland) and [England](https://en.wikipedia.org/wiki/England), Taylor builds a broad view into "*people's*" interests and focus as [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) [and his senior team led *his country* through the last moves into war with neighbors](https://en.wikipedia.org/wiki/Causes_of_World_War_II).  
 
 </details>
 
@@ -66,7 +66,7 @@ Audio: https://www.overdrive.com/media/5558540/2034
 eBook: https://www.overdrive.com/media/5558752/2034  
 By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
 
-Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  Today China, Russia, Iran  and India appear to be working on capabilities today that are used at scale in this story. It seems realistic-enough to be frightening in the context of the trajectory of U.S. leadership and influence on this small planet.  I believe that this story should be required reading for young adults (maybe Juniors in High School) through the most aged tax-payer.  Everyone involved in politics, government and the military should read it carefully and invest in discussions about it with constituents.  It explores a range of situations that require all the humans involved to have been educated rigorously, read broadly, studied history, served others and maintained a clear connection with material facts (*without a fog of fiction poisoning decision-making processes and even intuition*).  If you want a better view of the book's content, see the [wikipedia summary](https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War).  
+Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  Today [China](https://en.wikipedia.org/wiki/China), [Russia](https://en.wikipedia.org/wiki/Russia), [Iran](https://en.wikipedia.org/wiki/Iran), and [India](https://en.wikipedia.org/wiki/India) appear to be working on capabilities today that are used at scale in this story. It seems realistic-enough to be frightening in the context of the trajectory of U.S. leadership and influence on this small planet.  I believe that this story should be required reading for young adults (maybe Juniors in High School) through the most aged tax-payer.  Everyone involved in politics, government and the military should read it carefully and invest in discussions about it with constituents.  It explores a range of situations that require all the humans involved to have been educated rigorously, read broadly, studied history, served others and maintained a clear connection with material facts (*without a fog of fiction poisoning decision-making processes and even intuition*).  If you want a better view of the book's content, see the [wikipedia summary](https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War).  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
 
@@ -82,7 +82,7 @@ Audio: https://www.overdrive.com/media/7728272/the-620-man
 eBook: https://www.overdrive.com/media/8732186/the-620-man  
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
-Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* is time-reasonable entertainment.  
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people engaging in large-scale [money laundering](https://en.wikipedia.org/wiki/Money_laundering) and fraud. His military training helps him stay alive.  This *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* is time-reasonable entertainment.  
 
 </details>
 
@@ -94,7 +94,7 @@ Audio: https://www.overdrive.com/media/9384241/the-9th-man
 eBook: https://www.overdrive.com/media/9384268/the-9th-man  
 By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
 
-Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story one man will kill anyone to keep others from knowing the truth. "The 9th Man" is an easy-to-follow [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action fiction](https://en.wikipedia.org/wiki/Action_fiction) story filled with high-stakes, high-energy, and fast-paced events. The action sequences in this novel are more entertaining than the *research and analysis* sections between them.  Most of the characters are relatively flat/2D even though some include extensive back stories. The action is filled and fueled with unlimited resources (*private on one side and government on the other*) and main characters who embody improbable physical and mental resilience in the face of frequent extreme stress and violence.  
+Reading Notes: What happened on [November 22, 1963 in Dallas](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy), Texas? In this story one man will kill anyone to keep others from knowing the truth. "The 9th Man" is an easy-to-follow [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action fiction](https://en.wikipedia.org/wiki/Action_fiction) story filled with high-stakes, high-energy, and fast-paced events. The action sequences in this novel are more entertaining than the *research and analysis* sections between them.  Most of the characters are relatively flat/2D even though some include extensive back stories. The action is filled and fueled with unlimited resources (*private on one side and government on the other*) and main characters who embody improbable physical and mental resilience in the face of frequent extreme stress and violence.  
 
 Some Central Characters:  
 - Luke Daniels ex-Army Ranger, now with the Justice Department’s Magellan Billet.  
@@ -112,7 +112,7 @@ Audio: https://www.overdrive.com/media/257554/abigail-adams
 eBook: https://www.overdrive.com/media/345973/abigail-adams  
 By [Woody Holton](https://en.wikipedia.org/wiki/Woody_Holton)  (1959 – )  
 
-Reading Notes: This biography emphasizes many ways that Abigail Adams employed her legal rights and norms to play a material role in managing her family's finances and wealth accumulation.  See the [OverDrive summary](https://www.overdrive.com/media/257554/abigail-adams) for more detail.
+Reading Notes: This biography emphasizes many ways that [Abigail Adams](https://en.wikipedia.org/wiki/Abigail_Adams) employed her legal rights and norms to play a material role in managing her family's finances and wealth accumulation.  See the [OverDrive summary](https://www.overdrive.com/media/257554/abigail-adams) for more detail.
   
 You might also see:  
 * "[The Unexpected Abigail Adams -- A Woman "Not Apt to Be Intimidated](https://www.overdrive.com/media/10977600/the-unexpected-abigail-adams)." By John L. Smith, Jr. 2024  
@@ -5482,13 +5482,22 @@ Overdrive summary:
 <details>
 <summary><a name="recursion_by_blake_crouch"></a>Recursion -- A Novel. By Blake Crouch. 2019  </summary>
 
-### Recursion -- A Novel.  
+### Recursion -- A Novel. (11:00)  
 Audio: https://www.overdrive.com/media/4295342/recursion  
 eBook: https://www.overdrive.com/media/4483738/recursion  
 By [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)  (1978 – )  
 
-Reading Notes: Subjects -- Fiction, Science Fiction, Suspense and Thriller  
+Reading Notes: This is a [science fiction]([science fiction](https://en.wikipedia.org/wiki/Science_fiction)) [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) that incorporates [time-travel](https://en.wikipedia.org/wiki/Time_travel_in_fiction). Neuroscientist Helena Smith leads a program to understand human memory and mapping the human brain with a goal of helping those with Alzheimer's (like her mother).  With funding from super-wealthy Marcus Slade, they invent the means to harvest individual memories and later inject them.  In a not-very-sciency leap, their efforts also lead to a means of sending individuals back to specific times (*where they begin 'flowing' forward in time again*).  Meyhem ensues.  
 
+Core characters:  
+  * NYPD Detective Barry Sutton.  
+  * Neuroscientist Helena Smith.  
+  * Wealthy philanthropist and inventor named Marcus Slade.  
+
+Review By [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...recursion-blake-crouch.html](https://www.nytimes.com/2019/06/11/books/review/recursion-blake-crouch.html)  
+Review by [Jennifer Marie Lin](https://www.instagram.com/jennnjennjen): [the-bibliofile.com/recursion/](https://the-bibliofile.com/recursion/)  
+Kirkusreviews: [kirkusreviews.com/.../recursion/](https://www.kirkusreviews.com/book-reviews/blake-crouch/recursion/)  
+Review By [Brittany Shields](https://www.shelfreflection.com/about): [shelfreflection.com/blog/recursion](https://www.shelfreflection.com/blog/recursion)  
 
 </details>
 
