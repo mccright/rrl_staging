@@ -4162,6 +4162,28 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)
 </details>
 
 
+<details><summary><a name="recursion_by_blake_crouch"></a>Recursion -- A Novel. By Blake Crouch. 2019  </summary>
+
+### Recursion -- A Novel. (11:00)  
+Audio: https://www.overdrive.com/media/4295342/recursion  
+eBook: https://www.overdrive.com/media/4483738/recursion  
+By [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)  (1978 – )  
+
+Reading Notes: This is a [science fiction](https://en.wikipedia.org/wiki/Science_fiction) [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) that incorporates [time-travel](https://en.wikipedia.org/wiki/Time_travel_in_fiction). Neuroscientist Helena Smith leads a program to understand human memory and mapping the human brain with a goal of helping those with Alzheimer's (like her mother).  With funding from super-wealthy Marcus Slade, they invent the means to harvest individual memories and later inject them.  In a not-very-sciency leap, their efforts also lead to a means of sending individuals back to specific times (*where they begin 'flowing' forward in time again*).  Meyhem ensues.  
+
+Core characters:  
+  * NYPD Detective Barry Sutton.  
+  * Neuroscientist Helena Smith.  
+  * Wealthy philanthropist and inventor named Marcus Slade.  
+
+Review By [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...recursion-blake-crouch.html](https://www.nytimes.com/2019/06/11/books/review/recursion-blake-crouch.html)  
+Review by [Jennifer Marie Lin](https://www.instagram.com/jennnjennjen): [the-bibliofile.com/recursion/](https://the-bibliofile.com/recursion/)  
+Kirkusreviews: [kirkusreviews.com/.../recursion/](https://www.kirkusreviews.com/book-reviews/blake-crouch/recursion/)  
+Review By [Brittany Shields](https://www.shelfreflection.com/about): [shelfreflection.com/blog/recursion](https://www.shelfreflection.com/blog/recursion)  
+
+</details>
+
+
 <details><summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
 ### The Red Eagles.  (7:00)  
@@ -5310,6 +5332,30 @@ Reading Notes:
 
 </details>
 
+
+
+
+<details>
+<summary><a name="revenge_of_the_tipping_point_by_malcolm_gladwell"></a>Revenge of the Tipping Point -- Overstories, Superspreaders, and the Rise of Social Engineering. By Malcolm Gladwell. 2024 </summary>
+
+### Revenge of the Tipping Point -- Overstories, Superspreaders, and the Rise of Social Engineering. (8:00)  
+Audio: https://www.overdrive.com/media/10792306/revenge-of-the-tipping-point  
+eBook: https://www.overdrive.com/media/10792276/revenge-of-the-tipping-point  
+By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
+
+Reading Notes: "One-Sentence Summary: Gladwell revisits and expands on the original Tipping Point by exploring how powerful narratives, influencers, and engineered social conditions are now deliberately used to tip societies—sometimes for progress, often for control." From: ['atimelesslens'](https://atimelesslens.ca/2025/06/02/revenge-of-the-tipping-point-overstories-superspreaders-and-the-rise-of-social-engineeringby-malcolm-gladwell/)  
+
+It seems like a useful resource for anyone attempting to understand *change* or societal/cultural change and some foundational influences.  
+
+Kirkus Review: [kirkusreviews.com/...revenge-tipping-point/](https://www.kirkusreviews.com/book-reviews/malcolm-gladwell/revenge-tipping-point/)  
+Summary on shortcuttowisdom: [shortcuttowisdom.com/...revenge-of-tipping-point-overstories.html](https://www.shortcuttowisdom.com/2025/08/revenge-of-tipping-point-overstories.html)  
+Summary on confidentchangemanagement: [confidentchangemanagement.com/...revenge-of-the-tipping-point/](https://confidentchangemanagement.com/book-reviews/societal-change/revenge-of-the-tipping-point/)  
+Wikipedia summary: [wikipedia.org/...Malcolm_Gladwell#Revenge_of_the_Tipping_Point](https://en.wikipedia.org/wiki/Malcolm_Gladwell#Revenge_of_the_Tipping_Point)  
+
+</details>
+
+
+
 One or more of the "[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)" [series of books](https://en.wikipedia.org/wiki/List_of_Very_Short_Introductions_books) published by [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press).  
 
 
@@ -5477,29 +5523,6 @@ Overdrive summary:
 
 
 
-
-
-<details>
-<summary><a name="recursion_by_blake_crouch"></a>Recursion -- A Novel. By Blake Crouch. 2019  </summary>
-
-### Recursion -- A Novel. (11:00)  
-Audio: https://www.overdrive.com/media/4295342/recursion  
-eBook: https://www.overdrive.com/media/4483738/recursion  
-By [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)  (1978 – )  
-
-Reading Notes: This is a [science fiction]([science fiction](https://en.wikipedia.org/wiki/Science_fiction)) [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) that incorporates [time-travel](https://en.wikipedia.org/wiki/Time_travel_in_fiction). Neuroscientist Helena Smith leads a program to understand human memory and mapping the human brain with a goal of helping those with Alzheimer's (like her mother).  With funding from super-wealthy Marcus Slade, they invent the means to harvest individual memories and later inject them.  In a not-very-sciency leap, their efforts also lead to a means of sending individuals back to specific times (*where they begin 'flowing' forward in time again*).  Meyhem ensues.  
-
-Core characters:  
-  * NYPD Detective Barry Sutton.  
-  * Neuroscientist Helena Smith.  
-  * Wealthy philanthropist and inventor named Marcus Slade.  
-
-Review By [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...recursion-blake-crouch.html](https://www.nytimes.com/2019/06/11/books/review/recursion-blake-crouch.html)  
-Review by [Jennifer Marie Lin](https://www.instagram.com/jennnjennjen): [the-bibliofile.com/recursion/](https://the-bibliofile.com/recursion/)  
-Kirkusreviews: [kirkusreviews.com/.../recursion/](https://www.kirkusreviews.com/book-reviews/blake-crouch/recursion/)  
-Review By [Brittany Shields](https://www.shelfreflection.com/about): [shelfreflection.com/blog/recursion](https://www.shelfreflection.com/blog/recursion)  
-
-</details>
 
 
 
