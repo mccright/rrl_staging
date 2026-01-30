@@ -5355,6 +5355,54 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="quantum_radio_by_a_g_riddle"></a>Quantum Radio. By A.G. Riddle.  2023  </summary>
+
+### Quantum Radio. (15:00)  
+Audio: https://www.overdrive.com/media/7413526/quantum-radio  
+eBook:   
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes: Quantum physicist Tyson Klein discovers communications sent via actions of sub-atomic particles emitted by a massive particle accelerator.  Oversimplification of influencing others; *magic* science and technology, tremendous exaggerations, physics-be-damned, better than one-dimensional characters (*but still seem largely flat*), and unwavering optimism about the people of the world working together toward common goals...  And frequent "I have a hunch/feeling..."  A team of four deliver action throughout.  If you like science fiction action 'B' movies, maybe this story might be for you.  I am confident that it is not for everyone.  
+
+Some of the topics in this story:  
+* World War II.  
+  * Research and development of A*x* rockets at Peenemünde on the island of Usedom on the Baltic coast.  
+* United States Department of Defense (DOD) Defense Advanced Research Projects Agency (DARPA).  
+* The Large Hadron Collider (LHC) at CERN.  
+* Geneva, Switzerland.  
+* Quantum Entanglement.  
+* DARPA Microsystems Technology Office (MTO) Quantum Entanglement Science and Technology project (QuEST).  
+* Then multiverse.  
+* Faster-than-light travel.  
+* Time travel.  
+
+Expanded Author's Note for Quantum Radio: https://www.agriddle.com/qr-facts  
+
+
+</details>
+
+
+<details>
+<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)  
+ </summary>
+
+### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. (9:00)  
+Audio: https://www.overdrive.com/media/4875760/ordinary-men  
+eBook: https://www.overdrive.com/media/2726377/ordinary-men  
+By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
+
+Reading Notes: The German ___ against the Jews was concentrated in 1942.  They employed state and local police ...  This book reviews the case of a "German Order Police" group, the "Reserve Police Battalion 101" killing unit -- they became professional killers.  
+
+>"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
+
+RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="death_of_the_author_by_nnedi_okorafor"></a>Death of the Author. -- By Nnedi Okorafor. 2025 </summary>
@@ -5374,27 +5422,10 @@ Review by [Sandra Newman](https://en.wikipedia.org/wiki/Sandra_Newman): [theguar
 
 
 
-
+<details>
+<summary>One or more of the "Very Short Introductions" series of books published by Oxford University Press  </summary>
 
 One or more of the "[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)" [series of books](https://en.wikipedia.org/wiki/List_of_Very_Short_Introductions_books) published by [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press).  
-
-
-<details>
-<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)  
- </summary>
-
-### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. ()  
-Audio: https://www.overdrive.com/media/4875760/ordinary-men  
-eBook: https://www.overdrive.com/media/2726377/ordinary-men  
-By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
-
-Reading Notes:   
-
->"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
-Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
-
-RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
-
 
 </details>
 
