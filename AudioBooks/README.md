@@ -5392,7 +5392,7 @@ Audio: https://www.overdrive.com/media/4875760/ordinary-men
 eBook: https://www.overdrive.com/media/2726377/ordinary-men  
 By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
 
-Reading Notes: The German ___ against the Jews was concentrated in 1942.  They employed state and local police ...  This book reviews the case of a "German Order Police" group, the "Reserve Police Battalion 101" killing unit -- they became professional killers.  
+Reading Notes: The German ___ against the Jews was concentrated in 1942.  They employed state and local police ...  This book reviews the case of a "German Order Police" group, the "Reserve Police Battalion 101" killing unit -- they became professional killers.  There were over 200,000 legacy German Order Police by 1942, but adding in the Order Police from German occupied countries expanded the force to more than 15,000.  
 
 >"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
 Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
