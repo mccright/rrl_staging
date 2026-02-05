@@ -298,6 +298,21 @@ Review by [John Walters](https://johnwalterswriter.com/about/): [https://johnwal
 </details>
 
 
+<details><summary><a name="american_dirt_by_jeanine_cummins"></a>American Dirt -- A Novel.  By Jeanine Cummins. 2020  </summary>
+
+### American Dirt -- A Novel  (17:00)  
+Audio: [https://www.overdrive.com/media/4727757/american-dirt](https://www.overdrive.com/media/4727757/american-dirt-oprahs-book-club)  
+eBook: https://www.overdrive.com/media/4681122/american-dirt  
+By [Jeanine Cummins](https://en.wikipedia.org/wiki/Jeanine_Cummins)  (1974 – )  
+
+Reading Notes: I don't know what to make of this novel.  In a commercial sense this was a wildly popular novel in 2020, which generated *momentum* for years of follow-on sales.  The scale of its visability in the novel marketplace led me to this reading.  Upon finishing and begining to think about these notes, I realized that the writing left me unsettled -- and more clearly aware of my ignorance of topics explored in this story, of the novel writing craft and of the book publishing business.  I read the [Wikipedia summary](https://en.wikipedia.org/wiki/American_Dirt), [Rachelle Hampton](https://www.linkedin.com/in/rachelle-hampton-95355899/)'s [review of reviews](https://slate.com/culture/2020/01/american-dirt-book-controversy-explained.html),  and [Myriam Gurba](https://en.wikipedia.org/wiki/Myriam_Gurba)'s [2019 critique](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) of this novel -- all of which confirmed the depth and scope of my ignorance here (*I need to read more...*).  As a result, I recommend that you read a summary and one or more of the critical reviews (*I think [Gurba's](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) is useful*) and then in that context decide for yourself whether to read this book.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt  
+
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
@@ -4104,7 +4119,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details><summary>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+<details><summary><a name="private_moscow_by_patterson_and_hamdy"></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
 
 ### Private Moscow. (9:00)  
 Audio: https://www.overdrive.com/media/9267936/private-moscow  
@@ -4116,7 +4131,34 @@ Reading Notes: Another impossible mission, fast-paced action, Russians, sleeper 
 </details>
 
 
-<details><summary>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary><a name="quantum_radio_by_a_g_riddle"></a>Quantum Radio. By A.G. Riddle.  2023  </summary>
+
+### Quantum Radio. (15:00)  
+Audio: https://www.overdrive.com/media/7413526/quantum-radio  
+eBook: https://www.agriddle.com/Quantum-Radio  
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes: Quantum physicist Tyson Klein discovers communications sent via actions of sub-atomic particles emitted by a massive particle accelerator.  Oversimplification of influencing others; *magic* science and technology, tremendous exaggerations, physics-be-damned, better than one-dimensional characters (*but still seem largely flat*), and unwavering optimism about the people of the world working together toward common goals...  And frequent "I have a hunch/feeling...just trust me..."  A team of four deliver action throughout.  If you like science fiction action 'B' movies, maybe this story might be for you.  I am confident that it is not for everyone.  
+
+Some of the topics in this story:  
+* World War II.  
+  * Research and development of A*x* rockets at Peenemünde on the island of Usedom on the Baltic coast.  
+* United States Department of Defense (DOD) Defense Advanced Research Projects Agency (DARPA).  
+* The Large Hadron Collider (LHC) at CERN.  
+* Geneva, Switzerland.  
+* Quantum Entanglement.  
+* DARPA Microsystems Technology Office (MTO) Quantum Entanglement Science and Technology project (QuEST).  
+* Then multiverse.  
+* Faster-than-light travel.  
+* Time travel.  
+
+Expanded Author's Note for Quantum Radio: https://www.agriddle.com/qr-facts  
+
+
+</details>
+
+
+<details><summary><a name="the_quick_by_lauren_owen"></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
@@ -5355,6 +5397,28 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)   </summary>
+
+### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. (9:00)  
+Audio: https://www.overdrive.com/media/4875760/ordinary-men  
+eBook: https://www.overdrive.com/media/2726377/ordinary-men  
+By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
+
+Reading Notes: The German "Final Solution" against the Jews was concentrated in 1942. For a material portion of that effort they employed men from state and local police.  This book reviews the case of a "German Order Police" group, the "Reserve Police Battalion 101" killing unit -- as most of their membership became professional killers.  There were over 200,000 legacy German Order Police by 1942, and Browning uses examples from other Order Police organizations in German occupied countries as well. The book includes two "Afterwords," one 1998 and the other from 2017 outlining some of the scholarship on this topic and the various arguments used to explain how so-called "*ordinary men*" could participate in mass murder.  
+
+>"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+
+This book covers a relatively narrow slice of a tough topic, adding context throughout.  Authorian violence and anti-semitism 
+
+Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
+
+RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="death_of_the_author_by_nnedi_okorafor"></a>Death of the Author. -- By Nnedi Okorafor. 2025 </summary>
@@ -5374,27 +5438,10 @@ Review by [Sandra Newman](https://en.wikipedia.org/wiki/Sandra_Newman): [theguar
 
 
 
-
+<details>
+<summary>One or more of the "Very Short Introductions" series of books published by Oxford University Press  </summary>
 
 One or more of the "[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)" [series of books](https://en.wikipedia.org/wiki/List_of_Very_Short_Introductions_books) published by [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press).  
-
-
-<details>
-<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)  
- </summary>
-
-### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. ()  
-Audio: https://www.overdrive.com/media/4875760/ordinary-men  
-eBook: https://www.overdrive.com/media/2726377/ordinary-men  
-By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
-
-Reading Notes:   
-
->"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
-Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
-
-RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
-
 
 </details>
 
@@ -5439,21 +5486,6 @@ Review by [Avram Alpert](https://www.avramalpert.com/): [dissentmagazine.org/...
 
 
 
-
-
-<details>
-<summary><a name="american_dirt_by_jeanine_cummins"></a>American Dirt -- A Novel.  By Jeanine Cummins. 2020  </summary>
-
-### American Dirt -- A Novel  (17:00)  
-Audio: [https://www.overdrive.com/media/4727757/american-dirt](https://www.overdrive.com/media/4727757/american-dirt-oprahs-book-club)  
-eBook: https://www.overdrive.com/media/4681122/american-dirt  
-By [Jeanine Cummins](https://en.wikipedia.org/wiki/Jeanine_Cummins)  (1974 – )  
-
-Reading Notes: I don't know what to make of this novel.  In a commercial sense this was a wildly popular novel in 2020, which generated *momentum* for years of follow-on sales.  The scale of its visability in the novel marketplace led me to this reading.  Upon finishing and begining to think about these notes, I realized that the writing left me unsettled -- and more clearly aware of my ignorance of topics explored in this story, of the novel writing craft and of the book publishing business.  I read the [Wikipedia summary](https://en.wikipedia.org/wiki/American_Dirt), [Rachelle Hampton](https://www.linkedin.com/in/rachelle-hampton-95355899/)'s [review of reviews](https://slate.com/culture/2020/01/american-dirt-book-controversy-explained.html),  and [Myriam Gurba](https://en.wikipedia.org/wiki/Myriam_Gurba)'s [2019 critique](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) of this novel -- all of which confirmed the depth and scope of my ignorance here (*I need to read more...*).  As a result, I recommend that you read a summary and one or more of the critical reviews (*I think [Gurba's](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) is useful*) and then in that context decide for yourself whether to read this book.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt  
-
-</details>
 
 
 
