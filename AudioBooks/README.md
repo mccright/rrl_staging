@@ -5395,6 +5395,64 @@ Reading Notes:
 </details>
 
 
+Holdout -- A Novel. By Jeffrey Kluger. 2021  
+
+<details>
+<summary><a name="holdout_a_novel_by_jeffrey_kluger"></a>Holdout -- A Novel. By Jeffrey Kluger. 2021  </summary>
+
+### Holdout -- A Novel. (11:00)  
+Audio: https://www.overdrive.com/media/5851777/holdout  
+eBook: https://www.overdrive.com/media/5852162/holdout  
+By [Jeffrey Kluger](https://en.wikipedia.org/wiki/Jeffrey_Kluger)  (1954 – )  
+
+Reading Notes:   
+
+Review by [Jeff Foust](https://en.wikipedia.org/wiki/Jeff_Foust) & J.Foust [here](http://www.jfoust.com/): [thespacereview.com/article/4277/1](https://www.thespacereview.com/article/4277/1)  
+Review by [John J. Vester](https://x.com/johnjvester2) & [JJV here too](https://www.isfdb.org/cgi-bin/ea.cgi?12352+None): [nss.org/book-review-holdout/](https://nss.org/book-review-holdout/)  
+Kirkus Review: [kirkusreviews.com/...jeffrey-kluger/](https://www.kirkusreviews.com/author/jeffrey-kluger/)  
+Reviews on [GoodReads](https://www.goodreads.com): [goodreads.com/...holdout](https://www.goodreads.com/book/show/53495294-holdout)  
+
+
+</details>
+
+
+
+
+
+<details>
+<summary><a name="american_sniper_by_chris_kyle"></a>American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. By Chris Kyle. 2012 </summary>
+
+### American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. (10:00)  
+Audio: https://www.overdrive.com/media/702795/american-sniper  
+eBook: https://www.overdrive.com/media/629949/american-sniper  
+By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
+
+Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war.  
+
+Firearms enthusiasts may interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
+
+Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
+
+</details>
+
+
+<summary><a name="humans_bow_down_by_james_patterson_and_emily_raymond"></a>Humans, Bow Down.  By James Patterson and Emily Raymond. 2016/2017  </summary>
+
+### Humans, Bow Down.  (8:00)  
+Audio: https://www.overdrive.com/media/2890207/humans-bow-down  
+eBook: https://www.overdrive.com/media/2543968/humans-bow-down  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Emily Raymond](https://www.bookseriesinorder.com/emily-raymond/) ( - )  
+
+Reading Notes: Robots turned on humankind a decade before the time when the action in this story takes place.  Robots kill all humans except for a relatively small population of *rebels* and a small number of servile collaborators in and around Denver, Colorado.  There are a range of robot types -- from hubots (*"like" humans, but still robots*) to single-purpose implementations not unlike many available today. The scale and speed of the robot *take-over* is never explained and nothing in the book suggested a method or process that would have accomplished the killing of more than 8 billion humans in a matter of days.  None of the *sciencey* ideas are fleshed out and most seem closer to fantasy than science.  The characters and dialog seemed directed to a [young adult fiction](https://en.wikipedia.org/wiki/Young_adult_literature) audience looking for [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) stories.  There are a lot of good YA books out there & I don't think that this one offers enough to recommend it to any young person I/you know.  I found no joy in experiencing this book.   
+
+Review by Sebastian Phillips: [concatenation.org/...patterson-humans](http://www.concatenation.org/frev/patterson-humans.html)  
+
+
+</details>
+
+
+
+
 
 
 <details>
