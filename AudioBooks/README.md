@@ -2444,12 +2444,28 @@ DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-
 </details>
 
 
-<details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+<details><summary><a name="humans_bow_down_by_james_patterson_and_emily_raymond"></a>Humans, Bow Down.  By James Patterson and Emily Raymond. 2016/2017  </summary>
+
+### Humans, Bow Down.  (8:00)  
+Audio: https://www.overdrive.com/media/2890207/humans-bow-down  
+eBook: https://www.overdrive.com/media/2543968/humans-bow-down  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Emily Raymond](https://www.bookseriesinorder.com/emily-raymond/) ( - )  
+
+Reading Notes: Robots turned on humankind a decade before the time when the action in this story takes place.  Robots killed all humans except for a relatively small population of *rebels* and a small number of servile collaborators in and around Denver, Colorado.  There are a range of robot types -- from hubots (*"like" humans, but still robots*) to single-purpose implementations not unlike many available today. The scale and speed of the robot *take-over* is never explained and nothing in the book suggested a method or process that would have accomplished the killing of more than 8 billion humans in a matter of days.  None of the *sciencey* ideas are fleshed out and most seem closer to fantasy or unfinished writing than science.  The characters and dialog seemed directed to a [young adult fiction](https://en.wikipedia.org/wiki/Young_adult_literature) audience looking for [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) stories.  There are a lot of good YA books out there & I don't think that this one offers enough to recommend it to any young person I/you know.  I found no joy in experiencing this book.   
+
+Review by Sebastian Phillips: [concatenation.org/...patterson-humans](http://www.concatenation.org/frev/patterson-humans.html)  
+
+
+</details>
+
+
+<details><summary><a name="i_spy_by_natalie_sumner_lincoln"></a>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
 Text: https://www.gutenberg.org/ebooks/9812  
 By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
+
 Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
 
 [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
@@ -5395,7 +5411,6 @@ Reading Notes:
 </details>
 
 
-Holdout -- A Novel. By Jeffrey Kluger. 2021  
 
 <details>
 <summary><a name="holdout_a_novel_by_jeffrey_kluger"></a>Holdout -- A Novel. By Jeffrey Kluger. 2021  </summary>
@@ -5427,26 +5442,11 @@ Audio: https://www.overdrive.com/media/702795/american-sniper
 eBook: https://www.overdrive.com/media/629949/american-sniper  
 By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
 
-Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war.  
+Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war and about what we ask soldiers to do in our .  
 
 Firearms enthusiasts may interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
 
 Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
-
-</details>
-
-
-<summary><a name="humans_bow_down_by_james_patterson_and_emily_raymond"></a>Humans, Bow Down.  By James Patterson and Emily Raymond. 2016/2017  </summary>
-
-### Humans, Bow Down.  (8:00)  
-Audio: https://www.overdrive.com/media/2890207/humans-bow-down  
-eBook: https://www.overdrive.com/media/2543968/humans-bow-down  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Emily Raymond](https://www.bookseriesinorder.com/emily-raymond/) ( - )  
-
-Reading Notes: Robots turned on humankind a decade before the time when the action in this story takes place.  Robots kill all humans except for a relatively small population of *rebels* and a small number of servile collaborators in and around Denver, Colorado.  There are a range of robot types -- from hubots (*"like" humans, but still robots*) to single-purpose implementations not unlike many available today. The scale and speed of the robot *take-over* is never explained and nothing in the book suggested a method or process that would have accomplished the killing of more than 8 billion humans in a matter of days.  None of the *sciencey* ideas are fleshed out and most seem closer to fantasy than science.  The characters and dialog seemed directed to a [young adult fiction](https://en.wikipedia.org/wiki/Young_adult_literature) audience looking for [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) stories.  There are a lot of good YA books out there & I don't think that this one offers enough to recommend it to any young person I/you know.  I found no joy in experiencing this book.   
-
-Review by Sebastian Phillips: [concatenation.org/...patterson-humans](http://www.concatenation.org/frev/patterson-humans.html)  
-
 
 </details>
 
