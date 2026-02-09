@@ -2444,12 +2444,28 @@ DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-
 </details>
 
 
-<details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+<details><summary><a name="humans_bow_down_by_james_patterson_and_emily_raymond"></a>Humans, Bow Down.  By James Patterson and Emily Raymond. 2016/2017  </summary>
+
+### Humans, Bow Down.  (8:00)  
+Audio: https://www.overdrive.com/media/2890207/humans-bow-down  
+eBook: https://www.overdrive.com/media/2543968/humans-bow-down  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Emily Raymond](https://www.bookseriesinorder.com/emily-raymond/) ( - )  
+
+Reading Notes: Robots turned on humankind a decade before the time when the action in this story takes place.  Robots killed all humans except for a relatively small population of *rebels* and a small number of servile collaborators in and around Denver, Colorado.  There are a range of robot types -- from hubots (*"like" humans, but still robots*) to single-purpose implementations not unlike many available today. The scale and speed of the robot *take-over* is never explained and nothing in the book suggested a method or process that would have accomplished the killing of more than 8 billion humans in a matter of days.  None of the *sciencey* ideas are fleshed out and most seem closer to fantasy or unfinished writing than science.  The characters and dialog seemed directed to a [young adult fiction](https://en.wikipedia.org/wiki/Young_adult_literature) audience looking for [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) stories.  There are a lot of good YA books out there & I don't think that this one offers enough to recommend it to any young person I/you know.  I found no joy in experiencing this book.   
+
+Review by Sebastian Phillips: [concatenation.org/...patterson-humans](http://www.concatenation.org/frev/patterson-humans.html)  
+
+
+</details>
+
+
+<details><summary><a name="i_spy_by_natalie_sumner_lincoln"></a>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
 Text: https://www.gutenberg.org/ebooks/9812  
 By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
+
 Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
 
 [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
@@ -5396,6 +5412,48 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="holdout_a_novel_by_jeffrey_kluger"></a>Holdout -- A Novel. By Jeffrey Kluger. 2021  </summary>
+
+### Holdout -- A Novel. (11:00)  
+Audio: https://www.overdrive.com/media/5851777/holdout  
+eBook: https://www.overdrive.com/media/5852162/holdout  
+By [Jeffrey Kluger](https://en.wikipedia.org/wiki/Jeffrey_Kluger)  (1954 – )  
+
+Reading Notes:   
+
+Review by [Jeff Foust](https://en.wikipedia.org/wiki/Jeff_Foust) & J.Foust [here](http://www.jfoust.com/): [thespacereview.com/article/4277/1](https://www.thespacereview.com/article/4277/1)  
+Review by [John J. Vester](https://x.com/johnjvester2) & [JJV here too](https://www.isfdb.org/cgi-bin/ea.cgi?12352+None): [nss.org/book-review-holdout/](https://nss.org/book-review-holdout/)  
+Kirkus Review: [kirkusreviews.com/...jeffrey-kluger/](https://www.kirkusreviews.com/author/jeffrey-kluger/)  
+Reviews on [GoodReads](https://www.goodreads.com): [goodreads.com/...holdout](https://www.goodreads.com/book/show/53495294-holdout)  
+
+
+</details>
+
+
+
+
+
+<details>
+<summary><a name="american_sniper_by_chris_kyle"></a>American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. By Chris Kyle. 2012 </summary>
+
+### American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. (10:00)  
+Audio: https://www.overdrive.com/media/702795/american-sniper  
+eBook: https://www.overdrive.com/media/629949/american-sniper  
+By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
+
+Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war and about what we ask soldiers to do in our .  
+
+Firearms enthusiasts may interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
+
+Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
+
+</details>
+
+
+
+
+
 
 <details>
 <summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)   </summary>
@@ -5405,11 +5463,12 @@ Audio: https://www.overdrive.com/media/4875760/ordinary-men
 eBook: https://www.overdrive.com/media/2726377/ordinary-men  
 By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
 
-Reading Notes: The German "Final Solution" against the Jews was concentrated in 1942. For a material portion of that effort they employed men from state and local police.  This book reviews the case of a "German Order Police" group, the "Reserve Police Battalion 101" killing unit -- as most of their membership became professional killers.  There were over 200,000 legacy German Order Police by 1942, and Browning uses examples from other Order Police organizations in German occupied countries as well. The book includes two "Afterwords," one 1998 and the other from 2017 outlining some of the scholarship on this topic and the various arguments used to explain how so-called "*ordinary men*" could participate in mass murder.  
+Reading Notes: The pace of the [Nazi](https://en.wikipedia.org/wiki/Nazi_Germany) "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" -- [genocide](https://en.wikipedia.org/wiki/Genocide) of individuals they defined as [Jews](https://en.wikipedia.org/wiki/Jews) -- accelerated in 1942. For a material portion of that effort they employed men from state and local police.  This book reviews the case of a "[German Order Police](https://en.wikipedia.org/wiki/Order_Police_battalions)" group, the "[Reserve Police Battalion 101](https://en.wikipedia.org/wiki/Reserve_Police_Battalion_101)" killing unit -- as most of their membership became professional killers and material perpetrators of the [Holocaust in occupied Poland](https://en.wikipedia.org/wiki/The_Holocaust_in_occupied_Poland) as well as participating in other large-scale [crimes against humanity](https://en.wikipedia.org/wiki/Crime_against_humanity) against civilian populations under German occupation.  There were over 200,000 legacy German Order Police by 1942, and Browning uses examples from other Order Police organizations in German occupied countries as well. The book includes two "Afterwords," one 1998 and the other from 2017 outlining some of the scholarship on this topic and the various arguments used to explain how so-called "*ordinary men*" could participate in mass murder.  
 
->"Browning called the Göring-Frank–Himmler-Greiser dispute a perfect example of how Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+How did this mass murder version of the "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" come about?  
+>"...Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
 
-This book covers a relatively narrow slice of a tough topic, adding context throughout.  Authorian violence and anti-semitism 
+This book covers a relatively narrow slice of a tough topic -- authorian violence and antisemitism -- adding context throughout.  
 
 Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
 
@@ -5442,6 +5501,8 @@ Review by [Sandra Newman](https://en.wikipedia.org/wiki/Sandra_Newman): [theguar
 <summary>One or more of the "Very Short Introductions" series of books published by Oxford University Press  </summary>
 
 One or more of the "[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)" [series of books](https://en.wikipedia.org/wiki/List_of_Very_Short_Introductions_books) published by [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press).  
+
+See: "Authoritarianism: A Very Short Introduction" by James Loxton. 2024.  
 
 </details>
 
