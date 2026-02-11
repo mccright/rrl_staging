@@ -103,7 +103,7 @@ The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/it
 <details><summary><a name="the_expendables_by_a_e_van_vogt"></a>The Expendables. by A. E. Van Vogt  1963</summary>  
 
 ### The Expendables.  
-https://www.gutenberg.org/ebooks/70235  
+eBook: https://www.gutenberg.org/ebooks/70235  
 By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
 ...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
 
@@ -129,7 +129,7 @@ Librivox Summary:
 <details><summary><a name="invasion_by_murray_leinster"></a>Invasion.  By Murray Leinster.  1933</summary>
 
 ### Invasion  
-https://www.gutenberg.org/ebooks/29455  
+eBook: https://www.gutenberg.org/ebooks/29455  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
 
 </details>
