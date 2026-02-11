@@ -8,9 +8,11 @@
 ### The Alice Network.  
 Audio: https://www.overdrive.com/media/2985766/the-alice-network  
 Ebook: https://www.overdrive.com/media/2952389/the-alice-network  
-http://www.katequinnauthor.com/books/the-alice-network  
+Also: http://www.katequinnauthor.com/books/the-alice-network  
 By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+
 Reading Notes:  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Alice_Network)  
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Alice_Network  
 Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-network-is-a-crackling-tale-of-spies-and-suspense)  
 
@@ -115,6 +117,7 @@ Some Quotes from the book:
 <details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
 
 ### The Big Sky.  
+This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
 Book: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  (*It seems [widely available](https://duckduckgo.com/?t=h_&q=the+big+sky+by+a.b.+guthrie+jr&ia=web) in libraries and commercially.*)  
 Audio: https://www.overdrive.com/media/1222142/the-big-sky (14:24)  
 By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
@@ -239,6 +242,22 @@ Audio: https://www.overdrive.com/media/2396486/notorious-rbg
 Ebook: https://www.overdrive.com/media/2122662/notorious-rbg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
+
+</details>
+
+
+<details>
+<summary><a name="on_tyranny_by_timothy_snyder"></a>On Tyranny -- Twenty Lessons from the Twentieth Century. By Timothy Snyder 2017 </summary>
+
+### On Tyranny -- Twenty Lessons from the Twentieth Century.  
+Audio: https://www.overdrive.com/media/3116660/on-tyranny  
+eBook: https://www.overdrive.com/media/3108868/on-tyranny  
+By [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder)  (1969 – )  
+
+Reading Notes: Snyder wrote: “You submit to tyranny when you renounce the difference between what you want to hear and what is actually the case.”  This short book seems like a *must read* for everyone living through the Trumpian/Trumpist remaking of the U.S. government (*with a huge tailwind provided by Supreme Court that seems devoted to that project and to the person of D.J. Trump*).  It also seems like an essential resource for anyone already engaged in reality-based resistance.   
+
+From [Wikipedia](https://en.wikipedia.org/wiki/On_Tyranny):  
+>On Tyranny focuses on the concept of tyranny in the context of the modern United States politics, analyzing what Snyder calls "America's turn towards authoritarianism". Explaining that "(h)istory does not repeat, but it does instruct," he analyzes recent European history to identify conditions that can enable established democracies to transform into dictatorships. The short (126 pages) book is presented as a series of twenty instructions on how to combat the rise of tyranny, such as "Defend institutions", "Remember professional ethics", and "Believe in truth".  
 
 </details>
 
@@ -502,22 +521,6 @@ Reading Notes:
 </details>
 
 
-<details>
-<summary><a name="on_tyranny_by_timothy_snyder"></a>On Tyranny -- Twenty Lessons from the Twentieth Century. By Timothy Snyder 2017 </summary>
-
-### On Tyranny -- Twenty Lessons from the Twentieth Century.  
-Audio: https://www.overdrive.com/media/3116660/on-tyranny  
-eBook: https://www.overdrive.com/media/3108868/on-tyranny  
-By [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder)  (1969 – )  
-
-Reading Notes:   “You submit to tyranny when you renounce the difference between what you want to hear and what is actually the case.”  
-
-From [Wikipedia](https://en.wikipedia.org/wiki/On_Tyranny):  
->On Tyranny focuses on the concept of tyranny in the context of the modern United States politics, analyzing what Snyder calls "America's turn towards authoritarianism". Explaining that "(h)istory does not repeat, but it does instruct," he analyzes recent European history to identify conditions that can enable established democracies to transform into dictatorships. The short (126 pages) book is presented as a series of twenty instructions on how to combat the rise of tyranny, such as "Defend institutions", "Remember professional ethics", and "Believe in truth".  
-
-</details>
-
-
 
 
 <details>
@@ -675,6 +678,9 @@ By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)
 
 ### The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics.  
 By [Dan T. Carter]()  
+
+Reading Notes:  
+
 https://lsupress.org/9780807125977/the-politics-of-rage/  
 >"Combining biography with regional and national history, Dan T. Carter chronicles the dramatic rise and fall of George Wallace, a populist who abandoned his ideals to become a national symbol of racism, and later begged for forgiveness. In The Politics of Rage, Carter argues persuasively that the four-time Alabama governor and four-time presidential candidate helped to establish the conservative political movement that put Ronald Reagan in the White House in 1980 and gave Newt Gingrich and the Republicans control of Congress in 1994. In this second edition, Carter updates Wallace’s story with a look at the politician’s death and the nation’s reaction to it and gives a summary of his own sense of the legacy of “the most important loser in twentieth-century American politics.”"  
 
@@ -687,6 +693,8 @@ https://lsupress.org/9780807125977/the-politics-of-rage/
 ### Red Reckoning: The Cold War and the Transformation of American Life.  
 ebook: https://www.overdrive.com/media/9767688/red-reckoning  
 By [Mark Boulton](https://www.linkedin.com/in/mark-boulton-73b4a082)  
+
+Reading Notes:  
 
 
 Summary from [LSU Press](https://lsupress.org/9780807180082/):  
