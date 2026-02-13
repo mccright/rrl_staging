@@ -341,6 +341,38 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name=""></a>Wolf Pass. by William Byron Mowery. </summary>
+
+### Empty_Template  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/77911  
+By [William Byron Mowery]()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="in_the_days_work_by_daniel_berkeley_updike"></a>In The Day's Work. by Daniel Berkeley Updike. 1924 </summary>
+
+### In The Day's Work.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/77910  
+By [Daniel Berkeley Updike](https://en.wikipedia.org/wiki/Daniel_Berkeley_Updike)  (1860 – 1941)  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
 
 <details>
 <summary><a name="the_man_who_lost_himself_by_h_de_vere_stacpoole"></a>The Man Who Lost Himself. by H. De Vere Stacpoole. 1917 (1918) </summary>
