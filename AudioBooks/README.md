@@ -313,6 +313,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt
 </details>
 
 
+<details><summary><a name="american_sniper_by_chris_kyle"></a>American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. By Chris Kyle. 2012 </summary>
+
+### American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. (10:00)  
+Audio: https://www.overdrive.com/media/702795/american-sniper  
+eBook: https://www.overdrive.com/media/629949/american-sniper  
+By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
+
+Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war, war fighters and about some of sacrifice and violence we ask others to commit in our name.  
+
+Firearms enthusiasts may be interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
+
+Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
@@ -5446,22 +5462,19 @@ Reading Notes:
 
 
 
+
 <details>
-<summary><a name="american_sniper_by_chris_kyle"></a>American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. By Chris Kyle. 2012 </summary>
+<summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
 
-### American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. (10:00)  
-Audio: https://www.overdrive.com/media/702795/american-sniper  
-eBook: https://www.overdrive.com/media/629949/american-sniper  
-By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
+### The First Conspiracy -- The Secret Plot to Kill George Washington.  (11:00)  
+Audio: https://www.overdrive.com/media/3980793/the-first-conspiracy  
+eBook: https://www.overdrive.com/media/4147580/the-first-conspiracy  
+By [Brad Meltzer](https://en.wikipedia.org/wiki/Brad_Meltzer)  (1970 – ) and [Josh Mensch](https://www.joshmensch.com/about) (  -  )  
 
-Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war, war fighters and about some of sacrifice and violence we ask others to commit in our name.  
+Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(soldier)), one of George Washington's bodyguards, was court-martialed and found guilty of mutiny and sedition. Before a crowd of 20,000 soldiers and spectators in New York he was hanged on June 28, 1776.  This is the story of the secret plot against General George Washington and how it was revealed.  It is popular non-fiction history.  It includes battles, soldiers, spies, killers, counterfeiters, traitors and it is entertaining throughout.  
 
-Firearms enthusiasts may be interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
-
-Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
 
 </details>
-
 
 
 
