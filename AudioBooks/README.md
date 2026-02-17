@@ -313,6 +313,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt
 </details>
 
 
+<details><summary><a name="american_sniper_by_chris_kyle"></a>American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. By Chris Kyle. 2012 </summary>
+
+### American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. (10:00)  
+Audio: https://www.overdrive.com/media/702795/american-sniper  
+eBook: https://www.overdrive.com/media/629949/american-sniper  
+By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
+
+Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war, war fighters and about some of sacrifice and violence we ask others to commit in our name.  
+
+Firearms enthusiasts may be interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
+
+Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
@@ -2388,6 +2404,37 @@ Reading Notes: Using the story of British airship R101, Gwynne outlines the hist
 Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-great-air-race-john-lancaster.html): [https://www.nytimes.com/.../his-majestys-airship...](https://www.nytimes.com/2023/05/01/books/review/his-majestys-airship-s-c-gwynne.html)  
  
 Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
+
+
+</details>
+
+
+<details><summary><a name="holdout_a_novel_by_jeffrey_kluger"></a>Holdout -- A Novel. By Jeffrey Kluger. 2021  </summary>
+
+### Holdout -- A Novel. (11:00)  
+Audio: https://www.overdrive.com/media/5851777/holdout  
+eBook: https://www.overdrive.com/media/5852162/holdout  
+By [Jeffrey Kluger](https://en.wikipedia.org/wiki/Jeffrey_Kluger)  (1954 – )  
+
+Reading Notes: Central characters in this story include an immoral U.S. President, a [genocidal](https://en.wikipedia.org/wiki/Genocide) and [ecocidal](https://en.wikipedia.org/wiki/Ecocide) Brazilian President, a diverse set of honorable astronauts and a young medical student serving [indigenous peoples under attack](https://en.wikipedia.org/wiki/Genocide_of_indigenous_peoples) in the Amazon.  The author built a story incorporating political themes that seem probable-enough in 2026 (*considering behaviors of established & rising authoritarian leaders across the globe*), a lot of technical detail about the International Space Station (ISS) and human action that propelled the story forward. Reviews were mixed and *magical* cooperation appears at the end of the story, but my reading of the book seemed like a worthwhile investment.  
+Notable quote:  "I prefer not to."  
+
+```
+Belka “Walli” Beckwith U.S. Navy officer, fighter pilot and astronaut  
+Vasily Zhirov, Russian cosmonaut & ISS station commander  
+Yulian Lebedev, Russian cosmonaut  
+Lee Jasper, U.S. Navy officer, fighter pilot and NASA Capcom engineer  
+Constance Polk, U.S, Attorney General  
+Sonia Peanut, a medical student and volunteer medical assistant  
+Oli, orphaned 5 year old native boy  
+U.S. president  
+Brazilian president  
+```
+
+Review by [Jeff Foust](https://en.wikipedia.org/wiki/Jeff_Foust) & J.Foust [here](http://www.jfoust.com/): [thespacereview.com/article/4277/1](https://www.thespacereview.com/article/4277/1)  
+Review by [John J. Vester](https://x.com/johnjvester2) & [JJV here too](https://www.isfdb.org/cgi-bin/ea.cgi?12352+None): [nss.org/book-review-holdout/](https://nss.org/book-review-holdout/)  
+Kirkus Review: [kirkusreviews.com/...jeffrey-kluger/](https://www.kirkusreviews.com/author/jeffrey-kluger/)  
+Reviews on [GoodReads](https://www.goodreads.com): [goodreads.com/...holdout](https://www.goodreads.com/book/show/53495294-holdout)  
 
 
 </details>
@@ -5412,21 +5459,34 @@ Reading Notes:
 
 
 
+
+
+
 <details>
-<summary><a name="holdout_a_novel_by_jeffrey_kluger"></a>Holdout -- A Novel. By Jeffrey Kluger. 2021  </summary>
+<summary><a name="the_guns_of_august_by_barbara_w_tuchman"></a>The Guns of August. By Barbara W. Tuchman. 1962/2008 </summary>
 
-### Holdout -- A Novel. (11:00)  
-Audio: https://www.overdrive.com/media/5851777/holdout  
-eBook: https://www.overdrive.com/media/5852162/holdout  
-By [Jeffrey Kluger](https://en.wikipedia.org/wiki/Jeffrey_Kluger)  (1954 – )  
+### The Guns of August. (19:00) 
+Audio: https://www.overdrive.com/media/163463/the-guns-of-august  
+eBook: https://www.overdrive.com/media/256490/the-guns-of-august  
+By [Barbara W. Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)  (1912 – 1989)  
 
-Reading Notes:   
+Reading Notes: Anyone interested in WWI, military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book. The author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) and social relations of many key military leaders. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs a "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*."  It is also a pleasure.  
 
-Review by [Jeff Foust](https://en.wikipedia.org/wiki/Jeff_Foust) & J.Foust [here](http://www.jfoust.com/): [thespacereview.com/article/4277/1](https://www.thespacereview.com/article/4277/1)  
-Review by [John J. Vester](https://x.com/johnjvester2) & [JJV here too](https://www.isfdb.org/cgi-bin/ea.cgi?12352+None): [nss.org/book-review-holdout/](https://nss.org/book-review-holdout/)  
-Kirkus Review: [kirkusreviews.com/...jeffrey-kluger/](https://www.kirkusreviews.com/author/jeffrey-kluger/)  
-Reviews on [GoodReads](https://www.goodreads.com): [goodreads.com/...holdout](https://www.goodreads.com/book/show/53495294-holdout)  
+Some Major Players:  
+* [King Edward VII](https://en.wikipedia.org/wiki/Edward_VII) of [Great Britian](https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland)  
+* [Kaiser Wilhelm II](https://en.wikipedia.org/wiki/Wilhelm_II) of [Germany](https://en.wikipedia.org/wiki/Germany)  
+* [Archduke Franz Ferdinand](https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria) of [Austria](https://en.wikipedia.org/wiki/Austria)  
+* [Field Marshal Alfred von Schlieffen](https://en.wikipedia.org/wiki/Alfred_von_Schlieffen) of the [German Army](https://en.wikipedia.org/wiki/German_Army_(German_Empire))  
+* [Generaloberst Helmuth von Moltke the Younger](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Younger) of the [German Army](https://en.wikipedia.org/wiki/German_Army_(German_Empire))  
+* [General Joseph Joffre](https://en.wikipedia.org/wiki/Joseph_Joffre) of [France](https://en.wikipedia.org/wiki/France)  
+* [Nicholas II (Nikolai Alexandrovich Romanov)](https://en.wikipedia.org/wiki/Nicholas_II) of [Russia](https://en.wikipedia.org/wiki/Russia) and [Dowager Empress Maria Feodorovna](https://en.wikipedia.org/wiki/Maria_Feodorovna_(Dagmar_of_Denmark)) of Russia  
+* [Sir John French](https://en.wikipedia.org/wiki/John_French,_1st_Earl_of_Ypres) of [Great Britian](https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland)  
+* General [Vladimir Sukhomlinov](https://en.wikipedia.org/wiki/Vladimir_Sukhomlinov) of the [Imperial Russian Army](https://en.wikipedia.org/wiki/Imperial_Russian_Army)  
+... and many more [key players](https://en.wikipedia.org/wiki/The_Guns_of_August#Key_players).  
 
+See the [Wikipedia page](https://en.wikipedia.org/wiki/The_Guns_of_August) for a more thorough summary of this book.  
+
+Wikipedia page: https://en.wikipedia.org/wiki/The_Guns_of_August  
 
 </details>
 
@@ -5435,21 +5495,17 @@ Reviews on [GoodReads](https://www.goodreads.com): [goodreads.com/...holdout](ht
 
 
 <details>
-<summary><a name="american_sniper_by_chris_kyle"></a>American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. By Chris Kyle. 2012 </summary>
+<summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
 
-### American Sniper -- The Autobiography of the Most Lethal Sniper in U.S. Military History. (10:00)  
-Audio: https://www.overdrive.com/media/702795/american-sniper  
-eBook: https://www.overdrive.com/media/629949/american-sniper  
-By [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle)  (1974 – 2013)  
+### The First Conspiracy -- The Secret Plot to Kill George Washington.  (11:00)  
+Audio: https://www.overdrive.com/media/3980793/the-first-conspiracy  
+eBook: https://www.overdrive.com/media/4147580/the-first-conspiracy  
+By [Brad Meltzer](https://en.wikipedia.org/wiki/Brad_Meltzer)  (1970 – ) and [Josh Mensch](https://www.joshmensch.com/about) (  -  )  
 
-Reading Notes: In this autobiography [Chris Kyle](https://en.wikipedia.org/wiki/Chris_Kyle) outlines how he became a [U.S. Navy SEAL](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) and completed four tours in [Iraq](https://en.wikipedia.org/wiki/Iraq_War) from 1999 to 2009.  This was/is a popular book.  It tells first person stories about the 2003-2011 war in Iraq that might add some nuance to reader's perceptions of or opinions about that war and about what we ask soldiers to do in our .  
+Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(soldier)), one of George Washington's bodyguards, was court-martialed and found guilty of mutiny and sedition. Before a crowd of 20,000 soldiers and spectators in New York he was hanged on June 28, 1776.  This is the story of the secret plot against General George Washington and how it was revealed.  It is popular non-fiction history.  It includes battles, soldiers, spies, killers, counterfeiters, traitors and it is entertaining throughout.  
 
-Firearms enthusiasts may interested in the frequent detailed descriptions of given guns (*and gun components*), their characteristics in given situations, and their primary performance benefits/constraints for specific missions, along with considerations Chris Kyle found important-enough to mention in the context of war-fighting.  
-
-Wikipedia summary: [wikipedia.org/wiki/American_Sniper...](https://en.wikipedia.org/wiki/American_Sniper_(book))
 
 </details>
-
 
 
 
