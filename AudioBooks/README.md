@@ -5462,6 +5462,37 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="the_guns_of_august_by_barbara_w_tuchman"></a>The Guns of August. By Barbara W. Tuchman. 1962/2008 </summary>
+
+### The Guns of August. (19:00) 
+Audio: https://www.overdrive.com/media/163463/the-guns-of-august  
+eBook: https://www.overdrive.com/media/256490/the-guns-of-august  
+By [Barbara W. Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)  (1912 – 1989)  
+
+Reading Notes: Anyone interested in WWI, military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book. The author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) and social relations of many key military leaders. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs a "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*."  It is also a pleasure.  
+
+Some Major Players:  
+* [King Edward VII](https://en.wikipedia.org/wiki/Edward_VII) of [Great Britian](https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland)  
+* [Kaiser Wilhelm II](https://en.wikipedia.org/wiki/Wilhelm_II) of [Germany](https://en.wikipedia.org/wiki/Germany)  
+* [Archduke Franz Ferdinand](https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria) of [Austria](https://en.wikipedia.org/wiki/Austria)  
+* [Field Marshal Alfred von Schlieffen](https://en.wikipedia.org/wiki/Alfred_von_Schlieffen) of the [German Army](https://en.wikipedia.org/wiki/German_Army_(German_Empire))  
+* [Generaloberst Helmuth von Moltke the Younger](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Younger) of the [German Army](https://en.wikipedia.org/wiki/German_Army_(German_Empire))  
+* [General Joseph Joffre](https://en.wikipedia.org/wiki/Joseph_Joffre) of [France](https://en.wikipedia.org/wiki/France)  
+* [Nicholas II (Nikolai Alexandrovich Romanov)](https://en.wikipedia.org/wiki/Nicholas_II) of [Russia](https://en.wikipedia.org/wiki/Russia) and [Dowager Empress Maria Feodorovna](https://en.wikipedia.org/wiki/Maria_Feodorovna_(Dagmar_of_Denmark)) of Russia  
+* [Sir John French](https://en.wikipedia.org/wiki/John_French,_1st_Earl_of_Ypres) of [Great Britian](https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland)  
+* General [Vladimir Sukhomlinov](https://en.wikipedia.org/wiki/Vladimir_Sukhomlinov) of the [Imperial Russian Army](https://en.wikipedia.org/wiki/Imperial_Russian_Army)  
+... and many more [key players](https://en.wikipedia.org/wiki/The_Guns_of_August#Key_players).  
+
+See the [Wikipedia page](https://en.wikipedia.org/wiki/The_Guns_of_August) for a more thorough summary of this book.  
+
+Wikipedia page: https://en.wikipedia.org/wiki/The_Guns_of_August  
+
+</details>
+
+
+
+
 
 <details>
 <summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
