@@ -5460,6 +5460,22 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="everything_is_tuberculosis_by_john_green"></a>Everything Is Tuberculosis -- The History and Persistence of Our Deadliest Infection. By John Green. 2025 </summary>
+
+### Everything Is Tuberculosis -- The History and Persistence of Our Deadliest Infection  (6:00)  
+Audio: https://www.overdrive.com/media/11256195/everything-is-tuberculosis  
+eBook: https://www.overdrive.com/media/11256357/everything-is-tuberculosis  
+By [John Green](https://en.wikipedia.org/wiki/John_Green)  (1977 – )  
+
+Reading Notes:   
+
+
+Wikipedia Summary: [wikipedia.org/wiki/Everything_Is_Tuberculosis](https://en.wikipedia.org/wiki/Everything_Is_Tuberculosis)  
+
+</details>
+
+
 
 
 <details>
@@ -5470,7 +5486,7 @@ Audio: https://www.overdrive.com/media/163463/the-guns-of-august
 eBook: https://www.overdrive.com/media/256490/the-guns-of-august  
 By [Barbara W. Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)  (1912 – 1989)  
 
-Reading Notes: Anyone interested in WWI, military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book. The author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) and social relations of many key military leaders. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs a "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*."  It is also a pleasure.  
+Reading Notes: Anyone interested in WWI, military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book. The author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) and social relations of many key military leaders. The author seems to have read the diaries and papers of hundreds of key actors as well as hundreds or thousands of newspapers from the period. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs a "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*."  It is also a pleasure.  
 
 Some Major Players:  
 * [King Edward VII](https://en.wikipedia.org/wiki/Edward_VII) of [Great Britian](https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland)  
