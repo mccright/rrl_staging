@@ -343,9 +343,9 @@ Reading Notes:
 
 
 <details>
-<summary><a name="the_silent_baltic_by_marcus_knox"></a>The silent Baltic or, Detained near Kiel by Marcus Knox. 1914  </summary>
+<summary><a name="the_silent_baltic_by_marcus_knox"></a>The Silent Baltic or, Detained Near Kiel. by Marcus Knox. 1914  </summary>
 
-### Empty_Template  
+### The Silent Baltic or, Detained Near Kiel.  
 Audio:   
 eBook: https://www.gutenberg.org/ebooks/78033  
 By [Marcus Knox]()  ( – )  
