@@ -494,15 +494,25 @@ Reading Notes:
 </details>
 
 
-<details>
-<summary><a name=""></a>Empty_Template </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+
+
+<details>
+<summary><a name="seven_dials_mystery_by_agatha_christie"></a>The Seven Dials Mystery. by Agatha Christie. 1929 </summary>
+
+### The Seven Dials Mystery.  
+Audio: https://www.overdrive.com/media/11879608/the-seven-dials-mystery  
+eBook: https://www.gutenberg.org/ebooks/75288  
+By [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)  (1890 – 1976)  
 
 Reading Notes:  
+
+Central Characters list is available on [Wikipedia](https://en.wikipedia.org/wiki/The_Seven_Dials_Mystery#Characters).  
+[Lady Eileen (Bundle) Brent](https://en.wikipedia.org/wiki/Bundle_Brent): Eldest daughter of Clement Edward Alistair Brent, 9th Marquess of Caterham (simply called "Lord Caterham").  
+Clement Edward Alistair Brent, 9th Marquess of Caterham (simply called "Lord Caterham"): The Brents' seat was a large stately a country house "*Chimneys*." He was the father of [Lady Eileen (Bundle) Brent](https://en.wikipedia.org/wiki/Bundle_Brent). Died in 1920 after being gored in a bull ring.  
+Gerald (Gerry) Wade: Worked at the British Foreign Office. Served with [Lady Eileen (Bundle) Brent](https://en.wikipedia.org/wiki/Bundle_Brent)'s brother in WWI. In a serious relationship with "*Bundle*." Dies of chloral poisoning at Chimneys early in the story (1925).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Seven_Dials_Mystery  
 
 </details>
 
