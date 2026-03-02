@@ -5,6 +5,7 @@
 * [Audio Books](AudioBooks/)  
 * [Out-of-Copyright - Open-Access eBooks](OpenSourceTexts/)  
 * [Commercial and "Open Access" Books](Books/)  
+* [Some Dictionaries and References for Readers](Dictionaries_and_References_for_Readers.html)
 
 
 ## Supporting Material  
