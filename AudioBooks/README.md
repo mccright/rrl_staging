@@ -2223,7 +2223,7 @@ eBook: https://www.overdrive.com/media/256490/the-guns-of-august
 By [Barbara W. Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)  (1912 – 1989)  
 
 Reading Notes: Anyone interested in [WWI](https://en.wikipedia.org/wiki/World_War_I), military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book.  
-If you know nothing, *or very, very little* about WWI, then you might want to read a an overview first to give this book some context -- maybe [WWI on Wikipedia](https://en.wikipedia.org/wiki/World_War_I) or if you have only the most fuzzy memory of your high school history class "WWI" then the more specific "[First Battle of the Marne](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne)" on Wikipedia.  
+If you know nothing, *or very, very little* about WWI, then you might want to read an overview first to give this book some context -- maybe [WWI on Wikipedia](https://en.wikipedia.org/wiki/World_War_I) or if you have only the most fuzzy memory of your high school history class "WWI" then the more specific "[First Battle of the Marne](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne)" on Wikipedia.  
 In **The Guns of August** the author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) along wityh social and professional relations of many key military leaders. The author seems to have read the diaries and papers of hundreds of key actors as well as hundreds or thousands of newspapers from the period. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs what I think of as an almost "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*," it is also a pleasure.  
 See the [Wikipedia page](https://en.wikipedia.org/wiki/The_Guns_of_August) for a more thorough summary of this book.  
 
@@ -5491,6 +5491,23 @@ Reading Notes:
 
 
 <details>
+<summary><a name="democracy_awakening_by_heather_cox_richardson"></a>Democracy Awakening -- Notes on the State of America. By Heather Cox Richardson. 2023  </summary>
+
+### Democracy Awakening -- Notes on the State of America. (9:00)  
+Audio: https://www.overdrive.com/media/9674380/democracy-awakening  
+eBook: https://www.overdrive.com/media/9580719/democracy-awakening  
+By [Heather Cox Richardson](https://en.wikipedia.org/wiki/Heather_Cox_Richardson)  (1962 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+
+<details>
 <summary><a name="everything_is_tuberculosis_by_john_green"></a>Everything Is Tuberculosis -- The History and Persistence of Our Deadliest Infection. By John Green. 2025 </summary>
 
 ### Everything Is Tuberculosis -- The History and Persistence of Our Deadliest Infection  (6:00)  
@@ -5498,7 +5515,8 @@ Audio: https://www.overdrive.com/media/11256195/everything-is-tuberculosis
 eBook: https://www.overdrive.com/media/11256357/everything-is-tuberculosis  
 By [John Green](https://en.wikipedia.org/wiki/John_Green)  (1977 – )  
 
-Reading Notes:   
+Reading Notes: This book is about [tuberculosis](https://en.wikipedia.org/wiki/Tuberculosis) (*a curable disease*), the [leading cause of death from an infectious disease](https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate#Overview_table). The author argues that the disease is generally detectable and curable, but remains a scurge because of human choices.  Green outlines the history of how humans characterized *the disease* tuberculosis (*it had [many names](https://en.wikipedia.org/wiki/Tuberculosis#Names)*) and how given characterizations colored its treatment.  In addition, Green follows the course of the disease through the life of [Henry Reider](https://www.youtube.com/@Tuberculosis-l1jSurvivorHenry), a young tuberculosis patient Green met in 2019 at [Lakka Government Hospital](https://act.pih.org/lakka) in [Sierra Leone](https://en.wikipedia.org/wiki/Sierra_Leone). 
+The author and [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis) 1.23 million deaths in 2024 (roughly that many each year) or more than 100,000 people per month.  *I visualize that statistic as emptying 4 medium sized towns each month*, which makes it a crazy number.  100,000 humans lost to this disease each month is also a reason to communicate with our elected representatives to help them understand the importance of investing in hard science, public health and in the development and delivery of affordable diagnosis and treatment of infectious diseases, especially tuberculosis.  Read this book!  
 
 
 Wikipedia Summary: [wikipedia.org/wiki/Everything_Is_Tuberculosis](https://en.wikipedia.org/wiki/Everything_Is_Tuberculosis)  
