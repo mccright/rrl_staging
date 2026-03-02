@@ -550,6 +550,62 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Timothy_Snyder#Views_on_threats_t
 
 
 
+<details>
+<summary><a name="der_tag_by_j_m_barrie"></a>"Der Tag"; or, The Tragic Man. by J. M. Barrie.   </summary>
+
+### "Der Tag"; or, The Tragic Man  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/39178  
+By [J. M. Barrie](https://en.wikipedia.org/wiki/J._M._Barrie)  (1860 – 1937)  
+
+Reading Notes:  
+
+"Examiner of Plays' Summary" by G. S. Street: https://www.greatwartheatre.org.uk/db/script/172/  
+>A finely impressive work. The chief character is 'the Emperor', who 'is not made up to resemble any real potentate', but is the German Emperor, the political situation being dealt with under the real names of the countries concerned. He is found asleep in a chair, in a bare room, and 'his Chancellor' and 'an officer' enter. They tender him a paper for his signature which shall begin the War. He is partly loth and the Chancellor advances the notorious German illusions about the preoccupation and degeneracy of England and so forth; he also talks about the prospect of France's violation of Belgian neutrality, if Germany refrains - unhistorically, by the way, as we know how long the German plans were laid. The Emperor dismisses them and, left alone, indulges in a megalomaniac soliloquy about his impending conquests. The 'Spirit of Culture' comes and reproaches and convinces him of the wickedness he intends, and when the other return he tears up the paper. They retire; he goes to sleep again and gradually the audience is aware that all has been his dream; when he wakes it is to the reality of the War: Belgian has been devastated [sic], his plans have miscarried. The Spirit of Culture returns and in a moving scene up raids him: ''I have come with this gaping wound in my breast to bid you farewell,' but her last words are 'If God is with the Allies, Germany will not be destroyed' - to which we may all agree provided German is rendered harmless. Perhaps Sir J. Barrie is tenderer to the Kaiser, in spite of the megalomaniac depicted, than most of us believe to be just, but he has a right to his view. It is grateful to find the theme of the War treated with the gravity and dignity it calls for. The tribute to the valour of our army is especially fine.  
+
+
+Project gutenberg summary:  
+> "Der Tag; or, The Tragic Man" by J. M. Barrie is a dramatic play written during the early 20th century, specifically around the time of World War I. The play revolves around the themes of power, responsibility, and the moral dilemmas faced by a ruler. It vividly portrays the moment when an emperor is faced with the decision to sign a declaration of war, examining the weight of his choice against a backdrop of cultural identity and moral conscience. The narrative begins with the Emperor contemplating a crucial decision that would lead Germany into war against France and Russia. As the Emperor grapples with his ambitions and fears, he is visited by the Spirit of Culture, who warns him of the catastrophic consequences of his actions and implores him to reject the war. Despite his initial resolve to maintain peace, the allure of power and glory proves too great, resulting in a tragic realization of the devastation caused by his choices. The play concludes with a haunting reminder of the cost of ambition and the hollow nature of conquest, emphasizing that the Emperor's pursuit of greatness ultimately leads to tragedy, both personally and for his nation. (This is an automatically generated summary.)  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="catholic_church_and_history_by_hilaire_belloc"></a>The Catholic Church and History. by Hilaire Belloc. 1926 </summary>
+
+### The Catholic Church and History.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/78085  
+By [Hilaire Belloc](https://en.wikipedia.org/wiki/Hilaire_Belloc)  (1870 – 1953)  
+
+Reading Notes: ...dropped.  Author's apparent anti-semitism edged out the potential value of continuing the read...  
+
+</details>
+
+
+
+<details>
+<summary><a name="guide_for_the_perplexed_by_moses_maimonides"></a>The guide for the perplexed by Moses Maimonides (12th-century) Translated by M. Friedländer 1881/1910  </summary>
+
+### The Guide For The Perplexed By Moses Maimonides.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/73584  
+By [Moses ben Maimon (commonly known as Maimonides)](https://en.wikipedia.org/wiki/Maimonides) (1135-1204)  
+Translator: [M. Friedländer, (Michael)](https://en.wikipedia.org/wiki/Michael_Friedl%C3%A4nder) (1833-1910)  
+
+Reading Notes:  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Guide_for_the_Perplexed](*https://en.wikipedia.org/wiki/The_Guide_for_the_Perplexed)  
+
+Project gutenberg summary:  
+> "The guide for the perplexed" by Moses Maimonides is a work of Jewish theology written between 1185 and 1190. Originally composed in Judeo-Arabic, it attempts to reconcile Aristotelian philosophy with Jewish theology by finding rational explanations for biblical events and passages. Maimonides addresses educated believers troubled by apparent contradictions between philosophical knowledge and religious texts, particularly focusing on biblical anthropomorphism and the nature of God's incorporeality through careful analysis of Hebrew terms and prophetic figures. (This is an automatically generated summary.)  
+
+
+</details>
+
+
 
 <details>
 <summary><a name=""></a>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson  2022 </summary>
