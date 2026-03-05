@@ -549,8 +549,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Timothy_Snyder#Views_on_threats_t
 </details>
 
 
-
-
 <details>
 <summary><a name=""></a>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson  2022 </summary>
 
