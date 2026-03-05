@@ -350,7 +350,8 @@ Audio:
 eBook: https://www.gutenberg.org/ebooks/78033  
 By [Marcus Knox]()  ( – )  
 
-Reading Notes:   
+Reading Notes: Knox interviewed a woman about her experience in Germany at the start of WWI. This book is his re-telling of that story.  
+At the beginning of July, 1914, a British woman meets her German friends who live in the little town of [Neustadt](https://en.wikipedia.org/wiki/Neustadt_in_Holstein), near [Kiel](https://en.wikipedia.org/wiki/Kiel) in [Holstein](https://en.wikipedia.org/wiki/Holstein) for a holiday.  Later that month (28 July 1914) Austria-Hungary declared war on Serbia. Shortly after that Russia mobilised in Serbia's defence, and Germany declared war on Russia and France. The story covers her experiences as her locality evolves under pressures of a war-time environment, as well as her escape back to England.  
 
 
 </details>
