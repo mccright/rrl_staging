@@ -356,6 +356,53 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="through_russia_by_maksim_gorky"></a>Through Russia. by Maksim Gorky. 1923 </summary>
+
+### Through Russia.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/2288  
+By [Maksim Gorky (Alexei Maximovich Peshkov)](https://en.wikipedia.org/wiki/Maxim_Gorky)  (1868 - 1936)  
+Translator 	[C. J. Hogarth (Charles James)](https://en.wikipedia.org/wiki/C._J._Hogarth)  (1869 - 1945)  
+
+Reading Notes: At the time of this volume's publication in 1923, I think that Gorky (37) had already mastered his craft. In these short stories he explores some of the hardship, struggle, absurdity, class-defined regidity and human resilience via the characters that populate them.  
+
+* [The Birth Of A Man](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#birth)  
+* [The Icebreaker](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#icebreaker)  
+* [Gubin](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#gubin)  
+* [Nilushka](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#nilushka)  
+* [The Cemetery](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#cemetery)  
+* [On A River Steamer](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#steamer)  
+* [A Woman](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#woman)  
+* [In A Mountain Defile](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#mountain)  
+* [Kalinin](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#kalinin)  
+* [The Dead Man](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#deadman)  
+
+Project Gutenberg automatically generated [Summary](https://www.gutenberg.org/ebooks/22046):  
+>"Through Russia" by Maksim Gorky is a collection of narratives written during the late 19th century that spans across various themes of human experience and social reality in Russia. The work provides insights into the lives and struggles of ordinary people against the backdrop of immense natural beauty and hardship, with a focus on the plight of the impoverished. The narratives unfold through vivid character portrayals, including a young woman in labor, showcasing resilience in the face of adversity. The opening of "Through Russia" elaborates on the rich landscape where the story begins, painting a picture of autumn in the Caucasus as the narrator reflects on life, beauty, and human struggle. He encounters a group of displaced "famine people" and is drawn into the suffering of a pregnant woman amidst the wilderness. As he aids her through childbirth along the river, the scene captures the rawness and transformative nature of human experiences. This early segment sets the tone for the collection, establishing themes of compassion and interconnectedness, while also hinting at the socio-economic challenges faced by the characters within a larger, often unforgiving societal framework.
+
+</details>
+
+
+
+<details>
+<summary><a name="maxim_gorki_by_hans_ostwald"></a>Maxim Gorki. by Hans Ostwald. 1905 </summary>
+
+### Maxim Gorki.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/22046  
+By [Hans Ostwald](https://www.oboluspress.com/product/ostwald/)  (1873 - 1940)  
+Translator [Frances A. Welby (Frances Alice)]()  (1862 - 1947)  
+
+Reading Notes:   
+
+Project Gutenberg automatically generated [Summary](https://www.gutenberg.org/ebooks/22046):  
+>"Maxim Gorki" by Hans Ostwald is a literary biography written in the early 20th century. The book explores the life and works of the prominent Russian author [Maksim Gorky (Alexei Maximovich Peshkov)](https://en.wikipedia.org/wiki/Maxim_Gorky), whose writing embodies the struggles of the lower classes in Russian society. Ostwald provides insights into Gorky’s rise from his humble beginnings to becoming a celebrated figure in literature, highlighting the social and cultural context of his time. The narrative delves into Gorky's childhood, marked by hardship and loss, which laid the foundation for his later literary themes of poverty and resilience. It discusses his early struggles as he navigated life as a vagrant and factory worker before eventually finding his voice as a writer. The book also analyzes Gorky’s literary contributions, including his unique portrayal of marginalized figures, and examines the impact of his liberating ideals on Russian literature and society. Ostwald presents Gorky as a pivotal figure in the modern literary movement, advocating for a deeper understanding of humanity through the lens of the downtrodden and disenfranchised.  
+
+</details>
+
+
+
 
 
 <details>
