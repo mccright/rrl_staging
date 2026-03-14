@@ -5545,6 +5545,28 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
+
+### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
+Audio: https://www.overdrive.com/media/6435021/vanderbilt  
+eBook: https://www.overdrive.com/media/5979076/vanderbilt  
+By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
+
+Reading Notes:   
+
+[Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
+[Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
+[Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
+[Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
+[William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
+[William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
+[William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
+[Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
+
+</details>
+
+
 
 
 
