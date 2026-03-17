@@ -5553,16 +5553,39 @@ Audio: https://www.overdrive.com/media/6435021/vanderbilt
 eBook: https://www.overdrive.com/media/5979076/vanderbilt  
 By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
 
-Reading Notes:   
+Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  
 
-[Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
-[Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
-[Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
-[Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
-[William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
-[William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
-[William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
-[Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
+* [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
+* [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
+* [Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
+* [Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
+* [Alice Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Alice_Claypoole_Vanderbilt)  
+* [William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
+* [William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
+* [William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
+* [Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
+* [Gertrude Vanderbilt Whitney](https://en.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney) sculptor, art patron and collector, and founder of the Whitney Museum of American Art, and in 1934 won custody of ten-year-old niece, Gloria Vanderbilt Gloria Vanderbilt and control over her trust fund  
+* [Reginald Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Reginald_Claypoole_Vanderbilt) married [Gloria Morgan](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) when she was 18 years old and he was old enough to be her father, and then died when daughter [Gloria](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) was only 1-year-old  
+* [Gloria Morgan Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) found to be an unfit mother at a trial for custody of her 10-year-old daughter Gloria  
+* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) *millionaire toddler* and author Anderson Cooper's mother  
+* [Truman Capote](https://en.wikipedia.org/wiki/Gloria_Vanderbilt)  
+* [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  
+
+
+</details>
+
+
+<details>
+<summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. </summary>
+
+### Frontier Ballads. (5:02)  
+Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
+eBook: https://www.gutenberg.org/ebooks/45240  
+By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
+
+Reading Notes:  
+
+Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
 
 </details>
 
@@ -6478,21 +6501,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name=""></a>Frontier Ballads. By Joseph Mills Hanson. </summary>
-
-### Frontier Ballads. (5:02)  
-Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
-eBook: https://www.gutenberg.org/ebooks/45240  
-By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and  his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
-
-Reading Notes:  
-
-Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
-
-</details>
 
 
 
