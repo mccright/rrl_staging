@@ -5553,7 +5553,7 @@ Audio: https://www.overdrive.com/media/6435021/vanderbilt
 eBook: https://www.overdrive.com/media/5979076/vanderbilt  
 By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
 
-Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  
+Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  Some of the main characters include:  
 
 * [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
 * [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
@@ -5584,6 +5584,39 @@ eBook: https://www.gutenberg.org/ebooks/45240
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
 Reading Notes:  
+
+#### Songs/Poetry:  
+**MY CREED**  
+**I. SOLDIER SONGS**  
+* Dakota Militia 
+* The Girl Of The Yankton Stockade  
+* The Ballad Of Sergeant Ross  
+* The Springfield Calibre Fifty  
+* A Garrison Christmas  
+* Troop Horses  
+* A Khaki Kick  
+* Sergeant Noonan Explains  
+* Laramie Trail  
+
+**II. PRAIRIE SONGS**  
+* The Call Of The Wind  
+* The Fur Traders  
+* Cowboy Song  
+* Christmas Eve At Kimball  
+* A Lament  
+* Jesus Garcia  
+* A Christmas Letter  
+* The Coyoteville Peace Meeting  
+* The Song Of The Winchester  
+* Prairie Fire  
+
+**III. RIVER SONGS**  
+* The Missouri  
+* The Old Carry  
+* Jake Dale  
+* The Engineer Of The "Golden Hind"  
+* The "Pauline"  
+* Afterglow  
 
 Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
 
