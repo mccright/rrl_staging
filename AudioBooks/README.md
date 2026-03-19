@@ -6616,8 +6616,11 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 <details>
-<summary>See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):</summary>
+<summary>Work through the MurderBot Diaries series. 2018 through today. </summary>
 
+### The MurderBot Diaries  
+
+See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
 * [Artificial Condition](https://www.overdrive.com/media/3954857/artificial-condition)   (May 8, 2018) -- Done  
 * [Rogue Protocol](https://www.overdrive.com/media/4200634/rogue-protocol)         (August 7, 2018) -- Done  
 * [Exit Strategy](https://www.overdrive.com/media/4294677/exit-strategy)          (October 2, 2018) -- Done  
@@ -6629,7 +6632,7 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 <details>
-<summary><a name=""></a>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
+<summary><a name="making_of_the_atomic_bomb_25th_by_richard_rhodes"></a>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
 
 ### Making of the Atomic Bomb.  
 Audio: https://www.overdrive.com/media/657572/making-of-the-atomic-bomb  
@@ -6658,7 +6661,7 @@ or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (
 
 
 <details>
-<summary><a name=""></a>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
+<summary><a name="the_re_creation_of_brian_kent_by_harold_bell_wright"></a>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
 
 ### The Re-creation of Brian Kent. (7:36)  
 Audio: https://librivox.org/the-re-creation-of-brian-kent-by-harold-bell-wright/  
@@ -6745,7 +6748,7 @@ OverDrive Summary:
 
 
 <details>
-<summary><a name=""></a>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
+<summary><a name="the_hunter_by_tana_french"></a>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
 
 ### The Hunter -- A Novel · Cal Hooper. ()  
 Audio: https://www.overdrive.com/media/9951409/the-hunter  
@@ -6793,8 +6796,6 @@ OverDrive [Summary](https://www.overdrive.com/media/9790834/deep-freeze):
 </details>
 
 
-
-  
 <details>
 <summary><a name=""></a>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
 
@@ -6894,12 +6895,10 @@ historical romance
 </details>
 
 
-<a name="mars_series"></a>
-
 <details>
-<summary>Also, look at and pick one of these SiFi novels... </summary>
+<summary><a name="mars_series"></a>Also, look at and pick one of these SiFi novels... </summary>
 
-Mars Series by Kim Stanley Robinson  
+**Mars Series** by Kim Stanley Robinson:  
 Red Mars.  2000  
 (Mars Series, Book 1)  
 https://www.overdrive.com/media/2902090/red-mars  
@@ -6913,6 +6912,7 @@ Blue Mars. 2002
 https://www.overdrive.com/media/2674467/blue-mars  
 
 
+**The Final Architecture Series** by Adrian Tchaikovsky:  
 Shards of Earth.  By Adrian Tchaikovsky.  2021  
 (part of "The Final Architecture" series)  
 https://www.overdrive.com/media/5715429/shards-of-earth  
@@ -6924,6 +6924,8 @@ Eyes of the Void.  By Adrian Tchaikovsky.  2022
 https://www.overdrive.com/media/6663885/eyes-of-the-void  
 By Adrian Tchaikovsky  
 
+
+**The Protectorate Series** by Megan E. O'Keefe:  
 The Blighted Stars. By Megan E. O'Keefe  
 https://www.goodreads.com/book/show/58340705-the-blighted-stars  
 
@@ -6940,6 +6942,7 @@ Catalyst Gate. By Megan E. O'Keefe  2021
 (part of "The Protectorate" series)  
 https://www.overdrive.com/media/5826946/catalyst-gate  
 https://www.goodreads.com/book/show/55836835-catalyst-gate  
+
 
 Eversion.  By Alastair Reynolds  
 https://www.goodreads.com/book/show/58727132-eversion  
@@ -6958,10 +6961,12 @@ Saturn Run.  By John Sandford, Ctein.  2015
 (17:00)  
 
 Burning Paradise. By Robert Charles Wilson. 2013  
-(12:00)  
+https://www.overdrive.com/media/1425212/burning-paradise  (12:00)  
+https://www.overdrive.com/media/1330912/burning-paradise  
 
 A Murder in Time. By Julie McElwain.  2016  
-(19:00)  
+https://www.overdrive.com/media/3177108/a-murder-in-time  (19:00)  
+https://www.overdrive.com/media/2632520/a-murder-in-time  
 
 The Lost Apothecary: A Novel. By Sarah Penner. 2021  
 (10:18)  
@@ -6973,10 +6978,10 @@ Ebook: https://www.overdrive.com/media/5428480/the-lost-apothecary
 
 
 <details>
-<summary><a name=""></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
+<summary><a name="collected_works_of_saint_patrick_by_saint_patrick"></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
 
 ### Collected Works of Saint Patrick. (01:01)  
-https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
+Audio: https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
 Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
 By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
 
@@ -7009,14 +7014,17 @@ By the [United States House of Representatives](https://en.wikipedia.org/wiki/Un
 Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov  
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
+* As I write this in March 2026 Trump continues his efforts to sow chaos by claiming (*without any evidence, but with a galaxy of lies*) that the 2020 presidential election was stolen from him...  
+
+
 </details>
 
 
 <details>
-<summary><a name=""></a>The Seven Stairs.  1962 </summary>  
+<summary><a name="the_seven_stairs_by_stuart_brent"></a>The Seven Stairs. by Stuart Brent. 1962 </summary>  
 
 ### The Seven Stairs.  (7:13)  
-https://librivox.org/the-seven-stairs-by-stuart-brent/  
+Audio: https://librivox.org/the-seven-stairs-by-stuart-brent/  
 Text: https://www.gutenberg.org/ebooks/69175  
 By [Stuart Brent](https://stuartbrent.com/pages/about-stuart-and-the-brent-family) (1912 - 2010)  
 
@@ -7128,15 +7136,16 @@ Summary from Librivox:
 
 </details>
 
+
 <details><summary><a name=""></a>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
 ### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
-https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
+Audio: https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
 By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 
 </details>
 
-</details>
+
 
 <details><summary>Recommended Books 2000 - 2010. By Francine Prose, Washington Post.  2022</summary>
 
