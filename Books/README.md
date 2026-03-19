@@ -506,27 +506,40 @@ By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 �
 
 Reading Notes: climax around 2067  
 Main Characters:  
-Lauren Oya Olamina Bankole (*Olamina*) (established a community -- Acorn -- and a new belief system -- Earthseed -- emphasizing community, that change and adaptability are core to humanity, and that humanity's destiny is "*in the stars*")  
-Taylor Franklin Bankole (Married Olamina when he was 57 and she was 18)  
-Larkin Olamina (*Asha Vere Alexander*) (daughter of *Olamina* and Taylor Bankole, adopted by a family in Seattle, eventually pursues a Ph.D. in history, )  
-Marcus “Marc” Duran (*Olamina's* brother, physically attractive and charismatic, participated in the Christian America movement, seeking to bring order to society via structure and control,)  
-Texas Senator Andrew Steele Jarret, later President. 
+* Lauren Oya Olamina Bankole (*Olamina*) (established a community -- Acorn -- and a new belief system -- Earthseed -- emphasizing community, that change and adaptability are core to humanity, and that humanity's destiny is "*in the stars*")  
+* Taylor Franklin Bankole (Married Olamina when he was 57 and she was 18)  
+* Larkin Olamina (*Asha Vere Alexander*) (daughter of *Olamina* and Taylor Bankole, adopted by a family in Seattle, eventually pursues a Ph.D. in history, )  
+* Marcus “Marc” Duran (*Olamina's* brother, physically attractive and charismatic, participated in the Christian America movement, seeking to bring order to society via structure and control,)  
+* Texas Senator Andrew Steele Jarret, later President. 
 
 ...hyperempathy syndrome...  
 
+The religion central to this story is "Earthseed."  Dr. Taylor Franklin Bankole described Earthseed as "a belief system that she (*Olamina*) herself created -- or, as she says, a network of truths that she has simply recognized."  [quoted from page 45]  He continues, "Olamina believes in a god that does not in the least love her.  In fact, her god is a process or a combination of processes, not an entity.  It is not consciously aware of her -- or of anything.  It is not conscious at all.  "God is Change," she says and means it. Some of the faces of her god are biological evolution, chaos theory, relativity theory, the uncertainty principle, and, of course, the second law of thermodynamics.  "God is change, and, in the end, God prevails."  [quoted from page 46, see page 46 for an extended definition of Earthseed]  
+
 >Consider -- We are born Not with Purpose But with potential.  [quoted from page 1]  
+
 >The words are harmless, I suppose, and metaphorically true.  At least she began with some species of truth.  [quoted from page 3]  
-*written in 2032*: The period of upheaval called...  
+*written in 2067*: The period of upheaval called...  
+
 >"the Apocalypse" or more commonly, more bitterly, "the Pox" lasted from 2015 through 2030 -- a decase and a half of chaos.  This is untrue.  The Pox has been a much llonger torment.  Tt began well before 2015, perhaps even before the turn of the millennium. It has not ended. [quoted from pages 7-8]  
+
 >I have also read that the Pox was caused by accidentally coinciding climatic, economic, and sociological crises.  It would be more honest to say that the Pox was caused by our own refusal to deal with obvious problems in those areas.  We caused the problems: then we sat and watched as they grew into crises.  I have heard people deny this, but I was born in 1970.  I have seen enough to know that it is true.  I have watched education become more a privilege of the rich than the basic necessity that it must be if a civilized society is to survive.  I have watched as convenience, profit, and inertia excused greater and more dangerous environmental degradation.  I have watched poverty, hunger and disease become inevitable for more and more people.  [quoted from page 8]  
+
 >Overall, the Pox has had the effect of an installment-plan World War III.  In fact, there were several small, bloody shooting wars going on around the world during the Pox.  These were stupid affairs -- wastes of life and treasure.  They were fought, ostensibly, to defend against vicious foreign enemies.  All too often, they were actually fought because inadequate leaders did not know what else to do.  Such leaders knew that they could depend on fear, suspicion, hatred, need and greed to arouse patriotic support for war.  [quoted from page 8]  
+
 >Amid all this, somehow, the United States of America suffered a major nonmilitary defeat.  It lost no important war, yet it did not survive the Pox.  Perhaps it simply lost sight of what it once intended to be, then blundered aimlessly until it exhausted itself.  [quoted from page 8]  
+
 >His mistake was seeing her as a young girl.  She was already a missle, armed and targeted.  [quoted from page 9]  
+
 >Jarret insists on being a throwback to some earlier, "simpler" time.  *Now* does not suit him. Religious tolerance does not suit him.  The current state of the country does not suit him. He wants to take us all back to some magical time when everyone believed in the same God, worshipped him in the same way, and understood that their safety in the universe depended on completing the same religious rituals and stomping anyone who was different.  There was never such a time in this country.  But these days when more than half the people in the country can't read at all, history is just one more vast unknown to them.  [quoted from page 19]  
+
 >Jarret supporters have been known, now and then, to form mobs and burn people at the stake for being witches.  Witches! in 2032! [*Moslems, Jews, Hindus, Buddhists, Mormons, Jehovah's Witnesses, Catholics, Unitarians, well-to-do eccentrics or "cultists"*]. Jarret condemns the burnings, but does so in such mild language that his people are free to hear what they want to hear. As for the beatings, the tarring and feathering, and the destruction of "heathen houses of devil-worship," he has a simple answer: "Join us! Our doors are open to every nationality, every race! Leave your sinful past behind, and become on of us. Help make America great again." He's had notable success with this carrot-and-stick approach.  *join us and thrive, or whatever happens to you as a result of your own sinful stubbornness is your problem*.  [quoted from pages 19-20]  
+
 >Jarret's supporters are more than a little seduced by Jarret's talk of making America great again.  He seems to be unhappy with certain other countries. We could wind up in a war. Nothing like a war to rally people around flag, country, and great leader.  [quoted from pages 25-26]  
 >He's a good guy, Ramiro is, but he's desperate for solutions, for order and stability... "Think, Ramiro," I said. "Jarret doesn't have any answers! How will lynching people, burning their churches, and starting wars help your kids to live? Ramiro Peralta only turned away from me in anger.  He and Alan Faircloth looked across the Gathering room -- the school room -- at one another.  They're both afraid.  They look at their children -- Alan has four kids, too -- and they're afraid and ashamed of their fear, ashamed of their powerlessness.  And they're tired.  There are millions of people like them -- people who are frightened and just plain tired of all the chaos.  They want someone to do something.  Fix things. Now!  [quoted from page 26]  
+
 >Peace is dangerous because it encourages complancency and carelessness -- which also kills sooner or later.  [quoted from page 27]  
+
 >Indenturing indigents, young and old, is much in fashion now.  [quoted from page 40]  
 
 
