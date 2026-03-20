@@ -5576,6 +5576,42 @@ Reading Notes: An interesting narrative about how generations of Vanderbilts tre
 
 
 <details>
+<summary><a name="the_dog_stars_by_peter_heller"></a>The Dog Stars. By Peter Heller. 2012  </summary>
+
+### The Dog Stars. (  
+Audio: https://www.overdrive.com/media/705922/the-dog-stars  
+eBook: https://www.overdrive.com/media/773400/the-dog-stars  
+By [Peter Heller](https://dartmouthalumnimagazine.com/articles/peter-heller-82) and 0n [Wikipedia](https://en.wikipedia.org/wiki/Peter_Heller_(writer)) (1960 – )  
+
+Reading Notes:   
+
+OverDrive Summary:  
+>“Hig flies a 1956 Cessna (his dog as copilot) around what was once Colorado, chasing all the same things we chase in these pre-annihilation days: love, friendship, the solace of the natural world, and the chance to perform some small kindness. The Dog Stars is a wholly compelling and deeply engaging debut.” — Pam Houston, author of Contents May Have Shifted.  A riveting, powerful novel about a pilot living in a world filled with loss—and what he is willing to risk to rediscover, against all odds, connection, love, and grace.  Hig survived the flu that killed everyone he knows. His wife is gone, his friends are dead, he lives in the hangar of a small abandoned airport with his dog, his only neighbor a gun-toting misanthrope. In his 1956 Cessna, Hig flies the perimeter of the airfield or sneaks off to the mountains to fish and to pretend that things are the way they used to be. But when a random transmission somehow beams through his radio, the voice ignites a hope deep inside him that a better life—something like his old life—exists beyond the airport. Risking everything, he flies past his point of no return—not enough fuel to get him home—following the trail of the static-broken voice on the radio. But what he encounters and what he must face—in the people he meets, and in himself—is both better and worse than anything he could have hoped for.  Narrated by a man who is part warrior and part dreamer, a hunter with a great shot and a heart that refuses to harden, The Dog Stars is both savagely funny and achingly sad, a breathtaking story about what it means to be human.  
+
+
+</details>
+
+
+<details>
+<summary><a name="project_hail_mary_by_andy_weir"></a>Project Hail Mary. By Andy Weir. 2021  </summary>
+
+### Project Hail Mary  
+Audio: https://www.overdrive.com/media/11918527/project-hail-mary  
+eBook: https://www.overdrive.com/media/5665700/project-hail-mary  
+By [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir)  (1972 – )  
+
+Reading Notes:   
+
+OverDrive Summary:  
+>Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.  Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.  All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.  His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.  And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.  Or does he?  An irresistible interstellar adventure as only Andy Weir could deliver, Project Hail Mary is a tale of discovery, speculation, and survival to rival The Martian—while taking us to places it never dreamed of going.  
+
+
+</details>
+
+
+
+
+<details>
 <summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
 ### Frontier Ballads. (5:02)  
