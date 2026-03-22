@@ -5602,6 +5602,9 @@ By [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir)  (1972 – )
 
 Reading Notes:   
 
+"Andy Weir on Writing the Hit Book Behind the Movie ‘Project Hail Mary.’" in "[The book review podcast](https://www.nytimes.com/column/book-review-podcast)" (NYT): [nytimes.com/.../podcasts/andy-weir-hail-mary](https://www.nytimes.com/2026/03/20/podcasts/andy-weir-hail-mary.html)  
+"A ‘Hail Mary’ for Earth, Built on Solid Science." by [Katrina Miller](https://katrinamillerphd.com/#about) *also KM [here](https://students.aip.org/observer/katrina-miller-from-the-physics-lab-to-the-new-york-times-science-desk)* and [here](https://www.nytimes.com/2024/07/14/insider/space-reporting.html): [nytimes.com/.../science/hail-mary-andy-weir.html](https://www.nytimes.com/2026/03/18/science/hail-mary-andy-weir.html)  
+
 OverDrive Summary:  
 >Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.  Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.  All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.  His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.  And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.  Or does he?  An irresistible interstellar adventure as only Andy Weir could deliver, Project Hail Mary is a tale of discovery, speculation, and survival to rival The Martian—while taking us to places it never dreamed of going.  
 
@@ -5619,7 +5622,7 @@ Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](htt
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
-Reading Notes:  
+Reading Notes:  "Soldier Songs" section is about military "action" against Native Americans and may offend many.  
 
 #### Songs/Poetry:  
 **MY CREED**  
