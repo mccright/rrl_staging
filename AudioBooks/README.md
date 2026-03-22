@@ -5298,7 +5298,37 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
-<details><summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+<details>
+<summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
+
+### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
+Audio: https://www.overdrive.com/media/6435021/vanderbilt  
+eBook: https://www.overdrive.com/media/5979076/vanderbilt  
+By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
+
+Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  Some of the main characters include:  
+
+* [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
+* [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
+* [Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
+* [Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
+* [Alice Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Alice_Claypoole_Vanderbilt)  
+* [William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
+* [William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
+* [William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
+* [Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
+* [Gertrude Vanderbilt Whitney](https://en.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney) sculptor, art patron and collector, and founder of the Whitney Museum of American Art, and in 1934 won custody of ten-year-old niece, Gloria Vanderbilt Gloria Vanderbilt and control over her trust fund  
+* [Reginald Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Reginald_Claypoole_Vanderbilt) married [Gloria Morgan](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) when she was 18 years old and he was old enough to be her father, and then died when daughter [Gloria](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) was only 1-year-old  
+* [Gloria Morgan Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) found to be an unfit mother at a trial for custody of her 10-year-old daughter Gloria  
+* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) *millionaire toddler* and author Anderson Cooper's mother  
+* [Truman Capote](https://en.wikipedia.org/wiki/Gloria_Vanderbilt)  
+* [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  
+
+
+</details>
+
+
+<details><summary><a name="veronica_ruiz_breaks_the_bank_by_elle_cosimano"></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
 Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
@@ -5311,7 +5341,7 @@ Reading Notes: This is a light, quick story about a young down-on-her-luck woman
 
 
 
-<details><summary>Victory.  By Lester del Rey.  1955 </summary>
+<details><summary><a name="victory_by_lester_del_rey"></a>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
@@ -5546,36 +5576,6 @@ Reading Notes:
 
 
 <details>
-<summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
-
-### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
-Audio: https://www.overdrive.com/media/6435021/vanderbilt  
-eBook: https://www.overdrive.com/media/5979076/vanderbilt  
-By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
-
-Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  Some of the main characters include:  
-
-* [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
-* [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
-* [Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
-* [Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
-* [Alice Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Alice_Claypoole_Vanderbilt)  
-* [William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
-* [William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
-* [William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
-* [Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
-* [Gertrude Vanderbilt Whitney](https://en.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney) sculptor, art patron and collector, and founder of the Whitney Museum of American Art, and in 1934 won custody of ten-year-old niece, Gloria Vanderbilt Gloria Vanderbilt and control over her trust fund  
-* [Reginald Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Reginald_Claypoole_Vanderbilt) married [Gloria Morgan](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) when she was 18 years old and he was old enough to be her father, and then died when daughter [Gloria](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) was only 1-year-old  
-* [Gloria Morgan Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) found to be an unfit mother at a trial for custody of her 10-year-old daughter Gloria  
-* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) *millionaire toddler* and author Anderson Cooper's mother  
-* [Truman Capote](https://en.wikipedia.org/wiki/Gloria_Vanderbilt)  
-* [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  
-
-
-</details>
-
-
-<details>
 <summary><a name="the_dog_stars_by_peter_heller"></a>The Dog Stars. By Peter Heller. 2012  </summary>
 
 ### The Dog Stars. (  
@@ -5615,14 +5615,15 @@ OverDrive Summary:
 
 
 <details>
-<summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. </summary>
+<summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. 1910 </summary>
 
 ### Frontier Ballads. (5:02)  
 Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
-Reading Notes:  "Soldier Songs" section is about military "action" against Native Americans and may offend many.  
+Reading Notes:  This poetry was written in a time long before the Internet and social media, and appears to target readers (*and maybe listeners*) having attention spans less common today.  In that context, though, there are some clever and sometimes unexpected rhymes and word-play which might make this useful and entertaining for some.  
+"Soldier Songs" section employs a mix of heroic, romantic and *realistic* descriptive imagery as it describes soldier's experiences on the northern plains.  It often focuses on military "action" against Native Americans *rationalized* using the vocabulary of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny). It uses language and describes activities that may offend many.  
 
 #### Songs/Poetry:  
 **MY CREED**  
@@ -5643,7 +5644,7 @@ Reading Notes:  "Soldier Songs" section is about military "action" against Nativ
 * Cowboy Song  
 * Christmas Eve At Kimball  
 * A Lament  
-* Jesus Garcia  
+* Jesus Garcia (*the engineer*)  
 * A Christmas Letter  
 * The Coyoteville Peace Meeting  
 * The Song Of The Winchester  
