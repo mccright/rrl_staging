@@ -5298,8 +5298,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
-<details>
-<summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
+<details><summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
 
 ### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
 Audio: https://www.overdrive.com/media/6435021/vanderbilt  
