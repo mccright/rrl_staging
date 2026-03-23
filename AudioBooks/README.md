@@ -5298,7 +5298,36 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
-<details><summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+<details><summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
+
+### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
+Audio: https://www.overdrive.com/media/6435021/vanderbilt  
+eBook: https://www.overdrive.com/media/5979076/vanderbilt  
+By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
+
+Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  Some of the main characters include:  
+
+* [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
+* [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
+* [Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
+* [Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
+* [Alice Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Alice_Claypoole_Vanderbilt)  
+* [William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
+* [William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
+* [William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
+* [Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
+* [Gertrude Vanderbilt Whitney](https://en.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney) sculptor, art patron and collector, and founder of the Whitney Museum of American Art, and in 1934 won custody of ten-year-old niece, Gloria Vanderbilt Gloria Vanderbilt and control over her trust fund  
+* [Reginald Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Reginald_Claypoole_Vanderbilt) married [Gloria Morgan](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) when she was 18 years old and he was old enough to be her father, and then died when daughter [Gloria](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) was only 1-year-old  
+* [Gloria Morgan Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) found to be an unfit mother at a trial for custody of her 10-year-old daughter Gloria  
+* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) *millionaire toddler* and author Anderson Cooper's mother  
+* [Truman Capote](https://en.wikipedia.org/wiki/Gloria_Vanderbilt)  
+* [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  
+
+
+</details>
+
+
+<details><summary><a name="veronica_ruiz_breaks_the_bank_by_elle_cosimano"></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
 Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
@@ -5311,7 +5340,7 @@ Reading Notes: This is a light, quick story about a young down-on-her-luck woman
 
 
 
-<details><summary>Victory.  By Lester del Rey.  1955 </summary>
+<details><summary><a name="victory_by_lester_del_rey"></a>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
@@ -5546,44 +5575,87 @@ Reading Notes:
 
 
 <details>
-<summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
+<summary><a name="the_dog_stars_by_peter_heller"></a>The Dog Stars. By Peter Heller. 2012  </summary>
 
-### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
-Audio: https://www.overdrive.com/media/6435021/vanderbilt  
-eBook: https://www.overdrive.com/media/5979076/vanderbilt  
-By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
+### The Dog Stars. (  
+Audio: https://www.overdrive.com/media/705922/the-dog-stars  
+eBook: https://www.overdrive.com/media/773400/the-dog-stars  
+By [Peter Heller](https://dartmouthalumnimagazine.com/articles/peter-heller-82) and 0n [Wikipedia](https://en.wikipedia.org/wiki/Peter_Heller_(writer)) (1960 – )  
 
-Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  
+Reading Notes:   
 
-* [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
-* [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
-* [Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
-* [Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
-* [Alice Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Alice_Claypoole_Vanderbilt)  
-* [William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
-* [William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
-* [William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
-* [Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
-* [Gertrude Vanderbilt Whitney](https://en.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney) sculptor, art patron and collector, and founder of the Whitney Museum of American Art, and in 1934 won custody of ten-year-old niece, Gloria Vanderbilt Gloria Vanderbilt and control over her trust fund  
-* [Reginald Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Reginald_Claypoole_Vanderbilt) married [Gloria Morgan](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) when she was 18 years old and he was old enough to be her father, and then died when daughter [Gloria](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) was only 1-year-old  
-* [Gloria Morgan Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) found to be an unfit mother at a trial for custody of her 10-year-old daughter Gloria  
-* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) *millionaire toddler* and author Anderson Cooper's mother  
-* [Truman Capote](https://en.wikipedia.org/wiki/Gloria_Vanderbilt)  
-* [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  
+OverDrive Summary:  
+>“Hig flies a 1956 Cessna (his dog as copilot) around what was once Colorado, chasing all the same things we chase in these pre-annihilation days: love, friendship, the solace of the natural world, and the chance to perform some small kindness. The Dog Stars is a wholly compelling and deeply engaging debut.” — Pam Houston, author of Contents May Have Shifted.  A riveting, powerful novel about a pilot living in a world filled with loss—and what he is willing to risk to rediscover, against all odds, connection, love, and grace.  Hig survived the flu that killed everyone he knows. His wife is gone, his friends are dead, he lives in the hangar of a small abandoned airport with his dog, his only neighbor a gun-toting misanthrope. In his 1956 Cessna, Hig flies the perimeter of the airfield or sneaks off to the mountains to fish and to pretend that things are the way they used to be. But when a random transmission somehow beams through his radio, the voice ignites a hope deep inside him that a better life—something like his old life—exists beyond the airport. Risking everything, he flies past his point of no return—not enough fuel to get him home—following the trail of the static-broken voice on the radio. But what he encounters and what he must face—in the people he meets, and in himself—is both better and worse than anything he could have hoped for.  Narrated by a man who is part warrior and part dreamer, a hunter with a great shot and a heart that refuses to harden, The Dog Stars is both savagely funny and achingly sad, a breathtaking story about what it means to be human.  
 
 
 </details>
 
 
 <details>
-<summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. </summary>
+<summary><a name="project_hail_mary_by_andy_weir"></a>Project Hail Mary. By Andy Weir. 2021  </summary>
+
+### Project Hail Mary  
+Audio: https://www.overdrive.com/media/11918527/project-hail-mary  
+eBook: https://www.overdrive.com/media/5665700/project-hail-mary  
+By [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir)  (1972 – )  
+
+Reading Notes:   
+
+"Andy Weir on Writing the Hit Book Behind the Movie ‘Project Hail Mary.’" in "[The book review podcast](https://www.nytimes.com/column/book-review-podcast)" (NYT): [nytimes.com/.../podcasts/andy-weir-hail-mary](https://www.nytimes.com/2026/03/20/podcasts/andy-weir-hail-mary.html)  
+"A ‘Hail Mary’ for Earth, Built on Solid Science." by [Katrina Miller](https://katrinamillerphd.com/#about) *also KM [here](https://students.aip.org/observer/katrina-miller-from-the-physics-lab-to-the-new-york-times-science-desk)* and [here](https://www.nytimes.com/2024/07/14/insider/space-reporting.html): [nytimes.com/.../science/hail-mary-andy-weir.html](https://www.nytimes.com/2026/03/18/science/hail-mary-andy-weir.html)  
+
+OverDrive Summary:  
+>Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.  Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.  All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.  His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.  And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.  Or does he?  An irresistible interstellar adventure as only Andy Weir could deliver, Project Hail Mary is a tale of discovery, speculation, and survival to rival The Martian—while taking us to places it never dreamed of going.  
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. 1910 </summary>
 
 ### Frontier Ballads. (5:02)  
 Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
-Reading Notes:  
+Reading Notes:  This poetry was written in a time long before the Internet and social media, and appears to target readers (*and maybe listeners*) having attention spans less common today.  In that context, though, there are some clever and sometimes unexpected rhymes and word-play which might make this useful and entertaining for some.  
+"Soldier Songs" section employs a mix of heroic, romantic and *realistic* descriptive imagery as it describes soldier's experiences on the northern plains.  It often focuses on military "action" against Native Americans *rationalized* using the vocabulary of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny). It uses language and describes activities that may offend many.  
+
+#### Songs/Poetry:  
+**MY CREED**  
+**I. SOLDIER SONGS**  
+* Dakota Militia 
+* The Girl Of The Yankton Stockade  
+* The Ballad Of Sergeant Ross  
+* The Springfield Calibre Fifty  
+* A Garrison Christmas  
+* Troop Horses  
+* A Khaki Kick  
+* Sergeant Noonan Explains  
+* Laramie Trail  
+
+**II. PRAIRIE SONGS**  
+* The Call Of The Wind  
+* The Fur Traders  
+* Cowboy Song  
+* Christmas Eve At Kimball  
+* A Lament  
+* Jesus Garcia (*the engineer*)  
+* A Christmas Letter  
+* The Coyoteville Peace Meeting  
+* The Song Of The Winchester  
+* Prairie Fire  
+
+**III. RIVER SONGS**  
+* The Missouri  
+* The Old Carry  
+* Jake Dale  
+* The Engineer Of The "Golden Hind"  
+* The "Pauline"  
+* Afterglow  
 
 Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
 
@@ -6583,8 +6655,11 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 <details>
-<summary>See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):</summary>
+<summary>Work through the MurderBot Diaries series. 2018 through today. </summary>
 
+### The MurderBot Diaries  
+
+See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
 * [Artificial Condition](https://www.overdrive.com/media/3954857/artificial-condition)   (May 8, 2018) -- Done  
 * [Rogue Protocol](https://www.overdrive.com/media/4200634/rogue-protocol)         (August 7, 2018) -- Done  
 * [Exit Strategy](https://www.overdrive.com/media/4294677/exit-strategy)          (October 2, 2018) -- Done  
@@ -6596,7 +6671,7 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 <details>
-<summary><a name=""></a>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
+<summary><a name="making_of_the_atomic_bomb_25th_by_richard_rhodes"></a>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
 
 ### Making of the Atomic Bomb.  
 Audio: https://www.overdrive.com/media/657572/making-of-the-atomic-bomb  
@@ -6625,7 +6700,7 @@ or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (
 
 
 <details>
-<summary><a name=""></a>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
+<summary><a name="the_re_creation_of_brian_kent_by_harold_bell_wright"></a>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
 
 ### The Re-creation of Brian Kent. (7:36)  
 Audio: https://librivox.org/the-re-creation-of-brian-kent-by-harold-bell-wright/  
@@ -6712,7 +6787,7 @@ OverDrive Summary:
 
 
 <details>
-<summary><a name=""></a>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
+<summary><a name="the_hunter_by_tana_french"></a>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
 
 ### The Hunter -- A Novel · Cal Hooper. ()  
 Audio: https://www.overdrive.com/media/9951409/the-hunter  
@@ -6760,8 +6835,6 @@ OverDrive [Summary](https://www.overdrive.com/media/9790834/deep-freeze):
 </details>
 
 
-
-  
 <details>
 <summary><a name=""></a>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
 
@@ -6861,12 +6934,10 @@ historical romance
 </details>
 
 
-<a name="mars_series"></a>
-
 <details>
-<summary>Also, look at and pick one of these SiFi novels... </summary>
+<summary><a name="mars_series"></a>Also, look at and pick one of these SiFi novels... </summary>
 
-Mars Series by Kim Stanley Robinson  
+**Mars Series** by Kim Stanley Robinson:  
 Red Mars.  2000  
 (Mars Series, Book 1)  
 https://www.overdrive.com/media/2902090/red-mars  
@@ -6880,6 +6951,7 @@ Blue Mars. 2002
 https://www.overdrive.com/media/2674467/blue-mars  
 
 
+**The Final Architecture Series** by Adrian Tchaikovsky:  
 Shards of Earth.  By Adrian Tchaikovsky.  2021  
 (part of "The Final Architecture" series)  
 https://www.overdrive.com/media/5715429/shards-of-earth  
@@ -6891,6 +6963,8 @@ Eyes of the Void.  By Adrian Tchaikovsky.  2022
 https://www.overdrive.com/media/6663885/eyes-of-the-void  
 By Adrian Tchaikovsky  
 
+
+**The Protectorate Series** by Megan E. O'Keefe:  
 The Blighted Stars. By Megan E. O'Keefe  
 https://www.goodreads.com/book/show/58340705-the-blighted-stars  
 
@@ -6907,6 +6981,7 @@ Catalyst Gate. By Megan E. O'Keefe  2021
 (part of "The Protectorate" series)  
 https://www.overdrive.com/media/5826946/catalyst-gate  
 https://www.goodreads.com/book/show/55836835-catalyst-gate  
+
 
 Eversion.  By Alastair Reynolds  
 https://www.goodreads.com/book/show/58727132-eversion  
@@ -6925,10 +7000,12 @@ Saturn Run.  By John Sandford, Ctein.  2015
 (17:00)  
 
 Burning Paradise. By Robert Charles Wilson. 2013  
-(12:00)  
+https://www.overdrive.com/media/1425212/burning-paradise  (12:00)  
+https://www.overdrive.com/media/1330912/burning-paradise  
 
 A Murder in Time. By Julie McElwain.  2016  
-(19:00)  
+https://www.overdrive.com/media/3177108/a-murder-in-time  (19:00)  
+https://www.overdrive.com/media/2632520/a-murder-in-time  
 
 The Lost Apothecary: A Novel. By Sarah Penner. 2021  
 (10:18)  
@@ -6940,10 +7017,10 @@ Ebook: https://www.overdrive.com/media/5428480/the-lost-apothecary
 
 
 <details>
-<summary><a name=""></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
+<summary><a name="collected_works_of_saint_patrick_by_saint_patrick"></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
 
 ### Collected Works of Saint Patrick. (01:01)  
-https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
+Audio: https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
 Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
 By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
 
@@ -6976,14 +7053,17 @@ By the [United States House of Representatives](https://en.wikipedia.org/wiki/Un
 Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov  
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
+* As I write this in March 2026 Trump continues his efforts to sow chaos by claiming (*without any evidence, but with a galaxy of lies*) that the 2020 presidential election was stolen from him...  
+
+
 </details>
 
 
 <details>
-<summary><a name=""></a>The Seven Stairs.  1962 </summary>  
+<summary><a name="the_seven_stairs_by_stuart_brent"></a>The Seven Stairs. by Stuart Brent. 1962 </summary>  
 
 ### The Seven Stairs.  (7:13)  
-https://librivox.org/the-seven-stairs-by-stuart-brent/  
+Audio: https://librivox.org/the-seven-stairs-by-stuart-brent/  
 Text: https://www.gutenberg.org/ebooks/69175  
 By [Stuart Brent](https://stuartbrent.com/pages/about-stuart-and-the-brent-family) (1912 - 2010)  
 
@@ -7095,15 +7175,16 @@ Summary from Librivox:
 
 </details>
 
+
 <details><summary><a name=""></a>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
 ### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
-https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
+Audio: https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
 By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 
 </details>
 
-</details>
+
 
 <details><summary>Recommended Books 2000 - 2010. By Francine Prose, Washington Post.  2022</summary>
 
