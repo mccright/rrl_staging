@@ -2002,6 +2002,56 @@ Reading Notes: This collection of poetry received [accolades from a range of ins
 </details>
 
 
+<details><summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. 1910 </summary>
+
+### Frontier Ballads. (5:02)  
+Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
+eBook: https://www.gutenberg.org/ebooks/45240  
+By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
+
+Reading Notes:  This poetry was written before 1910, in a time long before the Internet and social media, and appears to target readers (*and maybe listeners*) having attention spans less common today.  In that context, though, there are some clever and sometimes unexpected rhymes and word-play which might make this useful and entertaining for some.  The poetry may also provide a unique window into late 19th century views of mid-century American culture.  
+The [audio version](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3) (both the voice and editing) may diminish your experience of this collection.  It helped me to follow along with the [ebook](https://www.gutenberg.org/ebooks/45240).  
+
+"Soldier Songs" section employs a mix of heroic, romantic and *realistic* descriptive imagery as it describes soldier's experiences on the northern plains.  It often focuses on military "action" against Native Americans *rationalized* using the vocabulary of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny). It uses language and describes activities that may offend many.  
+
+#### Songs/Poetry:  
+**MY CREED**  
+**I. SOLDIER SONGS**  
+* Dakota Militia 
+* The Girl Of The Yankton Stockade  
+* The Ballad Of Sergeant Ross  
+* The Springfield Calibre Fifty  
+* A Garrison Christmas  
+* Troop Horses  
+* A Khaki Kick  
+* Sergeant Noonan Explains  
+* Laramie Trail  
+
+**II. PRAIRIE SONGS**  
+* The Call Of The Wind  
+* The Fur Traders  
+* Cowboy Song  
+* Christmas Eve At Kimball  
+* A Lament  
+* Jesus Garcia (*the engineer*)  
+* A Christmas Letter  
+* The Coyoteville Peace Meeting  
+* The Song Of The Winchester  
+* Prairie Fire  
+
+**III. RIVER SONGS**  
+* The Missouri  
+* The Old Carry  
+* Jake Dale  
+* The Engineer Of The "Golden Hind"  
+* The "Pauline"  
+* Afterglow  
+
+Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
+
+</details>
+
+
 <details><summary><a name="funny_you_dont_look_autistic_by_michael_mccreary"></a>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019 </summary>
 
 ### Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. (4:00)  
@@ -5574,6 +5624,40 @@ Reading Notes:
 
 
 
+
+<details>
+<summary><a name="the_great_influenza_by_john_m_barry"></a>The Great Influenza -- The Epic Story of the Deadliest Plague in History. By John M. Barry. 2005   </summary>
+
+### The Great Influenza -- The Epic Story of the Deadliest Plague in History. (19:00)  
+Audio: https://www.overdrive.com/media/244301/the-great-influenza  
+eBook: https://www.overdrive.com/media/204479/the-great-influenza  
+By [John M. Barry](https://en.wikipedia.org/wiki/John_M._Barry)  (1947 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="the_housekeepers_by_alex_hay"></a>The Housekeepers.  By Alex Hay.  2023  </summary>
+
+### The Housekeepers.  (12:00)  
+Audio: https://www.overdrive.com/media/9215978/the-housekeepers  
+eBook: https://www.overdrive.com/media/9211909/the-housekeepers  
+By [Alex Hay](https://alexhaybooks.com/about/)  ( – )  
+
+Reading Notes: The summary below seems accurate.  The author starts at a *leasurely* pace of routine daily life inside a British *aristocrat's* mansion, where much about the 19th century remains intact even as the early 20th century surrounds them.  From that opening he methodically drives up the pacing until it is solidly manic in the later stages of the the story, all the while revealing critical bits of detail that add context for the actors and the action. I found it a satisfying story well written.  
+
+GoodReads Reviews: https://www.goodreads.com/book/show/62197595-the-housekeepers  
+
+OverDrive [Summary](https://www.overdrive.com/media/9211909/the-housekeepers):  
+>"Mrs. King is no ordinary housekeeper. Born into a world of con artists and thieves, she’s made herself respectable, running the grandest home in Mayfair. The place is packed with treasures, a glittering symbol of wealth and power, but dark secrets lurk in the shadows.  When Mrs. King is suddenly dismissed from her position, she recruits an eclectic group of women to join her in revenge: A black market queen out to settle her scores. An actress desperate for a magnificent part. A seamstress dreaming of a better life. And Mrs. King’s predecessor, with her own desire for vengeance.  Their plan? On the night of the house’s highly anticipated costume ball—set to be the most illustrious of the year—they will rob it of its every possession, right under the noses of the distinguished guests and their elusive heiress host. But there’s one thing Mrs. King wants even more than money: the truth. And she’ll run any risk to get it...  After all, one should never underestimate the women downstairs."  
+
+</details>
+
+
 <details>
 <summary><a name="the_dog_stars_by_peter_heller"></a>The Dog Stars. By Peter Heller. 2012  </summary>
 
@@ -5611,55 +5695,6 @@ OverDrive Summary:
 </details>
 
 
-
-
-<details>
-<summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. 1910 </summary>
-
-### Frontier Ballads. (5:02)  
-Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
-eBook: https://www.gutenberg.org/ebooks/45240  
-By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
-
-Reading Notes:  This poetry was written in a time long before the Internet and social media, and appears to target readers (*and maybe listeners*) having attention spans less common today.  In that context, though, there are some clever and sometimes unexpected rhymes and word-play which might make this useful and entertaining for some.  
-"Soldier Songs" section employs a mix of heroic, romantic and *realistic* descriptive imagery as it describes soldier's experiences on the northern plains.  It often focuses on military "action" against Native Americans *rationalized* using the vocabulary of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny). It uses language and describes activities that may offend many.  
-
-#### Songs/Poetry:  
-**MY CREED**  
-**I. SOLDIER SONGS**  
-* Dakota Militia 
-* The Girl Of The Yankton Stockade  
-* The Ballad Of Sergeant Ross  
-* The Springfield Calibre Fifty  
-* A Garrison Christmas  
-* Troop Horses  
-* A Khaki Kick  
-* Sergeant Noonan Explains  
-* Laramie Trail  
-
-**II. PRAIRIE SONGS**  
-* The Call Of The Wind  
-* The Fur Traders  
-* Cowboy Song  
-* Christmas Eve At Kimball  
-* A Lament  
-* Jesus Garcia (*the engineer*)  
-* A Christmas Letter  
-* The Coyoteville Peace Meeting  
-* The Song Of The Winchester  
-* Prairie Fire  
-
-**III. RIVER SONGS**  
-* The Missouri  
-* The Old Carry  
-* Jake Dale  
-* The Engineer Of The "Golden Hind"  
-* The "Pauline"  
-* Afterglow  
-
-Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
-
-</details>
 
 
 
