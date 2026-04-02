@@ -2270,6 +2270,24 @@ Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergray
 </details>
 
 
+<details><summary><a name="the_great_influenza_by_john_m_barry"></a>The Great Influenza -- The Epic Story of the Deadliest Plague in History. By John M. Barry. 2005   </summary>
+
+### The Great Influenza -- The Epic Story of the Deadliest Plague in History. (19:30)  
+Audio: https://www.overdrive.com/media/244301/the-great-influenza  
+eBook: https://www.overdrive.com/media/204479/the-great-influenza  
+By [John M. Barry](https://en.wikipedia.org/wiki/John_M._Barry)  (1947 – )  
+
+Reading Notes: This is a detailed nonfiction account of the [1918 influenza pandemic](https://en.wikipedia.org/wiki/Spanish_flu) (*with a strong emphasis on activities in the U.S.*).  Barry explains how it spread and its impacts -- killing as many as 100 million people worldwide -- zooming into close-up examples in individual homes and military bases and zooming out to city, state and national impacts.  A central theme includes the efforts of a relatively small number of medical scientists in attempts to understand the nature of the virulent pathogen(s) driving the pandemic in hopes of developing effective measures to resist it. The author also highlights roles that public health resources and activities can play in a [pandemic](https://en.wikipedia.org/wiki/Pandemic) (*and reviews impacts that can result in their absence*).  There is a lot more to this book, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Great_Influenza) for a better summary.  
+
+If you enjoy history of science or history of medicine, I recommend this book.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Great_Influenza) for more detail.  
+
+In the afterword, Barry argues that across earth we need to do more comprehensive disease surveillance, quicker, and insist on thoroughly truthful communications about disease outbreaks, and he emphasizes the criticality of exhibiting more effective leadership at all levels and in all domains of *governing*.  He recommends treating potential pandemics as potential terrorism in order to maintain effective prioritization of investments.  He argues that governments need to get involved, development of quicker, higher-volume vaccine manufacturing capabilities, development of new [antivirals](https://en.wikipedia.org/wiki/Antiviral_drug).  The author augues that the final lesson of 1918, is that top leaders **must not lie** about the nature and threats of a pandemic; that leaders must "distort nothing and make every horror that exists concrete;" and they must not elevate anyone promoting the quackery that emerges in tandum with every pandemic.  He concluded that those channeling "*every man for himself*" exhibit the worst type of ineffective "*leadership*" during a pandemic.  Having recently experienced the [COVID-19_pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) (*more than 7 million deaths*) these recommendations (*written sometime prior to 2004*) seem prophetic...  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Great_Influenza](https://en.wikipedia.org/wiki/The_Great_Influenza)  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
@@ -2562,6 +2580,23 @@ The story's primary threads follow Lexington and some of those who trained and c
 
 Washington Post Review: [https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/](https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/)  
 Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/)  
+
+</details>
+
+
+<details><summary><a name="the_housekeepers_by_alex_hay"></a>The Housekeepers.  By Alex Hay.  2023  </summary>
+
+### The Housekeepers.  (12:00)  
+Audio: https://www.overdrive.com/media/9215978/the-housekeepers  
+eBook: https://www.overdrive.com/media/9211909/the-housekeepers  
+By [Alex Hay](https://alexhaybooks.com/about/)  ( – )  
+
+Reading Notes: The summary below seems accurate.  The author starts at a *leasurely* pace of routine daily life inside a British *aristocrat's* mansion, where much about the 19th century remains intact even as the early 20th century surrounds them.  From that opening he methodically drives up the pacing until it is solidly manic in the later stages of the the story, all the while revealing critical bits of detail that add context for the actors and the action. I found it a satisfying story well written.  
+
+GoodReads Reviews: https://www.goodreads.com/book/show/62197595-the-housekeepers  
+
+OverDrive [Summary](https://www.overdrive.com/media/9211909/the-housekeepers):  
+>"Mrs. King is no ordinary housekeeper. Born into a world of con artists and thieves, she’s made herself respectable, running the grandest home in Mayfair. The place is packed with treasures, a glittering symbol of wealth and power, but dark secrets lurk in the shadows.  When Mrs. King is suddenly dismissed from her position, she recruits an eclectic group of women to join her in revenge: A black market queen out to settle her scores. An actress desperate for a magnificent part. A seamstress dreaming of a better life. And Mrs. King’s predecessor, with her own desire for vengeance.  Their plan? On the night of the house’s highly anticipated costume ball—set to be the most illustrious of the year—they will rob it of its every possession, right under the noses of the distinguished guests and their elusive heiress host. But there’s one thing Mrs. King wants even more than money: the truth. And she’ll run any risk to get it...  After all, one should never underestimate the women downstairs."  
 
 </details>
 
@@ -5624,14 +5659,13 @@ Reading Notes:
 
 
 
-
 <details>
-<summary><a name="the_great_influenza_by_john_m_barry"></a>The Great Influenza -- The Epic Story of the Deadliest Plague in History. By John M. Barry. 2005   </summary>
+<summary><a name=""></a>Empty_Template </summary>
 
-### The Great Influenza -- The Epic Story of the Deadliest Plague in History. (19:00)  
-Audio: https://www.overdrive.com/media/244301/the-great-influenza  
-eBook: https://www.overdrive.com/media/204479/the-great-influenza  
-By [John M. Barry](https://en.wikipedia.org/wiki/John_M._Barry)  (1947 – )  
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
 
 Reading Notes:   
 
@@ -5639,23 +5673,6 @@ Reading Notes:
 </details>
 
 
-
-<details>
-<summary><a name="the_housekeepers_by_alex_hay"></a>The Housekeepers.  By Alex Hay.  2023  </summary>
-
-### The Housekeepers.  (12:00)  
-Audio: https://www.overdrive.com/media/9215978/the-housekeepers  
-eBook: https://www.overdrive.com/media/9211909/the-housekeepers  
-By [Alex Hay](https://alexhaybooks.com/about/)  ( – )  
-
-Reading Notes: The summary below seems accurate.  The author starts at a *leasurely* pace of routine daily life inside a British *aristocrat's* mansion, where much about the 19th century remains intact even as the early 20th century surrounds them.  From that opening he methodically drives up the pacing until it is solidly manic in the later stages of the the story, all the while revealing critical bits of detail that add context for the actors and the action. I found it a satisfying story well written.  
-
-GoodReads Reviews: https://www.goodreads.com/book/show/62197595-the-housekeepers  
-
-OverDrive [Summary](https://www.overdrive.com/media/9211909/the-housekeepers):  
->"Mrs. King is no ordinary housekeeper. Born into a world of con artists and thieves, she’s made herself respectable, running the grandest home in Mayfair. The place is packed with treasures, a glittering symbol of wealth and power, but dark secrets lurk in the shadows.  When Mrs. King is suddenly dismissed from her position, she recruits an eclectic group of women to join her in revenge: A black market queen out to settle her scores. An actress desperate for a magnificent part. A seamstress dreaming of a better life. And Mrs. King’s predecessor, with her own desire for vengeance.  Their plan? On the night of the house’s highly anticipated costume ball—set to be the most illustrious of the year—they will rob it of its every possession, right under the noses of the distinguished guests and their elusive heiress host. But there’s one thing Mrs. King wants even more than money: the truth. And she’ll run any risk to get it...  After all, one should never underestimate the women downstairs."  
-
-</details>
 
 
 <details>
@@ -5809,7 +5826,7 @@ Reading Notes:
 <details>
 <summary><a name="one_day_everyone_will_have_by_omar_el_akkad"></a>One Day, Everyone Will Have Always Been Against This. By Omar El Akkad. 2025 </summary>
 
-### One Day, Everyone Will Have Always Been Against This.  
+### One Day, Everyone Will Have Always Been Against This. (5:20)  
 Audio: https://www.overdrive.com/media/11042157/one-day-everyone-will-have-always-been-against-this  
 eBook: https://www.overdrive.com/media/10784991/one-day-everyone-will-have-always-been-against-this  
 By [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad)  (1982 – )  

@@ -542,6 +542,8 @@ The religion central to this story is "Earthseed."  Dr. Taylor Franklin Bankole 
 
 >Indenturing indigents, young and old, is much in fashion now.  [quoted from page 40]  
 
+> Others, whether we thought of them as friend or not, would be all too willing to join the mob and to stomp us and rob us if tomping and robbing became a test of courage or a test of loyalty to country, religion, or race.  [quoted from page 69]  
+
 
 </details>
 
