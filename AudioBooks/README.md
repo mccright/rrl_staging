@@ -5657,17 +5657,23 @@ Reading Notes:
 
 </details>
 
+Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 
 
 
 <details>
-<summary><a name=""></a>Empty_Template </summary>
+<summary><a name=""></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### Invasive Procedures.  (11:50)  
+Audio: https://www.overdrive.com/media/145194/invasive-procedures  
+eBook: https://www.overdrive.com/media/512330/invasive-procedures  
+By [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)  (1951 – )  and [Aaron Johnson](https://en.wikipedia.org/wiki/Aaron_Johnston_(writer)) and [here](https://www.aaronwjohnston.com/about-me/)  ( – )  
+352 pages
 
-Reading Notes:   
+Reading Notes: This is **NOT** [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) (1985).  It is a formulaic [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) with few surprises. Evil scientist George Galen perfects human [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering) in secret, implements a carrier virus and accompanying processes to manipulate human traits and to cure genetic diseases (*each instance of individually-targeted "cure" is also deadly to everyone else*), creates a vaccine to protect against all his genetically-engineered viruses, invents and uses *micro-processor*-enabled/saliva triggered brainwashing to build a corp of "foot-soldiers" (*some he calls "healers" others are just his lackeys*) he needs to... (*rule the world?, it's not clear*).  The story's *hero* Frank Hartman created a *countervirus* for the Army and then he is *loaned* to the U.S. Biohazard Agency (BHA) where he passively follows orders to help find and neutralize the source of a *terrible* new virus (*Galen's carrier virus*) but is manipulated by BHA's leader, who is one of Galen's *tools* while concurrently being a genius/he-man leading Galen-prisoners on a daring escape and race to access his countervirus.  The story's heroine Dr. Monica Owens, a thorasic surgeon with a seven year old son is kidnapped by Galen to be his personal transplant surgeon, is saved by Hartman who, as the book ends, is starting his next journey with Dr. Owens as his love-interest.  I found the characters undeveloped, the dialog wooden, the science and technology unbelievable.  Overall the book was a disappointment -- with some of the action scenes and the hope of a satisfying end were enough to help me finish the book.  I can't recommend it -- there are so many other excellent books in which to invest your hours.  
+
+
+OverDrive Summary:  
+>George Galen is a brilliant scientist, a pioneer in gene therapy. But Galen is dangerously insane. He has created a method to alter human DNA, not just to heal diseases but also to "improve people": make them stronger, make them able to heal more quickly...and make them compliant to his will.  Frank Hartman is also a brilliant virologist, working for the government's ultra-secret biohazard agency. He has discovered how to neutralize Galen's DNA-changing virus. Now he is the one man who stands in the way of Galen's plan to "improve" the entire human race.  This taut thriller takes the listener a few years into the future and shows the promise and danger of new genetic medicine techniques.  
 
 
 </details>
@@ -5831,7 +5837,8 @@ Audio: https://www.overdrive.com/media/11042157/one-day-everyone-will-have-alway
 eBook: https://www.overdrive.com/media/10784991/one-day-everyone-will-have-always-been-against-this  
 By [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad)  (1982 – )  
 
-Reading Notes:  
+Reading Notes:  I think this is an important book and should be widely read.  As a reminder: in December 2023, France24 reported that on 7 October 2023 Hamas terrorists killed [1,139 (*695 Israeli civilians, including 36 children, as well as 373 security forces -- soldiers, police and Shin Bet members -- and 71 foreigners*)](https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths) indiscriminately in streets, houses, kibbutz communities, at a music festival, and in/around Israeli military facilities (*that number evolved over time and in early 2026 "safe" numbers seem to be over 1,200 killed and ~5,400 injured*).  Men, women (including police and soldiers) & children were shot, *blown up*, slashed/stabbed, burned, dismembered, beaten, and subjected to "ritual humiliation," and at least [250 were taken hostage](https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths).  There was and is no justification for this slaughter.  While it is unclear how many Hamas terrorists were killed on Israeli soil on 7 October 2023, "[the (Israeli) army said on October 10](https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths) (2023) that it had found "around 1,500 bodies" of attackers, without giving further details."  In response Israel proclaimed war against Hamas members/fighters in Gaza and began war operations.  Palestinian men, women (including some Hamas) & children were shot, *blown up*, burned, buried alive, suffocated, crushed, dismembered, beaten and subjected to "ritual humiliation," and in addition it appears that material numbers were also arrested (*being required to prove they are not Hamas fighers, and some were subjected to "ritual humiliation" and organized torture*).  [According to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://www.unocha.org/publications/report/occupied-palestinian-territory/reported-impact-snapshot-gaza-strip-25-march-2026-1500), by 31 December 2025 the Israeli military had killed 72,265 Palestinians in Gaza along with more than 1,700 health workers, 589 aid workers, 259 reporters and media workers and 142 on-duty civil defense workers and had injured another 171,959 Palestinians -- leaving 58,000 children in Gaza without one or both of their parents, and destroyed or damaged 81% of all structures and 77% of the total road network, and 145 historical and cultural sites across Gaza. The war in Gaza has left remaining Palestinians of all ages with little food or water, little shelter, little health care, and little opportunity for formal education. The focus and scale of the killing and maiming in the context of destroying the physical manifestations of culture across Gaza appear to fit the definition of genocide -- which was [officially declared in September 2025 by the United Nations Office of the High Commissioner for Human Rights](https://www.ohchr.org/en/press-releases/2025/09/israel-has-committed-genocide-gaza-strip-un-commission-finds).  Those are just a few of the relevant facts, as accurate as I can gather...  These are emotionally charged figures. They represent deep pools of hostility, fear, desperation, suffering and grief. Almost by definition violence at scale is complex and these numbers are not static.  They represent, though, unambiguously tragic levels of killing, injury and trauma that will extend for generations.  For some partisans they are used as tools to help construct and nurse grievance -- to justify their chosen language and action(s).  Others assemble and promote fictional accounts in support of their own goals.  Omar El Akkad describes his personal/family history as immigrant from the Middle East and then describes many of the ways that Western governments, media and civilians supported Israel in the slaughter of so many Palestinians and the destruction of so much infrastructure that had been modern Gaza, along with two years of treating the Palestinian people in Gaza as non-human, and how that made him feel.  He argues, I think convincingly, that this is a stain on Western societies that will not easily fade.  Again, and in that context, I think this is an important book and should be widely read.  
+
 
 Wikipedia Summary: [wikipedia.org/.../One_Day,_Everyone_Will...](https://en.wikipedia.org/wiki/One_Day,_Everyone_Will_Have_Always_Been_Against_This)  
 Review by [Joe Stanek](https://thewarhorse.org/author/joe-stanek/): [chireviewofbooks.com/.../one-day-omar-el-akkad/](https://chireviewofbooks.com/2025/02/26/one-day-omar-el-akkad/)  
@@ -5840,13 +5847,6 @@ Review by [Avram Alpert](https://www.avramalpert.com/): [dissentmagazine.org/...
 >More than the book itself, what appealed to his teenage self was the mere fact that he could ask the librarian where to find it and they didn’t even bat an eye. “I remember thinking,” he writes, “if this is all there is, it’s enough,” because the freedom to read promises a culture committed to “its own rights and freedoms and principles.”  
 
 </details>
-
-
-
-
-
-
-
 
 
 
