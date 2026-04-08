@@ -5699,11 +5699,31 @@ Reading Notes:
 
 </details>
 
-Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 
 
 
 <details>
-<summary><a name=""></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
+<summary><a name="barons_of_the_sea_by_steven_ujifusa"></a>Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. By Steven Ujifusa. 2018  </summary>
+
+### Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. (12:25)  
+Audio: https://www.overdrive.com/media/3656595/barons-of-the-sea  
+eBook: https://www.overdrive.com/media/3717532/barons-of-the-sea  
+By [Steven Ujifusa](https://en.wikipedia.org/wiki/Steven_Ujifusa)  ( – )  
+
+Reading Notes:   
+
+[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
+>"A fascinating, fast-paced history...full of remarkable characters and incredible stories" about the nineteenth-century American dynasties who battled for dominance of the tea and opium trades (Nathaniel Philbrick, National Book Award–winning author of In the Heart of the Sea).  
+>There was a time, back when the United States was young and the robber barons were just starting to come into their own, when fortunes were made and lost importing luxury goods from China. It was a secretive, glamorous, often brutal business—one where teas and silks and porcelain were purchased with profits from the opium trade. But the journey by sea to New York from Canton could take six agonizing months, and so the most pressing technological challenge of the day became ensuring one's goods arrived first to market, so they might fetch the highest price.  
+>"With the verse of a natural dramatist" (The Christian Science Monitor), Steven Ujifusa tells the story of a handful of cutthroat competitors who raced to build the fastest, finest, most profitable clipper ships to carry their precious cargo to American shores. They were visionary, eccentric shipbuilders, debonair captains, and socially ambitious merchants with names like Forbes and Delano—men whose business interests took them from the cloistered confines of China's expatriate communities to the sin city decadence of Gold Rush-era San Francisco, and from the teeming hubbub of East Boston's shipyards and to the lavish sitting rooms of New York's Hudson Valley estates.  
+>Elegantly written and meticulously researched, Barons of the Sea is a riveting tale of innovation and ingenuity that "takes the reader on a rare and intoxicating journey back in time" (Candice Millard, bestselling author of Hero of the Empire), drawing back the curtain on the making of some of the nation's greatest fortunes, and the rise and fall of an all-American industry as sordid as it was genteel.  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="invasive_procedures_by_orson_scott_card"></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
 
 ### Invasive Procedures.  (11:50)  
 Audio: https://www.overdrive.com/media/145194/invasive-procedures  
