@@ -4004,6 +4004,28 @@ Librivox Summary:
 </details>  
 
 
+<details><summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)   </summary>
+
+### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. (9:00)  
+Audio: https://www.overdrive.com/media/4875760/ordinary-men  
+eBook: https://www.overdrive.com/media/2726377/ordinary-men  
+By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
+
+Reading Notes: The pace of the [Nazi](https://en.wikipedia.org/wiki/Nazi_Germany) "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" -- [genocide](https://en.wikipedia.org/wiki/Genocide) of individuals they defined as [Jews](https://en.wikipedia.org/wiki/Jews) -- accelerated in 1942. For a material portion of that effort they employed men from state and local police.  This book reviews the case of a "[German Order Police](https://en.wikipedia.org/wiki/Order_Police_battalions)" group, the "[Reserve Police Battalion 101](https://en.wikipedia.org/wiki/Reserve_Police_Battalion_101)" killing unit -- as most of their membership became professional killers and material perpetrators of the [Holocaust in occupied Poland](https://en.wikipedia.org/wiki/The_Holocaust_in_occupied_Poland) as well as participating in other large-scale [crimes against humanity](https://en.wikipedia.org/wiki/Crime_against_humanity) against civilian populations under German occupation.  There were over 200,000 legacy German Order Police by 1942, and Browning uses examples from other Order Police organizations in German occupied countries as well. The book includes two "Afterwords," one 1998 and the other from 2017 outlining some of the scholarship on this topic and the various arguments used to explain how so-called "*ordinary men*" could participate in mass murder.  
+
+How did this mass murder version of the "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" come about?  
+>"...Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+
+This book covers a relatively narrow slice of a tough topic -- authorian violence and antisemitism -- adding context throughout.  
+
+Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
+
+RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
+
+
+</details>
+
+
 <details><summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
 
 ### The Original. (3:24)  
@@ -5677,11 +5699,33 @@ Reading Notes:
 
 </details>
 
-Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 
 
 
 <details>
-<summary><a name=""></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
+<summary><a name="barons_of_the_sea_by_steven_ujifusa"></a>Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. By Steven Ujifusa. 2018  </summary>
+
+### Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. (12:25)  
+Audio: https://www.overdrive.com/media/3656595/barons-of-the-sea  
+eBook: https://www.overdrive.com/media/3717532/barons-of-the-sea  
+By [Steven Ujifusa](https://en.wikipedia.org/wiki/Steven_Ujifusa)  ( – )  
+
+Reading Notes:  I enjoyed this book. The Forbes and Delano families are at the center of this history of Americans who [smuggled opium](https://en.wikipedia.org/wiki/Clipper#Opium_clippers) into China and then (*because that required shipping/high seas sailing ships*) used their sailing ships for high markup commodities across the globe. They amassed great generational fortunes.  Competition drove them to reduce the cycle-time of their global shipping schedules -- and helped drive technological change in mid-19th century high-speed merchant [clippers](https://en.wikipedia.org/wiki/Clipper#China_clipper). This is a business history, an economic history, a maritime history, a history of 19th century ocean sailing, a history of the Forbes and Delano families, one of them birth the 32nd president of the United States, [Franklin Delano Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt).  
+Examples:  
+[Paul Delano](https://en.wikipedia.org/wiki/Paul_Delano)  
+[Franklin Hughes Delano](https://en.wikipedia.org/wiki/Franklin_Hughes_Delano)  
+
+[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
+>"A fascinating, fast-paced history...full of remarkable characters and incredible stories" about the nineteenth-century American dynasties who battled for dominance of the tea and opium trades (Nathaniel Philbrick, National Book Award–winning author of In the Heart of the Sea).  
+>There was a time, back when the United States was young and the robber barons were just starting to come into their own, when fortunes were made and lost importing luxury goods from China. It was a secretive, glamorous, often brutal business—one where teas and silks and porcelain were purchased with profits from the opium trade. But the journey by sea to New York from Canton could take six agonizing months, and so the most pressing technological challenge of the day became ensuring one's goods arrived first to market, so they might fetch the highest price.  
+>"With the verse of a natural dramatist" (The Christian Science Monitor), Steven Ujifusa tells the story of a handful of cutthroat competitors who raced to build the fastest, finest, most profitable clipper ships to carry their precious cargo to American shores. They were visionary, eccentric shipbuilders, debonair captains, and socially ambitious merchants with names like Forbes and Delano—men whose business interests took them from the cloistered confines of China's expatriate communities to the sin city decadence of Gold Rush-era San Francisco, and from the teeming hubbub of East Boston's shipyards and to the lavish sitting rooms of New York's Hudson Valley estates.  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="invasive_procedures_by_orson_scott_card"></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
 
 ### Invasive Procedures.  (11:50)  
 Audio: https://www.overdrive.com/media/145194/invasive-procedures  
@@ -5778,29 +5822,6 @@ Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(sold
 
 
 
-
-
-<details>
-<summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)   </summary>
-
-### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. (9:00)  
-Audio: https://www.overdrive.com/media/4875760/ordinary-men  
-eBook: https://www.overdrive.com/media/2726377/ordinary-men  
-By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
-
-Reading Notes: The pace of the [Nazi](https://en.wikipedia.org/wiki/Nazi_Germany) "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" -- [genocide](https://en.wikipedia.org/wiki/Genocide) of individuals they defined as [Jews](https://en.wikipedia.org/wiki/Jews) -- accelerated in 1942. For a material portion of that effort they employed men from state and local police.  This book reviews the case of a "[German Order Police](https://en.wikipedia.org/wiki/Order_Police_battalions)" group, the "[Reserve Police Battalion 101](https://en.wikipedia.org/wiki/Reserve_Police_Battalion_101)" killing unit -- as most of their membership became professional killers and material perpetrators of the [Holocaust in occupied Poland](https://en.wikipedia.org/wiki/The_Holocaust_in_occupied_Poland) as well as participating in other large-scale [crimes against humanity](https://en.wikipedia.org/wiki/Crime_against_humanity) against civilian populations under German occupation.  There were over 200,000 legacy German Order Police by 1942, and Browning uses examples from other Order Police organizations in German occupied countries as well. The book includes two "Afterwords," one 1998 and the other from 2017 outlining some of the scholarship on this topic and the various arguments used to explain how so-called "*ordinary men*" could participate in mass murder.  
-
-How did this mass murder version of the "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" come about?  
->"...Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
-
-This book covers a relatively narrow slice of a tough topic -- authorian violence and antisemitism -- adding context throughout.  
-
-Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
-
-RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
-
-
-</details>
 
 
 
