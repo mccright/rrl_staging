@@ -2739,6 +2739,24 @@ Librivox summary:
 </details>
 
 
+<details>
+<summary><a name="invasive_procedures_by_orson_scott_card"></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
+
+### Invasive Procedures.  (11:50)  
+Audio: https://www.overdrive.com/media/145194/invasive-procedures  
+eBook: https://www.overdrive.com/media/512330/invasive-procedures  
+By [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)  (1951 – )  and [Aaron Johnson](https://en.wikipedia.org/wiki/Aaron_Johnston_(writer)) and [here](https://www.aaronwjohnston.com/about-me/)  ( – )  
+352 pages
+
+Reading Notes: This is **NOT** [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) (1985).  It is a formulaic [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) with few surprises. Evil scientist George Galen perfects human [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering) in secret, implements a carrier virus and accompanying processes to manipulate human traits and to cure genetic diseases (*each instance of individually-targeted "cure" is also deadly to everyone else*), creates a vaccine to protect against all his genetically-engineered viruses, invents and uses *micro-processor*-enabled/saliva triggered brainwashing to build a corp of "foot-soldiers" (*some he calls "healers" others are just his lackeys*) he needs to... (*rule the world?, it's not clear*).  The story's *hero* Frank Hartman created a *countervirus* for the Army and then he is *loaned* to the U.S. Biohazard Agency (BHA) where he passively follows orders to help find and neutralize the source of a *terrible* new virus (*Galen's carrier virus*) but is manipulated by BHA's leader, who is one of Galen's *tools* while concurrently being a genius/he-man leading Galen-prisoners on a daring escape and race to access his countervirus.  The story's heroine Dr. Monica Owens, a thorasic surgeon with a seven year old son is kidnapped by Galen to be his personal transplant surgeon, is saved by Hartman who, as the book ends, is starting his next journey with Dr. Owens as his love-interest.  I found the characters undeveloped, the dialog wooden, the science and technology unbelievable.  Overall the book was a disappointment -- with some of the action scenes and the hope of a satisfying end were enough to help me finish the book.  I can't recommend it -- there are so many other excellent books in which to invest your hours.  
+
+
+OverDrive Summary:  
+>George Galen is a brilliant scientist, a pioneer in gene therapy. But Galen is dangerously insane. He has created a method to alter human DNA, not just to heal diseases but also to "improve people": make them stronger, make them able to heal more quickly...and make them compliant to his will.  Frank Hartman is also a brilliant virologist, working for the government's ultra-secret biohazard agency. He has discovered how to neutralize Galen's DNA-changing virus. Now he is the one man who stands in the way of Galen's plan to "improve" the entire human race.  This taut thriller takes the listener a few years into the future and shows the promise and danger of new genetic medicine techniques.  
+
+
+</details>
+
 <details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
@@ -5702,6 +5720,26 @@ Reading Notes:
 
 
 <details>
+<summary><a name="suder_by_percival_everett"></a>Suder -- A Novel.  By Percival Everett. 1983/2025 </summary>
+
+### Empty_Template  
+Audio: https://www.overdrive.com/media/12016723/suder  
+eBook: https://www.overdrive.com/media/11667027/suder  
+By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
+
+Reading Notes:   
+
+[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
+>It's the middle of the season and the third baseman for the Seattle Mariners, Craig Suder, is in the midst of an inescapable slump. On top of that, his wife has been keeping her distance and Suder can't shake the creeping fear that he might have inherited his mother's insanity. That's when his team suggests he might enjoy a little break.  
+>What's a man to do pack up the essentials—his record player, Charlie Parker's "Ornithology," and a saxophone—and hit the road? What ensues is the adventure of a lifetime. Haunted by his past as a young black boy in the South, and soon on the run from some less-than-savory individuals, Suder soon finds himself in curious company—including a little white girl and a pet elephant. Epic, thrilling, and utterly alive, Suder takes us on a whirlwind journey through the joys, the sorrows, and the madness that make up a life.  
+>First published in 1983 by Louisianna State University Press, Suder marked the debut of an iconic American voice.  
+
+
+</details>
+
+
+
+<details>
 <summary><a name="barons_of_the_sea_by_steven_ujifusa"></a>Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. By Steven Ujifusa. 2018  </summary>
 
 ### Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. (12:25)  
@@ -5709,7 +5747,7 @@ Audio: https://www.overdrive.com/media/3656595/barons-of-the-sea
 eBook: https://www.overdrive.com/media/3717532/barons-of-the-sea  
 By [Steven Ujifusa](https://en.wikipedia.org/wiki/Steven_Ujifusa)  ( – )  
 
-Reading Notes:  I enjoyed this book. The Forbes and Delano families are at the center of this history of Americans who [smuggled opium](https://en.wikipedia.org/wiki/Clipper#Opium_clippers) into China and then (*because that required shipping/high seas sailing ships*) used their sailing ships for high markup commodities across the globe. They amassed great generational fortunes.  Competition drove them to reduce the cycle-time of their global shipping schedules -- and helped drive technological change in mid-19th century high-speed merchant [clippers](https://en.wikipedia.org/wiki/Clipper#China_clipper). This is a business history, an economic history, a maritime history, a history of 19th century ocean sailing, a history of the Forbes and Delano families, one of them birth the 32nd president of the United States, [Franklin Delano Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt).  
+Reading Notes:  I enjoyed this book. The Forbes and Delano families are at the center of this history of Americans who [smuggled opium](https://en.wikipedia.org/wiki/Clipper#Opium_clippers) into China and then (*because that generated profits and required knowledge about shipping/high seas sailing ships*) used their sailing-enabled business processes and wealth for high markup *commodities* across the globe. They amassed great generational fortunes.  Competition drove them to reduce the cycle-time of their global shipping schedules -- and helped drive technological change in mid-19th century high-speed merchant [clippers](https://en.wikipedia.org/wiki/Clipper#China_clipper). This is a business history, an economic history, a maritime history and a history of 19th century ocean sailing.  It is also a history of the Forbes and Delano families, one of them birth the 32nd president of the United States, [Franklin Delano Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt).  
 Examples:  
 [Paul Delano](https://en.wikipedia.org/wiki/Paul_Delano)  
 [Franklin Hughes Delano](https://en.wikipedia.org/wiki/Franklin_Hughes_Delano)  
@@ -5718,26 +5756,6 @@ Examples:
 >"A fascinating, fast-paced history...full of remarkable characters and incredible stories" about the nineteenth-century American dynasties who battled for dominance of the tea and opium trades (Nathaniel Philbrick, National Book Award–winning author of In the Heart of the Sea).  
 >There was a time, back when the United States was young and the robber barons were just starting to come into their own, when fortunes were made and lost importing luxury goods from China. It was a secretive, glamorous, often brutal business—one where teas and silks and porcelain were purchased with profits from the opium trade. But the journey by sea to New York from Canton could take six agonizing months, and so the most pressing technological challenge of the day became ensuring one's goods arrived first to market, so they might fetch the highest price.  
 >"With the verse of a natural dramatist" (The Christian Science Monitor), Steven Ujifusa tells the story of a handful of cutthroat competitors who raced to build the fastest, finest, most profitable clipper ships to carry their precious cargo to American shores. They were visionary, eccentric shipbuilders, debonair captains, and socially ambitious merchants with names like Forbes and Delano—men whose business interests took them from the cloistered confines of China's expatriate communities to the sin city decadence of Gold Rush-era San Francisco, and from the teeming hubbub of East Boston's shipyards and to the lavish sitting rooms of New York's Hudson Valley estates.  
-
-
-</details>
-
-
-
-<details>
-<summary><a name="invasive_procedures_by_orson_scott_card"></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
-
-### Invasive Procedures.  (11:50)  
-Audio: https://www.overdrive.com/media/145194/invasive-procedures  
-eBook: https://www.overdrive.com/media/512330/invasive-procedures  
-By [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)  (1951 – )  and [Aaron Johnson](https://en.wikipedia.org/wiki/Aaron_Johnston_(writer)) and [here](https://www.aaronwjohnston.com/about-me/)  ( – )  
-352 pages
-
-Reading Notes: This is **NOT** [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) (1985).  It is a formulaic [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) with few surprises. Evil scientist George Galen perfects human [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering) in secret, implements a carrier virus and accompanying processes to manipulate human traits and to cure genetic diseases (*each instance of individually-targeted "cure" is also deadly to everyone else*), creates a vaccine to protect against all his genetically-engineered viruses, invents and uses *micro-processor*-enabled/saliva triggered brainwashing to build a corp of "foot-soldiers" (*some he calls "healers" others are just his lackeys*) he needs to... (*rule the world?, it's not clear*).  The story's *hero* Frank Hartman created a *countervirus* for the Army and then he is *loaned* to the U.S. Biohazard Agency (BHA) where he passively follows orders to help find and neutralize the source of a *terrible* new virus (*Galen's carrier virus*) but is manipulated by BHA's leader, who is one of Galen's *tools* while concurrently being a genius/he-man leading Galen-prisoners on a daring escape and race to access his countervirus.  The story's heroine Dr. Monica Owens, a thorasic surgeon with a seven year old son is kidnapped by Galen to be his personal transplant surgeon, is saved by Hartman who, as the book ends, is starting his next journey with Dr. Owens as his love-interest.  I found the characters undeveloped, the dialog wooden, the science and technology unbelievable.  Overall the book was a disappointment -- with some of the action scenes and the hope of a satisfying end were enough to help me finish the book.  I can't recommend it -- there are so many other excellent books in which to invest your hours.  
-
-
-OverDrive Summary:  
->George Galen is a brilliant scientist, a pioneer in gene therapy. But Galen is dangerously insane. He has created a method to alter human DNA, not just to heal diseases but also to "improve people": make them stronger, make them able to heal more quickly...and make them compliant to his will.  Frank Hartman is also a brilliant virologist, working for the government's ultra-secret biohazard agency. He has discovered how to neutralize Galen's DNA-changing virus. Now he is the one man who stands in the way of Galen's plan to "improve" the entire human race.  This taut thriller takes the listener a few years into the future and shows the promise and danger of new genetic medicine techniques.  
 
 
 </details>
@@ -5796,7 +5814,7 @@ eBook: https://www.overdrive.com/media/11256357/everything-is-tuberculosis
 By [John Green](https://en.wikipedia.org/wiki/John_Green)  (1977 – )  
 
 Reading Notes: This book is about [tuberculosis](https://en.wikipedia.org/wiki/Tuberculosis) (*a curable disease*), the [leading cause of death from an infectious disease](https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate#Overview_table). The author argues that the disease is generally detectable and curable, but remains a scurge because of human choices.  Green outlines the history of how humans characterized *the disease* tuberculosis (*it had [many names](https://en.wikipedia.org/wiki/Tuberculosis#Names)*) and how given characterizations colored its treatment.  In addition, Green follows the course of the disease through the life of [Henry Reider](https://www.youtube.com/@Tuberculosis-l1jSurvivorHenry), a young tuberculosis patient Green met in 2019 at [Lakka Government Hospital](https://act.pih.org/lakka) in [Sierra Leone](https://en.wikipedia.org/wiki/Sierra_Leone). 
-The author and [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis) 1.23 million deaths in 2024 (roughly that many each year) or more than 100,000 people per month.  *I visualize that statistic as emptying 4 medium sized towns each month*, which makes it a crazy number.  100,000 humans lost to this disease each month is also a reason to communicate with our elected representatives to help them understand the importance of investing in hard science, public health and in the development and delivery of affordable diagnosis and treatment of infectious diseases, especially tuberculosis.  Read this book!  
+The author *and [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis)* document that earth experienced 1.23 million tuberculosis deaths in 2024 (roughly that many each year) or more than 100,000 people per month.  *I visualize that statistic as emptying 4 medium sized towns each month*, which makes it a crazy number.  100,000 humans lost to this disease each month is also a reason to communicate with our elected representatives to help them understand the importance of investing in hard science, public health and in the development and delivery of affordable diagnosis and treatment of infectious diseases, especially tuberculosis.  Read this book!  
 
 
 Wikipedia Summary: [wikipedia.org/wiki/Everything_Is_Tuberculosis](https://en.wikipedia.org/wiki/Everything_Is_Tuberculosis)  
