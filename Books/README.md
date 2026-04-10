@@ -542,7 +542,13 @@ The religion central to this story is "Earthseed."  Dr. Taylor Franklin Bankole 
 
 >Indenturing indigents, young and old, is much in fashion now.  [quoted from page 40]  
 
-> Others, whether we thought of them as friend or not, would be all too willing to join the mob and to stomp us and rob us if tomping and robbing became a test of courage or a test of loyalty to country, religion, or race.  [quoted from page 69]  
+>Others, whether we thought of them as friend or not, would be all too willing to join the mob and to stomp us and rob us if tomping and robbing became a test of courage or a test of loyalty to country, religion, or race.  [quoted from page 69]  
+
+>Praying is a very effective way of talking to yourself, of talking yourself into things, of focusing your attention on whatever it is you want to do. It can give you a feeling of control and help you stretch yourself beyond what you thought were your limits. ... It doesn't always work the way we want it to, but it's always worth the effort.  ...You're the one your words reach and strengthen.  You can think of it as praying to that part of God that's within you.  [quoted from pages 76-77]  
+
+>He (*Jarret*) does seem to enhoy calling people things like that. Once he's made everyong who isn't like him sound evil, then he can blame them for problems he knows they didn't cause.  That's easier than trying to fix the problems.  [quoted from page 77]  
+
+
 
 
 </details>
