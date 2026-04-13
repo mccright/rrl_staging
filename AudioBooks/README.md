@@ -1886,6 +1886,19 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen
 </details>
 
 
+<details><summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
+
+### The First Conspiracy -- The Secret Plot to Kill George Washington.  (11:00)  
+Audio: https://www.overdrive.com/media/3980793/the-first-conspiracy  
+eBook: https://www.overdrive.com/media/4147580/the-first-conspiracy  
+By [Brad Meltzer](https://en.wikipedia.org/wiki/Brad_Meltzer)  (1970 – ) and [Josh Mensch](https://www.joshmensch.com/about) (  -  )  
+
+Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(soldier)), one of George Washington's bodyguards, was court-martialed and found guilty of mutiny and sedition. Before a crowd of 20,000 soldiers and spectators in New York he was hanged on June 28, 1776.  This is the story of the secret plot against General George Washington and how it was revealed.  It is popular non-fiction history.  It includes battles, soldiers, spies, killers, counterfeiters, traitors and it is entertaining throughout.  
+
+
+</details>
+
+
 <details><summary><a name="first_lensman_e_e_smith"></a>First Lensman. (Second book in the Lensman Series) By E. E. Smith, 1950</summary>
 
 ### First Lensman (*Second book in the Lensman Series*) (11:12)  
@@ -5718,11 +5731,25 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name=""></a>Daniel Boone -- The Life and Legend of an American Pioneer. By John Mack Faragher. 1993/2008 </summary>
+
+### Daniel Boone -- The Life and Legend of an American Pioneer. (13:00)  
+Audio: https://www.overdrive.com/media/198396/daniel-boone  
+eBook: https://www.overdrive.com/media/1572713/daniel-boone  
+By [John Mack Faragher](https://en.wikipedia.org/wiki/John_Mack_Faragher)  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 <details>
 <summary><a name="suder_by_percival_everett"></a>Suder -- A Novel.  By Percival Everett. 1983/2025 </summary>
 
-### Empty_Template  
+### Suder -- A Novel.  (9:00)  
 Audio: https://www.overdrive.com/media/12016723/suder  
 eBook: https://www.overdrive.com/media/11667027/suder  
 By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
@@ -5820,24 +5847,6 @@ The author *and [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis)* documen
 Wikipedia Summary: [wikipedia.org/wiki/Everything_Is_Tuberculosis](https://en.wikipedia.org/wiki/Everything_Is_Tuberculosis)  
 
 </details>
-
-
-
-
-
-<details>
-<summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
-
-### The First Conspiracy -- The Secret Plot to Kill George Washington.  (11:00)  
-Audio: https://www.overdrive.com/media/3980793/the-first-conspiracy  
-eBook: https://www.overdrive.com/media/4147580/the-first-conspiracy  
-By [Brad Meltzer](https://en.wikipedia.org/wiki/Brad_Meltzer)  (1970 – ) and [Josh Mensch](https://www.joshmensch.com/about) (  -  )  
-
-Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(soldier)), one of George Washington's bodyguards, was court-martialed and found guilty of mutiny and sedition. Before a crowd of 20,000 soldiers and spectators in New York he was hanged on June 28, 1776.  This is the story of the secret plot against General George Washington and how it was revealed.  It is popular non-fiction history.  It includes battles, soldiers, spies, killers, counterfeiters, traitors and it is entertaining throughout.  
-
-
-</details>
-
 
 
 
