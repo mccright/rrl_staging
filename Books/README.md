@@ -548,6 +548,16 @@ The religion central to this story is "Earthseed."  Dr. Taylor Franklin Bankole 
 
 >He (*Jarret*) does seem to enhoy calling people things like that. Once he's made everyong who isn't like him sound evil, then he can blame them for problems he knows they didn't cause.  That's easier than trying to fix the problems.  [quoted from page 77]  
 
+>The election was on Tuesday, November 2.  Jarret won.  [quoted from page 87]  
+
+>(Jarret) thundered, "We are God's people, or we are filth!  We are God's people, or we are nothing.  We are God's people!  God's people! [quoted from page 88]  
+
+>They are the natural destroyers of our country.  They are lovers of Satan, seducers of our childern, rapists of our women, drug sellers, usurers, thieves, and murderers.!  And in the face of all that, what are we to them? Shall we live with them? Shall we let them continue to drag our country down into hell? Think! What do we do to weeds, to viruses, to parasitic worms, to cancers? What can we do to regain our stolen nation?  [quoted from pages 88-89]  
+
+>Olamina: "I'm pregnant!"  [quoted from page 90]  
+
+>Jarret preached that woman was to be treasured, honored, and protected, but that for her own sake, she must be silent and obey the will of her husband, father, brother, or adult son since they understood the world as she did not.  [quoted from page 101]  
+
 
 
 
