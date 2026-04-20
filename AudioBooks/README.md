@@ -5772,7 +5772,7 @@ Audio: https://www.overdrive.com/media/12016723/suder
 eBook: https://www.overdrive.com/media/11667027/suder  
 By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
 
-Reading Notes:   
+Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea) describes this book well.  I listened to the audio version and it is an entertaining presentation.  One additional observation/caution, though -- I sometimes had an uncomfortable impression that mental illness was part of the humor in this writing (*I could be wrong*).  Based on your life-experience, you may have a different response to the story-telling in "Suder."  
 
 [OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
 >It's the middle of the season and the third baseman for the Seattle Mariners, Craig Suder, is in the midst of an inescapable slump. On top of that, his wife has been keeping her distance and Suder can't shake the creeping fear that he might have inherited his mother's insanity. That's when his team suggests he might enjoy a little break.  
