@@ -1603,7 +1603,7 @@ Audio: https://www.overdrive.com/media/11220603/the-dream-hotel
 eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
 By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
 
-Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people available in the U.S. and apply a risk score to each (*loosely analogous to your FICO score, but with a different mission*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison*, the broader societal mission and the corporate & facility missions are wildly misaligned.  The corporate owners of the facilities depend on detainees complying with their business model that assumes detainees will perform outsourced labor without pay.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  In that context there were vinettes throughout the story that I found involuntarily repulsive.  Other threads in this story also were both so awful and so *believable* that they lingered in my imagination long after I stopped reading.  For example, police already subscribe to "*propensity for committing crimes*" services (*that don't believe -- yet -- incorporate dream-reading implants, but are applied at the "neighborhood" level, or maybe lower today*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime identification, detention and analysis services* described in this story.  
+Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people available in the U.S. and apply a risk score to each (*loosely analogous to your FICO score, but with a different mission*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison*, the broader societal mission and the corporate & facility missions are wildly misaligned.  The corporate owners of the facilities depend on detainees complying with their business model that assumes detainees will perform outsourced labor without pay.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  In that context there were vinettes throughout the story that I found involuntarily repulsive.  Other threads in this story also were both so awful and so *believable* that they lingered in my imagination long after I stopped reading.  For example, police already subscribe to "*propensity for committing crimes*" services (*that don't, I believe -- yet -- incorporate dream-reading implants, but are applied at the "neighborhood" level, or maybe lower today*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime identification, detention and analysis services* described in this story.  
 
 Wikipedia Summary:  
 >Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity for committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
@@ -5759,6 +5759,28 @@ Reading Notes:
 
 </details>
 
+
+
+
+
+<details>
+<summary><a name="london_falling_by_patrick_radden_keefe"></a>London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth. By Patrick Radden Keefe  </summary>
+
+### London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth.  (:)  
+Audio: https://www.overdrive.com/media/12137399/london-falling  
+eBook: https://www.overdrive.com/media/12097246/london-falling  
+By [Patrick Radden Keefe](https://en.wikipedia.org/wiki/Patrick_Radden_Keefe)  (1976 – )  
+
+Reading Notes: The author examines the mysterious death of teenager Zac Brettler in London, and explores connections to the city's underworld.  [Zac Brettler](https://en.wikipedia.org/wiki/Death_of_Zac_Brettler) (2000–2019) was a teenager who had posed as the son of a Russian oligarch with the alias Zac Ismailov and fell (*or jumped*) to his death in London on the early morning of 29 November 2019 -- at the time he had £4 in his bank account. He was recorded on CCTV leaping from the balcony of a fifth floor apartment owned by [Verinder "Dave" Sharma](https://www.standard.co.uk/news/london/verinder-sharma-death-inquest-indian-dave-zac-brettler-millbank-chelsea-b1152057.html) (51), a debt collector with gangland ties, [sometimess called a gangland enforcer](https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler) (*AKA: 'Indian Dave'*). A pathologist stated that Brettler had a broken jaw, which could not be explained by the fall. An inquest into Zac Brettler’s death concluded with an ‘open verdict’ in 2022 with the [coroner stating plainly](): "I don't know what happened."  
+Zac Brettler’s parents Matthew and Rachelle pursued explainations and answers about their son’s death and what led up to it.  
+Sharma died a year later from a drug overdose.  
+  ...crypto millionaire Akbar Shamji (*who had declared bankruptcy in 2019*)  
+
+[OverDrive Summary](https://www.overdrive.com/media/12097246/london-falling)  
+
+Interview with the author, Patrick Radden Keefe: [theguardian.com/...london-falling-patrick-radden-keefe](https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler)  
+
+</details>
 
 
 
