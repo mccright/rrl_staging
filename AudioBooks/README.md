@@ -5778,6 +5778,8 @@ Sharma died a year later from a drug overdose.
 
 [OverDrive Summary](https://www.overdrive.com/media/12097246/london-falling)  
 
+Review By Jennifer Szalai: [nytimes.com/...london-falling-patrick-radden-keefe](https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html)  
+
 Interview with the author, Patrick Radden Keefe: [theguardian.com/...london-falling-patrick-radden-keefe](https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler)  
 
 </details>
