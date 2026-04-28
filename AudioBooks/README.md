@@ -3429,7 +3429,7 @@ Audio: https://librivox.org/the-man-who-lost-himself-by-h-de-vere-stacpoole/
 eBook: https://www.overdrive.com/media/424906/the-man-who-lost-himself  
 By [H. De Vere (Henry De Vere) Stacpoole](https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole)  (1863 - 1951)  
 
-Reading Notes: I enjoyed this early 20th century madcap critique of British aristocracy.  Failed American businessman Victor Jones found himself penniless and stranded in London when he meets his Doppelgänger, a British aristocrat, the Earl of Rochester.  Rochester "liquors him up" and Jones wakes up in a posh mansion being called the Earl of Rochester.  Meanwhile the Earl, dressed in Jones' clothes, kills himself after sending a note to Jones telling him the switch was intentional.  Jones discovers -- as Rochester -- that he has been a fool, is deeply in debt, has *fallen out* of polite society and is surrounded by a range of rogues and corrupt individuals. Jones, needing funds and hoping to recover some of "*his*" name, recovers 8,000 pounds from a trio blackmailing him, then the equivalent of one million pounds from another. Then he confesses his situation to his family. They drug him and send him to a lunatic asylum. He escapes. And he finally (re)marries Rochester's wife and lives happily ever after.  
+Reading Notes: I enjoyed this early 20th century critique of British aristocracy.  Failed American businessman Victor Jones found himself penniless and stranded in London when he meets his Doppelgänger, a British aristocrat, the Earl of Rochester.  Rochester "liquors him up" and Jones wakes up in a posh mansion being called the Earl of Rochester.  Meanwhile the Earl, dressed in Jones' clothes, kills himself after sending a note to Jones telling him the switch was intentional.  Jones discovers -- as Rochester -- that he has been a fool, is deeply in debt, has *fallen out* of polite society and is surrounded by a range of rogues and corrupt individuals. Jones, needing funds and hoping to recover some of "*his*" name, recovers £8,000 from a trio blackmailing him, then the equivalent of £1,000,000 from another. Then he confesses his situation to his family. They drug him and send him to a lunatic asylum. He escapes. And he finally (re)marries Rochester's wife and lives happily ever after.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Man_Who_Lost_Himself](https://en.wikipedia.org/wiki/The_Man_Who_Lost_Himself_(novel))  
 
@@ -5102,6 +5102,24 @@ Reading Notes: Written as if it were authored in the late 1920s or early 1930s, 
 </details>
 
 
+<details><summary><a name="suder_by_percival_everett"></a>Suder -- A Novel.  By Percival Everett. 1983/2025 </summary>
+
+### Suder -- A Novel.  (9:00)  
+Audio: https://www.overdrive.com/media/12016723/suder  
+eBook: https://www.overdrive.com/media/11667027/suder  
+By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
+
+Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea) describes this book well.  I listened to the audio version and it is an entertaining presentation.  One additional observation/caution, though -- I sometimes had an uncomfortable impression that mental illness was part of the humor in this writing (*I could be wrong*).  Based on your life-experience, you may have a different response to the story-telling in "Suder."  
+
+[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
+>It's the middle of the season and the third baseman for the Seattle Mariners, Craig Suder, is in the midst of an inescapable slump. On top of that, his wife has been keeping her distance and Suder can't shake the creeping fear that he might have inherited his mother's insanity. That's when his team suggests he might enjoy a little break.  
+>What's a man to do pack up the essentials—his record player, Charlie Parker's "Ornithology," and a saxophone—and hit the road? What ensues is the adventure of a lifetime. Haunted by his past as a young black boy in the South, and soon on the run from some less-than-savory individuals, Suder soon finds himself in curious company—including a little white girl and a pet elephant. Epic, thrilling, and utterly alive, Suder takes us on a whirlwind journey through the joys, the sorrows, and the madness that make up a life.  
+>First published in 1983 by Louisianna State University Press, Suder marked the debut of an iconic American voice.  
+
+
+</details>
+
+
 <details><summary><a name="the_sun_also_rises"></a>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
 
 ### The Sun Also Rises.  (6:43)  
@@ -5615,6 +5633,19 @@ Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-
 </details>
 
 
+<details><summary><a name="what_lies_in_the_woods_by_kate_alice_marshall"></a>What Lies in the Woods.  By Kate Alice Marshall. 2023 </summary>
+
+### What Lies in the Woods.  (11:00)  
+Audio: https://www.overdrive.com/media/8916846/what-lies-in-the-woods  
+eBook: https://www.overdrive.com/media/8906377/what-lies-in-the-woods  
+By [Kate Alice Marshall](https://katemarshallbooks.com/about/)  ( – )  
+
+Reading Notes: This was not the most satisfying "*[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story for me.  Thirty three year old Naomi Shaw carried seventeen stab wounds from an attack when she was eleven.  She lived and identified her attacker -- a serial killer -- and he was convicted for attacking her and spent the last 22 years of his life in prison.  Then questions about the attack surfaced and Naomi needs to identify exactly what happened that day when she was attacked.  The rest of the story was just kind of *flat* to me.  There were a range of characters, conflicts and plot twists -- maybe it will work for you.  
+
+
+</details>
+
+
 <details><summary><a name="what_we_can_know_by_ian_mcewan"></a>What We Can Know. By Ian McEwan. 2025 </summary>
 
 ### What We Can Know.  (11:00)  
@@ -5760,6 +5791,7 @@ Reading Notes:
 </details>
 
 
+On the calculation of volume.  
 
 
 
@@ -5786,25 +5818,6 @@ Interview with the author, Patrick Radden Keefe: [theguardian.com/...london-fall
 
 
 
-
-
-<details>
-<summary><a name="suder_by_percival_everett"></a>Suder -- A Novel.  By Percival Everett. 1983/2025 </summary>
-
-### Suder -- A Novel.  (9:00)  
-Audio: https://www.overdrive.com/media/12016723/suder  
-eBook: https://www.overdrive.com/media/11667027/suder  
-By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
-
-Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea) describes this book well.  I listened to the audio version and it is an entertaining presentation.  One additional observation/caution, though -- I sometimes had an uncomfortable impression that mental illness was part of the humor in this writing (*I could be wrong*).  Based on your life-experience, you may have a different response to the story-telling in "Suder."  
-
-[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
->It's the middle of the season and the third baseman for the Seattle Mariners, Craig Suder, is in the midst of an inescapable slump. On top of that, his wife has been keeping her distance and Suder can't shake the creeping fear that he might have inherited his mother's insanity. That's when his team suggests he might enjoy a little break.  
->What's a man to do pack up the essentials—his record player, Charlie Parker's "Ornithology," and a saxophone—and hit the road? What ensues is the adventure of a lifetime. Haunted by his past as a young black boy in the South, and soon on the run from some less-than-savory individuals, Suder soon finds himself in curious company—including a little white girl and a pet elephant. Epic, thrilling, and utterly alive, Suder takes us on a whirlwind journey through the joys, the sorrows, and the madness that make up a life.  
->First published in 1983 by Louisianna State University Press, Suder marked the debut of an iconic American voice.  
-
-
-</details>
 
 
 
