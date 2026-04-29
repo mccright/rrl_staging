@@ -558,6 +558,17 @@ The religion central to this story is "Earthseed."  Dr. Taylor Franklin Bankole 
 
 >Jarret preached that woman was to be treasured, honored, and protected, but that for her own sake, she must be silent and obey the will of her husband, father, brother, or adult son since they understood the world as she did not.  [quoted from page 101]  
 
+>"We call our system Earthseed." I (Olamina) said (to her brother Marcus Olamina, AKA Marcos Duran). "My actual title is 'Shaper.'"  [quoted from page 126]  
+
+>(President Andrew Jarret is) so good at asking nasty rhetorical questions -- so good at encouraging young men -- not young women, only men -- to "Do your duty, to your country and to yourselves. Prove yourselves men worthy to be called good Christian American soldiers.  [quoted from page 155]  
+
+>Marc has gone.  He left yesterday with the Peraltas. ...Esteban Peralta is going to enlist in the army. ...They don't believe Jarret's a fascist.  [quoted from page 157]  
+
+>My brother (Marc) used to despise Jarret. Now he says Jarret is just what America needs.  [quoted from page 158]  
+
+>Friday, July 22, 2033.  On July 20, I (Olamina) turned 24.  More important, on that day my daughter Larkin Beryl Ife Olamina Bankole was born.  [quoted from page 171]  
+
+
 
 
 
