@@ -5796,6 +5796,26 @@ On the calculation of volume.
 
 
 <details>
+<summary><a name="48_hours_by_william_r_forstchen"></a>48 Hours. By William R. Forstchen. 2019 </summary>
+
+### 48 Hours.  (11:00)  
+Audio: https://www.overdrive.com/media/3590191/48-hours  
+eBook: https://www.overdrive.com/media/5217523/48-hours  
+By [William R. Forstchen](https://en.wikipedia.org/wiki/William_R._Forstchen)  (1950 – )  
+
+Reading Notes:   
+
+
+[OverDrive Summary]():  
+>In forty-eight hours, the earth will be hit by a coronal mass ejection (CME) from the sun, a "Carrington Event" that has the power to shut down and possibly destroy the world's electrical infrastructure. To try and prevent permanent damage, everything goes dark prior to the hit: global communications are shut down; hospital emergency generators are disconnected; the entire internet, media broadcasting, and cell phone systems are turned off. Will the world's population successfully defend itself in the wake of the CME, or will mass panic lead to the breakdown of society as we know it? William R. Forstchen is at his best in 48 Hours, a tale of the resilience of American citizens when faced with a crisis.
+
+
+</details>
+
+
+
+
+<details>
 <summary><a name="london_falling_by_patrick_radden_keefe"></a>London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth. By Patrick Radden Keefe  </summary>
 
 ### London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth.  (:)  
