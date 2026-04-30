@@ -5803,10 +5803,10 @@ Audio: https://www.overdrive.com/media/3590191/48-hours
 eBook: https://www.overdrive.com/media/5217523/48-hours  
 By [William R. Forstchen](https://en.wikipedia.org/wiki/William_R._Forstchen)  (1950 – )  
 
-Reading Notes:   
+Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours) is accurate as far as it goes.  The apocalyptic novel is also a modern [morality play](https://en.wikipedia.org/wiki/Morality_play) (*mostly [Christian ethics](https://en.wikipedia.org/wiki/Christian_ethics)*).  The heroes in Missouri are a former soldier and his gun-building wife.  They attempt to save Springfield Missouri’s children by gathering them in a massive underground former quarry, now a warehouse, in the southwestern Missouri hills.  Another plot thread takes place in the U.S. White House centered around the President and a NASA scientist.  
 
 
-[OverDrive Summary]():  
+[OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours):  
 >In forty-eight hours, the earth will be hit by a coronal mass ejection (CME) from the sun, a "Carrington Event" that has the power to shut down and possibly destroy the world's electrical infrastructure. To try and prevent permanent damage, everything goes dark prior to the hit: global communications are shut down; hospital emergency generators are disconnected; the entire internet, media broadcasting, and cell phone systems are turned off. Will the world's population successfully defend itself in the wake of the CME, or will mass panic lead to the breakdown of society as we know it? William R. Forstchen is at his best in 48 Hours, a tale of the resilience of American citizens when faced with a crisis.
 
 
