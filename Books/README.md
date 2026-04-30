@@ -568,7 +568,18 @@ The religion central to this story is "Earthseed."  Dr. Taylor Franklin Bankole 
 
 >Friday, July 22, 2033.  On July 20, I (Olamina) turned 24.  More important, on that day my daughter Larkin Beryl Ife Olamina Bankole was born.  [quoted from page 171]  
 
+>"We are at the beginning, I (Oliver) said, thinking as I spoke.  "It's as though Eatchseed is only an infant like Larkin -- 'one small seed.'  Right now we would be so very easy to stamp out.  That terrifies me.  That's why we have to glow and spread -- to make ourselves less vulnerable."  ..."I'm no more likely ot leave Acorn now than I am to leave Larkin."  [quoted from page 177]  
 
+>"This country is over 250 years old." I (Olamina) said.  "It's had bad leaders before.  It survived them."  ..."We'll do what we have to do, no matter who's warming the chair in the oval office. What choice do we have?"  [quoted from page 178]  
+
+>"This is like nothing we've faced before." Bankole's shoulders slumped, and he signed.  "I don't know that this country has ever had a leader as bad as Jarret or as bad as Jarret might turn out to be."  [quoted from page 178]  
+
+>"If we're to be anything other than smooth dinosaurs who evolve, specialize, and die, we need the stars."  ..."When we have no difficult, long-term purpose to strive toward, we fight each other.  We destroy ourselves.  We have these chaotic, apocalyptic periods of murderous craziness."  [quoted from page 179]  
+
+>September 2033.  Now people with croses have come and put slave collars on us.  [quoted from page 190]  
+
+
+***Stopped reading (temporarily) on page 190 -- will return to this book soon.  
 
 
 
