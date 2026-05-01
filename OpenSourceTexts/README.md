@@ -304,6 +304,26 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 </details>
 
 
+<details>
+<summary><a name="a_short_history_of_germany_by_mary_platt_parmele"></a>A Short History of Germany. By Mary Platt Parmele. 1898  </summary>
+
+### A Short History of Germany. (3:38)  
+Audio: https://librivox.org/a-short-history-of-germany-mary-parmele/  
+eBook: https://www.gutenberg.org/ebooks/34397  
+By [Mary Platt Parmele](https://en.wikipedia.org/wiki/Mary_Platt_Parmele)  (1843 – 1911)  
+
+Reading Notes: I don't know what to say about this book.  It is just not good.  It is heavily invested in failed science about *race* and racist assumptions.  Life is short -- read something else.  
+I read part of this book and then listened to the rest.  Neither approach helped or added value to the text.  
+
+Librivox Summary:  
+>Mary Platt Parmele brings to life the history of Germany and its rise to prominence in Europe. From scheming nobles to treaties created under the guise of peace, the reader is transported to the years before a cohesive group of city-states that became Germany. She shows us how the power of the Catholic Church stoked the fires of revolution, and caused the great schism between the Catholic people and the newly forming Protestant sects. The book begins by discussing the origins of the Aryan race (framed as describing people of Indo-European heritage as a racial grouping, or distinctive race/sub-race of the Caucasians) and ends around 1871 when Germany was united after defeating Napoleon.  
+
+Project Gutenberg (*automatically generated summary*):  
+>"A Short History of Germany" by Mary Platt Parmele is a historical account written in the late 19th century. It explores the development of the German nation from its ancient roots through various historical events, highlighting the significance of the forces shaping its identity and territory. The book aims to trace the evolution of Germany as a unified nation, focusing on key figures and moments that have contributed to its progress. At the start of this work, the author emphasizes the importance of understanding Germany's foundational history to grasp its present. She discusses the Aryan origins of the German people and outlines the migrations that brought them to the land known today as Germany. The narrative begins with the ancient tribes, such as the Teutons and Goths, and sets the stage for significant events, including Hermann's resistance against Roman conquest and the social dynamics of early Germanic tribes. Parmele's detailed examination prompts readers to consider how these early historical threads weave together to form modern Germany.  
+
+</details>
+
+
 <details><summary><a name="the_silent_baltic_by_marcus_knox"></a>The Silent Baltic or, Detained Near Kiel. by Marcus Knox. 1914  </summary>
 
 ### The Silent Baltic or, Detained Near Kiel.  
@@ -398,28 +418,6 @@ Reading Notes:
 
 Project Gutenberg automatically generated [Summary](https://www.gutenberg.org/ebooks/22046):  
 >"Maxim Gorki" by Hans Ostwald is a literary biography written in the early 20th century. The book explores the life and works of the prominent Russian author [Maksim Gorky (Alexei Maximovich Peshkov)](https://en.wikipedia.org/wiki/Maxim_Gorky), whose writing embodies the struggles of the lower classes in Russian society. Ostwald provides insights into Gorky’s rise from his humble beginnings to becoming a celebrated figure in literature, highlighting the social and cultural context of his time. The narrative delves into Gorky's childhood, marked by hardship and loss, which laid the foundation for his later literary themes of poverty and resilience. It discusses his early struggles as he navigated life as a vagrant and factory worker before eventually finding his voice as a writer. The book also analyzes Gorky’s literary contributions, including his unique portrayal of marginalized figures, and examines the impact of his liberating ideals on Russian literature and society. Ostwald presents Gorky as a pivotal figure in the modern literary movement, advocating for a deeper understanding of humanity through the lens of the downtrodden and disenfranchised.  
-
-</details>
-
-
-
-
-
-<details>
-<summary><a name="a_short_history_of_germany_by_mary_platt_parmele"></a>A Short History of Germany. By Mary Platt Parmele. 1898  </summary>
-
-### A Short History of Germany. (3:38)  
-Audio: https://librivox.org/a-short-history-of-germany-mary-parmele/  
-eBook: https://www.gutenberg.org/ebooks/34397  
-By [Mary Platt Parmele](https://en.wikipedia.org/wiki/Mary_Platt_Parmele)  (1843 – 1911)  
-
-Reading Notes:   
-
-Librivox Summary:  
->Mary Platt Parmele brings to life the history of Germany and its rise to prominence in Europe. From scheming nobles to treaties created under the guise of peace, the reader is transported to the years before a cohesive group of city-states that became Germany. She shows us how the power of the Catholic Church stoked the fires of revolution, and caused the great schism between the Catholic people and the newly forming Protestant sects. The book begins by discussing the origins of the Aryan race (framed as describing people of Indo-European heritage as a racial grouping, or distinctive race/sub-race of the Caucasians) and ends around 1871 when Germany was united after defeating Napoleon.  
-
-Project Gutenberg (*automatically generated summary*):  
->"A Short History of Germany" by Mary Platt Parmele is a historical account written in the late 19th century. It explores the development of the German nation from its ancient roots through various historical events, highlighting the significance of the forces shaping its identity and territory. The book aims to trace the evolution of Germany as a unified nation, focusing on key figures and moments that have contributed to its progress. At the start of this work, the author emphasizes the importance of understanding Germany's foundational history to grasp its present. She discusses the Aryan origins of the German people and outlines the migrations that brought them to the land known today as Germany. The narrative begins with the ancient tribes, such as the Teutons and Goths, and sets the stage for significant events, including Hermann's resistance against Roman conquest and the social dynamics of early Germanic tribes. Parmele's detailed examination prompts readers to consider how these early historical threads weave together to form modern Germany.  
 
 </details>
 
