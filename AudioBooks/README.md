@@ -4889,7 +4889,8 @@ Audio: https://librivox.org/a-short-history-of-germany-mary-parmele/
 eBook: https://www.gutenberg.org/ebooks/34397  
 By [Mary Platt Parmele](https://en.wikipedia.org/wiki/Mary_Platt_Parmele)  (1843 – 1911)  
 
-Reading Notes: I don't know what to say about this book.  It is just not good.  Read something else.  
+Reading Notes: I don't know what to say about this book.  It is just not good.  It is heavily invested in failed science about *race* and racist assumptions.  Life is short -- read something else.  
+I read part of this book and then listened to the rest.  Neither approach helped or added value to the text.  
 
 Librivox Summary:  
 >Mary Platt Parmele brings to life the history of Germany and its rise to prominence in Europe. From scheming nobles to treaties created under the guise of peace, the reader is transported to the years before a cohesive group of city-states that became Germany. She shows us how the power of the Catholic Church stoked the fires of revolution, and caused the great schism between the Catholic people and the newly forming Protestant sects. The book begins by discussing the origins of the Aryan race (framed as describing people of Indo-European heritage as a racial grouping, or distinctive race/sub-race of the Caucasians) and ends around 1871 when Germany was united after defeating Napoleon.  
