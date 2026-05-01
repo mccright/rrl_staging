@@ -75,6 +75,23 @@ Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-
 </details>
 
 
+<details><summary><a name="48_hours_by_william_r_forstchen"></a>48 Hours. By William R. Forstchen. 2019 </summary>
+
+### 48 Hours.  (11:00)  
+Audio: https://www.overdrive.com/media/3590191/48-hours  
+eBook: https://www.overdrive.com/media/5217523/48-hours  
+By [William R. Forstchen](https://en.wikipedia.org/wiki/William_R._Forstchen)  (1950 – )  
+
+Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours) is accurate as far as it goes.  The apocalyptic novel is also a modern [morality play](https://en.wikipedia.org/wiki/Morality_play) (*emphasizing [Christian ethics](https://en.wikipedia.org/wiki/Christian_ethics)*).  The heroes in Missouri are a former soldier and his gun-customizing wife.  They attempt to save Springfield Missouri’s children by gathering them in a massive underground former quarry, now a warehouse, in the southwestern Missouri hills.  Another plot thread takes place in the U.S. White House centered around the President and a NASA scientist.  
+
+
+[OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours):  
+>In forty-eight hours, the earth will be hit by a coronal mass ejection (CME) from the sun, a "Carrington Event" that has the power to shut down and possibly destroy the world's electrical infrastructure. To try and prevent permanent damage, everything goes dark prior to the hit: global communications are shut down; hospital emergency generators are disconnected; the entire internet, media broadcasting, and cell phone systems are turned off. Will the world's population successfully defend itself in the wake of the CME, or will mass panic lead to the breakdown of society as we know it? William R. Forstchen is at his best in 48 Hours, a tale of the resilience of American citizens when faced with a crisis.
+
+
+</details>
+
+
 <details><summary><a name="620_man_david_baldacci"></a>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
 
 ### The 6:20 Man -- A Thriller. (10:00)  
@@ -4864,6 +4881,25 @@ The interesting biography of William Falconer was more enjoyable than the extens
 </details>
 
 
+<details>
+<summary><a name="a_short_history_of_germany_by_mary_platt_parmele"></a>A Short History of Germany. By Mary Platt Parmele. 1898  </summary>
+
+### A Short History of Germany. (3:38)  
+Audio: https://librivox.org/a-short-history-of-germany-mary-parmele/  
+eBook: https://www.gutenberg.org/ebooks/34397  
+By [Mary Platt Parmele](https://en.wikipedia.org/wiki/Mary_Platt_Parmele)  (1843 – 1911)  
+
+Reading Notes: I don't know what to say about this book.  It is just not good.  Read something else.  
+
+Librivox Summary:  
+>Mary Platt Parmele brings to life the history of Germany and its rise to prominence in Europe. From scheming nobles to treaties created under the guise of peace, the reader is transported to the years before a cohesive group of city-states that became Germany. She shows us how the power of the Catholic Church stoked the fires of revolution, and caused the great schism between the Catholic people and the newly forming Protestant sects. The book begins by discussing the origins of the Aryan race (framed as describing people of Indo-European heritage as a racial grouping, or distinctive race/sub-race of the Caucasians) and ends around 1871 when Germany was united after defeating Napoleon.  
+
+Project Gutenberg (*automatically generated summary*):  
+>"A Short History of Germany" by Mary Platt Parmele is a historical account written in the late 19th century. It explores the development of the German nation from its ancient roots through various historical events, highlighting the significance of the forces shaping its identity and territory. The book aims to trace the evolution of Germany as a unified nation, focusing on key figures and moments that have contributed to its progress. At the start of this work, the author emphasizes the importance of understanding Germany's foundational history to grasp its present. She discusses the Aryan origins of the German people and outlines the migrations that brought them to the land known today as Germany. The narrative begins with the ancient tribes, such as the Teutons and Goths, and sets the stage for significant events, including Hermann's resistance against Roman conquest and the social dynamics of early Germanic tribes. Parmele's detailed examination prompts readers to consider how these early historical threads weave together to form modern Germany.  
+
+</details>
+
+
 <details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
 
 ### The Small Bachelor  (6:36)  
@@ -5793,24 +5829,6 @@ Reading Notes:
 
 On the calculation of volume.  
 
-
-
-<details>
-<summary><a name="48_hours_by_william_r_forstchen"></a>48 Hours. By William R. Forstchen. 2019 </summary>
-
-### 48 Hours.  (11:00)  
-Audio: https://www.overdrive.com/media/3590191/48-hours  
-eBook: https://www.overdrive.com/media/5217523/48-hours  
-By [William R. Forstchen](https://en.wikipedia.org/wiki/William_R._Forstchen)  (1950 – )  
-
-Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours) is accurate as far as it goes.  The apocalyptic novel is also a modern [morality play](https://en.wikipedia.org/wiki/Morality_play) (*mostly [Christian ethics](https://en.wikipedia.org/wiki/Christian_ethics)*).  The heroes in Missouri are a former soldier and his gun-building wife.  They attempt to save Springfield Missouri’s children by gathering them in a massive underground former quarry, now a warehouse, in the southwestern Missouri hills.  Another plot thread takes place in the U.S. White House centered around the President and a NASA scientist.  
-
-
-[OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours):  
->In forty-eight hours, the earth will be hit by a coronal mass ejection (CME) from the sun, a "Carrington Event" that has the power to shut down and possibly destroy the world's electrical infrastructure. To try and prevent permanent damage, everything goes dark prior to the hit: global communications are shut down; hospital emergency generators are disconnected; the entire internet, media broadcasting, and cell phone systems are turned off. Will the world's population successfully defend itself in the wake of the CME, or will mass panic lead to the breakdown of society as we know it? William R. Forstchen is at his best in 48 Hours, a tale of the resilience of American citizens when faced with a crisis.
-
-
-</details>
 
 
 
@@ -7070,6 +7088,8 @@ Librivox Summary:
 https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
 Text:  https://www.gutenberg.org/ebooks/66451  
 By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
+
+Reading Notes: This is an interesting "*history*" of late 19th and early 20th century spiritualism by famous *magician* [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini).  
 
 Librivox Summary:  
 >Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/))  
