@@ -5814,7 +5814,22 @@ Reading Notes:
 </details>
 
 
+Frozen River.  
 On the calculation of volume.  
+
+
+<details>
+<summary><a name=""></a>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:   
+
+
+</details>
 
 
 
@@ -5822,16 +5837,18 @@ On the calculation of volume.
 <details>
 <summary><a name="the_endless_vessel_by_charles_soule"></a>The Endless Vessel -- A Novel. By Charles Soule. 2023  </summary>
 
-### The Endless Vessel -- A Novel.  (13:14)  
+### The Endless Vessel -- A Novel.  (13:15)  
 Audio: https://www.overdrive.com/media/9203759/the-endless-vessel  
 eBook: https://www.overdrive.com/media/9191336/the-endless-vessel  
 By [Charles Soule](https://en.wikipedia.org/wiki/Charles_Soule) and [here](https://www.charlessoule.com/about)  ( – )  
 
-Reading Notes: This story incorporates a range of themes -- Science Fiction, Fiction, Fantasy, Dystopia, Thriller and Time Travel.  
+Reading Notes: This story incorporates a range of themes -- Dystopia, Science Fiction, Fiction, Fantasy, **Dystopia,** Thriller and Time Travel. I think that this is a fine story, well told -- and well worth a read.  Not everyone agrees.  There are a broad range of reactions to this book on [Goodreads](https://www.goodreads.com/book/show/62080151-the-endless-vessel) if you are interested in what others thought.  
 * Materials engineer Lily Barnes  
 * Neuro-scientist Frederick Barns  
 * Adriana Barns Ramos, wife of Frederick Barns  
+* Luis Petrona, *messenger* from the Echo Forest  
 * Peter Match, famous singer  
+* Aunt Jane, leader of the Joy Joy Team  
 * Ezra Montain, the author of the Dispair Manifesto  
 
 OverDrive [Summary](https://www.overdrive.com/media/9191336/the-endless-vessel):  
