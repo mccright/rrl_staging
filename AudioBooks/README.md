@@ -3439,20 +3439,6 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
-<details><summary><a name="the_man_who_lost_himself_by_h_de_vere_stacpoole"></a>The Man Who Lost Himself. By H. De Vere (Henry De Vere) Stacpoole. 1918  </summary>
-
-### The Man Who Lost Himself.  (8:16) 
-Audio: https://librivox.org/the-man-who-lost-himself-by-h-de-vere-stacpoole/  
-eBook: https://www.overdrive.com/media/424906/the-man-who-lost-himself  
-By [H. De Vere (Henry De Vere) Stacpoole](https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole)  (1863 - 1951)  
-
-Reading Notes: I enjoyed this early 20th century critique of British aristocracy.  Failed American businessman Victor Jones found himself penniless and stranded in London when he meets his Doppelgänger, a British aristocrat, the Earl of Rochester.  Rochester "liquors him up" and Jones wakes up in a posh mansion being called the Earl of Rochester.  Meanwhile the Earl, dressed in Jones' clothes, kills himself after sending a note to Jones telling him the switch was intentional.  Jones discovers -- as Rochester -- that he has been a fool, is deeply in debt, has *fallen out* of polite society and is surrounded by a range of rogues and corrupt individuals. Jones, needing funds and hoping to recover some of "*his*" name, recovers £8,000 from a trio blackmailing him, then the equivalent of £1,000,000 from another. Then he confesses his situation to his family. They drug him and send him to a lunatic asylum. He escapes. And he finally (re)marries Rochester's wife and lives happily ever after.  
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Man_Who_Lost_Himself](https://en.wikipedia.org/wiki/The_Man_Who_Lost_Himself_(novel))  
-
-</details>
-
-
 <details><summary><a name="mans_search_for_meaning_by_viktor_e_frankl"></a>Man's Search for Meaning -- An Introduction to Logotherapy. By Viktor E. Frankl. 1959/2010  </summary>
 
 ### Man's Search for Meaning -- An Introduction to Logotherapy. (5:00)  
@@ -5828,14 +5814,54 @@ Reading Notes:
 </details>
 
 
+Frozen River.  
 On the calculation of volume.  
 
+
+<details>
+<summary><a name=""></a>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:   
+
+
+</details>
 
 
 
 
 <details>
-<summary><a name="london_falling_by_patrick_radden_keefe"></a>London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth. By Patrick Radden Keefe  </summary>
+<summary><a name="the_endless_vessel_by_charles_soule"></a>The Endless Vessel -- A Novel. By Charles Soule. 2023  </summary>
+
+### The Endless Vessel -- A Novel.  (13:15)  
+Audio: https://www.overdrive.com/media/9203759/the-endless-vessel  
+eBook: https://www.overdrive.com/media/9191336/the-endless-vessel  
+By [Charles Soule](https://en.wikipedia.org/wiki/Charles_Soule) and [here](https://www.charlessoule.com/about)  ( – )  
+
+Reading Notes: This story incorporates a range of themes -- Dystopia, Science Fiction, Fiction, Fantasy, **Dystopia,** Thriller and Time Travel. I think that this is a fine story, well told -- and well worth a read.  Not everyone agrees.  There are a broad range of reactions to this book on [Goodreads](https://www.goodreads.com/book/show/62080151-the-endless-vessel) if you are interested in what others thought.  
+* Materials engineer Lily Barnes  
+* Neuro-scientist Frederick Barns  
+* Adriana Barns Ramos, wife of Frederick Barns  
+* Luis Petrona, *messenger* from the Echo Forest  
+* Peter Match, famous singer  
+* Aunt Jane, leader of the Joy Joy Team  
+* Ezra Montain, the author of the Dispair Manifesto  
+
+OverDrive [Summary](https://www.overdrive.com/media/9191336/the-endless-vessel):  
+>A few years from now, in a world similar to ours, there exists a sort of "depression plague" that people refer to simply as "The Grey." No one can predict whom it will afflict, or how, but once infected, there's no coming back.  A young Hong Kong based scientist, Lily Barnes, is trying to maintain her inner light in an increasingly dark world. The human race is dwindling, and people fighting to push forward are increasingly rare. One day, Lily comes across something that seems to be addressing her directly, calling to her, asking her to follow a path to whatever lies at its end. Is this the Endless Vessel to happiness? She leaves her life behind and sets out through time and space to find out.  From its opening heart-stopping scene in the present day at the Louvre in Paris, through the earthly meetings between Lily and her loved ones past and present, to a shocking and satisfying conclusion in a truly enchanted forest, Charles Soule has channeled history, science and drama to create a story for the ages—a story of hope and love and possibility. This is a novel you will not soon forget.  
+
+Goodreads Summaries: [goodreads.com/...the-endless-vessel](https://www.goodreads.com/book/show/62080151-the-endless-vessel)  
+
+</details>
+
+
+
+<details>
+<summary><a name="london_falling_by_patrick_radden_keefe"></a>London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth. By Patrick Radden Keefe. 2026  </summary>
 
 ### London Falling -- A Mysterious Death in a Gilded City and a Family's Search for Truth.  (:)  
 Audio: https://www.overdrive.com/media/12137399/london-falling  
@@ -7078,22 +7104,6 @@ By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)
 Wikipedia Summary: https://en.wikipedia.org/wiki/Is_Shakespeare_Dead%3F  
 Librivox Summary:  
 >A short, semi-autobiographical work by American humorist Mark Twain. It explores the controversy over the authorship of the Shakespearean literary canon via satire, anecdote, and extensive quotation of contemporary authors on the subject. In the book, Twain expounds the view that Shakespeare of Stratford was not the author of the canon, and lends tentative support to the Baconian theory. The book opens with a scene from his early adulthood, where he was trained to be a steamboat pilot by an elder who often argued with him over the controversy. Twain's arguments include the following points: That little was known about Shakespeare's life, and the bulk of his biographies were based on conjecture. That a number of eminent British barristers and judges found Shakespeare's plays permeated with precise legal thought, and that the author could only have been a veteran legal professional. That in contrast, Shakespeare of Stratford had never held a legal position or office, and had only been in court over petty lawsuits late in life. That small towns lionize and celebrate their famous authors for generations, but this had not happened in Shakespeare's case. He described his own fame in Hannibal as a case in point. Twain draws parallels and analogies from the pretensions of modern religious figures and commentators on the nature of Satan. He compares the believers in Shakespeare to adherents of Arthur Orton and Mary Baker Eddy. - [Librivox Summary](https://librivox.org/is-shakespeare-dead-by-mark-twain/)  
-
-</details>
-
-
-<details>
-<summary><a name=""></a>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
-
-### A Magician Among the Spirits. (11:03)  
-https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
-Text:  https://www.gutenberg.org/ebooks/66451  
-By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
-
-Reading Notes: This is an interesting "*history*" of late 19th and early 20th century spiritualism by famous *magician* [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini).  
-
-Librivox Summary:  
->Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/))  
 
 </details>
 
