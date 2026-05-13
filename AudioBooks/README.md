@@ -1360,6 +1360,23 @@ Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction)
 </details>
 
 
+<details><summary><a name="collected_works_of_saint_patrick_by_saint_patrick"></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
+
+### Collected Works of Saint Patrick. (01:01)  
+Audio: https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
+Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
+By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
+
+Reading notes: [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick) was a fifth-century Romano-British Christian missionary and bishop in Ireland.  Early translations of 5th century writing are unfamiliar territory for me.  This was a difficult read and I am confident that my ignorance of the history of 5th century Britian, Gaul and Ireland resulted in my missing most of the context that would have provided meaning to the text of these three documents.  See the Librivox Summary below as well as the Wikipedia Page on [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick).  
+
+Wikipedia Page on [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick).  
+
+Librivox Summary:  
+>(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
+
+</details>
+
+
 <details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
@@ -5900,7 +5917,7 @@ Audio: https://www.overdrive.com/media/3656595/barons-of-the-sea
 eBook: https://www.overdrive.com/media/3717532/barons-of-the-sea  
 By [Steven Ujifusa](https://en.wikipedia.org/wiki/Steven_Ujifusa)  ( – )  
 
-Reading Notes:  I enjoyed this book. The Forbes and Delano families are at the center of this history of Americans who [smuggled opium](https://en.wikipedia.org/wiki/Clipper#Opium_clippers) into China and then (*because that generated profits and required knowledge about shipping/high seas sailing ships*) used their sailing-enabled business processes and wealth for high markup *commodities* across the globe. They amassed great generational fortunes.  Competition drove them to reduce the cycle-time of their global shipping schedules -- and helped drive technological change in mid-19th century high-speed merchant [clippers](https://en.wikipedia.org/wiki/Clipper#China_clipper). This is a business history, an economic history, a maritime history and a history of 19th century ocean sailing.  It is also a history of the Forbes and Delano families, one of them birth the 32nd president of the United States, [Franklin Delano Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt).  
+Reading Notes:  I enjoyed this book. The Forbes and Delano families are at the center of this history of Americans who [smuggled opium](https://en.wikipedia.org/wiki/Clipper#Opium_clippers) into China and then (*because that generated profits and required knowledge about shipping/high seas sailing ships*) used their sailing-enabled business processes and wealth for high markup *commodities* across the globe. They amassed great generational fortunes.  Competition drove them to reduce the cycle-time of their global shipping schedules -- and helped drive technological change in mid-19th century high-speed merchant [clippers](https://en.wikipedia.org/wiki/Clipper#China_clipper). This is a business history, an economic history, a maritime history and a history of 19th century ocean sailing.  It is also a history of the Forbes and Delano families, one of them birthed the 32nd president of the United States, [Franklin Delano Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt).  
 Examples:  
 [Paul Delano](https://en.wikipedia.org/wiki/Paul_Delano)  
 [Franklin Hughes Delano](https://en.wikipedia.org/wiki/Franklin_Hughes_Delano)  
@@ -7221,20 +7238,6 @@ The Lost Apothecary: A Novel. By Sarah Penner. 2021
 Audio: https://www.overdrive.com/media/5546988/the-lost-apothecary  
 Ebook: https://www.overdrive.com/media/5428480/the-lost-apothecary  
 
-
-</details>
-
-
-<details>
-<summary><a name="collected_works_of_saint_patrick_by_saint_patrick"></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
-
-### Collected Works of Saint Patrick. (01:01)  
-Audio: https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
-Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
-By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
-
-Librivox Summary:  
->(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
 
 </details>
 
