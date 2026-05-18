@@ -3655,25 +3655,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
-<details><summary><a name="necessary_trouble_by_drew_gilpin_faust"></a>Necessary Trouble -- Growing Up at Midcentury. By Drew Gilpin Faust. 2023  </summary>
-
-### Necessary Trouble -- Growing Up at Midcentury. (10:00)  
-Audio: https://www.overdrive.com/media/9790433/necessary-trouble  
-eBook: https://www.overdrive.com/media/9191487/necessary-trouble  
-By [Drew Gilpin Faust](https://en.wikipedia.org/wiki/Drew_Gilpin_Faust)  (1947 – )  
-
-Reading Notes: Dr. Drew Gilpin Faust has lived an influential life (*if you are not familiar with her I recommend you scan [her Wikipedia page](https://en.wikipedia.org/wiki/Drew_Gilpin_Faust)*).  In this book she reviews her early life through graduation from [Bryn Mawr College](https://en.wikipedia.org/wiki/Bryn_Mawr_College) in 1968 -- "...coming of age in a conservative Southern family in postwar America."  This was a period of tremendous social upheaval.  
-She was born in New York City and raised on a 500-acre farm a mile and a half from the town of [Millwood](https://en.wikipedia.org/wiki/Millwood,_Virginia) in [Clarke County](https://en.wikipedia.org/wiki/Clarke_County,_Virginia), [Virginia](https://en.wikipedia.org/wiki/Virginia), in the [Shenandoah Valley](https://en.wikipedia.org/wiki/Shenandoah_Valley), where her father, McGhee Gilpin, struggled as a breeder of thoroughbred horses and in other business ventures.  
-"My childhood friends—all white—lived on surrounding farms like ours."  "In Millwood itself, most African Americans lived in dwellings that lacked running water."
-Began to explore the meaning of racism and racial discrimination in [segregated Virginia](https://en.wikipedia.org/wiki/Virginia#Reconstruction_and_segregation) at around 8 years old. In 5th grade she wrote a letter in support of integration to U.S. President Eisenhower.  
-She participated in a summer program where young adults (she was 15 at the time) traveled in Eastern Europe -- *her first extended exposure to peer African Americans*.  
-She participated in activities associated with the [the Civil Rights movement](https://en.wikipedia.org/wiki/Civil_Rights_movement) confronting and denying the "morality and legitimacy of the white South’s discriminatory assumptions and practices."  In the 1950s, as the Civil War centennial approached, the 'White South' was celebrating and "memorializing a world that had never been."  
-She excelled academically, held a range of student leadership positions, and earned an undergraduate degree in history from [Bryn Mawr College](https://en.wikipedia.org/wiki/Bryn_Mawr_College) in 1968.  
-
-
-</details>
-
-
 <details><summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
@@ -3851,6 +3832,25 @@ Reader's Notes:  This is an excellent broad history of Napoleon's life.  The rea
 
 Librivox Summary:  
 >Excerpt: "Now that one hundred years have elapsed since the "long-drawn agony" of Saint Helena we think that the time has come for a more impartial estimate. Facts are clearer, motives are better known, much new evidence is available. Let us then endeavor to depict Napoleon as he was, and "nothing extenuate, nor set down aught in malice." - Walter Geer [librivox](https://librivox.org/napoleon-the-first-biography-by-walter-geer/)  
+
+</details>
+
+
+<details><summary><a name="necessary_trouble_by_drew_gilpin_faust"></a>Necessary Trouble -- Growing Up at Midcentury. By Drew Gilpin Faust. 2023  </summary>
+
+### Necessary Trouble -- Growing Up at Midcentury. (10:00)  
+Audio: https://www.overdrive.com/media/9790433/necessary-trouble  
+eBook: https://www.overdrive.com/media/9191487/necessary-trouble  
+By [Drew Gilpin Faust](https://en.wikipedia.org/wiki/Drew_Gilpin_Faust)  (1947 – )  
+
+Reading Notes: Dr. Drew Gilpin Faust has lived an influential life (*if you are not familiar with her I recommend you scan [her Wikipedia page](https://en.wikipedia.org/wiki/Drew_Gilpin_Faust)*).  In this book she reviews her early life through graduation from [Bryn Mawr College](https://en.wikipedia.org/wiki/Bryn_Mawr_College) in 1968 -- "...coming of age in a conservative Southern family in postwar America."  This was a period of tremendous social upheaval.  
+She was born in New York City and raised on a 500-acre farm a mile and a half from the town of [Millwood](https://en.wikipedia.org/wiki/Millwood,_Virginia) in [Clarke County](https://en.wikipedia.org/wiki/Clarke_County,_Virginia), [Virginia](https://en.wikipedia.org/wiki/Virginia), in the [Shenandoah Valley](https://en.wikipedia.org/wiki/Shenandoah_Valley), where her father, McGhee Gilpin, struggled as a breeder of thoroughbred horses and in other business ventures.  
+"My childhood friends—all white—lived on surrounding farms like ours."  "In Millwood itself, most African Americans lived in dwellings that lacked running water."
+Began to explore the meaning of racism and racial discrimination in [segregated Virginia](https://en.wikipedia.org/wiki/Virginia#Reconstruction_and_segregation) at around 8 years old. In 5th grade she wrote a letter in support of integration to U.S. President Eisenhower.  
+She participated in a summer program where young adults (she was 15 at the time) traveled in Eastern Europe -- *her first extended exposure to peer African Americans*.  
+She participated in activities associated with the [the Civil Rights movement](https://en.wikipedia.org/wiki/Civil_Rights_movement) confronting and denying the "morality and legitimacy of the white South’s discriminatory assumptions and practices."  In the 1950s, as the Civil War centennial approached, the 'White South' was celebrating and "memorializing a world that had never been."  
+She excelled academically, held a range of student leadership positions, and earned an undergraduate degree in history from [Bryn Mawr College](https://en.wikipedia.org/wiki/Bryn_Mawr_College) in 1968.  
+
 
 </details>
 
@@ -5343,7 +5343,7 @@ Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-hayn
 </details>
 
 
-<details><summary><a name="the_three_body_problem"></a>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
+<details><summary><a name="the_three_body_problem_by_cixin_liu"></a>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2006/2014 </summary>
 
 ### The Three-Body Problem -- Remembrance of Earth's Past.  (13:26)  
 Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
@@ -5877,6 +5877,62 @@ Reading Notes:
 Frozen River.  
 On the calculation of volume.  
 
+
+
+
+<details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/2015 </summary>
+
+### The Dark Forest -- Remembrance of Earth's Past Book #2.  (13:26)  
+Audio: https://www.overdrive.com/media/2259676/the-dark-forest  
+eBook: https://www.overdrive.com/media/2062636/the-dark-forest  
+By [Cixin Liu (Liú Cíxīn)](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
+
+Reading Notes: If you have not already done so, you might try to read book #1 in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) trilogy -- The [Three-Body Problem](#the_three_body_problem_by_cixin_liu) -- first. 
+Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Dark_Forest) if you want to know more*...)  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Dark_Forest](https://en.wikipedia.org/wiki/The_Dark_Forest)  
+
+This is book #1 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
+
+</details>
+
+
+
+<details><summary><a name="deaths_end_by_cixin_liu"></a>Death's End -- Remembrance of Earth's Past trilogy, Book #3. By Cixin Liu. 2010/2016 </summary>
+
+### Death's End -- Remembrance of Earth's Past Book #3.  (13:26)  
+Audio: https://www.overdrive.com/media/2938117/deaths-end  
+eBook: https://www.overdrive.com/media/2192624/deaths-end  
+By [Cixin Liu (Liú Cíxīn)](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
+
+Reading Notes: If you have not already done so, you might try to read [book #1](#the_three_body_problem_by_cixin_liu) and [book #2](#the_dark_forest_by_cixin_liu) in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) trilogy first.  
+Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Death%27s_End) if you want to know more*...)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Death%27s_End  
+
+This is book #1 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
+
+</details>
+
+
+
+
+
+<details>
+<summary><a name="deliver_us_from_evil_by_david_baldacci"></a>Deliver Us from Evil -- Shaw and Katie James #2. By David Baldacci. 2010 </summary>
+
+### Deliver Us from Evil -- Shaw and Katie James #2.  (14:00)  
+Audio: https://www.overdrive.com/media/316963/deliver-us-from-evil  
+eBook: https://www.overdrive.com/media/288745/deliver-us-from-evil  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Suspense, thriller
+
+Shaw, an operative from The Whole Truth.  
+Evan Waller, Ukrainian, ex Soviet *police*, murderer at scale. Now living in Canada running a global human trafficing business.  Trying to break into the business of selling stolen highly enhanced uranium (HEU).  
+Reggie Campion, member of a secret vigilante group based in England.  
+
+</details>
 
 
 
