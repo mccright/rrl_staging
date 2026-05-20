@@ -5879,6 +5879,22 @@ On the calculation of volume.
 
 
 
+<details>
+<summary><a name="no_ordinary_joes_by_larry_colton"></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
+
+### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
+Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
+eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
+By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
+
+Reading Notes:   
+
+
+Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
+
+</details>
+
+
 
 <details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/2015 </summary>
 
@@ -6161,22 +6177,6 @@ Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, 
 
 </details>
 
-
-
-<details>
-<summary><a name=""></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
-
-### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
-Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
-eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
-By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
-
-Reading Notes:   
-
-
-Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [https://ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
-
-</details>
 
 
 
