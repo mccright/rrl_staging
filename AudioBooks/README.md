@@ -5945,9 +5945,9 @@ Audio: https://www.overdrive.com/media/316963/deliver-us-from-evil
 eBook: https://www.overdrive.com/media/288745/deliver-us-from-evil  
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
-Reading Notes: Suspense, thriller
+Reading Notes: Suspense thriller.  Impossibly talented, *haunted* American special agent hunts human trafficer.  So does a British *unofficial* assassin.  They cross paths.  Complications follow.  
 
-Shaw, an operative from The Whole Truth.  
+Shaw, an operative from *The Whole Truth*.  
 Evan Waller, Ukrainian, ex Soviet *police*, murderer at scale. Now living in Canada running a global human trafficing business.  Trying to break into the business of selling stolen highly enhanced uranium (HEU).  
 Reggie Campion, member of a secret vigilante group based in England.  
 
