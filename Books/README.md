@@ -496,6 +496,45 @@ Reading Notes:
 
 
 <details>
+<summary><a name=""></a>How to Stand Up to a Dictator: A Nobel Laureate's Fight Against Authoritarianism. By Maria A Ressa. 2023  </summary>
+
+### How to Stand Up to a Dictator: A Nobel Laureate's Fight Against Authoritarianism.  
+AKA: "*How to Stand Up to a Dictator -- The Fight for Our Future.*"
+Physical book: https://lccn.loc.gov/2023020558  
+Audio: https://www.overdrive.com/media/8767956/how-to-stand-up-to-a-dictator  
+eBook: https://www.overdrive.com/media/8754222/how-to-stand-up-to-a-dictator  
+By [Maria A Ressa](https://en.wikipedia.org/wiki/Maria_Ressa)  (1963 – )  
+301 pages  
+
+Reading Notes: This was a humbling read.  Maria Ressa is an extremely brave individual and a highly successful leader in the hard news business.  She participated in the building and pushing the leading edge of [CNN](https://en.wikipedia.org/wiki/CNN) news coverage throughout South East and Pacific Asia. She employed tradional journalism norms of truthfully covering the *who, what/how, when, where, and why* as she attempted to build communities and energetically challenged structural and individual [corruption](https://en.wikipedia.org/wiki/Corruption) and [malfeasance](https://en.wikipedia.org/wiki/Misfeasance).  
+
+Quotes:  
+>"Without facts, you can’t have truth. Without truth, you can’t have trust. Without all three, we have no shared reality, and democracy as we know it—and all meaningful human endeavors—are dead."  
+
+Ressa argues, convincingly, that antidemocratic forces, their followers, used global social media platforms Facebook and Twitter (*et.al.*) to amplify and legitimize disruptive disinformation (*coordinated, inauthentic behavior*) "conditioned us to prefer sensationalism over objectivity."  
+>"Those very same developments I welcomed in 2011 would soon be fine-tuned by the platforms’ business models, co-opted by state power, and turned against the people, fueling the rise of digital authoritarians, the death of facts, and the insidious mass manipulation we live with today."  
+>"Anyone who stood up to the lies spreading over pro-Duterte and pro-Marcos disinformation networks was gaslit, or told they were crazy. What the bad guys were doing, they ascribed to the good guys."  
+Ressa pointed to some key social media leader's influence:  
+>"It was Sheryl Sandberg who brought surveillance capitalism -- which treats human data as commodities to be bartered and traded in markets -- from Google to Facebook after Mark Zuckerberg hired her as his second in command in 2008."  "In 2011, Sheryl hired Joel Kaplan, a former Harvard classmate, to lobby and court the conservatives and the American Right. By 2014, he was Facebook’s vice president of global public policy, running government relations and lobbying efforts in Washington, DC, along with determining its content moderation policy around the world."  
+
+She co-founded and was executive editor of Filipino news website Rappler -- focused "on two big goals: spreading empowerment and hope; and fostering debate and engagement." ...tagline "Change begins with me."  
+
+>"A good journalist doesn’t look for balance -- as when, say, a world leader commits a war crime or outright lies to his or her citizenry -- because that would create a false equivalence."  
+>"We moved the editorial agenda away from sensationalism and crime, which, like in many countries around the world, drove the ratings (which drove revenues), and added “the vegetables to the sugar,” as I called it."  
+>"Good journalists lean on the side of evidence, on incontrovertible facts."  
+>"Rappler builds communities of action, and the food we feed them is journalism."  
+
+A May 2012 news story published on Rappler in May 2012 led to "[People of the Philippines v. Santos, Ressa and Rappler](https://en.wikipedia.org/wiki/People_of_the_Philippines_v._Santos,_Ressa_and_Rappler) five years later."  The charges could result in Ressa "potentially serv(ing) around 100 years in prison if she was to be found guilty on all cases." (*as of 2024 the case(s) are still working their way through the courts*)  
+
+Publisher's Summary [lccn.loc.gov/2023020558](https://lccn.loc.gov/2023020558):  
+>"Introduction by Amal Clooney From the recipient of the 2021 Nobel Peace Prize, an impassioned and inspiring memoir of a career spent holding power to account. Maria Ressa is one of the most renowned international journalists of our time. For decades, she challenged corruption and malfeasance in her native country, the Philippines, on its rocky path from an authoritarian state to a democracy. As a reporter from CNN, she transformed news coverage in her region, which led her in 2012 to create a new and innovative online news organization, Rappler. Harnessing the emerging power of social media, Rappler crowdsourced breaking news, found pivotal sources and tips, harnessed collective action for climate change, and helped increase voter knowledge and participation in elections. But by their fifth year of existence, Rappler had gone from being lauded for its ideas to being targeted by the new Philippine government, and made Ressa an enemy of her country's most powerful man: President Duterte. Still, she did not let up, tracking government seeded disinformation networks which spread lies to its own citizens laced with anger and hate. Hounded by the state and its allies using the legal system to silence her, accused of numerous crimes, and charged with cyberlibel for which she was found guilty, Ressa faces years in prison and thousands in fines. There is another adversary Ressa is battling. How to Stand Up to a Dictator is also the story of how the creep towards authoritarianism, in the Phillipines and around the world, has been aided and abetted by the social media companies. Ressa exposes how they have allowed their platforms to spread a virus of lies that infect each of us, pitting us against one another, igniting, even creating, our fears, anger, and hate, and how this has accelerated the rise of authoritarians and dictators around the world. She maps a network of disinformation-a heinous web of cause and effect-that has netted the globe: from Duterte's drug wars to America's Capitol Hill; Britain's Brexit to Russian and Chinese cyber-warfare; Facebook and Silicon Valley to our own clicks and votes. Democracy is fragile. How to Stand Up to a Dictator is an urgent cry for Western readers to recognize and understand the dangers to our freedoms before it is too late. It is a book for anyone who might take democracy for granted, written by someone who never would. And in telling her dramatic and turbulent and courageous story, Ressa forces readers to ask themselves the same question she and her colleagues ask every day: What are you willing to sacrifice for the truth?"-- Provided by publisher.  
+
+
+</details>
+
+
+
+<details>
 <summary><a name=""></a>Parable of the Talents -- Earthseed Book 2. by Octavia E. Butler 1998/2012 </summary>
 
 ### Parable of the Talents -- Earthseed Book 2.  

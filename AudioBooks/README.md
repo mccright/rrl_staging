@@ -3576,6 +3576,27 @@ Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/
 </details>
 
 
+<details>
+<summary><a name="a_midwifes_tale_by_laurel_thatcher_ulrich"></a>A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812. By Laurel Thatcher Ulrich. 1990/2010/2017 </summary>
+
+### A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812. (15:00)  
+Audio: https://www.overdrive.com/media/3157839/a-midwifes-tale  
+eBook: https://www.overdrive.com/media/479809/a-midwifes-tale  
+By [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich)  (1938 – )  
+
+Reading Notes: Wikipedia [quotes](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) [Mary Maples Dunn](https://en.wikipedia.org/wiki/Mary_Maples_Dunn), "A Midwife's Tale examines the life of Northern New England midwife Martha Ballard, and provides a vivid examination of ordinary life in the early American republic, including the role of women in the household and local market economy, the nature of marriage and sexual relations, aspects of medical practice, and the prevalence of violence and crime. In this book, Ulrich effectively and simultaneously builds historical knowledge of the colonial world and Martha Ballard's biography."  [Martha Moore Ballard (February 9, 1735 – May 7, 1812)](https://en.wikipedia.org/wiki/Martha_Ballard) married Ephraim Ballard, a land surveyor, in 1754. The couple had nine children between 1756 and 1779.  They moved from [Oxford](https://en.wikipedia.org/wiki/Oxford,_Massachusetts), [Province of Massachusetts](https://en.wikipedia.org/wiki/Province_of_Massachusetts) to [Hallowell](https://en.wikipedia.org/wiki/Hallowell,_Maine) on the [Kennebec River](https://en.wikipedia.org/wiki/Kennebec_River), [District of Maine](https://en.wikipedia.org/wiki/District_of_Maine) in 1777 where Martha Ballard worked as a midwife and healer.  She maintained at least 10,000 entries in her more than 1,400 page diary between 1785–1812. Professor [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) used [Ballard's diary](https://en.wikipedia.org/wiki/Martha_Ballard#Diary) as a primary resource in this exploration of gender relations and wage-earning, the economic value of domestic labor, and women's work before industrialization. She [explores 10 sections of Martha Ballard's diary](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich#Summary) by providing maticulously researched context -- providing *meaning* -- for the staccato entries in the diary.  This is a fantastic example of top-tier professional history writing that inspired a generation of historians.  
+
+It also inspired others as well, for example [Ariel Lawhon](https://www.ariellawhon.com/about/)'s historical fiction [The Frozen River](https://www.overdrive.com/media/9674513/the-frozen-river).  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich#Summary  
+
+OverDrive Summary](https://www.overdrive.com/media/479809/a-midwifes-tale):  
+>Between 1785 and 1812 a midwife and healer named Martha Ballard kept a diary that recorded her arduous work (in 27 years she attended 816 births) as well as her domestic life in Hallowell, Maine. On the basis of that diary, Laurel Thatcher Ulrich gives us an intimate and densely imagined portrait, not only of the industrious and reticent Martha Ballard but of her society. At once lively and impeccably scholarly, A Midwife's Tale is a triumph of history on a human scale.  
+
+
+</details>
+
+
 <details><summary><a name="mimicking_of_known_successes_by_malka_older"></a>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
 
 ### The Mimicking of Known Successes. (4:27)  
@@ -5879,6 +5900,25 @@ On the calculation of volume.
 
 
 
+<details>
+<summary><a name="no_ordinary_joes_by_larry_colton"></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
+
+### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
+Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
+eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
+By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
+
+Reading Notes: Colton explores the lives of four of the [USS Grenadier's (SS-210)](https://en.wikipedia.org/wiki/USS_Grenadier_(SS-210)) submariners (*a [Tambor-class](https://en.wikipedia.org/wiki/Tambor-class_submarine) [submarine](https://en.wikipedia.org/wiki/Submarine), commissioned in 1941 and was scuttled in 1943*).  The men included: Bob Palmer of Medford, Oregon; Chuck Vervalin of Dundee, New York; Tim McCoy of Dallas, Texas; and Gordy Cox of Yakima, Washington.  The author provides a short pre-military biography of each man, documenting why each enlisted, and then follows their progress to the USS Grenadier.  They were "*based*" the Philippines and then Australia.  
+The USS Grenatier started its 6th cruise on March 20, 1943.  April 22nd, they saw two enemy freighters and their captain called for an attack.  The Grenatier surfaced on April 23rd, was identified by a Japanese torpedo plane and they were struck by the explosion of a 1900 lb torpedo.  They quickly sank to the bottom at 190 feet, destroying their prop and their radio and starting electrical fires and was taking on lots of water.  After 15 hours on the bottom performing emergency repairs, they got the submarine back up to the surface -- but without functional diesel drive nor radio.  They set a sail in hopes of reaching any of nearby coasts.  After seeing an enemy ship, the captain decided to abandone ship.  They destroyed all valuable documents, then destroyed all sensitive components of the submarine.  Then a Japanese dive bomber arrived, missing the submarine with two bombs and then flying off.  All hands left the ship and the captain sunk it.  
+The men were captured and taken as POWs to be held for two years, until the war ended.  
+
+Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
+Goodreads Summary and reviews: [goodreads.com/...no-ordinary-joes](https://www.goodreads.com/en/book/show/7054155-no-ordinary-joes)  
+
+
+</details>
+
+
 
 <details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/2015 </summary>
 
@@ -5926,35 +5966,14 @@ Audio: https://www.overdrive.com/media/316963/deliver-us-from-evil
 eBook: https://www.overdrive.com/media/288745/deliver-us-from-evil  
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
-Reading Notes: Suspense, thriller
-
-Shaw, an operative from The Whole Truth.  
+Reading Notes: Suspense thriller.  Impossibly talented, *haunted* American special agent hunts human trafficer.  So does a British *unofficial* assassin.  They cross paths.  Complications follow.  
+Some core characters:  
+Shaw, an operative from *The Whole Truth*.  
 Evan Waller, Ukrainian, ex Soviet *police*, murderer at scale. Now living in Canada running a global human trafficing business.  Trying to break into the business of selling stolen highly enhanced uranium (HEU).  
 Reggie Campion, member of a secret vigilante group based in England.  
 
 </details>
 
-
-
-<details>
-<summary><a name="a_midwifes_tale_by_laurel_thatcher_ulrich"></a>A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812. By Laurel Thatcher Ulrich. 1990/2010/2017 </summary>
-
-### A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812. (15:00)  
-Audio: https://www.overdrive.com/media/3157839/a-midwifes-tale  
-eBook: https://www.overdrive.com/media/479809/a-midwifes-tale  
-By [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich)  (1938 – )  
-
-Reading Notes: Wikipedia [quotes](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) [Mary Maples Dunn](https://en.wikipedia.org/wiki/Mary_Maples_Dunn), "A Midwife's Tale examines the life of Northern New England midwife Martha Ballard, and provides a vivid examination of ordinary life in the early American republic, including the role of women in the household and local market economy, the nature of marriage and sexual relations, aspects of medical practice, and the prevalence of violence and crime. In this book, Ulrich effectively and simultaneously builds historical knowledge of the colonial world and Martha Ballard's biography."  [Martha Moore Ballard (February 9, 1735 – May 7, 1812)](https://en.wikipedia.org/wiki/Martha_Ballard) married Ephraim Ballard, a land surveyor, in 1754. The couple had nine children between 1756 and 1779.  They moved from [Oxford](https://en.wikipedia.org/wiki/Oxford,_Massachusetts), [Province of Massachusetts](https://en.wikipedia.org/wiki/Province_of_Massachusetts) to [Hallowell](https://en.wikipedia.org/wiki/Hallowell,_Maine) on the [Kennebec River](https://en.wikipedia.org/wiki/Kennebec_River), [District of Maine](https://en.wikipedia.org/wiki/District_of_Maine) in 1777 where Martha Ballard worked as a midwife and healer.  She maintained at least 10,000 entries in her more than 1,400 page diary between 1785–1812. Professor [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) used [Ballard's diary](https://en.wikipedia.org/wiki/Martha_Ballard#Diary) as a primary resource in this exploration of gender relations and wage-earning, the economic value of domestic labor, and women's work before industrialization. She [explores 10 sections of Martha Ballard's diary](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich#Summary) by providing maticulously researched context -- providing *meaning* -- for the staccato entries in the diary.  This is a fantastic example of top-tier professional history writing that inspired a generation of historians.  
-
-It also inspired others as well, for example [Ariel Lawhon](https://www.ariellawhon.com/about/)'s historical fiction [The Frozen River](https://www.overdrive.com/media/9674513/the-frozen-river).  
-
-Wikipedia Summary:  https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich#Summary  
-
-OverDrive Summary](https://www.overdrive.com/media/479809/a-midwifes-tale):  
->Between 1785 and 1812 a midwife and healer named Martha Ballard kept a diary that recorded her arduous work (in 27 years she attended 816 births) as well as her domestic life in Hallowell, Maine. On the basis of that diary, Laurel Thatcher Ulrich gives us an intimate and densely imagined portrait, not only of the industrious and reticent Martha Ballard but of her society. At once lively and impeccably scholarly, A Midwife's Tale is a triumph of history on a human scale.  
-
-
-</details>
 
 
 
@@ -6161,22 +6180,6 @@ Subjects: Science fiction, Horror tales, Gothic fiction, Scientists -- Fiction, 
 
 </details>
 
-
-
-<details>
-<summary><a name=""></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
-
-### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
-Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
-eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
-By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
-
-Reading Notes:   
-
-
-Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [https://ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
-
-</details>
 
 
 
