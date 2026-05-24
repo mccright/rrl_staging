@@ -5898,6 +5898,29 @@ Reading Notes:
 Frozen River.  
 On the calculation of volume.  
 
+Brian & James
+  
+
+<details>
+<summary><a name="the_alphabet_house_by_jussi_adler_olsen"></a>The Alphabet House.  By Jussi Adler-Olsen. 2015 </summary>
+
+### The Alphabet House.  (15:40) 
+Audio: https://www.overdrive.com/media/1764467/the-alphabet-house  
+eBook: https://www.overdrive.com/media/1778933/the-alphabet-house  
+By [Jussi Adler-Olsen](https://en.wikipedia.org/wiki/Jussi_Adler-Olsen)  (1950 – )  
+
+Reading Notes:   
+Central Characters:  
+* James Teasdale  
+* Bryan Young  
+
+Overdrive Summary:  
+>British pilots James Teasdale and Bryan Young have been chosen to conduct a special photo-reconnaissance mission near Dresden, Germany. Intelligence believes the Nazis are building new factories that could turn the tide of the war. When their plane is shot down, James and Bryan know they will be executed if captured. With an enemy patrol in pursuit, they manage to jump aboard a train reserved for senior SS soldiers wounded on the eastern front.  In a moment of desperation, they throw two patients off the train and take their places, hoping they can escape later. But their act is too convincing and they end up in the Alphabet House, a mental hospital located far behind enemy lines, where German doctors subject their patients to daily rounds of shock treatments and experimental drugs. The pilots’ only hope of survival is to fake insanity until the war ends, but their friendship and courage are put to the ultimate test when James and Bryan realize they aren’t the only ones in the Alphabet House feigning madness.  Millions of fans around the world—and in this country—know Adler-Olsen for his award-winning Department Q series. His first stand-alone, The Alphabet House, is the perfect introduction for those who have yet to discover his riveting work.  
+
+
+</details>
+
+
 
 
 <details>
