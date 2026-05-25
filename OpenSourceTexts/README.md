@@ -392,6 +392,24 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary><a name="sir_piegan_passes_by_w_c_tuttle"></a>Sir Piegan Passes. by W. C. Tuttle.  1923 </summary>
+
+### Sir Piegan Passes.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/78740  
+By [Tuttle, W. C. (Wilbur C.)](https://en.wikipedia.org/wiki/W._C._Tuttle)  (1883 - 1969)  
+
+Reading Notes:   
+Produced from the August 10, 1923 issue of Adventure magazine.  
+
+</details>
+
+
+
+
+
 <details>
 <summary><a name=""></a>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
 
