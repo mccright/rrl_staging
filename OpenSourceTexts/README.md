@@ -169,6 +169,34 @@ Reading Notes: This book is characterized by "choppy" story telling -- skipping 
 </details>
 
 
+<details><summary><a name="a_magician_among_the_spirits_by_harry_houdini"></a>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
+
+### A Magician Among the Spirits. (11:03)  
+Audio: https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
+eBook: https://www.gutenberg.org/ebooks/66451  
+By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
+
+Reading Notes: This is an interesting "*history*" of late 19th and early 20th century [spiritualism](https://en.wikipedia.org/wiki/Spiritualism_(beliefs)) by famous *magician* [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini).  Here are some of the personalities highlighted in this book:  
+* Margaret and Kate Fox of Hydesville, New York, who became world-famous as “The Fox Sisters” for their "rappings."  Their older sister, Mrs. Fish, organized the “Society of Spiritualists” and monetized the young girl's performances.  
+* Ira Erastus Davenport and his brother William Henry Harrison Davenport were known as the “Davenport Brothers.” They used a cabinet, rope tricks, bells, and various horns and musical instruments in their demonstrations of spiritualistic power.  
+* Daniel Dunglas Home was a forerunner of the mediums who specialized in fleecing their subject, not charging for their *mediumistic* services, but had their subjects provide for their temporal needs abundantly and sumptuously.  
+* Eusapia Palladino, an Italian, successfully deceived *philosophic and scientific men* by "*levitating*" and "*gyrating*" inanimate objects.  
+* Ann O’Delia Diss Debar described as “one of the most extraordinary fake mediums and mystery swindlers the world has ever known.” Some even have classed her among the ten most prominent and dangerous female criminals of the world.  
+* Dr. Henry Slade whose *mediumship* was exposed as fake and criminally prosecuted in London, but his skills manipulating slates led to success and fame after that.  
+* Spirit Photography had its beginning in Boston, announced by Dr. Gardner, a devout Spiritualist, who discovered William H. Mumler a photographer who “in taking a photograph of himself, obtained on the same plate a likeness of a cousin dead some twelve years before.” Spiritual enthusiasts in large numbers flocked to his studio.  When talented mediums heard of Mumler's pictures, many also began to produce them. Buguet in France, the “Crewe Photographers” (Mr. William Hope and Mrs. Buxton, Crewe; Mrs. Deane of London; and Mr. Vearncombe of Bridgewater) worked their photographic schemes across Europe, Alexander Martin of Denver, Colorado.  
+*  Sir Arthur Conan Doyle had "faith and belief and confidence in the spiritualist movement" and who "wholeheartedly and unflinchingly threw his life and soul into the conversion of unbelievers."  Houdini and Sir Arthur Conan Doyle were friends for years...  
+
+
+Librivox Summary:  
+>Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/))  
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/66451):  
+>"A Magician Among the Spirits" by Harry Houdini is an exploration of the spiritualism movement, likely written in the early 20th century. As a non-fiction work, it delves into Houdini's extensive investigations into the claims of various mediums and spiritual phenomena, showcasing his skepticism and desire to reveal fraudulent practices in the realm of supposed supernatural communications with the dead. At the start of the book, Houdini articulates his transformative journey from a performer and mystifier to a passionate investigator of spiritualism after experiencing personal grief. He recounts his early experiences engaging with mediums, the emotional toll of losing loved ones, and his ultimate commitment to uncovering the truth behind spiritualist practices. The opening portion sets the stage for an in-depth examination of the origins of spiritualism, beginning with the infamous Fox Sisters, who unintentionally sparked a movement through their childhood antics that were misinterpreted as genuine contact with spirits. Houdini's narrative promises a blend of personal reflection, historical recounting, and critical analysis of the spiritualist phenomenon.  
+
+
+</details>
+
+
 <details><summary><a name="the_man_who_lost_himself_by_h_de_vere_stacpoole"></a>The Man Who Lost Himself. By H. De Vere (Henry De Vere) Stacpoole. 1918  </summary>
 
 ### The Man Who Lost Himself.  (8:16) 
@@ -410,35 +438,6 @@ Produced from the August 10, 1923 issue of Adventure magazine.
 
 
 
-<details>
-<summary><a name=""></a>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
-
-### A Magician Among the Spirits. (11:03)  
-Audio: https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
-eBook: https://www.gutenberg.org/ebooks/66451  
-By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
-
-Reading Notes: This is an interesting "*history*" of late 19th and early 20th century [spiritualism](https://en.wikipedia.org/wiki/Spiritualism_(beliefs)) by famous *magician* [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini).  Here are some of the personalities highlighted in this book:  
-* Margaret and Kate Fox of Hydesville, New York, who became world-famous as “The Fox Sisters” for their "rappings."  Their older sister, Mrs. Fish, organized the “Society of Spiritualists” and monetized the young girl's performances.  
-* Ira Erastus Davenport and his brother William Henry Harrison Davenport were known as the “Davenport Brothers.” They used a cabinet, rope tricks, bells, and various horns and musical instruments in their demonstrations of spiritualistic power.  
-* Daniel Dunglas Home was a forerunner of the mediums who specialized in fleecing their subject, not charging for their *mediumistic* services, but had their subjects provide for their temporal needs abundantly and sumptuously.  
-* Eusapia Palladino, an Italian, successfully deceived *philosophic and scientific men* by "*levitating*" and "*gyrating*" inanimate objects.  
-* Ann O’Delia Diss Debar described as “one of the most extraordinary fake mediums and mystery swindlers the world has ever known.” Some even have classed her among the ten most prominent and dangerous female criminals of the world.  
-* Dr. Henry Slade whose *mediumship* was exposed as fake and criminally prosecuted in London, but his skills manipulating slates led to success and fame after that.  
-* Spirit Photography had its beginning in Boston, announced by Dr. Gardner, a devout Spiritualist, who discovered William H. Mumler a photographer who “in taking a photograph of himself, obtained on the same plate a likeness of a cousin dead some twelve years before.” Spiritual enthusiasts in large numbers flocked to his studio.  When talented mediums heard of Mumler's pictures, many also began to produce them. Buguet in France, the “Crewe Photographers” (Mr. William Hope and Mrs. Buxton, Crewe; Mrs. Deane of London; and Mr. Vearncombe of Bridgewater) worked their photographic schemes across Europe, Alexander Martin of Denver, Colorado.  
-*  Sir Arthur Conan Doyle had "faith and belief and confidence in the spiritualist movement" and who "wholeheartedly and unflinchingly threw his life and soul into the conversion of unbelievers."  Houdini and Sir Arthur Conan Doyle were friends for years...  
-
-
-Librivox Summary:  
->Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/))  
-
-[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/66451):  
->"A Magician Among the Spirits" by Harry Houdini is an exploration of the spiritualism movement, likely written in the early 20th century. As a non-fiction work, it delves into Houdini's extensive investigations into the claims of various mediums and spiritual phenomena, showcasing his skepticism and desire to reveal fraudulent practices in the realm of supposed supernatural communications with the dead. At the start of the book, Houdini articulates his transformative journey from a performer and mystifier to a passionate investigator of spiritualism after experiencing personal grief. He recounts his early experiences engaging with mediums, the emotional toll of losing loved ones, and his ultimate commitment to uncovering the truth behind spiritualist practices. The opening portion sets the stage for an in-depth examination of the origins of spiritualism, beginning with the infamous Fox Sisters, who unintentionally sparked a movement through their childhood antics that were misinterpreted as genuine contact with spirits. Houdini's narrative promises a blend of personal reflection, historical recounting, and critical analysis of the spiritualist phenomenon.  
-
-
-</details>
-
-
 
 
 <details>
@@ -450,7 +449,7 @@ eBook: https://www.gutenberg.org/ebooks/2288
 By [Maksim Gorky (Alexei Maximovich Peshkov)](https://en.wikipedia.org/wiki/Maxim_Gorky)  (1868 - 1936)  
 Translator 	[C. J. Hogarth (Charles James)](https://en.wikipedia.org/wiki/C._J._Hogarth)  (1869 - 1945)  
 
-Reading Notes: At the time of this volume's publication in 1923, I think that Gorky (37) had already mastered his craft. In these short stories he explores some of the hardship, struggle, absurdity, class-defined regidity and human resilience via the characters that populate them.  
+Reading Notes: At the time of this volume's publication in 1923, I think that Gorky (37) had already mastered his craft. In these short stories he explores some of the hardship, struggle, absurdity, class-defined rigidity, the widespread extreme poverty and an assumption of extreme concentration of their nation's wealth, and (often trudging) human resilience via the characters that populate them.  
 
 * [The Birth Of A Man](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#birth)  
 * [The Icebreaker](https://www.gutenberg.org/cache/epub/2288/pg2288-images.html#icebreaker)  
