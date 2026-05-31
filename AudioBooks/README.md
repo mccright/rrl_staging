@@ -5955,8 +5955,19 @@ Audio: https://www.overdrive.com/media/2259676/the-dark-forest
 eBook: https://www.overdrive.com/media/2062636/the-dark-forest  
 By [Cixin Liu (Liú Cíxīn)](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
 
-Reading Notes: If you have not already done so, you might try to read book #1 in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) trilogy -- The [Three-Body Problem](#the_three_body_problem_by_cixin_liu) -- first. 
-Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Dark_Forest) if you want to know more*...)  
+Reading Notes: If you have not already done so, you might try to read book #1 in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) trilogy -- The [Three-Body Problem](#the_three_body_problem_by_cixin_liu) -- first.  
+Following the events of [The Three Body Problem](#the_three_body_problem_by_cixin_liu), (*most of*) humanity unites to defend Earth against the invasion fleet of the alien planet Trisolaris, which will arrive in approximately 400 years.  Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Dark_Forest) if you want to know more*...)  
+
+Characters:  
+* Ye Wenjie - Astrophysicist who initiated contact between Earth and Trisolaris. Spiritual leader of the Earth Trisolaris Organization (ETO), the network of pro-Trisolaris human agents on Earth.  
+* Zhang Beihai - Political commissar in the PLA Navy and later the Chinese Space Force, responsible for promoting "triumphalism": the conviction that Earth will eventually prevail over Trisolaris. He secretly believes Earth is doomed and escape to another Solar System is the only option.  
+* Shi Qiang - Nicknamed Da Shi, the Wallfacer Program's Head of Security who becomes a close ally to Luo Ji. (appears in [The Three Body Problem](#the_three_body_problem_by_cixin_liu))  
+* Ding Yi - Theoretical physicist, the first human to physically make contact with a Trisolaran object. (appears in [The Three Body Problem](#the_three_body_problem_by_cixin_liu))  
+* Zhuang Yan - Graduate of the Central Academy of Fine Arts, she marries Luo Ji.  
+* Frederick Tyler - Wallfacer.  Former US Secretary of Defense, suggests feigning defection to the Trisolaran fleet in order to launch an attack. His plan is exposed by Wallbreaker "von Neumann".  
+* Manuel Rey Diaz - Wallfacer.  Former President of Venezuela, suggests threatening mutual assured destruction by crashing Mercury into the Sun to destroy the Solar System. His plan is exposed by Wallbreaker "Mozi".  
+* Bill Hines - Wallfacer.  English neuroscientist, physicist and former President of the European Commission, suggests spreading defeatism to promote escapism. His plan is exposed by the Wallbreaker "Aristotle", who is actually his wife Yamasugi Keiko.  
+* Luo Ji - Wallfacer.  Ex-astronomer and sociologist. He forces a truce by threatening to broadcast Trisolaris' position which will invite its destruction by a third party.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Dark_Forest](https://en.wikipedia.org/wiki/The_Dark_Forest)  
 
