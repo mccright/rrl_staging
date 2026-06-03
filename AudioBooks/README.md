@@ -5407,12 +5407,12 @@ Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-hayn
 </details>
 
 
-<details><summary><a name="the_three_body_problem_by_cixin_liu"></a>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2006/2014 </summary>
+<details><summary><a name="the_three_body_problem_by_cixin_liu"></a>The Three-Body Problem -- Remembrance of Earth's Past, Book #1. By Cixin Liu. 2006/2014 </summary>
 
 ### The Three-Body Problem -- Remembrance of Earth's Past.  (13:26)  
 Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
 eBook: https://www.overdrive.com/media/1582288/the-three-body-problem  
-By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
+By [Cixin Liu (Liú Cíxīn)](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
 
 Reading Notes: This story is told as a [nonlinear narrative](https://en.wikipedia.org/wiki/Nonlinear_narrative). In that context, it's central character is Ye Wenjie, an astrophysics graduate who saw her father get beaten to death during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) (1966-1976) and she was also identified as a traitor, sent to a labor camp and later sentenced to prison. Because of her training and the content of a paper she published while attending university, she was recruited to participate in a secret Chinese military project involving high powered radio transmissions and monitoring.  Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) if you want to know more*...)  
 
@@ -5944,6 +5944,30 @@ On the calculation of volume.
 Brian & James
   
 
+<details>
+<summary><a name="city_of_illusions_by_ursula_le_guin"></a>City of Illusions -- Hainish Cycle #3.  By Ursula K. Le Guin.  1967/2007  </summary>
+
+### City of Illusions.  (7:00)  
+Audio: https://www.overdrive.com/media/152754/city-of-illusions  
+eBook:   
+By [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018)  
+
+Reading Notes:   
+
+Falk: A man with amber, cat-like eyes, no memory and an infant's motor skills when he arrives in the rural settlement of peaceful, technologically limited Forest People in Eastern North America. After six years with the Forest People Falk departs on a long, hazardous, trans-continental quest to learn his identity and history.  In the course of the story he learns that he is an alien/human hybrid from a planet called Werel. His original name was Agad Ramarren and he had great scientific knowledge and vast mental powers.  
+Parth: A young human woman of the Forest People, who helps re-educate Falk. She becomes Falk's lover.  
+Estrel: A young woman whom Falk meets after being captured by the Basnasska tribe in the great plains. She is Falk's ally and lover, and a human collaborator working for the Shing. She betrays Falk into the hands of the Shing.  
+Ken Kenyek: A Shing mindhandler and scientist who attempts to deceive and manipulate Falk, and who *retrieves* Falk's Agad Ramarren memories.  
+
+Wikipedia Summary: [wikipedia.org/wiki/City_of_Illusions](https://en.wikipedia.org/wiki/City_of_Illusions)  
+
+Overdrive Summary:  
+>He is a full-grown man, alone in a dense forest, with no trail to show where he has come from and no memory to tell who or what he is. His eyes are not the eyes of a human. The forest people take him in and raise him, teaching him to speak, training him in the knowledge and lore of the forest, but they cannot solve the riddle of his past. At last, he sets out on a perilous quest to find his true self—and discovers a universe of danger.  City of Illusions is a part of the acclaimed Hainish Cycle, set in a galaxy colonized hundreds of thousands of years ago by a variety of humanoid species. Since the golden age of the League of All Worlds, Earth, like the rest of the known worlds, has fallen to the Shing, who rule through subtle mind control. Scattered groups of humans endure in a state of paranoia and semibarbarism. Is there one who can stand against the Shing?  
+
+
+</details>
+
+
 
 
 
@@ -5954,8 +5978,20 @@ Audio: https://www.overdrive.com/media/2259676/the-dark-forest
 eBook: https://www.overdrive.com/media/2062636/the-dark-forest  
 By [Cixin Liu (Liú Cíxīn)](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
 
-Reading Notes: If you have not already done so, you might try to read book #1 in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) trilogy -- The [Three-Body Problem](#the_three_body_problem_by_cixin_liu) -- first.  
-Following the events of [The Three Body Problem](#the_three_body_problem_by_cixin_liu), (*most of*) humanity unites to defend Earth against the invasion fleet of the alien planet Trisolaris, which will arrive in approximately 400 years.  Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Dark_Forest) if you want to know more*...)  
+Reading Notes: If you have not already done so, you might try to read book #1 in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) [trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) -- The [Three-Body Problem](#the_three_body_problem_by_cixin_liu) -- first.  
+Following the events of [The Three Body Problem](#the_three_body_problem_by_cixin_liu), (*most of*) humanity *unites* to defend Earth against the invasion fleet of the alien planet Trisolaris, which will arrive in approximately 400 years. Then this story, epic in scope and depth, gets both interesting and sometimes confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Dark_Forest) if you want to know more*...)  
+
+A couple passages from the book:  
+The Dark Forest-Year 3, Crisis Era, Part Seven:  
+Technologies favor small countries.  Giving them often unforeseen advantages over large countries. Examples included nuclear weapons or very low cost cruise missles, both of which helped smaller countries gain advantage over larger *more powerful* countries.
+
+The Dark Forest-Year 205, Crisis Era Part 19:  
+>Two axioms for cosmic civilizations:  
+>Survival is the primary need of civilization.  
+>Civilization continuously grows and expands but the total matter in the universe remains constant.  
+
+
+"*Unites*" (above) is an oversimplification. Tensions between cultures remain -- maybe are amplified -- throughout this book.  Also, after reading [volume one](#the_three_body_problem_by_cixin_liu) of this [trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) I read "[Three Interpretations of ‘The Three-Body Problem’](https://www.nytimes.com/2024/04/12/opinion/three-body-problem.html)" by Ross Douthat, "[Liu Cixin’s War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)" by Jiayang Fan and "[China’s Arthur C. Clarke](https://www.newyorker.com/books/page-turner/chinas-arthur-c-clarke)" by Joshua Rothman and I think they helped me see additional *layers* in Liu's stories.  I recommend these three essays to anyone hoping to get the most out of this author's works.  
 
 Characters:  
 * Ye Wenjie - Astrophysicist who initiated contact between Earth and Trisolaris. Spiritual leader of the Earth Trisolaris Organization (ETO), the network of pro-Trisolaris human agents on Earth.  
@@ -5965,12 +6001,12 @@ Characters:
 * Zhuang Yan - Graduate of the Central Academy of Fine Arts, she marries Luo Ji.  
 * Frederick Tyler - Wallfacer.  Former US Secretary of Defense, suggests feigning defection to the Trisolaran fleet in order to launch an attack. His plan is exposed by Wallbreaker "von Neumann".  
 * Manuel Rey Diaz - Wallfacer.  Former President of Venezuela, suggests threatening mutual assured destruction by crashing Mercury into the Sun to destroy the Solar System. His plan is exposed by Wallbreaker "Mozi".  
-* Bill Hines - Wallfacer.  English neuroscientist, physicist and former President of the European Commission, suggests spreading defeatism to promote escapism. His plan is exposed by the Wallbreaker "Aristotle", who is actually his wife Yamasugi Keiko.  
-* Luo Ji - Wallfacer.  Ex-astronomer and sociologist. He forces a truce by threatening to broadcast Trisolaris' position which will invite its destruction by a third party.  
+* Bill Hines - Wallfacer.  English neuroscientist, physicist and former President of the European Commission, suggests using brain-manipulating technology to spread *defeatism* to promote *escapism*. His plan is exposed by the Wallbreaker "Aristotle", who is actually his wife Yamasugi Keiko.  
+* Luo Ji - Wallfacer.  Ex-astronomer and sociologist. He forces a truce by threatening to broadcast Trisolaris' position which will invite its destruction by a third party (*see: the "[Dark forest hypothesis](https://en.wikipedia.org/wiki/Dark_forest_hypothesis)"*.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Dark_Forest](https://en.wikipedia.org/wiki/The_Dark_Forest)  
 
-This is book #1 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
+This is book #2 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
 
 </details>
 
@@ -5988,7 +6024,7 @@ Then it gets both interesting and confusing (*see the [Wikipedia summary](https:
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Death%27s_End  
 
-This is book #1 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
+This is book #3 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
 
 </details>
 
