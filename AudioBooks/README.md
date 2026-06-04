@@ -5954,10 +5954,11 @@ By [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 â
 
 Reading Notes:   
 
-Falk: A man with amber, cat-like eyes, no memory and an infant's motor skills when he arrives in the rural settlement of peaceful, technologically limited Forest People in Eastern North America. After six years with the Forest People Falk departs on a long, hazardous, trans-continental quest to learn his identity and history.  In the course of the story he learns that he is an alien/human hybrid from a planet called Werel. His original name was Agad Ramarren and he had great scientific knowledge and vast mental powers.  
-Parth: A young human woman of the Forest People, who helps re-educate Falk. She becomes Falk's lover.  
-Estrel: A young woman whom Falk meets after being captured by the Basnasska tribe in the great plains. She is Falk's ally and lover, and a human collaborator working for the Shing. She betrays Falk into the hands of the Shing.  
-Ken Kenyek: A Shing mindhandler and scientist who attempts to deceive and manipulate Falk, and who *retrieves* Falk's Agad Ramarren memories.  
+Some key characters:  
+* Falk: A man with amber, cat-like eyes, no memory and an infant's motor skills when he arrives in the rural settlement of peaceful, technologically limited Forest People in Eastern North America. After six years with the Forest People Falk departs on a long, hazardous, trans-continental quest to learn his identity and history.  In the course of the story he learns that he is an alien/human hybrid from a planet called Werel. His original name was Agad Ramarren and he had great scientific knowledge and vast mental powers.  
+* Parth: A young human woman of the Forest People, who helps re-educate Falk. She becomes Falk's lover.  
+* Estrel: A young woman whom Falk meets after being captured by the Basnasska tribe in the great plains. She is Falk's ally and lover, and a human collaborator working for the Shing. She betrays Falk into the hands of the Shing.  
+* Ken Kenyek: A Shing mindhandler and scientist who attempts to deceive and manipulate Falk, and who *retrieves* Falk's Agad Ramarren memories.  
 
 Wikipedia Summary: [wikipedia.org/wiki/City_of_Illusions](https://en.wikipedia.org/wiki/City_of_Illusions)  
 
@@ -6006,7 +6007,7 @@ Characters:
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Dark_Forest](https://en.wikipedia.org/wiki/The_Dark_Forest)  
 
-This is book #2 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
+This is book #2 of the ["Remembrance of Earth's Past" trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past).  
 
 </details>
 
