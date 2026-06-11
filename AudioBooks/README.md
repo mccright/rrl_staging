@@ -6004,6 +6004,35 @@ On the calculation of volume.
 Brian & James
   
 
+
+<details>
+<summary><a name=""></a>Dinosaurs at the Dinner Party -- How an Eccentric Group of Victorians Discovered Prehistoric Creatures and Accidentally Upended the World. By Edward Dolnick. 2024 </summary>
+
+### Dinosaurs at the Dinner Party -- How an Eccentric Group of Victorians Discovered Prehistoric Creatures and Accidentally Upended the World.  (9:00)  
+Audio: https://www.overdrive.com/media/10334505/dinosaurs-at-the-dinner-party  
+eBook: https://www.overdrive.com/media/10216867/dinosaurs-at-the-dinner-party  
+By [Edward Dolnick]()  ( – )  
+
+Reading Notes: Fossils and the fossil record forced humans to re-cast *time* and *history* in the 18th and 19th centuries.   
+
+
+</details>
+
+
+<details>
+<summary><a name="injustice_by_carol_leonnig"></a>Injustice -- How Politics and Fear Vanquished America's Justice Department. By Carol Leonnig and Aaron C. Davis. 2025 </summary>
+
+### Injustice -- How Politics and Fear Vanquished America's Justice Department.  (16:00)  
+Audio: https://www.overdrive.com/media/12137486/injustice  
+eBook: https://www.overdrive.com/media/12137677/injustice  
+By [Carol Leonnig]() ( – ) and [Aaron C. Davis]() ( - )  
+
+Reading Notes: Donald Trump as the 45th and 47th president invested material effort in hollowing out the U.S. Department of Justice -- installing *his* people to serve *his* personal desires.  
+
+
+</details>
+
+
 <details>
 <summary><a name="city_of_illusions_by_ursula_le_guin"></a>City of Illusions -- Hainish Cycle #3.  By Ursula K. Le Guin.  1967/2007  </summary>
 
