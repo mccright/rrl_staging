@@ -6012,7 +6012,8 @@ Audio: https://www.overdrive.com/media/6092185/a-very-short-history-of-life-on-e
 eBook: https://www.overdrive.com/media/6224456/a-very-short-history-of-life-on-earth  
 By [Henry Gee](https://en.wikipedia.org/wiki/Henry_Gee)  (1962 – )  
 
-Reading Notes:   
+Reading Notes: This seems like a set of lectures from a great college introductory course on the history of earth and life on earth.  As a result, it screams for research and reading in preparation for and review after each lecture/chapter.  Given my background and field of education, there were many chunks of this content that depended on fluency (*or at least a reasonably mature awareness*) in terms and concepts to which I have only a *misty* passing memory or sometimes no memory at all.  That said, it was an interesting survey of earth and *animal* history.  
+My only real criticism of the audio book is its near-constant background music.  It did not add value fo me and it sometimes detracted from the narration.  
 
 
 Overdrive Summary: [overdrive.com/media/6092185/a-very-short-history-of-life-on-earth](https://www.overdrive.com/media/6092185/a-very-short-history-of-life-on-earth)  
