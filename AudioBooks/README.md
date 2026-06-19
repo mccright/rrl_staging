@@ -1863,7 +1863,7 @@ Reading Notes: See the Overdirve summary...  I listened to this short book while
 </details>
 
 
-<details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
+<details><summary><a name="eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor"></a>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
 https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
@@ -6029,6 +6029,50 @@ Frozen River.
 On the calculation of volume.  
 
 Brian & James
+
+
+
+
+<details>
+<summary><a name="the_road_by_cormac_mccarthy"></a>The Road.  By Cormac McCarthy. 2006 </summary>
+
+### The Road.  (7:00)  
+Audio: https://www.overdrive.com/media/239141/the-road  
+eBook: https://www.overdrive.com/media/148046/the-road  
+By [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)  (1933 – 2023)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Road](https://en.wikipedia.org/wiki/The_Road)  
+
+Overdrive Summary: [overdrive.com/media/148046/the-road](https://www.overdrive.com/media/148046/the-road)  
+>A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food-and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, "each the other's world entire," are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.
+  
+
+</details>
+
+
+
+<details>
+<summary><a name="the_revenant_by_michael_punke"></a>The Revenant.  By Michael Punke.  2002/2015  </summary>
+
+### The Revenant.  (9:00)  
+Audio: https://www.overdrive.com/media/2097036/the-revenant  
+eBook: https://www.overdrive.com/media/1893958/the-revenant  
+By [Michael Punke](https://en.wikipedia.org/wiki/Michael_Punke)  (1964 – )  
+
+Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory).  I found this a gripping tale written in a manner that held my attention. The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Revenant_(novel)) for a proper summary of this story.  
+
+If you enjoy stories about American Western frontiersmen, trappers, explorers, etc. in the 19th century you might also like: [The Big Sky](#the_big_sky_by_a_b_guthrie) by A. B. Guthrie, Jr, or the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), [Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor) by Frances A. Fuller Victor.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Revenant_(novel)](https://en.wikipedia.org/wiki/The_Revenant_(novel))  
+
+Overdrive Summary: [overdrive.com/media/1893958/the-revenant](https://www.overdrive.com/media/1893958/the-revenant)  
+>The year is 1823, and the trappers of the Rocky Mountain Fur Company live a brutal frontier life. Hugh Glass is among the company's finest men, an experienced frontiersman and an expert tracker. But when a scouting mission puts him face-to-face with a grizzly bear, he is viciously mauled and not expected to survive. Two company men are dispatched to stay behind and tend to Glass before he dies. When the men abandon him instead, Glass is driven to survive by one desire: revenge. With shocking grit and determination, Glass sets out, crawling at first, across hundreds of miles of uncharted American frontier.  Based on a true story, The Revenant is a remarkable tale of obsession, the human will stretched to its limits, and the lengths that one man will go to for retribution.  
+
+</details>
+
+
   
 
 <details>
