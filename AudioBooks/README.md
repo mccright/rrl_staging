@@ -1863,7 +1863,7 @@ Reading Notes: See the Overdirve summary...  I listened to this short book while
 </details>
 
 
-<details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
+<details><summary><a name="eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor"></a>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
 https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
@@ -6061,7 +6061,9 @@ Audio: https://www.overdrive.com/media/2097036/the-revenant
 eBook: https://www.overdrive.com/media/1893958/the-revenant  
 By [Michael Punke](https://en.wikipedia.org/wiki/Michael_Punke)  (1964 – )  
 
-Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory). The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  
+Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory).  I found this a gripping tale written in a manner that held my attention. The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Revenant_(novel)) for a proper summary of this story.  
+
+If you enjoy stories about American Western frontiersmen, trappers, explorers, etc. in the 19th century you might also like: [The Big Sky](#the_big_sky_by_a_b_guthrie) by A. B. Guthrie, Jr, or the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), [Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor) by Frances A. Fuller Victor.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Revenant_(novel)](https://en.wikipedia.org/wiki/The_Revenant_(novel))  
 
