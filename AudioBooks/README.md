@@ -4892,6 +4892,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
+<details><summary><a name="the_road_by_cormac_mccarthy"></a>The Road.  By Cormac McCarthy. 2006 </summary>
+
+### The Road.  (7:00)  
+Audio: https://www.overdrive.com/media/239141/the-road  
+eBook: https://www.overdrive.com/media/148046/the-road  
+By [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)  (1933 – 2023)  
+
+Reading Notes: This is a unique postapocalyptic novel. In a cold, dark, ashen, hungry time after an undescribed catastrophy this story follows a man and his son (*both unnamed*) on their long walk to the sea.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Road](https://en.wikipedia.org/wiki/The_Road)  
+
+Overdrive Summary: [overdrive.com/media/148046/the-road](https://www.overdrive.com/media/148046/the-road)  
+>A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food-and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, "each the other's world entire," are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.  
+  
+
+</details>
+
+
 <details><summary><a name="robopocalypse_daniel_h_wilson"></a>Robopocalypse -- A Novel. By Daniel H. Wilson. 2011 </summary>
 
 ### Robopocalypse. (13:00)  
@@ -6048,22 +6066,30 @@ Brian & James
 
 
 
-
 <details>
-<summary><a name="the_road_by_cormac_mccarthy"></a>The Road.  By Cormac McCarthy. 2006 </summary>
+<summary><a name="never_by_ken_follett"></a>Never -- A Novel. By Ken Follett. 2021  </summary>
 
-### The Road.  (7:00)  
-Audio: https://www.overdrive.com/media/239141/the-road  
-eBook: https://www.overdrive.com/media/148046/the-road  
-By [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)  (1933 – 2023)  
+### Never -- A Novel.  (24:00)  
+Audio: https://www.overdrive.com/media/6069808/never  
+eBook: https://www.overdrive.com/media/6070420/never  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
 
-Reading Notes: This is a unique postapocalyptic novel. In a cold, dark, ashen time after an undescribed catastrophy this story follows a man and his son (*both unnamed*) on their long walk to the sea.  
+Reading Notes:   
+American Embassy *on Avenue Mubutu*, N'Djamena, Chad.  
 
-Wikipedia Summary: [wikipedia.org/wiki/The_Road](https://en.wikipedia.org/wiki/The_Road)  
+Some major characters:  
+* Pauline Green, the U.S. president.  
+* Chang Kai, a high-ranking Chinese intelligence officer (*wife, Ting*).  
+* Abdul John Haddad, a Lebanese American C.I.A. agent.  
+* 
 
-Overdrive Summary: [overdrive.com/media/148046/the-road](https://www.overdrive.com/media/148046/the-road)  
->A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food-and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, "each the other's world entire," are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.  
-  
+Overdrive Summary:  
+>“Every catastrophe begins with a little problem that doesn’t get fixed.” So says Pauline Green, president of the United States, in Follett’s nerve-racking drama of international tension.  A shrinking oasis in the Sahara Desert; a stolen US Army drone; an uninhabited Japanese island; and one country’s secret stash of deadly chemical poisons: all these play roles in a relentlessly escalating crisis.  Struggling to prevent the outbreak of world war are a young woman intelligence officer; a spy working undercover with jihadists; a brilliant Chinese spymaster; and Pauline herself, beleaguered by a populist rival for the next president election.  Never is an extraordinary novel, full of heroines and villains, false prophets and elite warriors, jaded politicians and opportunistic revolutionaries. It brims with cautionary wisdom for our times, and delivers a visceral, heart-pounding read that transports readers to the brink of the unimaginable.  
+
+Wikipedia Summary: [wikipedia.org/wiki/Never_(novel)](https://en.wikipedia.org/wiki/Never_(novel))  
+
+Review by Bill Sheehan:  [washingtonpost.com/.../never-ken-follett-book-review/2021/10/28/](https://www.washingtonpost.com/entertainment/books/never-ken-follett-book-review/2021/10/28/baaa6c78-3655-11ec-9bc4-86107e7b0ab1_story.html)  
+Review by Tobias Carroll: [nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel](https://www.nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel.html)  
 
 </details>
 
