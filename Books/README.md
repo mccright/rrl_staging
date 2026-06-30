@@ -495,6 +495,32 @@ Reading Notes:
 
 
 
+
+<details>
+<summary><a name="how_fascism_works_by_jason_stanley"></a>How Fascism Works -- The Politics of Us and Them.  By Jason Stanley. 2018  </summary>
+
+### How Fascism Works -- The Politics of Us and Them.  (5:44)  
+Audio: https://www.overdrive.com/media/3758632/how-fascism-works  
+eBook: https://www.overdrive.com/media/3758954/how-fascism-works  
+By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
+
+Reading Notes:  
+
+
+Wikipedia Summary: [wikipedia.org/wiki/How_Fascism_Works](https://en.wikipedia.org/wiki/How_Fascism_Works)  
+
+Overdrive Summary:  [ovrdrive.com/media/3758954/how-fascism-works](https://www.overdrive.com/media/3758954/how-fascism-works)  
+>A Yale philosopher identifies the ten pillars of fascist politics, and charts their horrifying rise and deep history. 
+As a scholar of philosophy and propaganda and the child of refugees of WWII Europe, Jason Stanley has long understood that democratic societies, including the United States, can be vulnerable to fascism. In How Fascism Works, he identifies ten pillars of fascist politics—an appeal to the mythic past, propaganda, anti-intellectualism, unreality, hierarchy, victimhood, law and order, sexual anxiety, favoring “the heartland,” and a dismantling of public goods and unions—that amount to an urgent diagnosis of the tactics right-wing politicians use to break down democracies and a critical lens on the current moment. 
+Stanley knits together reflections on history, philosophy, sociology, and critical race theory with stories from contemporary Hungary, Poland, India, Myanmar, and the United States, among other nations, making clear the immense dangers of language and beliefs that separate people into an “us” and a “them.” By uncovering disturbing patterns that are as prevalent today as ever, Stanley reveals that the stuff of politics—rhetoric and myth—can become policy and reality all too quickly. Only by recognizing them, he argues, can we begin to resist their most harmful effects and return to democratic ideals.  
+
+
+
+</details>
+
+
+
+
 <details>
 <summary><a name=""></a>How to Stand Up to a Dictator: A Nobel Laureate's Fight Against Authoritarianism. By Maria A Ressa. 2023  </summary>
 
