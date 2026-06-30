@@ -4004,6 +4004,35 @@ She excelled academically, held a range of student leadership positions, and ear
 </details>
 
 
+<details><summary><a name="never_by_ken_follett"></a>Never -- A Novel. By Ken Follett. 2021  </summary>
+
+### Never -- A Novel.  (24:00)  
+Audio: https://www.overdrive.com/media/6069808/never  
+eBook: https://www.overdrive.com/media/6070420/never  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: This is an engaging example of [apocalypse fiction](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction). A series of *correct* decisions lead to misunderstandings that result in small-scale, and then large-scale nuclear war. See the [Overdrive Summary](https://www.overdrive.com/media/6070420/never) or the book reviews below for more...  
+American Embassy *on Avenue Mubutu*, N'Djamena, Chad.  
+
+Some major characters:  
+* Pauline Green, the U.S. president -- responds to a constellation of escalating incidents in Chad, Sudan, the South China Sea, Japan, North Korea, Japan, South Korea and Hawaii in ways that in isolation seem measured and proportionate, but that result in the start of nuclear war.  
+* Chang Kai, a high-ranking Chinese intelligence officer (*wife, Ting, a star in TV series "Love in the Palace"*) collaborates with U.S. and North Korean peers to help deal with increasing tensions -- Chinese leadership's "*old men*" war-hawks resist his efforts.  
+* Abdul John Haddad, a Lebanese American C.I.A. agent, identifies an ISIS base in Chad and an ISIS leader in Lybia while tracking a load of ISIS cocaine across the North Africa..  
+* Tamera Levett, from Chicago, CIA agent in the N'Djamena station -- *super* spy involved in serial crises.  
+* Tab ____, born in Lebanon educated in the U.S., wealthy parents in France, Employed by French security, Tamera Levett's love interest.  
+* Kia, widow near Lake Chad with toddler son Naji risk everything in an effort to reach Europe for a new life -- her quest intersects with Abdul Haddad's cocaine tracking mission -- they become a couple.  
+
+[Overdrive Summary](https://www.overdrive.com/media/6070420/never):  
+>“Every catastrophe begins with a little problem that doesn’t get fixed.” So says Pauline Green, president of the United States, in Follett’s nerve-racking drama of international tension.  A shrinking oasis in the Sahara Desert; a stolen US Army drone; an uninhabited Japanese island; and one country’s secret stash of deadly chemical poisons: all these play roles in a relentlessly escalating crisis.  Struggling to prevent the outbreak of world war are a young woman intelligence officer; a spy working undercover with jihadists; a brilliant Chinese spymaster; and Pauline herself, beleaguered by a populist rival for the next president election.  Never is an extraordinary novel, full of heroines and villains, false prophets and elite warriors, jaded politicians and opportunistic revolutionaries. It brims with cautionary wisdom for our times, and delivers a visceral, heart-pounding read that transports readers to the brink of the unimaginable.  
+
+Wikipedia Summary: [wikipedia.org/wiki/Never_(novel)](https://en.wikipedia.org/wiki/Never_(novel))  
+
+Review by Bill Sheehan:  [washingtonpost.com/.../never-ken-follett-book-review/2021/10/28/](https://www.washingtonpost.com/entertainment/books/never-ken-follett-book-review/2021/10/28/baaa6c78-3655-11ec-9bc4-86107e7b0ab1_story.html)  
+Review by Tobias Carroll: [nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel](https://www.nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel.html)  
+
+</details>
+
+
 <details><summary><a name="new_york_2140"></a>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
 ### New York 2140 (22:35)  
@@ -4836,6 +4865,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
+<details><summary><a name="the_revenant_by_michael_punke"></a>The Revenant.  By Michael Punke.  2002/2015  </summary>
+
+### The Revenant.  (9:00)  
+Audio: https://www.overdrive.com/media/2097036/the-revenant  
+eBook: https://www.overdrive.com/media/1893958/the-revenant  
+By [Michael Punke](https://en.wikipedia.org/wiki/Michael_Punke)  (1964 – )  
+
+Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory).  I found this a gripping tale written in a manner that held my attention. The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Revenant_(novel)) for a proper summary of this story.  
+
+If you enjoy stories about American Western frontiersmen, trappers, explorers, etc. in the 19th century you might also like: [The Big Sky](#the_big_sky_by_a_b_guthrie) by A. B. Guthrie, Jr, or the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), [Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor) by Frances A. Fuller Victor.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Revenant_(novel)](https://en.wikipedia.org/wiki/The_Revenant_(novel))  
+
+Overdrive Summary: [overdrive.com/media/1893958/the-revenant](https://www.overdrive.com/media/1893958/the-revenant)  
+>The year is 1823, and the trappers of the Rocky Mountain Fur Company live a brutal frontier life. Hugh Glass is among the company's finest men, an experienced frontiersman and an expert tracker. But when a scouting mission puts him face-to-face with a grizzly bear, he is viciously mauled and not expected to survive. Two company men are dispatched to stay behind and tend to Glass before he dies. When the men abandon him instead, Glass is driven to survive by one desire: revenge. With shocking grit and determination, Glass sets out, crawling at first, across hundreds of miles of uncharted American frontier.  Based on a true story, The Revenant is a remarkable tale of obsession, the human will stretched to its limits, and the lengths that one man will go to for retribution.  
+
+</details>
+
+
 <details><summary><a name="revenge_of_the_tipping_point_by_malcolm_gladwell"></a>Revenge of the Tipping Point -- Overstories, Superspreaders, and the Rise of Social Engineering. By Malcolm Gladwell. 2024 </summary>
 
 ### Revenge of the Tipping Point -- Overstories, Superspreaders, and the Rise of Social Engineering. (8:00)  
@@ -4888,6 +4936,24 @@ By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )
 Reading Notes: This long book is probably not for everyone...  It covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
+
+</details>
+
+
+<details><summary><a name="the_road_by_cormac_mccarthy"></a>The Road.  By Cormac McCarthy. 2006 </summary>
+
+### The Road.  (7:00)  
+Audio: https://www.overdrive.com/media/239141/the-road  
+eBook: https://www.overdrive.com/media/148046/the-road  
+By [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)  (1933 – 2023)  
+
+Reading Notes: This is a unique postapocalyptic novel. In a cold, dark, ashen, hungry time after an undescribed catastrophy this story follows a man and his son (*both unnamed*) on their long walk to the sea.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Road](https://en.wikipedia.org/wiki/The_Road)  
+
+Overdrive Summary: [overdrive.com/media/148046/the-road](https://www.overdrive.com/media/148046/the-road)  
+>A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food-and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, "each the other's world entire," are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.  
+  
 
 </details>
 
@@ -6048,45 +6114,6 @@ Brian & James
 
 
 
-
-<details>
-<summary><a name="the_road_by_cormac_mccarthy"></a>The Road.  By Cormac McCarthy. 2006 </summary>
-
-### The Road.  (7:00)  
-Audio: https://www.overdrive.com/media/239141/the-road  
-eBook: https://www.overdrive.com/media/148046/the-road  
-By [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)  (1933 – 2023)  
-
-Reading Notes: This is a unique postapocalyptic novel. In a cold, dark, ashen time after an undescribed catastrophy this story follows a man and his son (*both unnamed*) on their long walk to the sea.  
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Road](https://en.wikipedia.org/wiki/The_Road)  
-
-Overdrive Summary: [overdrive.com/media/148046/the-road](https://www.overdrive.com/media/148046/the-road)  
->A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food-and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, "each the other's world entire," are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.  
-  
-
-</details>
-
-
-
-<details>
-<summary><a name="the_revenant_by_michael_punke"></a>The Revenant.  By Michael Punke.  2002/2015  </summary>
-
-### The Revenant.  (9:00)  
-Audio: https://www.overdrive.com/media/2097036/the-revenant  
-eBook: https://www.overdrive.com/media/1893958/the-revenant  
-By [Michael Punke](https://en.wikipedia.org/wiki/Michael_Punke)  (1964 – )  
-
-Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory).  I found this a gripping tale written in a manner that held my attention. The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Revenant_(novel)) for a proper summary of this story.  
-
-If you enjoy stories about American Western frontiersmen, trappers, explorers, etc. in the 19th century you might also like: [The Big Sky](#the_big_sky_by_a_b_guthrie) by A. B. Guthrie, Jr, or the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), [Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor) by Frances A. Fuller Victor.  
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Revenant_(novel)](https://en.wikipedia.org/wiki/The_Revenant_(novel))  
-
-Overdrive Summary: [overdrive.com/media/1893958/the-revenant](https://www.overdrive.com/media/1893958/the-revenant)  
->The year is 1823, and the trappers of the Rocky Mountain Fur Company live a brutal frontier life. Hugh Glass is among the company's finest men, an experienced frontiersman and an expert tracker. But when a scouting mission puts him face-to-face with a grizzly bear, he is viciously mauled and not expected to survive. Two company men are dispatched to stay behind and tend to Glass before he dies. When the men abandon him instead, Glass is driven to survive by one desire: revenge. With shocking grit and determination, Glass sets out, crawling at first, across hundreds of miles of uncharted American frontier.  Based on a true story, The Revenant is a remarkable tale of obsession, the human will stretched to its limits, and the lengths that one man will go to for retribution.  
-
-</details>
 
 
   
