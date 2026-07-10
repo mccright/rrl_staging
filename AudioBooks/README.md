@@ -150,7 +150,7 @@ eBook: https://www.overdrive.com/media/8671542/act-of-oblivion
 By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
 
 Reading Notes: This story explores what it was like for many of the [Puritans](https://en.wikipedia.org/wiki/Puritans) in England and the in [the New England Colonies](https://en.wikipedia.org/wiki/Puritan_migration_to_New_England_(1620%E2%80%931640)) by the 1660s, as well as some of the political disruptions in [London, England](https://en.wikipedia.org/wiki/London) in the years immediately following the [English Civil War](https://en.wikipedia.org/wiki/English_Civil_War), including the [Great Plague](https://en.wikipedia.org/wiki/Great_Plague_of_London) (1665–1666) and the [Great Fire of London](https://en.wikipedia.org/wiki/Great_Fire_of_London) (1666).  
-After the [First English Civil War](https://en.wikipedia.org/wiki/English_Civil_War#First_English_Civil_War_(1642%E2%80%931646)), [King Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was a prisoner of the Parliamentarians. The Parliamentarians ultimately decided that they could not successfully negotiate a settlement with him and concluded that he would have to be put to death.  The [House of Commons](https://en.wikipedia.org/wiki/House_of_Commons_of_England) organized a bill charging try Charles I for high treason (*the [House of lords](https://en.wikipedia.org/wiki/House_of_Lords) refused to pass it*).  Charles was found guilty on Saturday 27 January 1649, and his death warrant was signed by [fifty-nine commissioners](https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I).  He was executed on 30 January 1649.  The "fifty-nine" were called [regicides]((https://en.wikipedia.org/wiki/Regicide)) -- the people responsible for killing a monarch.  
+After the [First English Civil War](https://en.wikipedia.org/wiki/English_Civil_War#First_English_Civil_War_(1642%E2%80%931646)), [King Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was a prisoner of the Parliamentarians. The Parliamentarians ultimately decided that they could not successfully negotiate a settlement with him and concluded that he would have to be put to death.  The [House of Commons](https://en.wikipedia.org/wiki/House_of_Commons_of_England) organized a bill charging try Charles I for high treason (*the [House of lords](https://en.wikipedia.org/wiki/House_of_Lords) refused to pass it*).  Charles was found guilty on Saturday 27 January 1649, and his death warrant was signed by [fifty-nine commissioners](https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I).  He was executed on 30 January 1649.  The "fifty-nine" were called [regicides](https://en.wikipedia.org/wiki/Regicide) -- the people responsible for killing a monarch.  
 Set in 1660 this historical novel follows an imaginary "Richard Nayler" of the [Privy Council](https://en.wikipedia.org/wiki/Privy_Council_of_England) who is tasked with tracking down the *real* regicides, focusing with special passion on [Edward Whalley](https://en.wikipedia.org/wiki/Edward_Whalley) and his son-in-law [William Goffe](https://en.wikipedia.org/wiki/William_Goffe).  Although dead by this time [Oliver Cromwell](https://en.wikipedia.org/wiki/Oliver_Cromwell) remains *present* and influential in the lives of these core characters.  
 
 
@@ -4695,7 +4695,7 @@ Audio: https://www.overdrive.com/media/1556214/the-prefect
 Ebook: https://www.overdrive.com/media/613444/the-prefect  
 By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 -  )  
 
-Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  It stands-alone well and I didn't have the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the stated purpose of imposing a strict authoritarian *government* (*or simply, as has happened with authoritarian leaders throughout history, taking over simply for their personal security, pleasure and longevity*).  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  The story follows Tom Dreyfus, law enforcement officer as he is repeatedly confronted with challenges to his sense of commitment to the rule of law, to the democracy he is sworn to protect, and to his relationships with peers in law enforcement.  There is a lot more to this story, but it is worth reading/listening to simply for the inner and outer dialog of officer Tom Dreyfus.  This is also science fiction and includes industrial human slaughter in an environment composed of an interesting range of future space habitats, modes of computing, medicine, communication, of transportation and much more.  
+Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  It stands-alone well and I didn't have the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the stated purpose of imposing a strict authoritarian *government* (*or simply, as has happened with authoritarian leaders throughout history, taking over for their personal security, pleasure and longevity*).  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  The story follows Tom Dreyfus, law enforcement officer as he is repeatedly confronted with challenges to his sense of commitment to the rule of law, to the democracy he is sworn to protect, and to his relationships with peers in law enforcement.  There is a lot more to this story, but it is worth reading/listening to simply for the inner and outer dialog of officer Tom Dreyfus.  This is also science fiction and includes industrial human slaughter in an environment composed of an interesting range of future space habitats, modes of computing, medicine, communication, of transportation and much more.  
 
 Publisher Summary:  
 >Tom Dreyfus is a Prefect, a law enforcement officer with the Panoply. His beat is the multifaceted utopian society of the Glitter Band, that vast swirl of space habitats orbiting the planet Yellowstone, the teeming hub of a human interstellar empire spanning many worlds. His current case: investigating a murderous attack against one of the habitats that left 900 people dead, a crime that appalls even a hardened cop like Dreyfus. But then his investigation uncovers something far more serious than mass slaughter -- a covert plot by an enigmatic entity who seeks nothing less than total control of the Glitter Band. Before long, the Panoply detectives are fighting against something worse than tyranny, in a struggle that will lead to more devastation and more death. And Dreyfus will discover that to save what is precious, you may have to destroy it.  
@@ -6173,6 +6173,24 @@ Brian & James
 
 
 
+<details>
+<summary><a name="revelation_space_by_alastair_reynolds"></a>Revelation Space -- #1 in Revelation Space series. By Alastair Reynolds. 2000/2009  </summary>
+
+### Revelation Space -- #1 in Revelation Space series. (22:00)  
+Audio: https://www.overdrive.com/media/216449/revelation-space  
+eBook: https://www.overdrive.com/media/222323/revelation-space  
+By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 – )  
+
+Reading Notes: The action in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) novel takes place in 26th century. 
+
+* Dan Sylveste: An [archaeologist](https://en.wikipedia.org/wiki/Xenoarchaeology) excavating the remains of the long-dead Amarantin race that lived on a planet in the [Delta Pavonis](https://en.wikipedia.org/wiki/Delta_Pavonis) system. Over the course of decades, Sylveste learns that the Amarantin may have become technologically sophisticated before their sun destroyed life on the planet Resurgam nearly a million years prior.  
+* Ilia Volyova: Works in *Nostalgia for Infinity*, a large spacecraft capable of interstellar travel. Volyova and the other members of her skeleton crew wish to find Sylveste because they believe he can help them with their captain, who has been infected with the Melding Plague, a nanotech virus that attacks human cells and machine implants to pervert them into grotesque combinations.  
+* Ana Khouri, an assassin living on the planet Yellowstone (in the [Epsilon Eridani](https://en.wikipedia.org/wiki/Epsilon_Eridani) system). Khouri is hired by a mysterious figure known as the Mademoiselle to assassinate Sylveste.
+
+
+</details>
+
+
 
 
 <details>
@@ -6881,24 +6899,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="last_and_first_men_by_olaf_stapledon"></a>Last and first men -- SF Masterworks,11.  By Olaf Stapledon. </summary>
-
-### Last and First Men.  
-Audio:   
-eBook: https://www.overdrive.com/media/1850679/last-and-first-men  
-By [Olaf Stapledon, AKA William Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)  (1886 – 1950)  
-
-Reading Notes: *Thank you Noah Diegel for recommending this book*.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men  
-[OverDrive Summary](https://www.overdrive.com/media/1850679/last-and-first-men):  
->This text is not so much a novel as a history of the future Over the course of 2,000 million years it describes the evolutionary rise and fall of eighteen distinct races of men, of which Homo sapiens is the first and most primitive.  
-
-
-</details>
 
 
 
