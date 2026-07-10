@@ -495,6 +495,24 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="last_and_first_men_by_olaf_stapledon"></a>Last and first men -- SF Masterworks,11.  By Olaf Stapledon. </summary>
+
+### Last and First Men.  
+Audio:   
+eBook: https://www.overdrive.com/media/1850679/last-and-first-men  
+By [Olaf Stapledon, AKA William Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)  (1886 – 1950)  
+
+Reading Notes: *Thank you Noah Diegel for recommending this book*.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men  
+[OverDrive Summary](https://www.overdrive.com/media/1850679/last-and-first-men):  
+>This text is not so much a novel as a history of the future Over the course of 2,000 million years it describes the evolutionary rise and fall of eighteen distinct races of men, of which Homo sapiens is the first and most primitive.  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="how_fascism_works_by_jason_stanley"></a>How Fascism Works -- The Politics of Us and Them.  By Jason Stanley. 2018  </summary>
