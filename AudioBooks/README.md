@@ -4688,7 +4688,7 @@ Reading Notes: This is a near-future story about some attempts deal with impacts
 </details>
 
 
-<details><summary><a name="the_prefect_alastair_reynolds"></a>The Prefect. By Alastair Reynolds. 2011</summary>
+<details><summary><a name="the_prefect_alastair_reynolds"></a>The Prefect -- 7 in the Revelation Series. By Alastair Reynolds. 2011</summary>
 
 ### The Prefect. (20:00)  
 Audio: https://www.overdrive.com/media/1556214/the-prefect  
@@ -6181,11 +6181,20 @@ Audio: https://www.overdrive.com/media/216449/revelation-space
 eBook: https://www.overdrive.com/media/222323/revelation-space  
 By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 – )  
 
-Reading Notes: The action in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) novel takes place in 26th century. 
+Reading Notes: The action in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) novel takes place in 26th century -- a little more than 500 years from my writing this entry.  [Interstellar space travel](https://en.wikipedia.org/wiki/Interstellar_travel) under [constant acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration) is *practical*, but dangerous, and available spacecraft are aging -- raising the risks.  
+An [archaeologist](https://en.wikipedia.org/wiki/Xenoarchaeology), Dan Sylveste, working a dig "investigating the sudden and catastrophic end of an alien race," the long-dead Amarantins, more than 900,000 years ago.  
 
-* Dan Sylveste: An [archaeologist](https://en.wikipedia.org/wiki/Xenoarchaeology) excavating the remains of the long-dead Amarantin race that lived on a planet in the [Delta Pavonis](https://en.wikipedia.org/wiki/Delta_Pavonis) system. Over the course of decades, Sylveste learns that the Amarantin may have become technologically sophisticated before their sun destroyed life on the planet Resurgam nearly a million years prior.  
-* Ilia Volyova: Works in *Nostalgia for Infinity*, a large spacecraft capable of interstellar travel. Volyova and the other members of her skeleton crew wish to find Sylveste because they believe he can help them with their captain, who has been infected with the Melding Plague, a nanotech virus that attacks human cells and machine implants to pervert them into grotesque combinations.  
-* Ana Khouri, an assassin living on the planet Yellowstone (in the [Epsilon Eridani](https://en.wikipedia.org/wiki/Epsilon_Eridani) system). Khouri is hired by a mysterious figure known as the Mademoiselle to assassinate Sylveste.
+
+* **Dan Sylveste**: An [archaeologist](https://en.wikipedia.org/wiki/Xenoarchaeology) excavating the remains of the long-dead Amarantin race that lived on a planet in the [Delta Pavonis](https://en.wikipedia.org/wiki/Delta_Pavonis) system. Over the course of decades, Sylveste learns that the Amarantin may have become technologically sophisticated before their sun destroyed life on the planet Resurgam nearly a million years prior.  
+* **Ilia Volyova**: Works in *Nostalgia for Infinity*, a large *lighthugger* spacecraft capable of interstellar travel. Volyova and the other members of her skeleton crew wish to find Sylveste because they believe he can help them with their captain, who has been infected with the Melding Plague, a nanotech virus that attacks human cells and machine implants to pervert them into grotesque combinations.  
+* **Ana Khouri**, an assassin living on the planet Yellowstone (in the [Epsilon Eridani](https://en.wikipedia.org/wiki/Epsilon_Eridani) system). Khouri is hired by a mysterious figure known as the Mademoiselle to assassinate Sylveste.  
+* **Pascal**: 
+
+
+Wikipedia Summary: [wikipedia.org/wiki/Revelation_Space](https://en.wikipedia.org/wiki/Revelation_Space)  
+
+Overdrive Summary: [overdrive.com/media/216449/revelation-space](https://www.overdrive.com/media/216449/revelation-space)  
+>"Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him because the Amarantin were destroyed for a reason. And if that reason is uncovered, the universe—and reality itself—could be irrevocably altered."  
 
 
 </details>
