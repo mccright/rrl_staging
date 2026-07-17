@@ -6172,6 +6172,28 @@ Brian & James
 
 
 
+<details>
+<summary><a name="spearhead_by_adam_makos"></a>Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II.  By Adam Makos. 2019  </summary>
+
+### Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II. (14:00)  
+Audio: https://www.overdrive.com/media/4028754/spearhead  
+eBook: https://www.overdrive.com/media/4247725/spearhead  
+By [Adam Makos](https://en.wikipedia.org/wiki/Adam_Makos)  ( – )  
+
+Reading Notes: 
+
+Some characters:  
+Clarence Smoyer, 
+Bob Early, Commander of Clarence Smoyer's tank.  
+
+Authors Page on this book: [www.adammakos.com/spearhead-book](https://www.adammakos.com/spearhead-book.html)  
+OverDrive Summary: [overdrive.com/media/4028754/spearhead](https://www.overdrive.com/media/4028754/spearhead)  
+>When Clarence Smoyer is assigned to the gunner’s seat of his Sherman tank, he discovers a hidden talent: He’s a natural-born shooter. At first, Clarence and his fellow crews in the legendary 3rd Armored Division—“Spearhead”—thought their tanks were invincible. Then they met the murderous German Panther and a pattern soon emerged: The lead tank always gets hit.  After Clarence sees his friends cut down at the West Wall and in the Battle of the Bulge, he and his crew are given a weapon with the power to avenge their fellow comrades—the Pershing, a state-of-the-art “super tank.” But with it comes a harrowing new responsibility: Now they will spearhead every attack.  That’s how Clarence finds himself leading the U.S. Army into its largest urban battle of the European war, the fight for Cologne, the “Fortress City” of Germany. Clarence will engage the fearsome Panther in a duel immortalized by an army cameraman. And he will square off with Gustav Schaefer, a teenager behind the trigger in a Panzer IV tank, whose crew has been sent on a suicide mission to stop the Americans.  What happens next will haunt Clarence to the modern day, drawing him back to Cologne to do the unthinkable: to face his enemy, one last time.  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="revelation_space_by_alastair_reynolds"></a>Revelation Space -- #1 in Revelation Space series. By Alastair Reynolds. 2000/2009  </summary>
