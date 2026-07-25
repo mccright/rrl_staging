@@ -831,7 +831,7 @@ Audio: https://www.overdrive.com/media/10714386/beautiful-ugly
 eBook: https://www.overdrive.com/media/10649456/beautiful-ugly  
 By [Alice Feeney](https://en.wikipedia.org/wiki/Alice_Feeney)  (1978 – )  
 
-Reading Notes: This is a [psychological thriller](https://en.wikipedia.org/wiki/Psychological_thriller) about Grady Green, a once-successful author whose wife Abby disappears. Throughout the next year us is unable to write and is approaching homelessness, when his agent lets him live in a famous author Charles Whittaker's *writing cabin* on a remote Scottish island.  There he cannot sleep and is unable to find his groove in the tight island community.  He also sees a woman who looks exactly like his missing wife.  Lots of misunderstandings and people are not who they initially seem to be.  
+Reading Notes: This is a [psychological thriller](https://en.wikipedia.org/wiki/Psychological_thriller) about Grady Green, a once-successful author whose wife Abby disappears. Throughout the next year he is unable to write and is approaching homelessness, when his agent lets him live in a famous author Charles Whittaker's *writing cabin* on a remote Scottish island.  There he cannot sleep and is unable to find his groove in the tight island community.  He also sees a woman who looks exactly like his missing wife.  Lots of misunderstandings and people are not who they initially seem to be.  
 
 Wikipedia Summary: [wikipedia.org/wiki/Beautiful_Ugly](https://en.wikipedia.org/wiki/Beautiful_Ugly) (*lots of spoilers*)  
 
@@ -6222,7 +6222,7 @@ Audio: https://www.overdrive.com/media/1646652/napoleon
 eBook: https://www.overdrive.com/media/1583645/napoleon  
 By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
 
-Reading Notes:   
+Reading Notes: If you want a detailed biography of Napoleon, Andrew Roberts' 2014 volume might be a good fit.  Napoleon lived active and complex life and left lasting impacts across Europe and the Middle East.  And his publications and actions have been studied across most world cultures.  
 
 
 Author's book page: [andrew-roberts.net/books/napoleon-a-life/](https://www.andrew-roberts.net/books/napoleon-a-life/)  
