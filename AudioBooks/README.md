@@ -4024,7 +4024,7 @@ BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://book
 </details>
 
 
-<details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
+<details><summary><a name="napoleon_the_first_by_walter_geer"></a>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
 https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
@@ -4032,6 +4032,8 @@ Text: https://archive.org/details/cu31924014676054/mode/2up
 By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Geer%2c%20Walter%2c%201857%2d1937) (1857 - 1937)  
 
 Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reading by [Celine Major](https://librivox.org/reader/11697?primary_key=11697&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this tragic story an enjoyable experience...  
+
+It is only one third the length of [Napoleon -- A Life](#napoleon_a_life_by_andrew_roberts) by [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia), which is much more detailed.  If you want to learn about the broad spectrum of Napoleon's military activities, Roberts' comprehensive biography is a better bet.  
 
 Librivox Summary:  
 >Excerpt: "Now that one hundred years have elapsed since the "long-drawn agony" of Saint Helena we think that the time has come for a more impartial estimate. Facts are clearer, motives are better known, much new evidence is available. Let us then endeavor to depict Napoleon as he was, and "nothing extenuate, nor set down aught in malice." - Walter Geer [librivox](https://librivox.org/napoleon-the-first-biography-by-walter-geer/)  
@@ -6222,11 +6224,14 @@ Audio: https://www.overdrive.com/media/1646652/napoleon
 eBook: https://www.overdrive.com/media/1583645/napoleon  
 By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
 
-Reading Notes: If you want a detailed biography of Napoleon, Andrew Roberts' 2014 volume might be a good fit.  Napoleon lived active and complex life and left lasting impacts across Europe and the Middle East.  And his publications and actions have been studied across most world cultures.  
-
+Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  Napoleon lived active and complex life and left lasting impacts across the West and the Middle East.  And his publications and actions have been studied across most world cultures.  
+The author details all of Napoleon's major battles and most of his material actions as Emperor of the French (*and those prior and post that period*).  
 
 Author's book page: [andrew-roberts.net/books/napoleon-a-life/](https://www.andrew-roberts.net/books/napoleon-a-life/)  
 Wikipedia Page: [wikipedia.org/wiki/Napoleon:_A_Life](https://en.wikipedia.org/wiki/Napoleon:_A_Life)  
+
+The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I.  [gutenberg.org/ebooks/50750](https://www.gutenberg.org/ebooks/50750)  
+There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of free books that are about or that reference Napoleon.  
 
 </details>
 
