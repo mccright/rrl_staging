@@ -6217,14 +6217,24 @@ Brian & James
 
 
 <details>
-<summary><a name="the_quest_by_nelson_demille"></a>The Quest.  By Nelson DeMille. 2013 </summary>
+<summary><a name="the_quest_by_nelson_demille"></a>The Quest -- A Novel.  By Nelson DeMille. 2013 </summary>
 
-### The Quest.  (18:00)  
-Audio:   
-eBook:   
-By [Nelson DeMille]()  ( – )  
+### The Quest -- A Novel.  (18:00)  
+Audio: https://www.overdrive.com/media/1421738/the-quest  
+eBook: https://www.overdrive.com/media/1238178/the-quest  
+By [Nelson DeMille](https://en.wikipedia.org/wiki/Nelson_DeMille) and [here](https://nelsondemille.net/about/)  (1943 – 2024)  
 
-Reading Notes:   
+Reading Notes: DeMille wrote an earlier, shorter version of The Quest published in paperback in 1975. In 2013, he rewrote The Quest and doubled its length.  
+Two reporters, a mercenary soldier, and a devastatingly 
+beautiful photographer are caught in the upheaval of an 
+Ethiopian civil war.  
+Thus begins their 
+Quest—a deadly adventure that pits them against murderous 
+tribesmen, shadowy assassins, fanatical Coptic monks, and 
+ultimately against the powers of the Grail itself.  
+
+Overdrive Summary:  
+>A sweeping adventure that's equal parts thriller and love story, Nelson DeMille's newest novel takes the reader from the war torn jungles of Ethiopia to the magical city of Rome.  While the Ethiopian Civil War rages, a Catholic priest languishes in prison. Forty years have passed since he last saw daylight. His crime? Claiming to know the true location of Christ's cup from the Last Supper. Then the miraculous happens - a mortar strikes the prison and he is free!  Old, frail, and injured, he escapes to the jungle, where he encounters two Western journalists and a beautiful freelance photographer taking refuge from the carnage. As they tend to his wounds, he relates his incredible story.  Motivated by the sensational tale and their desire to find the location of the holiest of relics, the trio agrees to search for the Grail.  Thus begins an impossible quest that will pit them against murderous tribes, deadly assassins, fanatical monks, and the passions of their own hearts.  THE QUEST is suspenseful, romantic, and filled with heart-pounding action. Nelson DeMille is at the top of his game as he masterfully interprets one of history's greatest mysteries.  
 
 
 </details>
