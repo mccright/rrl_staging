@@ -4809,6 +4809,23 @@ Expanded Author's Note for Quantum Radio: https://www.agriddle.com/qr-facts
 </details>
 
 
+<details><summary><a name="the_quest_by_nelson_demille"></a>The Quest -- A Novel.  By Nelson DeMille. 2013 </summary>
+
+### The Quest -- A Novel.  (18:00)  (463 pages)
+Audio: https://www.overdrive.com/media/1421738/the-quest  
+eBook: https://www.overdrive.com/media/1238178/the-quest  
+By [Nelson DeMille](https://en.wikipedia.org/wiki/Nelson_DeMille) and [here](https://nelsondemille.net/about/)  (1943 – 2024)  
+
+Reading Notes: DeMille wrote an earlier, shorter version of The Quest published in paperback in 1975. In 2013, he rewrote The Quest and doubled its length.  
+My summary: Two reporters, a mercenary soldier, and a young female photographer are caught in chaos of the mid-1970s [Ethiopian civil war](https://en.wikipedia.org/wiki/Ethiopian_Civil_War) while searching for the [holy grail](https://en.wikipedia.org/wiki/Relics_associated_with_Jesus#Holy_Chalice_(Holy_Grail)).  They find it, but leave it and have a happy ending.  It is not the greatest adventure/action book I've read.  The story plods at times.  The three main characters seem to have *magic* money to spend -- *the kind that never runs out.*  And the characters remain only marginally developed -- each driven to succeed in their quest, and to service their adolescent animal urges.  If you feel this way after the first 50 or 100 pages, assume it will not change if you read more.  
+  
+[Overdrive Summary](https://www.overdrive.com/media/1238178/the-quest):  
+>A sweeping adventure that's equal parts thriller and love story, Nelson DeMille's newest novel takes the reader from the war torn jungles of Ethiopia to the magical city of Rome.  While the Ethiopian Civil War rages, a Catholic priest languishes in prison. Forty years have passed since he last saw daylight. His crime? Claiming to know the true location of Christ's cup from the Last Supper. Then the miraculous happens - a mortar strikes the prison and he is free!  Old, frail, and injured, he escapes to the jungle, where he encounters two Western journalists and a beautiful freelance photographer taking refuge from the carnage. As they tend to his wounds, he relates his incredible story.  Motivated by the sensational tale and their desire to find the location of the holiest of relics, the trio agrees to search for the Grail.  Thus begins an impossible quest that will pit them against murderous tribes, deadly assassins, fanatical monks, and the passions of their own hearts.  THE QUEST is suspenseful, romantic, and filled with heart-pounding action. Nelson DeMille is at the top of his game as he masterfully interprets one of history's greatest mysteries.  
+
+
+</details>
+
+
 <details><summary><a name="the_quick_by_lauren_owen"></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
@@ -6216,19 +6233,39 @@ On the calculation of volume.
 Brian & James
 
 
+Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer. 2014 
+
 <details>
-<summary><a name="the_quest_by_nelson_demille"></a>The Quest -- A Novel.  By Nelson DeMille. 2013 </summary>
+<summary><a name=""></a>Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer.  </summary>
 
-### The Quest -- A Novel.  (18:00)  (463 pages)
-Audio: https://www.overdrive.com/media/1421738/the-quest  
-eBook: https://www.overdrive.com/media/1238178/the-quest  
-By [Nelson DeMille](https://en.wikipedia.org/wiki/Nelson_DeMille) and [here](https://nelsondemille.net/about/)  (1943 – 2024)  
+### Annihilation.  (6:00) 
+Audio: https://www.overdrive.com/media/3835721/annihilation  
+eBook: https://www.overdrive.com/media/2115061/annihilation  
+By [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)  (1968 – )  
 
-Reading Notes: DeMille wrote an earlier, shorter version of The Quest published in paperback in 1975. In 2013, he rewrote The Quest and doubled its length.  
-My summary: Two reporters, a mercenary soldier, and a young female photographer are caught in chaos of the mid-1970s [Ethiopian civil war](https://en.wikipedia.org/wiki/Ethiopian_Civil_War) while searching for the [holy grail](https://en.wikipedia.org/wiki/Relics_associated_with_Jesus#Holy_Chalice_(Holy_Grail)).  They find it, but leave it and have a happy ending.  It is not the greatest adventure/action book I've read.  The story plods at times.  The three main characters seem to have *magic* money to spend -- *the kind that never runs out.*  And the characters remain only marginally developed -- each driven to succeed in their quest, and to service their adolescent animal urges.  If you feel this way after the first 50 or 100 pages, assume it will not change if you read more.  
-  
-[Overdrive Summary](https://www.overdrive.com/media/1238178/the-quest):  
->A sweeping adventure that's equal parts thriller and love story, Nelson DeMille's newest novel takes the reader from the war torn jungles of Ethiopia to the magical city of Rome.  While the Ethiopian Civil War rages, a Catholic priest languishes in prison. Forty years have passed since he last saw daylight. His crime? Claiming to know the true location of Christ's cup from the Last Supper. Then the miraculous happens - a mortar strikes the prison and he is free!  Old, frail, and injured, he escapes to the jungle, where he encounters two Western journalists and a beautiful freelance photographer taking refuge from the carnage. As they tend to his wounds, he relates his incredible story.  Motivated by the sensational tale and their desire to find the location of the holiest of relics, the trio agrees to search for the Grail.  Thus begins an impossible quest that will pit them against murderous tribes, deadly assassins, fanatical monks, and the passions of their own hearts.  THE QUEST is suspenseful, romantic, and filled with heart-pounding action. Nelson DeMille is at the top of his game as he masterfully interprets one of history's greatest mysteries.  
+Reading Notes:   
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="destiny_of_the_republic_by_candice_millard"></a>Destiny of the Republic -- A Tale of Madness, Medicine and the Murder of a President. By Candice Millard.  2011 </summary>
+
+### Destiny of the Republic -- A Tale of Madness, Medicine and the Murder of a President. (10:00)  
+Audio: https://www.overdrive.com/media/524418/destiny-of-the-republic  
+eBook: https://www.overdrive.com/media/552223/destiny-of-the-republic  
+By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 -  )   
+
+Reading Notes: This is an excellent non-fiction story about the life and [assassination](https://en.wikipedia.org/wiki/Assassination_of_James_A._Garfield) of United States [President James A. Garfield](https://en.wikipedia.org/wiki/James_A._Garfield), including coverage of his assassin, [Charles J. Guiteau](https://en.wikipedia.org/wiki/Charles_J._Guiteau) along with key Washington political actors, Vice President [Chester A. Arthur](https://en.wikipedia.org/wiki/Chester_A._Arthur), Senator [Roscoe Conkling](https://en.wikipedia.org/wiki/Roscoe_Conkling) and the seriously damaged senior presiding doctor, [D. Willard Bliss](https://en.wikipedia.org/wiki/Doctor_Willard_Bliss), and a cameo by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell).  
+
+[Overdrive Summary](https://www.overdrive.com/media/552223/destiny-of-the-republic):  
+>"James A. Garfield was one of the most extraordinary men ever elected president. Born into abject poverty, he rose to become a wunderkind scholar, a Civil War hero, and a renowned and admired reformist congressman. Nominated for president against his will, he engaged in a fierce battle with the corrupt political establishment. But four months after his inauguration, a deranged office seeker tracked Garfield down and shot him in the back.  But the shot didn’t kill Garfield. The drama of what happened subsequently is a powerful story of a nation in turmoil. The unhinged assassin’s half-delivered strike shattered the fragile national mood of a country so recently fractured by civil war, and left the wounded president as the object of a bitter behind-the-scenes struggle for power—over his administration, over the nation’s future, and, hauntingly, over his medical care. A team of physicians administered shockingly archaic treatments, to disastrous effect. As his condition worsened, Garfield received help: Alexander Graham Bell, the inventor of the telephone, worked around the clock to invent a new device capable of finding the bullet."  
+
+Review by [By Janet Maslin]: [nytimes.com/2011/09/12/books/destiny-of-the-republic...](https://www.nytimes.com/2011/09/12/books/destiny-of-the-republic-on-garfield-by-candice-millard-review.html)  
+Review by [Del Quentin Wilber](): [washingtonpost.com/.../destiny-of-the-republic/...](https://www.washingtonpost.com/entertainment/books/destiny-of-the-republic/2011/08/25/gIQAbzC99K_story.html?noredirect=on)  
 
 
 </details>
