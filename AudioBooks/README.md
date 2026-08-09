@@ -860,7 +860,7 @@ https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-k
 <details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
-https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
+audio: https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
 Text: https://www.gutenberg.org/ebooks/8677  
 By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
 Reader Notes:  First, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/Behind_a_Mask).  This may be more than a simple 19th century family drama.  Jean Muir manipulates males who range from their late teens to (*maybe*) their middle sixties -- men who do her bidding in *virtually* total self-interest, the desire to "have her."  As a male reader, this all seemed a little *too easy*, *too convenient*.  Yet, Ms. Alcott may have been more successful at building (*and crushing*) widely assumed male and female archetypes.  In any case, she leaves much of the Coventry family damaged.  And left the reader wondering how these characters went about their roles in mid-19th century British society...  
