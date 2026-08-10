@@ -6243,8 +6243,11 @@ Audio: https://www.overdrive.com/media/3835721/annihilation
 eBook: https://www.overdrive.com/media/2115061/annihilation  
 By [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)  (1968 – )  
 
-Reading Notes:   
+Reading Notes: A biologist, an anthropologist, a surveyor and a psychologist -- all unnamed -- are sent by the Southern Reach organization (*the government? It's not clear...*) to study Area X, a near mythic site of an unknown *catastrophe*.  I don't believe this atmospheric horror novel is for everyone.  The author constructed a story that is dark, sometimes claustrophobic, swells tension and fear of the unknown, flings scenes of killing and the remains of recent and earlier violence, and introduces barely seen creatures that together ensure a reader's unease.  
 
+Review by [Jason Sheehan](https://www.linkedin.com/in/jason-sheehan-40ab2713b/):  [npr.org/.../youll-get-lost-in-the-haunted-world-of-annihilation](https://www.npr.org/2014/02/07/270967294/youll-get-lost-in-the-haunted-world-of-annihilation)  
+Review by [Tom LeClair](https://researchdirectory.uc.edu/p/leclaite):  [nytimes.com/.../annihilation-by-jeff-vandermeer-and-more.html](https://www.nytimes.com/2014/02/16/books/review/annihilation-by-jeff-vandermeer-and-more.html)  
+A collection of reviews at [bookmarks](https://bookmarks.reviews):  [bookmarks.reviews/reviews/all/annihilation/](https://bookmarks.reviews/reviews/all/annihilation/)  
 
 </details>
 
