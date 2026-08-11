@@ -860,7 +860,7 @@ https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-k
 <details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
-https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
+audio: https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
 Text: https://www.gutenberg.org/ebooks/8677  
 By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
 Reader Notes:  First, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/Behind_a_Mask).  This may be more than a simple 19th century family drama.  Jean Muir manipulates males who range from their late teens to (*maybe*) their middle sixties -- men who do her bidding in *virtually* total self-interest, the desire to "have her."  As a male reader, this all seemed a little *too easy*, *too convenient*.  Yet, Ms. Alcott may have been more successful at building (*and crushing*) widely assumed male and female archetypes.  In any case, she leaves much of the Coventry family damaged.  And left the reader wondering how these characters went about their roles in mid-19th century British society...  
@@ -6233,22 +6233,40 @@ On the calculation of volume.
 Brian & James
 
 
-Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer. 2014 
 
 <details>
-<summary><a name=""></a>Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer.  </summary>
+<summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
+
+### H. M. S. Surprise.  (12:06)  
+Audio: https://www.overdrive.com/media/61428/h-m-s-surprise  
+eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
+The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
+
+
+</details>
+
+
+<details>
+<summary><a name="annihilation_by_jeff_vandermeer"></a>Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer. 2014  </summary>
 
 ### Annihilation.  (6:00) 
 Audio: https://www.overdrive.com/media/3835721/annihilation  
 eBook: https://www.overdrive.com/media/2115061/annihilation  
 By [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)  (1968 – )  
 
-Reading Notes:   
+Reading Notes: A biologist, an anthropologist, a surveyor and a psychologist -- all unnamed -- are sent by the Southern Reach organization (*the government? It's not clear...*) to study Area X, a near mythic site of an unknown *catastrophe*.  I don't believe this atmospheric horror novel is for everyone.  The author constructed a story that is dark, sometimes claustrophobic, swells tension and fear of the unknown, flings scenes of killing and the remains of recent and earlier violence, and introduces barely seen creatures that together ensure a reader's unease.  
 
+Review by [Jason Sheehan](https://www.linkedin.com/in/jason-sheehan-40ab2713b/):  [npr.org/.../youll-get-lost-in-the-haunted-world-of-annihilation](https://www.npr.org/2014/02/07/270967294/youll-get-lost-in-the-haunted-world-of-annihilation)  
+Review by [Tom LeClair](https://researchdirectory.uc.edu/p/leclaite):  [nytimes.com/.../annihilation-by-jeff-vandermeer-and-more.html](https://www.nytimes.com/2014/02/16/books/review/annihilation-by-jeff-vandermeer-and-more.html)  
+Review by [Sara Sklaroff](https://www.linkedin.com/in/sara-sklaroff-b4538310a/): [washingtonpost.com/.../annihilation-by-jeff-vandermeer/2014/02/25/...](https://www.washingtonpost.com/entertainment/books/annihilation-by-jeff-vandermeer/2014/02/25/0a52a03a-9d82-11e3-b8d8-94577ff66b28_story.html?utm_term=.6cd04ac4eb96)  
+A collection of reviews at [bookmarks](https://bookmarks.reviews):  [bookmarks.reviews/reviews/all/annihilation/](https://bookmarks.reviews/reviews/all/annihilation/)  
 
 </details>
-
-
 
 
 <details>
