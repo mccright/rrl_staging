@@ -429,6 +429,23 @@ See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/
 </details>
 
 
+<details><summary><a name="annihilation_by_jeff_vandermeer"></a>Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer. 2014  </summary>
+
+### Annihilation.  (6:00) 
+Audio: https://www.overdrive.com/media/3835721/annihilation  
+eBook: https://www.overdrive.com/media/2115061/annihilation  
+By [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)  (1968 – )  
+
+Reading Notes: A biologist, an anthropologist, a surveyor and a psychologist -- all unnamed -- are sent by the Southern Reach organization (*the government? It's not clear...*) to study Area X, a near mythic site of an unknown *catastrophe*.  I don't believe this atmospheric horror novel is for everyone.  The author constructed a story that is dark, sometimes claustrophobic, swells tension and fear of the unknown, flings scenes of killing and the remains of recent and earlier violence, and introduces barely seen creatures that together ensure a reader's unease.  
+
+Review by [Jason Sheehan](https://www.linkedin.com/in/jason-sheehan-40ab2713b/):  [npr.org/.../youll-get-lost-in-the-haunted-world-of-annihilation](https://www.npr.org/2014/02/07/270967294/youll-get-lost-in-the-haunted-world-of-annihilation)  
+Review by [Tom LeClair](https://researchdirectory.uc.edu/p/leclaite):  [nytimes.com/.../annihilation-by-jeff-vandermeer-and-more.html](https://www.nytimes.com/2014/02/16/books/review/annihilation-by-jeff-vandermeer-and-more.html)  
+Review by [Sara Sklaroff](https://www.linkedin.com/in/sara-sklaroff-b4538310a/): [washingtonpost.com/.../annihilation-by-jeff-vandermeer/2014/02/25/...](https://www.washingtonpost.com/entertainment/books/annihilation-by-jeff-vandermeer/2014/02/25/0a52a03a-9d82-11e3-b8d8-94577ff66b28_story.html?utm_term=.6cd04ac4eb96)  
+A collection of reviews at [bookmarks](https://bookmarks.reviews):  [bookmarks.reviews/reviews/all/annihilation/](https://bookmarks.reviews/reviews/all/annihilation/)  
+
+</details>
+
+
 <details><summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
 
 ### Anomaly.  (10:00)  
@@ -5327,6 +5344,28 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="spearhead_by_adam_makos"></a>Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II.  By Adam Makos. 2019  </summary>
+
+### Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II. (14:00)  
+Audio: https://www.overdrive.com/media/4028754/spearhead  
+eBook: https://www.overdrive.com/media/4247725/spearhead  
+By [Adam Makos](https://en.wikipedia.org/wiki/Adam_Makos)  ( – )  
+
+Reading Notes: This is classic [military history](https://en.wikipedia.org/wiki/Military_history).  It is a biography of World War II tank gunner Clarence Smoyer -- detailing his activities in Allied forces final push to crush the Nazi forces & end the war in Europe.  It is based on multiple interviews with those involved, backed up by extensive archival research.  The author incorporates facets of [logistics](https://en.wikipedia.org/wiki/Category:Military_logistics), [leadership](https://en.wikipedia.org/wiki/Category:Military_leadership), [technology](https://en.wikipedia.org/wiki/Military_technology), [strategy](https://en.wikipedia.org/wiki/Military_strategy), and [tactics](https://en.wikipedia.org/wiki/Military_tactics) most relevant to tank forces during this period, and how these changed over time, while exploring moral dimensions of warfare for those who fought and some of the ways that [military ethics](https://en.wikipedia.org/wiki/Category:Military_ethics) drives soldier's actions.  He also details some of the destructive realities of war.  
+
+Some characters:  
+Clarence Smoyer trained as a tank "loader" and *promoted* to "gunner" in the field.  
+Bob Early, Commander of Clarence Smoyer's tank.  
+Gustav Schaefer, teenage German tanker *promoted* to "gunner" in the field.  
+
+Authors Page on this book: [www.adammakos.com/spearhead-book](https://www.adammakos.com/spearhead-book.html)  
+OverDrive Summary: [overdrive.com/media/4028754/spearhead](https://www.overdrive.com/media/4028754/spearhead)  
+>When Clarence Smoyer is assigned to the gunner’s seat of his Sherman tank, he discovers a hidden talent: He’s a natural-born shooter. At first, Clarence and his fellow crews in the legendary 3rd Armored Division—“Spearhead”—thought their tanks were invincible. Then they met the murderous German Panther and a pattern soon emerged: The lead tank always gets hit.  After Clarence sees his friends cut down at the West Wall and in the Battle of the Bulge, he and his crew are given a weapon with the power to avenge their fellow comrades—the Pershing, a state-of-the-art “super tank.” But with it comes a harrowing new responsibility: Now they will spearhead every attack.  That’s how Clarence finds himself leading the U.S. Army into its largest urban battle of the European war, the fight for Cologne, the “Fortress City” of Germany. Clarence will engage the fearsome Panther in a duel immortalized by an army cameraman. And he will square off with Gustav Schaefer, a teenager behind the trigger in a Panzer IV tank, whose crew has been sent on a suicide mission to stop the Americans.  What happens next will haunt Clarence to the modern day, drawing him back to Cologne to do the unthinkable: to face his enemy, one last time.  
+
+
+</details>
+
+
 <details><summary><a name="the_splendid_and_the_vile_by_erik_larson"></a>The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. By Erik Larson. 2020 </summary>
 
 ### The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. (18:00)  
@@ -6210,7 +6249,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 -----
 
 
-
 ## Pending or Currently Underway:  
 
 <details>
@@ -6233,6 +6271,36 @@ On the calculation of volume.
 Brian & James
 
 
+<details>
+<summary><a name="the_jester_by_patterson_and_gross"></a>The Jester. By James Patterson and Andrew Gross. 2003/2005  </summary>
+
+### The Jester.  (13:00)  
+Audio: https://www.overdrive.com/media/82529/the-jester  
+eBook: https://www.overdrive.com/media/28065/the-jester  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  and [Andrew Gross](https://en.wikipedia.org/wiki/Andrew_Gross)  (1952 – 2025)  
+548 pages  
+
+Reading Notes:  This *historical fiction* was entertaining-enough, but expect little. There is little character development or any hint of rationality in the scenes that support the narrative. The central character is involved in one *impossible* and undeveloped situation after another (*some of the writing about battles while on Crusade might be an exception*). That said, the chapters are short and the action is heavy -- as you might expect in a Patterson-branded novel.  
+*Veille du Père* Inn keeper Hugh de Luc joins the crusaders, tramping to the Holy Land to earn his freedom, to find riches and to kill *infidels*.  Trudging East for months.  He walked through the human remains of a leading Crusader army, now dead outside [Constantinople](https://en.wikipedia.org/wiki/Constantinople).  And then he lost any faith in his mission after experiencing the repeated slaughter of a long siege of [Antioch](https://en.wikipedia.org/wiki/Antioch).  In his final hand-to-hand combat, that happened to occur in a church, he picked up a dead priest's staff and some loot from the alter *as his share of the promised riches*.  He had no religious beliefs that would support his continued participation in the Crusade and he fled home, a long and dangerous treck.  
+After the extended journey home, Hugh found his Inn burned by *dark knights* who raped and kidnapped his wife, Sophie, and killed his baby son, Philippe.  
+Hugh runs aimlessly across country to find Lord Baldwin, whom he believed ordered the attack on his inn and family.  After being attacked by a boar, he was found and taken in by *highborn* [lady-in-waiting](https://en.wikipedia.org/wiki/Lady-in-waiting) Emilie living in her cousin's court in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e).  She nurses Huch back to health and supports his search for his wife -- arranging for his training as a [jester](https://en.wikipedia.org/wiki/Jester) as a disguise to gain entry into Lord Baldwin's court in [Treille]().  After displacing the Lord's current Jester, Hugh searches for his wife. He also makes an enemy of "Norcross," one of the Lord's leading knights.  Hugh ends up killing Norcross and escaping back to Borée, where he learns that the murderous [tafurs](https://en.wikipedia.org/wiki/Tafurs) were the *dark knights* who took so much from him, and that under the direction of Emilie's cousin Anne they were searching for valuable relics dating back to the Crucifixion.  
+
+* Hugh De Luc: Central character...  Ran an inn in Veille du Père, France with his wife Sophie.  
+* Lord Baldwin: Duke of Treille, France.  
+* Sophie De Luc: Wife of Hugh De Luc. Taken by _____. Held in the dungeon of Borée.  
+* Phillipe De Luc: Son of Hugh De Luc. Born after Hugh left and died before Hugh returned.  
+* Emilie: A daughter of the King of France.  Living in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e), France. Her husband is Duke Stephen.  
+* Lord Stephen:  His dukedom includes Borée, France.  Fought in the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade).  
+* Anne: Lord Stephen's wife and Emilie's cousin.  
+* [Tafurs](https://en.wikipedia.org/wiki/Tafurs): Emilie's cousin Anne's guards. a group of Christian participants of the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade). Zealots following strict oaths of poverty, "but according to their rules, they could keep anything gained through plunder. Indeed, they regarded such spoils as validation of God's favour."  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Jester_(novel)](https://en.wikipedia.org/wiki/The_Jester_(novel))  
+Overdrive Summary: [overdrive.com/media/28065/the-jester](https://www.overdrive.com/media/28065/the-jester)  
+>"Hugh De Luc, a poor innkeeper, returns home from the First Crusade wearied from battle and disillusioned by carnage. After journeying from the Holy Land back to his own small village, he finds his nightmare is just beginning.In his absence, Hugh's son has been killed and his beloved wife, Sophie, abducted by a ruthless duke in search of a priceless relic dating back to the Crucifixion. Taking on the role of a jester, Hugh infiltrates the court where he believes Sophie is held captive. There he confronts men more evil than he ever imagined and embarks on an epic battle to restore his broken life."  
+
+</details>
+
+
 
 <details>
 <summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
@@ -6242,29 +6310,11 @@ Audio: https://www.overdrive.com/media/61428/h-m-s-surprise
 eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
 By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
 
-Reading Notes:   
+Reading Notes: Jack Aubrey in serious debt, Stephen Maturin arranges for some extended sea time for the Captain. Structure, risks and excitement on the cruise for Jack.  Scientific observations, rare human connection, potential romance and nearly deadly injury for Maturin. This is another great volume in Patrick O'Brian's Aubrey & Maturin Series.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/HMS_Surprise_(novel)) if you want to know more details.  
 
 Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
 The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
 
-
-</details>
-
-
-<details>
-<summary><a name="annihilation_by_jeff_vandermeer"></a>Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer. 2014  </summary>
-
-### Annihilation.  (6:00) 
-Audio: https://www.overdrive.com/media/3835721/annihilation  
-eBook: https://www.overdrive.com/media/2115061/annihilation  
-By [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)  (1968 – )  
-
-Reading Notes: A biologist, an anthropologist, a surveyor and a psychologist -- all unnamed -- are sent by the Southern Reach organization (*the government? It's not clear...*) to study Area X, a near mythic site of an unknown *catastrophe*.  I don't believe this atmospheric horror novel is for everyone.  The author constructed a story that is dark, sometimes claustrophobic, swells tension and fear of the unknown, flings scenes of killing and the remains of recent and earlier violence, and introduces barely seen creatures that together ensure a reader's unease.  
-
-Review by [Jason Sheehan](https://www.linkedin.com/in/jason-sheehan-40ab2713b/):  [npr.org/.../youll-get-lost-in-the-haunted-world-of-annihilation](https://www.npr.org/2014/02/07/270967294/youll-get-lost-in-the-haunted-world-of-annihilation)  
-Review by [Tom LeClair](https://researchdirectory.uc.edu/p/leclaite):  [nytimes.com/.../annihilation-by-jeff-vandermeer-and-more.html](https://www.nytimes.com/2014/02/16/books/review/annihilation-by-jeff-vandermeer-and-more.html)  
-Review by [Sara Sklaroff](https://www.linkedin.com/in/sara-sklaroff-b4538310a/): [washingtonpost.com/.../annihilation-by-jeff-vandermeer/2014/02/25/...](https://www.washingtonpost.com/entertainment/books/annihilation-by-jeff-vandermeer/2014/02/25/0a52a03a-9d82-11e3-b8d8-94577ff66b28_story.html?utm_term=.6cd04ac4eb96)  
-A collection of reviews at [bookmarks](https://bookmarks.reviews):  [bookmarks.reviews/reviews/all/annihilation/](https://bookmarks.reviews/reviews/all/annihilation/)  
 
 </details>
 
@@ -6315,29 +6365,6 @@ There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of fr
 </details>
 
 
-
-
-<details>
-<summary><a name="spearhead_by_adam_makos"></a>Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II.  By Adam Makos. 2019  </summary>
-
-### Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II. (14:00)  
-Audio: https://www.overdrive.com/media/4028754/spearhead  
-eBook: https://www.overdrive.com/media/4247725/spearhead  
-By [Adam Makos](https://en.wikipedia.org/wiki/Adam_Makos)  ( – )  
-
-Reading Notes: This is classic [military history](https://en.wikipedia.org/wiki/Military_history).  It is a biography of World War II tank gunner Clarence Smoyer -- detailing his activities in Allied forces final push to crush the Nazi forces & end the war in Europe.  It is based on multiple interviews with those involved, backed up by extensive archival research.  The author incorporates facets of [logistics](https://en.wikipedia.org/wiki/Category:Military_logistics), [leadership](https://en.wikipedia.org/wiki/Category:Military_leadership), [technology](https://en.wikipedia.org/wiki/Military_technology), [strategy](https://en.wikipedia.org/wiki/Military_strategy), and [tactics](https://en.wikipedia.org/wiki/Military_tactics) most relevant to tank forces during this period, and how these changed over time, while exploring moral dimensions of warfare for those who fought and some of the ways that [military ethics](https://en.wikipedia.org/wiki/Category:Military_ethics) drives soldier's actions.  He also details some of the destructive realities of war.  
-
-Some characters:  
-Clarence Smoyer trained as a tank "loader" and *promoted* to "gunner" in the field.  
-Bob Early, Commander of Clarence Smoyer's tank.  
-Gustav Schaefer, teenage German tanker *promoted* to "gunner" in the field.  
-
-Authors Page on this book: [www.adammakos.com/spearhead-book](https://www.adammakos.com/spearhead-book.html)  
-OverDrive Summary: [overdrive.com/media/4028754/spearhead](https://www.overdrive.com/media/4028754/spearhead)  
->When Clarence Smoyer is assigned to the gunner’s seat of his Sherman tank, he discovers a hidden talent: He’s a natural-born shooter. At first, Clarence and his fellow crews in the legendary 3rd Armored Division—“Spearhead”—thought their tanks were invincible. Then they met the murderous German Panther and a pattern soon emerged: The lead tank always gets hit.  After Clarence sees his friends cut down at the West Wall and in the Battle of the Bulge, he and his crew are given a weapon with the power to avenge their fellow comrades—the Pershing, a state-of-the-art “super tank.” But with it comes a harrowing new responsibility: Now they will spearhead every attack.  That’s how Clarence finds himself leading the U.S. Army into its largest urban battle of the European war, the fight for Cologne, the “Fortress City” of Germany. Clarence will engage the fearsome Panther in a duel immortalized by an army cameraman. And he will square off with Gustav Schaefer, a teenager behind the trigger in a Panzer IV tank, whose crew has been sent on a suicide mission to stop the Americans.  What happens next will haunt Clarence to the modern day, drawing him back to Cologne to do the unthinkable: to face his enemy, one last time.  
-
-
-</details>
 
 
 
