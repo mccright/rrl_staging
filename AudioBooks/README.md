@@ -693,6 +693,22 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
 </details>
 
 
+<details><summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
+
+### H. M. S. Surprise.  (12:06)  
+Audio: https://www.overdrive.com/media/61428/h-m-s-surprise  
+eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: Jack Aubrey in serious debt, Stephen Maturin arranges for some extended sea time for the Captain. Structure, risks and excitement on the cruise for Jack.  Scientific observations, rare human connection, potential romance and nearly deadly injury for Maturin. This is another great volume in Patrick O'Brian's Aubrey & Maturin Series.  See the [Wikipedia Summary] (https://en.wikipedia.org/wiki/HMS_Surprise_(novel)) if you want to know more details.  
+
+Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
+The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
+
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -6283,7 +6299,7 @@ By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) 
 Reading Notes:  This *historical fiction* was entertaining-enough, but expect little. There is little character development or any hint of rationality in the scenes that support the narrative. The central character is involved in one *impossible* and undeveloped situation after another (*some of the writing about battles while on Crusade might be an exception*). That said, the chapters are short and the action is heavy -- as you might expect in a Patterson-branded novel.  
 *Veille du Père* Inn keeper Hugh de Luc joins the crusaders, tramping to the Holy Land to earn his freedom, to find riches and to kill *infidels*.  Trudging East for months.  He walked through the human remains of a leading Crusader army, now dead outside [Constantinople](https://en.wikipedia.org/wiki/Constantinople).  And then he lost any faith in his mission after experiencing the repeated slaughter of a long siege of [Antioch](https://en.wikipedia.org/wiki/Antioch).  In his final hand-to-hand combat, that happened to occur in a church, he picked up a dead priest's staff and some loot from the alter *as his share of the promised riches*.  He had no religious beliefs that would support his continued participation in the Crusade and he fled home, a long and dangerous treck.  
 After the extended journey home, Hugh found his Inn burned by *dark knights* who raped and kidnapped his wife, Sophie, and killed his baby son, Philippe.  
-Hugh runs aimlessly across country to find Lord Baldwin, whom he believed ordered the attack on his inn and family.  After being attacked by a boar, he was found and taken in by *highborn* [lady-in-waiting](https://en.wikipedia.org/wiki/Lady-in-waiting) Emilie living in her cousin's court in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e).  She nurses Huch back to health and supports his search for his wife -- arranging for his training as a [jester](https://en.wikipedia.org/wiki/Jester) as a disguise to gain entry into Lord Baldwin's court in [Treille]().  After displacing the Lord's current Jester, Hugh searches for his wife. He also makes an enemy of "Norcross," one of the Lord's leading knights.  Hugh ends up killing Norcross and escaping back to Borée, where he learns that the murderous [tafurs](https://en.wikipedia.org/wiki/Tafurs) were the *dark knights* who took so much from him, and that under the direction of Emilie's cousin Anne they were searching for valuable relics dating back to the Crucifixion.  
+Hugh runs aimlessly across country to find Lord Baldwin, whom he believed ordered the attack on his inn and family.  After being attacked by a boar, he was found and taken in by *highborn* [lady-in-waiting](https://en.wikipedia.org/wiki/Lady-in-waiting) Emilie living in her cousin's court in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e).  She nurses Huch back to health and supports his search for his wife -- arranging for his training as a [jester](https://en.wikipedia.org/wiki/Jester) as a disguise to gain entry into Lord Baldwin's court in [Treille]().  After displacing the Lord's current Jester, Hugh searches for his wife. He also makes an enemy of "Norcross," one of the Lord's leading knights.  Hugh ends up killing Norcross and escaping back to Borée, where he learns that the murderous [tafurs](https://en.wikipedia.org/wiki/Tafurs) were the *dark knights* who took so much from him, and that under the direction of Emilie's cousin Anne and her husband Lord Stephen they were searching for valuable relics dating back to the Crucifixion, especially one that they assume Hugh possesses.  
 
 * Hugh De Luc: Central character...  Ran an inn in Veille du Père, France with his wife Sophie.  
 * Lord Baldwin: Duke of Treille, France.  
@@ -6300,23 +6316,6 @@ Overdrive Summary: [overdrive.com/media/28065/the-jester](https://www.overdrive.
 
 </details>
 
-
-
-<details>
-<summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
-
-### H. M. S. Surprise.  (12:06)  
-Audio: https://www.overdrive.com/media/61428/h-m-s-surprise  
-eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
-By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
-
-Reading Notes: Jack Aubrey in serious debt, Stephen Maturin arranges for some extended sea time for the Captain. Structure, risks and excitement on the cruise for Jack.  Scientific observations, rare human connection, potential romance and nearly deadly injury for Maturin. This is another great volume in Patrick O'Brian's Aubrey & Maturin Series.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/HMS_Surprise_(novel)) if you want to know more details.  
-
-Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
-The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
-
-
-</details>
 
 
 <details>
