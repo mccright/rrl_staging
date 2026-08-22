@@ -693,6 +693,22 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
 </details>
 
 
+<details><summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
+
+### H. M. S. Surprise.  (12:06)  
+Audio: https://www.overdrive.com/media/61428/h-m-s-surprise  
+eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: Jack Aubrey in serious debt, Stephen Maturin arranges for some extended sea time for the Captain. Structure, risks and excitement on the cruise for Jack.  Scientific observations, rare human connection, potential romance and nearly deadly injury for Maturin. This is another great volume in Patrick O'Brian's Aubrey & Maturin Series.  See the [Wikipedia Summary] (https://en.wikipedia.org/wiki/HMS_Surprise_(novel)) if you want to know more details.  
+
+Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
+The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
+
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -3109,6 +3125,35 @@ Everyone should know that this is an excellent reading/performance by [Bryn Robe
 
 Librivox Summary:  
 >"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
+
+</details>
+
+
+<details><summary><a name="the_jester_by_patterson_and_gross"></a>The Jester. By James Patterson and Andrew Gross. 2003/2005  </summary>
+
+### The Jester.  (13:00)  
+Audio: https://www.overdrive.com/media/82529/the-jester  
+eBook: https://www.overdrive.com/media/28065/the-jester  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  and [Andrew Gross](https://en.wikipedia.org/wiki/Andrew_Gross)  (1952 – 2025)  
+548 pages  
+
+Reading Notes:  This *historical fiction* was entertaining-enough, but expect little. There is little character development or any hint of rationality in the scenes that support the narrative. The central character is involved in one *impossible* and undeveloped situation after another (*some of the writing about battles while on Crusade might be an exception*). That said, the chapters are short and the action is heavy -- as you might expect in a Patterson-branded novel.  
+*Veille du Père* Inn keeper Hugh de Luc joins the crusaders, tramping to the Holy Land to earn his freedom, to find riches and to kill *infidels*.  Trudging East for months.  He walked through the human remains of a leading Crusader army, now dead outside [Constantinople](https://en.wikipedia.org/wiki/Constantinople).  And then he lost any faith in his mission after experiencing the repeated slaughter of a long siege of [Antioch](https://en.wikipedia.org/wiki/Antioch).  In his final hand-to-hand combat, that happened to occur in a church, he picked up a dead priest's staff and some loot from the alter *as his share of the promised riches*.  He had no religious beliefs that would support his continued participation in the Crusade and he fled home, a long and dangerous treck.  
+After the extended journey home, Hugh found his Inn burned by *dark knights* who raped and kidnapped his wife, Sophie, and killed his baby son, Philippe.  
+Hugh runs aimlessly across country to find Lord Baldwin, whom he believed ordered the attack on his inn and family.  After being attacked by a boar, he was found and taken in by *highborn* [lady-in-waiting](https://en.wikipedia.org/wiki/Lady-in-waiting) Emilie living in her cousin's court in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e).  She nurses Huch back to health and supports his search for his wife -- arranging for his training as a [jester](https://en.wikipedia.org/wiki/Jester) as a disguise to gain entry into Lord Baldwin's court in [Treille]().  After displacing the Lord's current Jester, Hugh searches for his wife. He also makes an enemy of "Norcross," one of the Lord's leading knights.  Hugh ends up killing Norcross and escaping back to Borée, where he learns that the murderous [tafurs](https://en.wikipedia.org/wiki/Tafurs) were the *dark knights* who took so much from him, and that under the direction of Emilie's cousin Anne and her husband Lord Stephen they were searching for valuable relics dating back to the Crucifixion, especially one that they assume Hugh possesses. Then the action piles on, and the story ends with a *happily ever after* epilog.  
+
+* Hugh De Luc: Central character...  Ran an inn in Veille du Père, France with his wife Sophie.  
+* Lord Baldwin: Duke of Treille, France.  
+* Sophie De Luc: Wife of Hugh De Luc. Taken by _____. Held in the dungeon of Borée.  
+* Phillipe De Luc: Son of Hugh De Luc. Born after Hugh left and died before Hugh returned.  
+* Emilie: A daughter of the King of France.  Living in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e), France. Her husband is Duke Stephen.  
+* Lord Stephen:  His dukedom includes Borée, France.  Fought in the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade).  
+* Anne: Lord Stephen's wife and Emilie's cousin.  
+* [Tafurs](https://en.wikipedia.org/wiki/Tafurs): Emilie's cousin Anne's guards. a group of Christian participants of the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade). Zealots following strict oaths of poverty, "but according to their rules, they could keep anything gained through plunder. Indeed, they regarded such spoils as validation of God's favour."  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Jester_(novel)](https://en.wikipedia.org/wiki/The_Jester_(novel))  
+Overdrive Summary: [overdrive.com/media/28065/the-jester](https://www.overdrive.com/media/28065/the-jester)  
+>"Hugh De Luc, a poor innkeeper, returns home from the First Crusade wearied from battle and disillusioned by carnage. After journeying from the Holy Land back to his own small village, he finds his nightmare is just beginning.In his absence, Hugh's son has been killed and his beloved wife, Sophie, abducted by a ruthless duke in search of a priceless relic dating back to the Crucifixion. Taking on the role of a jester, Hugh infiltrates the court where he believes Sophie is held captive. There he confronts men more evil than he ever imagined and embarks on an epic battle to restore his broken life."  
 
 </details>
 
@@ -6271,52 +6316,20 @@ On the calculation of volume.
 Brian & James
 
 
+
 <details>
-<summary><a name="the_jester_by_patterson_and_gross"></a>The Jester. By James Patterson and Andrew Gross. 2003/2005  </summary>
+<summary><a name="the_rise_of_athens_by_anthony_everitt"></a>The Rise of Athens -- The Story of the World's Greatest Civilization.  By Anthony Everitt.  2016  </summary>
 
-### The Jester.  (13:00)  
-Audio: https://www.overdrive.com/media/82529/the-jester  
-eBook: https://www.overdrive.com/media/28065/the-jester  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  and [Andrew Gross](https://en.wikipedia.org/wiki/Andrew_Gross)  (1952 – 2025)  
-548 pages  
+### The Rise of Athens -- The Story of the World's Greatest Civilization. (16:00)  
+Audio: https://www.overdrive.com/media/3049334/the-rise-of-athens  
+eBook: https://www.overdrive.com/media/2765161/the-rise-of-athens  
+By [Anthony Everitt](https://en.wikipedia.org/wiki/Anthony_Everitt)  (1940 – )  
 
-Reading Notes:  This *historical fiction* was entertaining-enough, but expect little. There is little character development or any hint of rationality in the scenes that support the narrative. The central character is involved in one *impossible* and undeveloped situation after another (*some of the writing about battles while on Crusade might be an exception*). That said, the chapters are short and the action is heavy -- as you might expect in a Patterson-branded novel.  
-*Veille du Père* Inn keeper Hugh de Luc joins the crusaders, tramping to the Holy Land to earn his freedom, to find riches and to kill *infidels*.  Trudging East for months.  He walked through the human remains of a leading Crusader army, now dead outside [Constantinople](https://en.wikipedia.org/wiki/Constantinople).  And then he lost any faith in his mission after experiencing the repeated slaughter of a long siege of [Antioch](https://en.wikipedia.org/wiki/Antioch).  In his final hand-to-hand combat, that happened to occur in a church, he picked up a dead priest's staff and some loot from the alter *as his share of the promised riches*.  He had no religious beliefs that would support his continued participation in the Crusade and he fled home, a long and dangerous treck.  
-After the extended journey home, Hugh found his Inn burned by *dark knights* who raped and kidnapped his wife, Sophie, and killed his baby son, Philippe.  
-Hugh runs aimlessly across country to find Lord Baldwin, whom he believed ordered the attack on his inn and family.  After being attacked by a boar, he was found and taken in by *highborn* [lady-in-waiting](https://en.wikipedia.org/wiki/Lady-in-waiting) Emilie living in her cousin's court in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e).  She nurses Huch back to health and supports his search for his wife -- arranging for his training as a [jester](https://en.wikipedia.org/wiki/Jester) as a disguise to gain entry into Lord Baldwin's court in [Treille]().  After displacing the Lord's current Jester, Hugh searches for his wife. He also makes an enemy of "Norcross," one of the Lord's leading knights.  Hugh ends up killing Norcross and escaping back to Borée, where he learns that the murderous [tafurs](https://en.wikipedia.org/wiki/Tafurs) were the *dark knights* who took so much from him, and that under the direction of Emilie's cousin Anne they were searching for valuable relics dating back to the Crucifixion.  
+Reading Notes:   
 
-* Hugh De Luc: Central character...  Ran an inn in Veille du Père, France with his wife Sophie.  
-* Lord Baldwin: Duke of Treille, France.  
-* Sophie De Luc: Wife of Hugh De Luc. Taken by _____. Held in the dungeon of Borée.  
-* Phillipe De Luc: Son of Hugh De Luc. Born after Hugh left and died before Hugh returned.  
-* Emilie: A daughter of the King of France.  Living in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e), France. Her husband is Duke Stephen.  
-* Lord Stephen:  His dukedom includes Borée, France.  Fought in the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade).  
-* Anne: Lord Stephen's wife and Emilie's cousin.  
-* [Tafurs](https://en.wikipedia.org/wiki/Tafurs): Emilie's cousin Anne's guards. a group of Christian participants of the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade). Zealots following strict oaths of poverty, "but according to their rules, they could keep anything gained through plunder. Indeed, they regarded such spoils as validation of God's favour."  
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Jester_(novel)](https://en.wikipedia.org/wiki/The_Jester_(novel))  
-Overdrive Summary: [overdrive.com/media/28065/the-jester](https://www.overdrive.com/media/28065/the-jester)  
->"Hugh De Luc, a poor innkeeper, returns home from the First Crusade wearied from battle and disillusioned by carnage. After journeying from the Holy Land back to his own small village, he finds his nightmare is just beginning.In his absence, Hugh's son has been killed and his beloved wife, Sophie, abducted by a ruthless duke in search of a priceless relic dating back to the Crucifixion. Taking on the role of a jester, Hugh infiltrates the court where he believes Sophie is held captive. There he confronts men more evil than he ever imagined and embarks on an epic battle to restore his broken life."  
 
 </details>
 
-
-
-<details>
-<summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
-
-### H. M. S. Surprise.  (12:06)  
-Audio: https://www.overdrive.com/media/61428/h-m-s-surprise  
-eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
-By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
-
-Reading Notes: Jack Aubrey in serious debt, Stephen Maturin arranges for some extended sea time for the Captain. Structure, risks and excitement on the cruise for Jack.  Scientific observations, rare human connection, potential romance and nearly deadly injury for Maturin. This is another great volume in Patrick O'Brian's Aubrey & Maturin Series.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/HMS_Surprise_(novel)) if you want to know more details.  
-
-Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
-The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
-
-
-</details>
 
 
 <details>
@@ -6349,7 +6362,7 @@ Audio: https://www.overdrive.com/media/1646652/napoleon
 eBook: https://www.overdrive.com/media/1583645/napoleon  
 By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
 
-Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  The author details all of Napoleon's major battles (*most incorporated large-scale carnage*) and many of the most material actions throughout his life.  Note, (1) that the focus of this biography is Napoleon in his lifetime, and (2) not about his place in history, the author makes no judgements about Napoleon being a hero or villain.  Napoleon lived an active and complex life and left lasting impacts across the West as well as the Middle East.  His publications and actions have been studied across most world cultures.  See the [excellent review by Duncan Kelly](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) to learn more about this highly recommended book.  
+Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  The author details all of Napoleon's major battles (*most incorporated large-scale carnage*) and many of the most material actions throughout his life.  Note, (1) that the focus of this biography is Napoleon in his lifetime, and (2) not about his place in history, the author makes no (*maybe few*) judgements about Napoleon being a hero or villain.  Napoleon lived an active and complex life and left lasting impacts across the West as well as the Middle East.  His publications and actions have been studied across most world cultures.  See the [excellent review by Duncan Kelly](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) to learn more about this highly recommended book.  
 
 "the four pillars of his rule at home — low taxes, property rights, centralized authority and national glory." 
 
@@ -6380,7 +6393,7 @@ Audio: https://www.overdrive.com/media/12137486/injustice
 eBook: https://www.overdrive.com/media/12137677/injustice  
 By [Carol Leonnig](https://en.wikipedia.org/wiki/Carol_D._Leonnig) (1966 – ) and [Aaron C. Davis](https://gufaculty360.georgetown.edu/s/contact/00336000015aulFAAQ/aaron-c-davis) ( - )  
 
-Reading Notes: Leonnig and Davis describe how Donald Trump as the 45th and 47th president invested material effort in hollowing out the U.S. Department of Justice -- installing *his* people to serve *his* personal desires, demoting the idea of enforcing U.S. law consistently, without fear or favor and promoting the concept of the DoJ being Trump's personal law office, *manufacturing* cases as he wishes -- too often to service Trump's urges for *retribution* against his perceived enemies. As of this writing (*June 2026*) Trump 47 is continuing this program.  
+Reading Notes: Leonnig and Davis describe how Donald Trump as the 45th and 47th president invested material effort in hollowing out the [U.S. Department of Justice](https://en.wikipedia.org/wiki/United_States_Department_of_Justice#:~:text=Following%20the%20Watergate%20scandal%2C%20reforms%20were%20enacted%20to%20enhance%20the%20independence%20of%20the%20Justice%20Department) -- installing *his* people to serve *his* personal desires, demoting the idea of enforcing U.S. law consistently, without fear or favor and promoting the concept of the DoJ being Trump's personal law office, *manufacturing* cases as he wishes -- too often to service Trump's urges for *retribution* against his perceived enemies. As of this writing (*August 2026*) Trump 47 is [continuing this program](https://en.wikipedia.org/wiki/Democratic_backsliding_in_the_United_States#21st_century) and has installed his personal lawyer [Todd Blanche](https://en.wikipedia.org/wiki/Todd_Blanche) into the role of the U.S. Attorney General. (*Blanch recently "[refused to say ...that he would always act independently of White House control](https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html)." And "[Blanche's initial tenure was marked by a pursuit to prosecute Trump's political foes.](https://en.wikipedia.org/wiki/Todd_Blanche#Acting_appointment)"*)  
 
 Overdrive Summary: [overdrive.com/.../injustice](https://www.overdrive.com/media/12137486/injustice)  
 >Throughout his first administration, Trump did more than any other president to politicize the nation’s top law enforcement agency, pressuring appointees to shield him, to target his enemies, and even to help him cling to power after his 2020 election defeat. The department, pressed into a defensive crouch, has never fully recovered.  
