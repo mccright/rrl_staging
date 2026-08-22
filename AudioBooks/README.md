@@ -6318,6 +6318,21 @@ Brian & James
 
 
 <details>
+<summary><a name="the_rise_of_athens_by_anthony_everitt"></a>The Rise of Athens -- The Story of the World's Greatest Civilization.  By Anthony Everitt.  2016  </summary>
+
+### The Rise of Athens -- The Story of the World's Greatest Civilization. (16:00)  
+Audio: https://www.overdrive.com/media/3049334/the-rise-of-athens  
+eBook: https://www.overdrive.com/media/2765161/the-rise-of-athens  
+By [Anthony Everitt](https://en.wikipedia.org/wiki/Anthony_Everitt)  (1940 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
 <summary><a name="destiny_of_the_republic_by_candice_millard"></a>Destiny of the Republic -- A Tale of Madness, Medicine and the Murder of a President. By Candice Millard.  2011 </summary>
 
 ### Destiny of the Republic -- A Tale of Madness, Medicine and the Murder of a President. (10:00)  
