@@ -6317,6 +6317,25 @@ Brian & James
 
 
 
+
+<details>
+<summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
+
+### The Two Gentlemen of Verona.  (2:07)  
+Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/  
+eBook: https://www.gutenberg.org/ebooks/1108  
+By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
+
+[Librivox Summary](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/): The Two Gentlemen of Verona is the earliest comedy written by Shakespeare (and possibly his first play), probably written around 1590-91. It focuses on two friends, Valentine and Proteus, whose friendship is disrupted by their mutual passion for the lovely Silvia. Proteus jilts Julia in order to pursue Silvia; she responds by enlisting the help of her maid Lucetta to dress as a boy and go after Proteus. The play also includes some wonderfully comic supporting characters, particularly Launce and his scene-stealing dog Crab. ([Summary by Elizabeth Klett](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/))
+
+</details>
+
+
+
 <details>
 <summary><a name="the_rise_of_athens_by_anthony_everitt"></a>The Rise of Athens -- The Story of the World's Greatest Civilization.  By Anthony Everitt.  2016  </summary>
 
@@ -6327,6 +6346,23 @@ By [Anthony Everitt](https://en.wikipedia.org/wiki/Anthony_Everitt)  (1940 – )
 
 Reading Notes:   
 
+
+</details>
+
+
+<details>
+<summary><a name=""></a>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
+
+### The Last of the Vikings. (9:17)  
+Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
+Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
+Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
+By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
+Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
+
+Reading Notes:  
+
+[Librivox Summary](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/):  In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
 
 </details>
 
@@ -6449,6 +6485,23 @@ This is book #3 of the [`Remembrance of Earth's Past` trilogy](https://en.wikipe
 
 </details>
 
+
+
+<details>
+<summary><a name="woman_in_the_nineteenth_century_by_margaret_fuller"></a>Woman in the Nineteenth Century. By Margaret Fuller. 1843 </summary>
+
+### Woman in the Nineteenth Century  (10:15)  
+Audio: [https://librivox.org/woman-in-the-nineteenth-century.../](https://librivox.org/woman-in-the-nineteenth-century-and-kindred-papers-relating-to-the-sphere-condition-and-duties-of-women-by-margaret-fuller/)  
+eBook: https://www.overdrive.com/media/1348815/woman-in-the-nineteenth-century 
+  and  https://www.gutenberg.org/ebooks/8642  
+By [Margaret Fuller](https://en.wikipedia.org/wiki/Margaret_Fuller)  (1810 – 1850)  
+
+Reading Notes:   
+
+Wikipedia page for [Woman in the 19th Century](https://en.wikipedia.org/wiki/Woman_in_the_Nineteenth_Century)  
+
+
+</details>
 
 
 
@@ -6965,23 +7018,6 @@ Wikipedia for Lummox (*the film*): https://en.wikipedia.org/wiki/Lummox_(film)
 </details>
 
 
-
-
-<details>
-<summary><a name="woman_in_the_nineteenth_century_by_margaret_fuller"></a>Woman in the Nineteenth Century. By Margaret Fuller. 1843 </summary>
-
-### Woman in the Nineteenth Century  (10:15)  
-Audio: [https://librivox.org/woman-in-the-nineteenth-century.../](https://librivox.org/woman-in-the-nineteenth-century-and-kindred-papers-relating-to-the-sphere-condition-and-duties-of-women-by-margaret-fuller/)  
-eBook: https://www.overdrive.com/media/1348815/woman-in-the-nineteenth-century 
-  and  https://www.gutenberg.org/ebooks/8642  
-By [Margaret Fuller](https://en.wikipedia.org/wiki/Margaret_Fuller)  (1810 – 1850)  
-
-Reading Notes:   
-
-Wikipedia page for [Woman in the 19th Century](https://en.wikipedia.org/wiki/Woman_in_the_Nineteenth_Century)  
-
-
-</details>
 
 
 
@@ -7628,21 +7664,6 @@ By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)
 Wikipedia Summary: https://en.wikipedia.org/wiki/Is_Shakespeare_Dead%3F  
 Librivox Summary:  
 >A short, semi-autobiographical work by American humorist Mark Twain. It explores the controversy over the authorship of the Shakespearean literary canon via satire, anecdote, and extensive quotation of contemporary authors on the subject. In the book, Twain expounds the view that Shakespeare of Stratford was not the author of the canon, and lends tentative support to the Baconian theory. The book opens with a scene from his early adulthood, where he was trained to be a steamboat pilot by an elder who often argued with him over the controversy. Twain's arguments include the following points: That little was known about Shakespeare's life, and the bulk of his biographies were based on conjecture. That a number of eminent British barristers and judges found Shakespeare's plays permeated with precise legal thought, and that the author could only have been a veteran legal professional. That in contrast, Shakespeare of Stratford had never held a legal position or office, and had only been in court over petty lawsuits late in life. That small towns lionize and celebrate their famous authors for generations, but this had not happened in Shakespeare's case. He described his own fame in Hannibal as a case in point. Twain draws parallels and analogies from the pretensions of modern religious figures and commentators on the nature of Satan. He compares the believers in Shakespeare to adherents of Arthur Orton and Mary Baker Eddy. - [Librivox Summary](https://librivox.org/is-shakespeare-dead-by-mark-twain/)  
-
-</details>
-
-
-<details>
-<summary><a name=""></a>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
-
-### The Last of the Vikings. (9:17)  
-Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
-Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
-Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
-By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
-Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
-
-In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
 
 </details>
 
