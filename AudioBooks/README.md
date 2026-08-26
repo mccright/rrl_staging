@@ -6316,14 +6316,12 @@ On the calculation of volume.
 Brian & James
 
 
-
-
 <details>
 <summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
 
 ### The Two Gentlemen of Verona.  (2:07)  
 Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/  
-eBook: https://www.gutenberg.org/ebooks/1108  
+eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
 By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
 
 Reading Notes:   
