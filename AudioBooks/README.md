@@ -6316,6 +6316,8 @@ On the calculation of volume.
 Brian & James
 
 
+
+
 <details>
 <summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
 
@@ -6324,7 +6326,7 @@ Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/
 eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
 By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
 
-Reading Notes:   
+Reading Notes: The [audio version available on librivox.org](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/) is not easy to listen to -- quality of presentation as well as simple volume levels vary wildly among the various characters.  If you are able the [eBook from gutenberg.org](https://www.gutenberg.org/ebooks/1509) might be a more enjoyable experience.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
 
