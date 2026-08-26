@@ -468,6 +468,39 @@ Project Gutenberg automatically generated [Summary](https://www.gutenberg.org/eb
 </details>
 
 
+<details>
+<summary><a name=""></a>The Conquered. By Naomi Mitchison. 1923 </summary>
+
+### The Conquered.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/79449  
+By [Naomi Mitchison](https://en.wikipedia.org/wiki/Naomi_Mitchison)  (1897 – 1999)  
+
+Reading Notes:   
+
+Main Characters:
+* `Meromic`, son of the ruler of the Veneti, a Celtic tribe  
+* `Fiommar`, his sister, who is betrothed to a Briton  
+* `Titus Veturius Barrus`, a young Roman aristocrat, who is serving under Julius Caesar  
+* `[Vercingetorix](https://en.wikipedia.org/wiki/Vercingetorix)`, the chief of the [Arvernians](https://en.wikipedia.org/wiki/Arverni)  
+* `Ardorix`, the chief of the Arvernian town of Curdun, Vercingetorix’s enemy  
+* `Caltane`, Ardorix’s cousin, who is a follower of Vercingetorix  
+* `Lerrys`, a Colchian slave and Meromic’s friend  
+
+
+Summary by [BookClubs.com](https://bookclubs.com/books/the-conquered-naomi-mitchison-library-767342)  
+>"The Conquered" is a poignant and evocative work of historical fiction set during the tumultuous era of Julius Caesar's Gallic Wars. Through the eyes of Meromic, a young prince of the Veneti, the novel explores the devastating impact of the Roman conquest on the Celtic tribes of ancient Gaul. As Meromic is stripped of his status and forced into service under a Roman officer, he becomes a witness to the inexorable expansion of an empire and the slow erasure of his own culture and people.  
+>Naomi Mitchison expertly captures the tension between the conquered and the conqueror, focusing on the psychological complexity of a man caught between two worlds. The narrative moves beyond simple heroism to examine themes of loyalty, betrayal, and the profound sense of loss that accompanies the fall of a civilization. With its rich historical detail and lyrical prose, "The Conquered" offers a unique and deeply human perspective on a pivotal moment in European history.  
+>This classic work is celebrated for its empathetic portrayal of the marginalized and its nuanced understanding of the ancient world. It remains a compelling study of the human spirit's resilience in the face of overwhelming political and military force, marking it as a significant contribution to 20th-century historical literature.  
+>This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it.   
+
+Excellent Summary by [Andelys Wood](https://www.linkedin.com/in/andelys-wood-12951a40/) on EBSCO: [ebsco.com/research-starters/history/conquered-naomi-mitchison](https://www.ebsco.com/research-starters/history/conquered-naomi-mitchison)  
+Goodreads summaries: [goodreads.com/...the-conquered](https://www.goodreads.com/book/show/12215114-the-conquered)  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="maxim_gorki_by_hans_ostwald"></a>Maxim Gorki. by Hans Ostwald. 1905 </summary>
