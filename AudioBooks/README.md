@@ -4267,11 +4267,11 @@ By [Annie Jacobsen](https://en.wikipedia.org/wiki/Annie_Jacobsen)  (1967 – )
 Reading Notes:  Excellent writing and terrifying storyline.  "The book combines historical analysis of U.S. nuclear war planning with a minute-by-minute account of a hypothetical first strike by North Korea against the United States, showing how the conflict escalates to global thermonuclear war within 72 minutes, leading to [nuclear winter](https://en.wikipedia.org/wiki/Nuclear_winter) and 5 billion deaths."[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario)  The power to start and/or escalate global nuclear war is concentrated in a very few leaders on earth, especially in the U.S. President.  Risks materially increase whenever we populate these leadership positions with unstable, insecure, unprincipled narcissists.   Jacobsen explores the "Mad King" sceanrio as used in U.S. nuclear war games by playing out how one irrational leader with a nuclear arsenal can **easily** trigger global catastrophe.  Given the gravity of the challenges -- the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock) is "Closer than ever" at [89 seconds to midnight](https://thebulletin.org/doomsday-clock/2025-statement/) as I write -- this is an important book that should be read by everyone from high schooler to senior citizen.  Read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) for additional detail.  
 
 Also see:  
-* Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
-* "[The Effects of a Global Thermonuclear War 4th edition: escalation in 1988](https://www.johnstonsarchive.net/nuclear/nuclearwar1.html)." by Wm. Robert Johnston and more broadly "[Johnston's Archive Nuclear Weapons](https://www.johnstonsarchive.net/nuclear/index.html).  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
+"[The Effects of a Global Thermonuclear War 4th edition: escalation in 1988](https://www.johnstonsarchive.net/nuclear/nuclearwar1.html)." by Wm. Robert Johnston and more broadly "[Johnston's Archive Nuclear Weapons](https://www.johnstonsarchive.net/nuclear/index.html).  
 
 Like any important book, there are (*usually anonymous*) detractors:  
-* For example, an interesting Reddit thread on this book: [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/comment/l2evdie/) and [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/nuclear_war_a_scenario_by_amy_jacobsen/).  
+For example, an interesting Reddit thread on this book: [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/comment/l2evdie/) and [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/nuclear_war_a_scenario_by_amy_jacobsen/).  
 
 And finally, from song lyrics about this book written by an [AI bot](https://www.lyricsondemand.com/revengerer_ai/92_minutes_a_nuclear_war_scenario):  
 ```terminal
@@ -4497,13 +4497,13 @@ eBook: https://www.overdrive.com/media/9919960/the-other-valley
 By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
 
 Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...  Okile's home town has two "twins" -- one direction, East, the *twin* was **the same** town 20 years earlier and in the other direction, West, the *twin* was **the same** town 20 years later.  A lot could go wrong with a society in this configuration, so there were organizations and rules to mitigate key risks.  Odile sees to *visitors* from the *future* and the story begins.  
-Some characters:  
-    Odile Ozanne a bright and introverted sixteen-year-old  
-    Odile’s school teacher Pichegru  
-    Odile's friend Edme, a student musician
-    Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
-    The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
-    Odile's apprenticeship Conseil teacher conseiller Ivret  
+Some characters:    
+* `Odile Ozanne`: a bright and introverted sixteen-year-old  
+* `Pichegru`: Odile’s school teacher Pichegru  
+* `Edme`: Odile's friend Edme, a student musician  
+* `Ivret`: Odile's apprenticeship Conseil teacher conseiller Ivret  
+* `Conseils` safeguard reality by deciding who can travel to the *past village* or the *future village*  
+* The `gendarmerie` safeguards the physical boundary as well as policing travel between the towns.  
 
 Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
 Review by Robert J. Wiersema: [https://www.thestar.com/...the-debut-thriller-thatll-change-your-philosophy-on-the-world...](https://www.thestar.com/entertainment/books/the-debut-thriller-thatll-change-your-philosophy-on-the-world/article_ff8c4f80-d00b-11ee-b676-f7a465322da7.html)  
@@ -6316,6 +6316,8 @@ On the calculation of volume.
 Brian & James
 
 
+
+
 <details>
 <summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
 
@@ -6324,9 +6326,29 @@ Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/
 eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
 By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
 
-Reading Notes:   
+Reading Notes: The [audio version available on librivox.org](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/) is not easy to listen to -- quality of presentation as well as simple volume levels vary wildly among the various characters.  If you are able the [eBook from gutenberg.org](https://www.gutenberg.org/ebooks/1509) might be a more enjoyable experience.  
 
-Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
+Characters:  
+Verona:  
+* Valentine – a gentleman  
+* Proteus – Valentine's best friend  
+* Julia – Proteus' betrothed (at one point in the story she calls herself `Sebastian`)  
+* Launce – Proteus' servant  
+* Speed – Valentine's servant  
+* Antonio – Proteus' father  
+* Panthino – Antonio's servant  
+* Lucetta – Julia's servant  
+* Crab – Launce's dog  
+Milan:  
+* The Duke – Silvia's father  
+* Silvia – Valentine's beloved  
+* Thurio – a [foppish](https://en.wikipedia.org/wiki/Fop) suitor to Silvia  
+* Sir Eglamour – a knight who aids Silvia  
+The Forest:  
+* The Host – an innkeeper who helps Julia  
+* The Outlaws – banished men originally from Milan  
+
+An **excellent** Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
 
 [Librivox Summary](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/): The Two Gentlemen of Verona is the earliest comedy written by Shakespeare (and possibly his first play), probably written around 1590-91. It focuses on two friends, Valentine and Proteus, whose friendship is disrupted by their mutual passion for the lovely Silvia. Proteus jilts Julia in order to pursue Silvia; she responds by enlisting the help of her maid Lucetta to dress as a boy and go after Proteus. The play also includes some wonderfully comic supporting characters, particularly Launce and his scene-stealing dog Crab. ([Summary by Elizabeth Klett](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/))
 
