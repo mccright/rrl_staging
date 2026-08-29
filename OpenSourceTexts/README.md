@@ -482,7 +482,7 @@ Main Characters:
 * `Meromic`, son of the ruler of the Veneti, a Celtic tribe  
 * `Fiommar`, his sister, who is betrothed to a Briton  
 * `Titus Veturius Barrus`, a young Roman aristocrat, who is serving under Julius Caesar  
-* `[Vercingetorix](https://en.wikipedia.org/wiki/Vercingetorix)`, the chief of the [Arvernians](https://en.wikipedia.org/wiki/Arverni)  
+* `Vercingetorix`, [the chief](https://en.wikipedia.org/wiki/Vercingetorix) of the [Arvernians](https://en.wikipedia.org/wiki/Arverni)  
 * `Ardorix`, the chief of the Arvernian town of Curdun, Vercingetorix’s enemy  
 * `Caltane`, Ardorix’s cousin, who is a follower of Vercingetorix  
 * `Lerrys`, a Colchian slave and Meromic’s friend  
@@ -1159,8 +1159,14 @@ Summary/Review by [Gideon Marcus](https://gideonmarcus.com/about-me/) from galac
 [*Want to find*]  
 "Patient 926" • short story by Robert Wicks  
 Published in "Satellite Science Fiction." v3 #5, April 1959. 35¢, 64pp+  
-http://www.philsp.com/homeville/SFI/k01540.htm#A1  
+http://philsp.com/homeville/fmi/k02/k02707.htm#A33  and  https://isfdb.stoecker.eu/cgi-bin/pl.cgi?196785
 >"Robert Wicks’ Patient 926, in which all children are inoculated against imagination."  
+
+Publisher Description for [Patient 926 (Unabridged)](https://books.apple.com/ch/audiobook/patient-926-unabridged/id1753823197?l=en-GB):  
+>Step into a world where creativity and individuality are under attack in "Patient 926", narrated by the talented Mike Vendetti. In this thought-provoking short story by Robert Wicks, listeners will be taken on a journey to a future where a vaccination called the sanity vaccine threatens to erase everything that makes us unique.  
+>Join a young boy who dares to dream of writing poetry and creating art in a society that discourages such pursuits. As fears grow that the sanity vaccination is losing its effectiveness, the existence of Patient 926, untouched by the vaccine, raises questions about the importance of preserving creativity and individuality.  
+>Could this be the world we are heading towards? Are we willing to sacrifice our individuality for the sake of conformity? Dive into the gripping world of "Patient 926" and explore these questions and more alongside Mike Vendetti's captivating narration.  
+
 
 
 The Evolution Of Religion: An Anthropological Study. By Lewis Richard Farnell. 1905  

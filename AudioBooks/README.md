@@ -6363,8 +6363,33 @@ An **excellent** Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Ver
 Audio: https://www.overdrive.com/media/3049334/the-rise-of-athens  
 eBook: https://www.overdrive.com/media/2765161/the-rise-of-athens  
 By [Anthony Everitt](https://en.wikipedia.org/wiki/Anthony_Everitt)  (1940 – )  
+576 pages  
 
-Reading Notes:   
+Reading Notes: This book explores the history of the ancient city of Athens, its rise to political and cultural [greatness](https://en.wikipedia.org/wiki/Athens_in_the_5th_century_BC) and its withering to a small fraction of its size and influence compared to its peak.  It is dense, but the author keeps the narrative moving via *action* throughout. The main focus is the roughly three centuries between 600 BC and 200 BC. It outlines the rise and fall of Athens' experiment in radical democracy. It builds the story of Athens within the broader context of [Greece throughout this period](https://en.wikipedia.org/wiki/Greece_in_the_5th_century_BC) and its military & political rivals in the broader *world*.  It begins with an outline of Greek defeat over attacks from the [Persian Empire]().  It emphasizes the importance of the [Peloponnesian War]() -- the extended, bloody conflict between Sparta and Athens (*and their fluid collection of often unreliable allies*) for supremacy over land and sea.  All the whole, Persia lurked, interfering whenever it seemed advantageous. Eventually all three powers were diminished. Macedon’s [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) conquered them all, but his empire fell apart after his death in 323 BC.  
+
+Core Characters:  
+* [Athens](https://en.wikipedia.org/wiki/Athens_in_the_5th_century_BC)  
+* [Sparta]()  
+* The [Persian Empire]()  
+* [Darius]()  
+* [Xerxes, of Leonidas]()  
+* The [Peloponnesian War]()  
+* [Pericles](): Leading Athenian statesman  
+* [Themistocles](): Naval strategist who led the Greeks to a decisive victory over their Persian enemies.  
+* [Miltiades]()  
+* [Aeschylus]()  
+* [Herodotus]()  
+* [Thucydides]()  
+* [Hippocrates]()  
+* [Plato]()  
+* [Socrates]()  
+* [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)  
+* [Aristophanes](https://en.wikipedia.org/wiki/Aristophanes)  
+* [Sophocles](https://en.wikipedia.org/wiki/Sophocles)  
+* [Euripides](https://en.wikipedia.org/wiki/Euripides)  
+* [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)  
+
+Review by [Leonard Janke](): [leonardsreviews.substack.com/p/book-review-the-rise-of-athens-the](https://leonardsreviews.substack.com/p/book-review-the-rise-of-athens-the)
 
 
 </details>
