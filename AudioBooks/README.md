@@ -6316,6 +6316,26 @@ On the calculation of volume.
 Brian & James
 
 
+<details>
+<summary><a name="the_library_book_by_susan_orlean"></a>The Library Book. By Susan Orlean. 2018 </summary>
+
+### The Library Book. (12:08)  
+Audio: https://www.overdrive.com/media/3923865/the-library-book  
+eBook: https://www.overdrive.com/media/3962677/the-library-book  
+By [Susan Orlean](https://en.wikipedia.org/wiki/Susan_Orlean)  (1955 – )  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Library_Book](https://en.wikipedia.org/wiki/The_Library_Book)  
+
+Summary from the [author's site](https://www.susanorlean.com/author/books/the-library-book/):  
+>Susan Orlean re-opens the unsolved mystery of the most catastrophic library fire in American history, and delivers a dazzling homage to a beloved institution – our libraries. On the morning of April 29, 1986, a fire alarm sounded in the Los Angeles Public Library. Raging through the stacks, the fire reached 2000 degrees and burned for more than seven hours. It was the largest library fire in the history of the United States: it destroyed four hundred thousand books and damaged seven hundred thousand more, and shut the library down for seven years. The mystery remains: did someone purposefully set fire to the library—and if so, who?  
+>Weaving her life-long love of books and reading with the fascinating history of libraries and the sometimes-eccentric characters who run them, award-winning journalist and New York Times bestselling author Orlean presents a mesmerizing and uniquely compelling story. With her signature wit, insight, compassion and talent for deep research, she investigates the legendary Los Angeles Public Library fire to showcase the larger, crucial role that libraries play in our lives, and reveals how these buildings provide much more than just books and are needed now more than ever.  
+
+
+</details>
+
+
 
 
 <details>
