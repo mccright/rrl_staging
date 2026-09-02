@@ -3434,6 +3434,25 @@ Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [ht
 </details>
 
 
+<details><summary><a name="the_library_book_by_susan_orlean"></a>The Library Book. By Susan Orlean. 2018 </summary>
+
+### The Library Book. (12:08)  
+Audio: https://www.overdrive.com/media/3923865/the-library-book  
+eBook: https://www.overdrive.com/media/3962677/the-library-book  
+By [Susan Orlean](https://en.wikipedia.org/wiki/Susan_Orlean)  (1955 – )  
+
+Reading Notes: This book was a great listen on a long drive in August 2026. See the summary from the [author's site](https://www.susanorlean.com/author/books/the-library-book/) for a better overview.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Library_Book](https://en.wikipedia.org/wiki/The_Library_Book)  
+
+Summary from the [author's site](https://www.susanorlean.com/author/books/the-library-book/):  
+>Susan Orlean re-opens the unsolved mystery of the most catastrophic library fire in American history, and delivers a dazzling homage to a beloved institution – our libraries. On the morning of April 29, 1986, a fire alarm sounded in the Los Angeles Public Library. Raging through the stacks, the fire reached 2000 degrees and burned for more than seven hours. It was the largest library fire in the history of the United States: it destroyed four hundred thousand books and damaged seven hundred thousand more, and shut the library down for seven years. The mystery remains: did someone purposefully set fire to the library—and if so, who?  
+>Weaving her life-long love of books and reading with the fascinating history of libraries and the sometimes-eccentric characters who run them, award-winning journalist and New York Times bestselling author Orlean presents a mesmerizing and uniquely compelling story. With her signature wit, insight, compassion and talent for deep research, she investigates the legendary Los Angeles Public Library fire to showcase the larger, crucial role that libraries play in our lives, and reveals how these buildings provide much more than just books and are needed now more than ever.  
+
+
+</details>
+
+
 <details><summary><a name="life_and_writings_of_amelia_bloomer_dexter_c_bloomer"></a>Life and Writings of Amelia Bloomer. By Dexter C. Bloomer.  1895 </summary>
 
 ### Life and Writings of Amelia Bloomer (10:22:42)  
@@ -6316,26 +6335,6 @@ On the calculation of volume.
 Brian & James
 
 
-<details>
-<summary><a name="the_library_book_by_susan_orlean"></a>The Library Book. By Susan Orlean. 2018 </summary>
-
-### The Library Book. (12:08)  
-Audio: https://www.overdrive.com/media/3923865/the-library-book  
-eBook: https://www.overdrive.com/media/3962677/the-library-book  
-By [Susan Orlean](https://en.wikipedia.org/wiki/Susan_Orlean)  (1955 – )  
-
-Reading Notes:   
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Library_Book](https://en.wikipedia.org/wiki/The_Library_Book)  
-
-Summary from the [author's site](https://www.susanorlean.com/author/books/the-library-book/):  
->Susan Orlean re-opens the unsolved mystery of the most catastrophic library fire in American history, and delivers a dazzling homage to a beloved institution – our libraries. On the morning of April 29, 1986, a fire alarm sounded in the Los Angeles Public Library. Raging through the stacks, the fire reached 2000 degrees and burned for more than seven hours. It was the largest library fire in the history of the United States: it destroyed four hundred thousand books and damaged seven hundred thousand more, and shut the library down for seven years. The mystery remains: did someone purposefully set fire to the library—and if so, who?  
->Weaving her life-long love of books and reading with the fascinating history of libraries and the sometimes-eccentric characters who run them, award-winning journalist and New York Times bestselling author Orlean presents a mesmerizing and uniquely compelling story. With her signature wit, insight, compassion and talent for deep research, she investigates the legendary Los Angeles Public Library fire to showcase the larger, crucial role that libraries play in our lives, and reveals how these buildings provide much more than just books and are needed now more than ever.  
-
-
-</details>
-
-
 
 
 <details>
@@ -6422,10 +6421,24 @@ Review by [Leonard Janke](): [leonardsreviews.substack.com/p/book-review-the-ris
 Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
 Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
 Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
+eBook: https://www.overdrive.com/media/8857051/the-last-of-the-vikings  
 By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
-Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
+Translated from Norwegian by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
 
-Reading Notes:  
+Reading Notes: This is a good listen and a good read, both.  See the excellent [EBSCO Summary](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer) for an outline and analysis.  
+
+Key Characters:  
+* `Kristaver Myran`: The protagonist in this story. *Owns* the heavily used, previously owned an open cod fishing boat, *Seal*, that had a history of capsizing and while it helped make money some years, it kept him in debt and ensured that he was away from home in a dangerous environment for three or more months each winter.  
+* `Marza Myran`: Kristover's wife who dreaded his leaving each fishing season and longed for a *better* life on the land.  
+* `Lars Myram`: Kristover's son who joins Kristover's fishing season for the first time -- he is a *scaurie* (first-timer) on Lofoten.  
+* `Elezeus Hylla`:   
+* `Henry Rabben`: sailor on Sea-fire.  
+* `Kaneles Gomon`: Knocked unconscious when the Seal capsized, and after rescue by Kristaver, dropped into the sea when the rest of the crew was saved by Jacob and his Sea-Flower crew.  
+* `Arnt Awson`: fishermen with Kristaver, built a casket for Elezeus Hylla.  
+* `Peter Suzansa`: the owner of the Sea-fire.  The Sea-fire crew bunked with the crew of the Seal in a hut on [Lofoten](https://en.wikipedia.org/wiki/Lofoten). He had a "boil behind his ear that would not heal" and the Lofoten doctor told him that his fishing days were over and "now you must go home and go into the leper hospital."  
+* `Jacob "with the limp"`: "a great seaman, a great fisherman, and a great drinker; ...and he was a happy bachelor of sixty." He was the owner of the Sea-Flower, and later of five fishing boats.  
+
+Excellent EBSCO Summary: [ebsco.com/.../last-vikings-johan-bojer](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer)  
 
 [Librivox Summary](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/):  In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
 
