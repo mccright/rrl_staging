@@ -6425,20 +6425,21 @@ eBook: https://www.overdrive.com/media/8857051/the-last-of-the-vikings
 By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
 Translated from Norwegian by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
 
-Reading Notes: This is a good listen and a good read, both.  See the excellent [EBSCO Summary](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer) for an outline and analysis.  
+Reading Notes: This is a good listen and a good read, both.  See the excellent [EBSCO Summary](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer) for an outline and analysis of this story.  
 
 Key Characters:  
 * `Kristaver Myran`: The protagonist in this story. *Owns* the heavily used, previously owned an open cod fishing boat, *Seal*, that had a history of capsizing and while it helped make money some years, it kept him in debt and ensured that he was away from home in a dangerous environment for three or more months each winter.  
 * `Marza Myran`: Kristover's wife who dreaded his leaving each fishing season and longed for a *better* life on the land.  
 * `Lars Myram`: Kristover's son who joins Kristover's fishing season for the first time -- he is a *scaurie* (first-timer) on Lofoten.  
-* `Elezeus Hylla`:   
-* `Henry Rabben`: sailor on Sea-fire.  
-* `Kaneles Gomon`: Knocked unconscious when the Seal capsized, and after rescue by Kristaver, dropped into the sea when the rest of the crew was saved by Jacob and his Sea-Flower crew.  
+* `Elezeus Hylla`: Kristover's brother-in-law who often beat his wife, Berit, black and blue (*including the Sunday before leaving on this season's cod fishing journey*). With Kristover's backing, he bought nets of his own to have a whole share in the fishing.  He died on the shore of a fjiord of "inflammation of the lungs" -- fearing meeting his maker.  
+* `Berit Hylla`: Kristover's sister.  Elezeus Hylla wife, who had a child with another man who had gone away to America, before marrying Elezeus.  
+* `Henry Rabben`: sailor on Sea-fire. Offered last rights to Elezeus Hylla as he lay dying.  
+* `Kaneles Gomon`: Knocked unconscious when the Seal capsized, and after rescue by Kristaver, accidentally dropped into the sea when the rest of the crew was saved by Jacob and his Sea-Flower crew.  
 * `Arnt Awson`: fishermen with Kristaver, built a casket for Elezeus Hylla.  
 * `Peter Suzansa`: the owner of the Sea-fire.  The Sea-fire crew bunked with the crew of the Seal in a hut on [Lofoten](https://en.wikipedia.org/wiki/Lofoten). He had a "boil behind his ear that would not heal" and the Lofoten doctor told him that his fishing days were over and "now you must go home and go into the leper hospital."  
 * `Jacob "with the limp"`: "a great seaman, a great fisherman, and a great drinker; ...and he was a happy bachelor of sixty." He was the owner of the Sea-Flower, and later of five fishing boats.  
 
-Excellent EBSCO Summary: [ebsco.com/.../last-vikings-johan-bojer](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer)  
+**Excellent** EBSCO Summary: [ebsco.com/.../last-vikings-johan-bojer](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer)  
 
 [Librivox Summary](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/):  In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
 
