@@ -437,6 +437,57 @@ Produced from the August 10, 1923 issue of Adventure magazine.
 
 
 
+<details>
+<summary><a name="radio_man_by_ralph_milne_farley"></a>An Earthman on Venus (Originally titled "The Radio Man"). by Ralph Milne Farley. 2024, Ace Books, 1964. [1st of "Radio Man" series]  </summary>
+
+### An Earthman on Venus (Originally titled "The Radio Man") (6:07)  
+Audio: https://librivox.org/an-earthman-on-venus-version-2-by-ralph-milne-farley/  
+eBook: https://en.wikipedia.org/wiki/The_Radio_Man  
+By [Ralph Milne Farley (*AKA Roger Sherman Hoar*)](https://en.wikipedia.org/wiki/Roger_Sherman_Hoar)  (1887-1963)  
+
+Reading Notes:   
+
+Project Gutenberg Summary:  
+>"An Earthman on Venus" by Ralph Milne Farley is a science fiction novel first serialized in 1924. When electrical engineer Myles Cabot vanishes during an experiment in Boston, he awakens on Venus among the Formians—a race of ant-like creatures. Discovering the enslaved, human-like Cupians, Cabot escapes captivity and falls for Princess Lilla. Armed with knowledge of gunpowder, he must decide whether to spark a revolution against the Formian masters in this interplanetary adventure of romance and rebellion.   
+
+
+</details>
+
+
+<details>
+<summary><a name="radio_beasts_by_ralph_milne_farley"></a>The Radio Beasts. by Ralph Milne Farley. 2025, Ace Books, 1964. [2nd of "Radio Man" series]  </summary>
+
+### The Radio Beasts.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/64303  
+By [Ralph Milne Farley (*AKA Roger Sherman Hoar*)](https://en.wikipedia.org/wiki/Roger_Sherman_Hoar)  (1887-1963)  
+
+Reading Notes:   
+
+Project Gutenberg Summary:  
+>"The Radio Beasts" by Ralph Milne Farley is a science fiction novel written in the early 20th century. The book follows the story of Myles Standish Cabot, a radio genius who once journeyed to the planet Venus and faced challenges that threaten the peace of his adopted world. As he delves into new adventures after returning to Earth, the narrative promises an exploration of themes involving loyalty, resilience, and the conflict between different races and cultures. The opening of the story introduces the protagonist, who reflects on a bizarre news item about a maniac interrupting a radio session at General Electric, which leads him to reminisce about Myles Cabot, an old friend who had previously disappeared. Upon encountering Cabot in a surprising reunion, the protagonist learns that Cabot's earlier adventures on Venus were indeed true and not a fabrication. The narrative sets the stage for future conflicts as Cabot reveals troubling developments and the resurgence of threats to the peace he fought to secure, with the fate of numerous characters hanging in the balance. This portion invites curiosity about the dynamics of Cabot's relationships, the nature of his past adventures, and the unfolding political tension on Venus.  
+
+
+</details>
+
+
+<details>
+<summary><a name="radio_planet_by_ralph_milne_farley"></a>The Radio Planet by Ralph Milne Farley. 1926. Ace Books, 1964. [3rd of "Radio Man" series] </summary>
+
+### The Radio Planet.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/52326  
+By [Ralph Milne Farley (*AKA Roger Sherman Hoar*)](https://en.wikipedia.org/wiki/Roger_Sherman_Hoar)  (1887-1963)  
+
+Reading Notes:   
+
+Project Gutenberg Summary:  
+>"The Radio Planet" by Ralph Milne Farley is a science fiction novel written in the early 20th century. The narrative centers around Myles Cabot, an earth man who, after receiving an SOS message from his wife, embarks on an adventurous journey to the planet Poros, where he encounters various alien races. The story blends elements of radio science and fantasy as it explores Cabot's attempts to navigate this unfamiliar world while grappling with his love for his wife and his newfound entanglements. At the start of the novel, the protagonist, Myles Cabot, reflects on a newspaper article about mysterious radio signals from Mars and recalls his friend, Myles Standish Cabot, who has been to Venus and returned. After a series of events, Myles learns about the potential messages being received, hinting at a plea from his wife, Princess Lilla, on Poros. The story transitions toward Cabot's realization of his imminent return to Poros, where he faces the remnants of an alien society, including the fearsome Formians, and sets the stage for a quest that intertwines with elements of survival and communication that rely on his knowledge of radio technology. The opening effectively lays down the groundwork for an exciting adventure filled with intrigue, danger, and the essence of human connection across vast distances.  
+
+
+</details>
+
+
 
 
 
