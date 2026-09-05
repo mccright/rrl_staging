@@ -420,6 +420,29 @@ Reading Notes:
 </details>
 
 
+ 
+
+
+
+
+<details>
+<summary><a name="hand_made_furniture_and_how_to_make_it_by_albert_g_glidden"></a>Hand made furniture and how to make it. By Albert G. Glidden. 1910  </summary>
+
+### >Hand made furniture and how to make it.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/76260  
+eBook: https://archive.org/details/handmadefurnitur00glid/page/44/mode/2up  
+By [Albert G. Glidden]()  ( – )  
+
+Reading Notes:   
+
+Project Gutenberg [Summary](https://www.gutenberg.org/ebooks/76260):  
+>"Hand made furniture and how to make it by Albert G. Glidden" is a practical woodworking manual from the early 20th century. It guides home craftsmen in making sturdy, Arts and Crafts–style furniture, focusing on hand tools, sound joinery, surface preparation, and simple, honest design. The book opens with a case for hand-built furniture, then explains essential tools and how to sharpen and use them. It sets up a basic shop (saw horses, bench, vise, bench stop) and leads the reader through core exercises: squaring stock, halving joints, mortise-and-tenon, panelling, dowelling and edge-joining, mitres, and lap dovetails. It covers fastenings and glue practice, methods for dressing and scraping surfaces, and finishes including wipe stains, dyes, paste filler, wax polish, and shellac. The second half presents measured plans and step-by-step directions for projects such as a piano/organ bench, plant stand, magazine stand, music cabinet, hall seat, hat tree, dining table, side chair, Morris chair, and library table, emphasizing accurate layout, clean joints, and durable construction.  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="sir_piegan_passes_by_w_c_tuttle"></a>Sir Piegan Passes. by W. C. Tuttle.  1923 </summary>
