@@ -5988,9 +5988,45 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
- </summary>
+<details><summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
+
+### The Two Gentlemen of Verona.  (2:07)  
+Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/  
+eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
+By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
+
+Reading Notes: See the **excellent** [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona) for an outline.  The [audio version available on librivox.org](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/) is not easy to listen to -- quality of presentation as well as simple volume levels vary wildly among the various characters.  If you are able the [eBook from gutenberg.org](https://www.gutenberg.org/ebooks/1509) might be a more enjoyable experience.  
+
+Characters:  
+Verona:  
+* Valentine – a gentleman  
+* Proteus – Valentine's best friend  
+* Julia – Proteus' betrothed (at one point in the story she calls herself `Sebastian`)  
+* Launce – Proteus' servant  
+* Speed – Valentine's servant  
+* Antonio – Proteus' father  
+* Panthino – Antonio's servant  
+* Lucetta – Julia's servant  
+* Crab – Launce's dog  
+Milan:  
+* The Duke – Silvia's father  
+* Silvia – Valentine's beloved  
+* Thurio – a [foppish](https://en.wikipedia.org/wiki/Fop) suitor to Silvia  
+* Sir Eglamour – a knight who aids Silvia  
+The Forest:  
+* The Host – an innkeeper who helps Julia  
+* The Outlaws – banished men originally from Milan  
+
+An **excellent** Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
+
+[Librivox Summary](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/):  
+>The Two Gentlemen of Verona is the earliest comedy written by Shakespeare (and possibly his first play), probably written around 1590-91. It focuses on two friends, Valentine and Proteus, whose friendship is disrupted by their mutual passion for the lovely Silvia. Proteus jilts Julia in order to pursue Silvia; she responds by enlisting the help of her maid Lucetta to dress as a boy and go after Proteus. The play also includes some wonderfully comic supporting characters, particularly Launce and his scene-stealing dog Crab. ([Summary by Elizabeth Klett](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/))  
+
+
+</details>
+
+
+<details><summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020  </summary>
 
 ### Under the Tulip Tree. (10:00)  
 Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
@@ -6366,43 +6402,30 @@ On the calculation of volume.
 Brian & James
 
 
-
-
 <details>
-<summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
+<summary><a name="the_1619_project_by_nikole_hannah_jones"></a>The 1619 Project -- A New Origin Story.  By Nikole Hannah-Jones. 2021  </summary>
 
-### The Two Gentlemen of Verona.  (2:07)  
-Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/  
-eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
-By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
+### The 1619 Project -- A New Origin Story.  
+Audio: https://www.overdrive.com/media/6104047/the-1619-project  
+eBook: https://www.overdrive.com/media/6103230/the-1619-project  
+By [Nikole Hannah-Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)  (1976 – )  
 
-Reading Notes: The [audio version available on librivox.org](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/) is not easy to listen to -- quality of presentation as well as simple volume levels vary wildly among the various characters.  If you are able the [eBook from gutenberg.org](https://www.gutenberg.org/ebooks/1509) might be a more enjoyable experience.  
+Reading Notes: This book focuses on slavery and its many negative influences in the history of the United States -- that history including a strong theme of oppressing African Americans (*and other non-whites*) in almost every way imaginable for centuries, and has continuing material negative consequences for African Americans today.  In my reading, Nikole Hannah-Jones and the other 1619 Project writers were not attempting to write all of American history, but to surface and explore a central role played by slavery and the legacy, the trail of often horrible impacts that imposed upon African Americans during the 400 years following 1619. That multi-faceted river of oppression was the result of innumerable individual decisions -- almost entirely by Whites -- and it is an important story to tell and retell.  
 
-Characters:  
-Verona:  
-* Valentine – a gentleman  
-* Proteus – Valentine's best friend  
-* Julia – Proteus' betrothed (at one point in the story she calls herself `Sebastian`)  
-* Launce – Proteus' servant  
-* Speed – Valentine's servant  
-* Antonio – Proteus' father  
-* Panthino – Antonio's servant  
-* Lucetta – Julia's servant  
-* Crab – Launce's dog  
-Milan:  
-* The Duke – Silvia's father  
-* Silvia – Valentine's beloved  
-* Thurio – a [foppish](https://en.wikipedia.org/wiki/Fop) suitor to Silvia  
-* Sir Eglamour – a knight who aids Silvia  
-The Forest:  
-* The Host – an innkeeper who helps Julia  
-* The Outlaws – banished men originally from Milan  
+[The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) has received considerable criticism from the intellectual and political Right, from *covert* and overt racists, from White Supremisists, from Academics and professional historians, and from some persons and institutions associated with journalism.  I read much of their criticism as an expression of fear because [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)" book surface a lot of content and ideas that add dischord to the types of professional, academic and political story-telling and story-building into which they are so heavily invested.  
 
-An **excellent** Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
+The audio book has a relatively extensive cast of presenters and content.  See the [contributor's page of the 1619 Project Book site](https://1619books.com/contributors/#contributors) for that list.  
 
-[Librivox Summary](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/): The Two Gentlemen of Verona is the earliest comedy written by Shakespeare (and possibly his first play), probably written around 1590-91. It focuses on two friends, Valentine and Proteus, whose friendship is disrupted by their mutual passion for the lovely Silvia. Proteus jilts Julia in order to pursue Silvia; she responds by enlisting the help of her maid Lucetta to dress as a boy and go after Proteus. The play also includes some wonderfully comic supporting characters, particularly Launce and his scene-stealing dog Crab. ([Summary by Elizabeth Klett](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/))
+[1619 Project Site Summary](https://1619books.com/):  
+>In late August 1619, a ship arrived in the British colony of Virginia bearing a cargo of twenty to thirty people stolen from Africa. Their arrival led to the barbaric and unprecedented system of American chattel slavery that would last for the next 250 years. This is sometimes referred to as the country’s original sin, but it is more than that: It is the source of so much that still defines the United States.  
+>The New York Times Magazine’s award-winning “1619 Project” issue reframed our understanding of American history by placing slavery and its continuing legacy at the center of our national narrative. This new book substantially expands on that work, weaving together eighteen essays that explore the legacy of slavery in present-day America with thirty-six poems and works of fiction that illuminate key moments of oppression, struggle, and resistance. The essays show how the inheritance of 1619 reaches into every part of contemporary American society, from politics, music, diet, traffic, and citizenship to capitalism, religion, and our democracy itself.  
+>This is a book that speaks directly to our current moment, contextualizing the systems of race and caste within which we operate today. It reveals long-glossed-over truths around our nation’s founding and construction—and the way that the legacy of slavery did not end with emancipation, but continues to shape contemporary American life.  
+
+see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)"
 
 </details>
+
+
 
 
 
