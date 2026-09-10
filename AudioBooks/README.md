@@ -33,6 +33,29 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="the_1619_project_by_nikole_hannah_jones"></a>The 1619 Project -- A New Origin Story.  By Nikole Hannah-Jones. 2021  </summary>
+
+### The 1619 Project -- A New Origin Story.  (19:00)  
+Audio: https://www.overdrive.com/media/6104047/the-1619-project  
+eBook: https://www.overdrive.com/media/6103230/the-1619-project  
+By [Nikole Hannah-Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)  (1976 – )  
+
+Reading Notes: This book focuses on slavery and its many negative influences in the history of the United States -- that history including a strong theme of oppressing African Americans (*and other non-whites*) in almost every way imaginable for centuries, and has continuing material negative consequences for African Americans today.  In my reading, Nikole Hannah-Jones and the other 1619 Project writers were not attempting to write all of American history, but to surface and explore a central role played by slavery and the legacy, the trail of often horrible impacts that imposed upon African Americans during the 400 years following 1619. That multi-faceted river of oppression was the result of innumerable individual decisions -- almost entirely by Whites -- and it is an important story to tell and retell.  
+
+[The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) has received considerable criticism from the intellectual and political Right, from *covert* and overt racists, from White Supremisists, from Academics and professional historians, and from some persons and institutions associated with professional journalism.  As much as I read of their criticism most seemed an expression of fear because [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)" book surface a lot of content and ideas that add dischord to the types of professional, academic and political story-telling and story-building into which they are so heavily invested.  
+
+The audio book has a relatively extensive cast of presenters and content.  See the [contributor's page of the 1619 Project Book site](https://1619books.com/contributors/#contributors) for that list.  
+
+[1619 Project Site Summary](https://1619books.com/):  
+>In late August 1619, a ship arrived in the British colony of Virginia bearing a cargo of twenty to thirty people stolen from Africa. Their arrival led to the barbaric and unprecedented system of American chattel slavery that would last for the next 250 years. This is sometimes referred to as the country’s original sin, but it is more than that: It is the source of so much that still defines the United States.  
+>The New York Times Magazine’s award-winning “1619 Project” issue reframed our understanding of American history by placing slavery and its continuing legacy at the center of our national narrative. This new book substantially expands on that work, weaving together eighteen essays that explore the legacy of slavery in present-day America with thirty-six poems and works of fiction that illuminate key moments of oppression, struggle, and resistance. The essays show how the inheritance of 1619 reaches into every part of contemporary American society, from politics, music, diet, traffic, and citizenship to capitalism, religion, and our democracy itself.  
+>This is a book that speaks directly to our current moment, contextualizing the systems of race and caste within which we operate today. It reveals long-glossed-over truths around our nation’s founding and construction—and the way that the legacy of slavery did not end with emancipation, but continues to shape contemporary American life.  
+
+On Wikipedia see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)."  
+
+</details>
+
+
 <details><summary><a name="1939"></a>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
 
 ### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
@@ -6401,30 +6424,23 @@ On the calculation of volume.
 
 Brian & James
 
+sapiens_a_brief_history_of_humankind_by_yuval_noah_harari
+Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. 2015  
 
 <details>
-<summary><a name="the_1619_project_by_nikole_hannah_jones"></a>The 1619 Project -- A New Origin Story.  By Nikole Hannah-Jones. 2021  </summary>
+<summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
 
-### The 1619 Project -- A New Origin Story.  
-Audio: https://www.overdrive.com/media/6104047/the-1619-project  
-eBook: https://www.overdrive.com/media/6103230/the-1619-project  
-By [Nikole Hannah-Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)  (1976 – )  
+### Sapiens -- A Brief History of Humankind. (15:00)  
+Audio: https://www.overdrive.com/media/2111174/sapiens  
+eBook: https://www.overdrive.com/media/1690806/sapiens  
+By [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  (1976 – )  
 
-Reading Notes: This book focuses on slavery and its many negative influences in the history of the United States -- that history including a strong theme of oppressing African Americans (*and other non-whites*) in almost every way imaginable for centuries, and has continuing material negative consequences for African Americans today.  In my reading, Nikole Hannah-Jones and the other 1619 Project writers were not attempting to write all of American history, but to surface and explore a central role played by slavery and the legacy, the trail of often horrible impacts that imposed upon African Americans during the 400 years following 1619. That multi-faceted river of oppression was the result of innumerable individual decisions -- almost entirely by Whites -- and it is an important story to tell and retell.  
+Reading Notes:  This book was originally published in Hebrew in 2011 based on the author's content teaching an undergraduate world history class.  Three years later it was published in English followed by [translation into 65 more languages](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Popular_reception).  The book surveys all human history, from early [homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens_(disambiguation)) in the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) through the 21st century.  This must have been a **great** undergraduate history course.  I strongly recommend this book for anyone wanting an interesting, maybe even challenging interpretation of world history (*it has received a range of academic and political criticism*).  
 
-[The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) has received considerable criticism from the intellectual and political Right, from *covert* and overt racists, from White Supremisists, from Academics and professional historians, and from some persons and institutions associated with journalism.  I read much of their criticism as an expression of fear because [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)" book surface a lot of content and ideas that add dischord to the types of professional, academic and political story-telling and story-building into which they are so heavily invested.  
+Wikipedia summary: [wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)  
 
-The audio book has a relatively extensive cast of presenters and content.  See the [contributor's page of the 1619 Project Book site](https://1619books.com/contributors/#contributors) for that list.  
-
-[1619 Project Site Summary](https://1619books.com/):  
->In late August 1619, a ship arrived in the British colony of Virginia bearing a cargo of twenty to thirty people stolen from Africa. Their arrival led to the barbaric and unprecedented system of American chattel slavery that would last for the next 250 years. This is sometimes referred to as the country’s original sin, but it is more than that: It is the source of so much that still defines the United States.  
->The New York Times Magazine’s award-winning “1619 Project” issue reframed our understanding of American history by placing slavery and its continuing legacy at the center of our national narrative. This new book substantially expands on that work, weaving together eighteen essays that explore the legacy of slavery in present-day America with thirty-six poems and works of fiction that illuminate key moments of oppression, struggle, and resistance. The essays show how the inheritance of 1619 reaches into every part of contemporary American society, from politics, music, diet, traffic, and citizenship to capitalism, religion, and our democracy itself.  
->This is a book that speaks directly to our current moment, contextualizing the systems of race and caste within which we operate today. It reveals long-glossed-over truths around our nation’s founding and construction—and the way that the legacy of slavery did not end with emancipation, but continues to shape contemporary American life.  
-
-see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)"
 
 </details>
-
 
 
 
@@ -6513,11 +6529,6 @@ The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon
 There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of free books that are about or that reference Napoleon.  
 
 </details>
-
-
-
-
-
 
 
 
