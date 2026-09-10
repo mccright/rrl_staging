@@ -420,7 +420,22 @@ Reading Notes:
 </details>
 
 
- 
+
+<details>
+<summary><a name="kites_by_george_j_varney"></a>Kites: How To Make And How To Fly Them.  By George J Varney.  1897 </summary>
+
+### Kites: How To Make And How To Fly Them.  
+eBook: https://archive.org/details/kiteshowtomakea00varngoog/page/n38/mode/2up  
+By [George J Varney]()  ( – )  
+
+Reading Notes:   
+
+
+Also see pages 177-180 of "The young craftsman; descriptions of over 450 easy craft projects reprinted from past issues of Popular mechanics magazine, What-to-make,and other publications." (1943)  at https://archive.org/details/youngcraftsmande00chicrich/page/180/mode/1up?q=kite and https://archive.org/search?query=subject%3A%22kites%22 for more related resources... 
+
+
+</details>
+
 
 
 
