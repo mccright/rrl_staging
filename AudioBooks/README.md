@@ -40,9 +40,9 @@ Audio: https://www.overdrive.com/media/6104047/the-1619-project
 eBook: https://www.overdrive.com/media/6103230/the-1619-project  
 By [Nikole Hannah-Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)  (1976 – )  
 
-Reading Notes: This book focuses on slavery and its many negative influences in the history of the United States -- that history including a strong theme of oppressing African Americans (*and other non-whites*) in almost every way imaginable for centuries, and has continuing material negative consequences for African Americans today.  In my reading, Nikole Hannah-Jones and the other 1619 Project writers were not attempting to write all of American history, but to surface and explore a central role played by slavery and the legacy, the trail of often horrible impacts that imposed upon African Americans during the 400 years following 1619. That multi-faceted river of oppression was the result of innumerable individual decisions -- almost entirely by Whites -- and it is an important story to tell and retell.  
+Reading Notes: This book focuses on slavery and its many negative influences in the history of the United States -- that history includes a repulsive theme of oppressing African Americans (*and other non-whites*) in almost every way imaginable for centuries, and has continuing material negative consequences for African Americans today.  In my reading, Nikole Hannah-Jones and the other 1619 Project writers were not attempting to write -- or re-write -- all of American history, but to surface and explore a central role played by slavery and the legacy, the trail of often horrible impacts that it imposed upon African Americans during the 400 years following 1619. That multi-faceted river of oppression was the result of innumerable individual decisions, decisions that built and operated all-encompassing webs of systems to ensure that oppression was maintained over time -- almost entirely by Whites -- and it is an important story to tell and retell.  
 
-[The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) has received considerable criticism from the intellectual and political Right, from *covert* and overt racists, from White Supremisists, from Academics and professional historians, and from some persons and institutions associated with professional journalism.  As much as I read of their criticism most seemed an expression of fear because [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)" book surface a lot of content and ideas that add dischord to the types of professional, academic and political story-telling and story-building into which they are so heavily invested.  
+[The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) has received considerable criticism from the intellectual and political Right, from *covert* and overt racists, from white supremisists, from professional historians and other academics, and from some persons and institutions associated with professional journalism.  As much as I read of their criticism, most seemed an expression of fear because [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)" book surface a lot of content and ideas that add dischord to the types of professional, academic and political story-telling, story-building and for some, rule-making and law-making into which they are so heavily invested.  
 
 The audio book has a relatively extensive cast of presenters and content.  See the [contributor's page of the 1619 Project Book site](https://1619books.com/contributors/#contributors) for that list.  
 
@@ -6438,13 +6438,57 @@ Reading Notes:
 </details>
 
 
-Frozen River.  
 On the calculation of volume.  
 
 Brian & James
 
-sapiens_a_brief_history_of_humankind_by_yuval_noah_harari
-Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. 2015  
+
+
+<details>
+<summary><a name="the_frozen_river_by_ariel_lawhon"></a>The Frozen River.  By Ariel Lawhon. 2023  </summary>
+
+### The Frozen River.  
+Audio: https://www.overdrive.com/media/9674513/the-frozen-river  
+eBook: https://www.overdrive.com/media/9864687/the-frozen-river  
+By [Ariel Lawhon](https://www.ariellawhon.com/about/)  ( – )  
+
+Reading Notes: In 1789 the Kennebec River froze near the town of Hallowell, Maine, opening new routes to cross from one side to the other. The body of a man, Joshua Burgess, is found in the ice. Local midwife [Martha Ballard](https://en.wikipedia.org/wiki/Martha_Ballard) knows that Burgess, along with Judge Joseph North, was accused of raping Rebecca Foster, the wife of the local preacher, several months earlier.  
+
+Core Characters:  
+* Martha Ballard, Midwife.  
+* Joshua Burgess, .  
+* Rebecca Foster, .  
+* Judge Joseph North, .  
+* ___, local preacher. Rebecca Foster's husband.  
+
+For an excellent biography of Martha Ballard I recommend, "[A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812](#a_midwifes_tale_by_laurel_thatcher_ulrich)" By [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich).
+
+
+</details>
+
+
+<details>
+<summary><a name="deep_storm_by_lincoln_child"></a>Deep Storm -- #1 in Jeremy Logan series.  By Lincoln Child. 2007   </summary>
+
+### Deep Storm.  (13:00)  
+Audio: https://www.overdrive.com/media/116753/deep-storm  
+eBook: https://www.overdrive.com/media/147827/deep-storm  
+By [Lincoln Child](https://en.wikipedia.org/wiki/Lincoln_Child)  (1957 – )  
+
+Reading Notes: Throughout this book, the author uses a story-telling technique of dribbling out snippits of *information* that only imply the reader will learn something material later in the text.  Under the most skillful writing the judicious use of this approach can add tension and drama to a story. In this case, it is used so often and across so many threads of activity that it drew my attention away from the core narrative.
+Another unfortunate choice is the author's attempt to suggest *high-tech modernity* by giving all the core characters a *Palmtop* portable computer/tablet -- which suggests a connection to the real-life [Palm](https://en.wikipedia.org/wiki/Palm_(PDA)) line of portable *computers* widely popular from 1996 to the early 2000s.  While I found my [PalmPilot 1000](https://en.wikipedia.org/wiki/Pilot_1000) and [Palm III](https://en.wikipedia.org/wiki/Palm_III) valuable in the extreme, they are a loud reminder about the era in which this book was written.  
+  
+
+Wikipedia Summarp: [wikipedia.org/wiki/List_of_novels_by_Lincoln_Child#Deep_Storm_(2007)](https://en.wikipedia.org/wiki/List_of_novels_by_Lincoln_Child#Deep_Storm_(2007))  
+Overdrive Summary:  
+>Former naval doctor Peter Crane is urgently summoned to a remote oil platform in the North Atlantic to help diagnose a bizarre medical condition spreading through the rig. But when he arrives, Crane learns that the real trouble lies far below–on “Deep Storm,” a stunningly advanced science research facility built two miles beneath the surface on the ocean floor. The top-secret structure has been designed for one purpose: to excavate a recently discovered undersea site that may hold the answers to a mystery steeped in centuries of myth and speculation.  Sworn to secrecy, Dr. Crane descends to Deep Storm. A year earlier, he is told, routine drilling uncovered the remains of mankind’s most sophisticated ancient civilization: the legendary Atlantis. But now that the site is being excavated, a series of disturbing illnesses has begun to affect the operation. As Crane is indoctrinated into the strange world of Deep Storm and commences his investigation, he begins to suspect that the covert facility conceals something more complicated than a medical mystery. The discovery of Atlantis might, in fact, be a cover for something far more sinister . . . and deadly.  
+
+
+
+
+</details>
+
+
 
 <details>
 <summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
