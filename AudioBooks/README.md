@@ -6443,6 +6443,20 @@ On the calculation of volume.
 Brian & James
 
 
+<details>
+<summary><a name="a_backpack_a_bear_by_lev_golinkin"></a>A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. By Lev Golinkin.  2014  </summary>
+
+### A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. (9:00)  
+Audio: https://www.overdrive.com/media/2012395/a-backpack-a-bear-and-eight-crates-of-vodka  
+eBook: https://www.overdrive.com/media/1742834/a-backpack-a-bear-and-eight-crates-of-vodka  
+By [Lev Golinkin]()  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 <details>
 <summary><a name="the_frozen_river_by_ariel_lawhon"></a>The Frozen River.  By Ariel Lawhon. 2023  </summary>
