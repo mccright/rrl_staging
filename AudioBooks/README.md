@@ -6451,7 +6451,7 @@ Audio: https://www.overdrive.com/media/2012395/a-backpack-a-bear-and-eight-crate
 eBook: https://www.overdrive.com/media/1742834/a-backpack-a-bear-and-eight-crates-of-vodka  
 By [Lev Golinkin]()  ( – )  
 
-Reading Notes:   
+Reading Notes: The first third of the book is a biography of the author's life in Harkiv, Ukraine, until leaving the USSR at nine years old.  Vienna  
 
 
 </details>
