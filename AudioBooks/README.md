@@ -5278,6 +5278,21 @@ Summary from Librivox:
 </details>  
 
 
+<details><summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
+
+### Sapiens -- A Brief History of Humankind. (15:00)  
+Audio: https://www.overdrive.com/media/2111174/sapiens  
+eBook: https://www.overdrive.com/media/1690806/sapiens  
+By [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  (1976 – )  
+
+Reading Notes:  This book was originally published in Hebrew in 2011 based on the author's content teaching an undergraduate world history class.  Three years later it was published in English followed by [translation into 65 more languages](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Popular_reception).  The book surveys all human history, from early [homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens_(disambiguation)) in the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) through the 21st century.  This must have been a **great** undergraduate history course.  I strongly recommend this book for anyone wanting an interesting, maybe even challenging interpretation of world history (*it has received a range of academic and political criticism*).  
+
+Wikipedia summary: [wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)  
+
+
+</details>
+
+
 <details><summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
 
 ### Scientific American Supplement, No. 492, June 6, 1885  (4:29)  
@@ -6499,22 +6514,6 @@ For an excellent biography of Martha Ballard I recommend, "[A Midwife's Tale -- 
 
 </details>
 
-
-
-<details>
-<summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
-
-### Sapiens -- A Brief History of Humankind. (15:00)  
-Audio: https://www.overdrive.com/media/2111174/sapiens  
-eBook: https://www.overdrive.com/media/1690806/sapiens  
-By [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  (1976 – )  
-
-Reading Notes:  This book was originally published in Hebrew in 2011 based on the author's content teaching an undergraduate world history class.  Three years later it was published in English followed by [translation into 65 more languages](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Popular_reception).  The book surveys all human history, from early [homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens_(disambiguation)) in the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) through the 21st century.  This must have been a **great** undergraduate history course.  I strongly recommend this book for anyone wanting an interesting, maybe even challenging interpretation of world history (*it has received a range of academic and political criticism*).  
-
-Wikipedia summary: [wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)  
-
-
-</details>
 
 
 
