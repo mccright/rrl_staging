@@ -4197,6 +4197,29 @@ BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://book
 </details>
 
 
+<details><summary><a name="napoleon_a_life_by_andrew_roberts"></a>Napoleon -- A Life.  By Andrew Roberts.  2014  </summary>
+
+### Napoleon -- A Life. (33:00) (*more than 900 pages*)  
+Audio: https://www.overdrive.com/media/1646652/napoleon  
+eBook: https://www.overdrive.com/media/1583645/napoleon  
+By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
+
+Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  The author details all of Napoleon's major battles (*most incorporated large-scale carnage*) and many of the most material actions throughout his life.  Note, (1) that the focus of this biography is Napoleon in his lifetime, and (2) not about his place in history, the author makes no (*maybe few*) judgements about Napoleon being a hero or villain.  Napoleon lived an active and complex life and left lasting impacts across the West as well as the Middle East.  His publications and actions have been studied across most world cultures.  See the [excellent review by Duncan Kelly](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) to learn more about this highly recommended book.  
+
+"the four pillars of his rule at home — low taxes, property rights, centralized authority and national glory." 
+
+Author's book page: [andrew-roberts.net/books/napoleon-a-life/](https://www.andrew-roberts.net/books/napoleon-a-life/)  
+Wikipedia Page: [wikipedia.org/wiki/Napoleon:_A_Life](https://en.wikipedia.org/wiki/Napoleon:_A_Life)  
+
+Excellent review by [Duncan Kelly](https://www.jesus.cam.ac.uk/people/duncan-kelly) and [here](https://www.polis.cam.ac.uk/people/duncan-kelly): [nytimes.com/.../napoleon-a-life-by-andrew-roberts.html](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) (*free access*)  
+Goodreads reviews: [goodreads.com/book/show/20821092-napoleon](https://www.goodreads.com/book/show/20821092-napoleon)  
+
+The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I.  [gutenberg.org/ebooks/50750](https://www.gutenberg.org/ebooks/50750)  
+There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of free books that are about or that reference Napoleon.  
+
+</details>
+
+
 <details><summary><a name="napoleon_the_first_by_walter_geer"></a>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -5276,6 +5299,21 @@ Summary from Librivox:
 >Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
 </details>  
+
+
+<details><summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
+
+### Sapiens -- A Brief History of Humankind. (15:00)  
+Audio: https://www.overdrive.com/media/2111174/sapiens  
+eBook: https://www.overdrive.com/media/1690806/sapiens  
+By [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  (1976 – )  
+
+Reading Notes:  This book was originally published in Hebrew in 2011 based on the author's content teaching an undergraduate world history class.  Three years later it was published in English followed by [translation into 65 more languages](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Popular_reception).  The book surveys all human history, from early [homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens_(disambiguation)) in the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) through the 21st century.  This must have been a **great** undergraduate history course.  I strongly recommend this book for anyone wanting an interesting, maybe even challenging interpretation of world history (*it has received a range of academic and political criticism*).  
+
+Wikipedia summary: [wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)  
+
+
+</details>
 
 
 <details><summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
@@ -6501,22 +6539,6 @@ For an excellent biography of Martha Ballard I recommend, "[A Midwife's Tale -- 
 
 
 
-<details>
-<summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
-
-### Sapiens -- A Brief History of Humankind. (15:00)  
-Audio: https://www.overdrive.com/media/2111174/sapiens  
-eBook: https://www.overdrive.com/media/1690806/sapiens  
-By [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  (1976 – )  
-
-Reading Notes:  This book was originally published in Hebrew in 2011 based on the author's content teaching an undergraduate world history class.  Three years later it was published in English followed by [translation into 65 more languages](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Popular_reception).  The book surveys all human history, from early [homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens_(disambiguation)) in the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) through the 21st century.  This must have been a **great** undergraduate history course.  I strongly recommend this book for anyone wanting an interesting, maybe even challenging interpretation of world history (*it has received a range of academic and political criticism*).  
-
-Wikipedia summary: [wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)  
-
-
-</details>
-
-
 
 
 <details>
@@ -6559,30 +6581,6 @@ Review by [Leonard Janke](): [leonardsreviews.substack.com/p/book-review-the-ris
 
 
 
-
-
-<details>
-<summary><a name="napoleon_a_life_by_andrew_roberts"></a>Napoleon -- A Life.  By Andrew Roberts.  2014  </summary>
-
-### Napoleon -- A Life. (33:00) (*more than 900 pages*)  
-Audio: https://www.overdrive.com/media/1646652/napoleon  
-eBook: https://www.overdrive.com/media/1583645/napoleon  
-By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
-
-Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  The author details all of Napoleon's major battles (*most incorporated large-scale carnage*) and many of the most material actions throughout his life.  Note, (1) that the focus of this biography is Napoleon in his lifetime, and (2) not about his place in history, the author makes no (*maybe few*) judgements about Napoleon being a hero or villain.  Napoleon lived an active and complex life and left lasting impacts across the West as well as the Middle East.  His publications and actions have been studied across most world cultures.  See the [excellent review by Duncan Kelly](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) to learn more about this highly recommended book.  
-
-"the four pillars of his rule at home — low taxes, property rights, centralized authority and national glory." 
-
-Author's book page: [andrew-roberts.net/books/napoleon-a-life/](https://www.andrew-roberts.net/books/napoleon-a-life/)  
-Wikipedia Page: [wikipedia.org/wiki/Napoleon:_A_Life](https://en.wikipedia.org/wiki/Napoleon:_A_Life)  
-
-Excellent review by [Duncan Kelly](https://www.jesus.cam.ac.uk/people/duncan-kelly) and [here](https://www.polis.cam.ac.uk/people/duncan-kelly): [nytimes.com/.../napoleon-a-life-by-andrew-roberts.html](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) (*free access*)  
-Goodreads reviews: [goodreads.com/book/show/20821092-napoleon](https://www.goodreads.com/book/show/20821092-napoleon)  
-
-The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I.  [gutenberg.org/ebooks/50750](https://www.gutenberg.org/ebooks/50750)  
-There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of free books that are about or that reference Napoleon.  
-
-</details>
 
 
 
