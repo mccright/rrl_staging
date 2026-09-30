@@ -4237,6 +4237,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="nature_of_the_beast_louise_penny"></a>The Nature of the Beast -- Chief Inspector Gamache Book 11 · Chief Inspector Armand Gamache. By Louise Penny. 2015 </summary>
+
+### The Nature of the Beast.  (13:00)  
+Audio: https://www.overdrive.com/media/10287151/the-nature-of-the-beast  
+eBook: https://www.overdrive.com/media/2102944/the-nature-of-the-beast  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reading Notes: [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache), Jean-Guy Beauvoir, Isabelle Lacoste and young Adam Cohen of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) investigate a pair of murders in Three Pines. This was a good fit for a long car ride...
+
+If you like this series or are considering starting it there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+
+</details>
+
+
 <details><summary><a name="necessary_trouble_by_drew_gilpin_faust"></a>Necessary Trouble -- Growing Up at Midcentury. By Drew Gilpin Faust. 2023  </summary>
 
 ### Necessary Trouble -- Growing Up at Midcentury. (10:00)  
@@ -6497,7 +6512,27 @@ Reading Notes:
 
 On the calculation of volume.  
 
-Brian & James
+Brian & James  
+
+
+<details>
+<summary><a name="alexander_at_the_end_of_the_world_rachel_kousser"></a>Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great. By Rachel Kousser. 2024  </summary>
+
+### Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great.  (11:00)  
+Audio: https://www.overdrive.com/media/9885518/alexander-at-the-end-of-the-world  
+eBook: https://www.overdrive.com/media/9852724/alexander-at-the-end-of-the-world  
+By [Rachel Kousser](https://rachelkousser.com/) and [wikipedia.org/wiki/Rachel_Meredith_Kousser](https://en.wikipedia.org/wiki/Rachel_Meredith_Kousser) ( – )  
+
+Reading Notes:   
+* *Alexander the Great* [Alexander III of Macedon](https://en.wikipedia.org/wiki/Alexander_the_Great)  
+
+Review by [Justin Marozzi](https://en.wikipedia.org/wiki/Justin_Marozzi): [nytimes.com/.../alexander-at-the-end-of-the-world-rachel-kousser](https://www.nytimes.com/2024/07/14/books/review/alexander-at-the-end-of-the-world-rachel-kousser.html)  
+
+</details>
+
+
+
+
 
 
 <details>
@@ -6508,7 +6543,7 @@ Audio: https://www.overdrive.com/media/2012395/a-backpack-a-bear-and-eight-crate
 eBook: https://www.overdrive.com/media/1742834/a-backpack-a-bear-and-eight-crates-of-vodka  
 By [Lev Golinkin]()  ( – )  
 
-Reading Notes: The first third of the book is a biography of the author's life in Harkiv, Ukraine, until leaving the USSR at nine years old.  Vienna  
+Reading Notes: The first third of the book is a biography of the author's life in Harkiv, Ukraine, until leaving the USSR in 1990 at nine years old.  Vienna as a former Soviet, Jewish refugee in flight.  Then West Laf Indiana and New Jersey as an immigrant and an American. Finally, returning as a young man to Austria and Eastern Europe to track down the strangers who made his escape possible ... and thank them.  I found this an interesting memoir about a time I remember, but only from the relatively isolated of a 30-something too focused on my career to understand much of the detail of the collapse of the former Soviet empire.  Lev Golinkin's history helped fill in a narrow but important slice of that era.  
 
 
 </details>
