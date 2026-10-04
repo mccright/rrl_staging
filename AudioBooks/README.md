@@ -6514,6 +6514,24 @@ On the calculation of volume.
 Brian & James  
 
 
+
+
+<details>
+<summary><a name="supreme_inequality_by_adam_cohen."></a>Supreme Inequality -- The Supreme Court's Fifty-Year Battle for a More Unjust America. By Adam Cohen. 2020  </summary>
+
+### Supreme Inequality -- The Supreme Court's Fifty-Year Battle for a More Unjust America. (11:15)  
+Audio: https://www.overdrive.com/media/4754344/supreme-inequality  
+eBook: https://www.overdrive.com/media/4754089/supreme-inequality  
+By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (1962 – )  
+
+Reading Notes: Cohen argues that the United States Supreme Court was building a foundation of protections for the poor and weak (*possibly leading up to a guaranteed standard of living*) under the [Warren Court](https://en.wikipedia.org/wiki/Warren_Court) which had been "advancing a more just and equal society across broad and diverse areas of law (education, poverty, campaign finance, democracy, workers' rights, corporations, and criminal justice)."<sup>[wikipedia](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist)#Career)</sup>  When Chief Justice [Earl Warren](https://en.wikipedia.org/wiki/Earl_Warren) announced his plan to retire from the Court in June 1968 Republicans and Southern Democrats cooperated to resist President Johnson's efforts to replace him -- holding the slot open until after the next presidential election, which Richard Nixon won (*echoed later by the ugly and unethical, but successful effort led by Senator Chuck Grassley to withhold consent on any nominee made by President Obama and permitting no hearings on the matter for over 11 months after the death of Justice [Antonin Scalia](https://en.wikipedia.org/wiki/Antonin_Scalia), effectively denying President Obama the right to fill an empty slot on the supreme court in 2016*).  Nixon nominated [Clement Haynsworth](https://en.wikipedia.org/wiki/Clement_Haynsworth) and then [G. Harrold Carswell](https://en.wikipedia.org/wiki/G._Harrold_Carswell) who were both rejected by the Senate as consistently hard core [segregationists](https://en.wikipedia.org/wiki/Racial_segregation_in_the_United_States) whose decisions helped enforce long and broadly entrenched Southern beliefs in [White supremacy](https://en.wikipedia.org/wiki/White_supremacy) and who were also strongly anti-labor (*more generally, anti-civil rights*).  Concurrently, Nixon employed the FBI and other Justice Department resources to investigate and harass liberal Justice [Abe Fortas](https://en.wikipedia.org/wiki/Abe_Fortas) and his wife -- the primary issue being Fortas' accepting *gifts* from a wealthy individual who had issues that were regularly in courts (*See current Supreme Court Justice [Clarence_Thomas' history gifts from the wealthy and super wealthy who also have issues working through the courts](https://en.wikipedia.org/wiki/Clarence_Thomas#Nondisclosure_of_finances)*). Nixon was successful in that effort to force Fortas off the court. Nixon went on to appoint four conservative justices (new Chief Justice [Warren Burger](https://en.wikipedia.org/wiki/Warren_Burger), future Chief Justice [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist), Associate Justice [Harry Blackmun](https://en.wikipedia.org/wiki/Harry_Blackmun), and Associate Justice [Lewis Powell](https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.)).  That team and their associates quickly reversed course on the treatments of the poor and weak, removing what were until that time considered rights by many...  
+
+From that time on, they have been characterized by their coarse treatment of the poor (*or just the "needy" of any king*) was contrasted by the Supreme Court's expanding obligations to and the rights of the wealthy.  
+
+
+</details>
+
+
 <details>
 <summary><a name="alexander_at_the_end_of_the_world_rachel_kousser"></a>Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great. By Rachel Kousser. 2024  </summary>
 
