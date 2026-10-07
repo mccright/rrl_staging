@@ -812,6 +812,19 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)
 </details>
 
 
+<details><summary><a name="a_backpack_a_bear_by_lev_golinkin"></a>A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. By Lev Golinkin.  2014  </summary>
+
+### A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. (9:00)  
+Audio: https://www.overdrive.com/media/2012395/a-backpack-a-bear-and-eight-crates-of-vodka  
+eBook: https://www.overdrive.com/media/1742834/a-backpack-a-bear-and-eight-crates-of-vodka  
+By [Lev Golinkin](https://njjewishnews.timesofisrael.com/i-wanted-to-be-a-part-of-something-larger/)  (1980 – )  
+
+Reading Notes: The first third of the book is a biography of the author's life in [Kharkiv, Ukraine](https://en.wikipedia.org/wiki/Kharkiv), until leaving the USSR in 1990 at nine years old.  Then a section in Vienna as a former Soviet, Jewish refugee in flight.  Then [West Lafayette Indiana](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana) and [East Windsor, New Jersey](https://en.wikipedia.org/wiki/East_Windsor,_New_Jersey) as an immigrant and an American. Finally, returning as a young man to Austria and Eastern Europe to track down the strangers who made his escape possible ... and thank them.  I found this an interesting memoir about a time I remember, but only from the relatively isolation of a 30-something too focused on my career to understand much of the detail of the collapse of the former Soviet empire.  Lev Golinkin's history helped fill in a narrow but important slice of that era.  
+
+
+</details>
+
+
 <details><summary><a name="barons_of_the_sea_by_steven_ujifusa"></a>Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. By Steven Ujifusa. 2018  </summary>
 
 ### Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. (12:25)  
@@ -6527,6 +6540,13 @@ By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (1962 �
 Reading Notes: Cohen argues that the United States Supreme Court was building a foundation of protections for the poor and weak (*possibly leading up to a guaranteed standard of living*) under the [Warren Court](https://en.wikipedia.org/wiki/Warren_Court) which had been "advancing a more just and equal society across broad and diverse areas of law (education, poverty, campaign finance, democracy, workers' rights, corporations, and criminal justice)."<sup>[wikipedia](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist)#Career)</sup>  When Chief Justice [Earl Warren](https://en.wikipedia.org/wiki/Earl_Warren) announced his plan to retire from the Court in June 1968 Republicans and Southern Democrats cooperated to resist President Johnson's efforts to replace him -- holding the slot open until after the next presidential election, which Richard Nixon won (*echoed later by the ugly and unethical, but successful effort led by Senator Chuck Grassley to withhold consent on any nominee made by President Obama and permitting no hearings on the matter for over 11 months after the death of Justice [Antonin Scalia](https://en.wikipedia.org/wiki/Antonin_Scalia), effectively denying President Obama the right to fill an empty slot on the supreme court in 2016*).  Nixon nominated [Clement Haynsworth](https://en.wikipedia.org/wiki/Clement_Haynsworth) and then [G. Harrold Carswell](https://en.wikipedia.org/wiki/G._Harrold_Carswell) who were both rejected by the Senate as consistently hard core [segregationists](https://en.wikipedia.org/wiki/Racial_segregation_in_the_United_States) whose decisions helped enforce long and broadly entrenched Southern beliefs in [White supremacy](https://en.wikipedia.org/wiki/White_supremacy) and who were also strongly anti-labor (*more generally, anti-civil rights*).  Concurrently, Nixon employed the FBI and other Justice Department resources to investigate and harass liberal Justice [Abe Fortas](https://en.wikipedia.org/wiki/Abe_Fortas) and his wife -- the primary issue being Fortas' accepting *gifts* from a wealthy individual who had issues that were regularly in courts (*See current Supreme Court Justice [Clarence_Thomas' history gifts from the wealthy and super wealthy who also have issues working through the courts](https://en.wikipedia.org/wiki/Clarence_Thomas#Nondisclosure_of_finances)*). Nixon was successful in that effort to force Fortas off the court. Nixon went on to appoint four conservative justices (new Chief Justice [Warren Burger](https://en.wikipedia.org/wiki/Warren_Burger), future Chief Justice [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist), Associate Justice [Harry Blackmun](https://en.wikipedia.org/wiki/Harry_Blackmun), and Associate Justice [Lewis Powell](https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.)).  That team and their associates quickly reversed course on the treatments of the poor and weak, removing what were until that time considered rights by many...  
 
 From that time on, they have been characterized by their coarse treatment of the poor (*or just the "needy" of any king*) was contrasted by the Supreme Court's expanding obligations to and the rights of the wealthy.  
+* Education: Courts cannot consider unequal educational infrastructure, teaching or student experiences along any type of wealth continuum.  Poor schools are simply a local choice and rich schools are simply a local different choice.  Poor localities could enhance their schools if they chose to.  
+* Poverty: Poverty is not a consideration for the Constitution nor the rights or obligations therein.  
+* Campaign Finance: Personal and corporate wealth is speech.  Limiting personal or corporate spending on political campaigns unconstitutionally limits speech.  
+* Democracy  
+* Workers' Rights  
+* Corporations  
+* Criminal Justice  
 
 
 </details>
@@ -6547,20 +6567,6 @@ Review by [Justin Marozzi](https://en.wikipedia.org/wiki/Justin_Marozzi): [nytim
 
 </details>
 
-
-
-<details>
-<summary><a name="a_backpack_a_bear_by_lev_golinkin"></a>A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. By Lev Golinkin.  2014  </summary>
-
-### A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. (9:00)  
-Audio: https://www.overdrive.com/media/2012395/a-backpack-a-bear-and-eight-crates-of-vodka  
-eBook: https://www.overdrive.com/media/1742834/a-backpack-a-bear-and-eight-crates-of-vodka  
-By [Lev Golinkin](https://njjewishnews.timesofisrael.com/i-wanted-to-be-a-part-of-something-larger/)  (1980 – )  
-
-Reading Notes: The first third of the book is a biography of the author's life in [Kharkiv, Ukraine](https://en.wikipedia.org/wiki/Kharkiv), until leaving the USSR in 1990 at nine years old.  Then a section in Vienna as a former Soviet, Jewish refugee in flight.  Then [West Lafayette Indiana](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana) and [East Windsor, New Jersey](https://en.wikipedia.org/wiki/East_Windsor,_New_Jersey) as an immigrant and an American. Finally, returning as a young man to Austria and Eastern Europe to track down the strangers who made his escape possible ... and thank them.  I found this an interesting memoir about a time I remember, but only from the relatively isolation of a 30-something too focused on my career to understand much of the detail of the collapse of the former Soviet empire.  Lev Golinkin's history helped fill in a narrow but important slice of that era.  
-
-
-</details>
 
 
 
