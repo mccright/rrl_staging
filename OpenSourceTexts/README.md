@@ -422,6 +422,22 @@ Reading Notes:
 
 
 <details>
+<summary><a name="sunsets_cabin_plan_book_by_sunset_mag"></a>Sunset's cabin plan book. By Sunset Magazine. 1938 </summary>
+
+### Sunset's cabin plan book.  
+eBook: https://archive.org/details/SunsetMagazineSunsetscabinplanbook0001/page/n4/mode/1up  
+Edited By [Ralph P. Dillon]()  ( – )  
+Illustrations By [Norman Gordon]()  ( – )  
+Cabin Renderings By [Clemens Friedell]()  ( – )  
+
+
+Reading Notes:   
+
+
+</details>
+
+
+<details>
 <summary><a name="kites_by_george_j_varney"></a>Kites: How To Make And How To Fly Them.  By George J Varney.  1897 </summary>
 
 ### Kites: How To Make And How To Fly Them.  
