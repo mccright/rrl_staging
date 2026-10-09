@@ -6552,6 +6552,27 @@ From that time on, they have been characterized by their coarse treatment of the
 </details>
 
 
+<details><summary><a name="mauritius_command_by_patrick_obrian"></a>#4 Aubrey & Maturin Series: The Mauritius Command.  By Patrick O'Brian. 2011/2009/1990/1977
+ </summary>
+
+### The Mauritius Command.  By Patrick O'Brian. (11:00)  
+Audio:   
+eBook:   
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "The Mauritius Command" (*from [Wikipedia](https://en.wikipedia.org/wiki/The_Mauritius_Command#Ships) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "Four years after the events of HMS Surprise, Jack Aubrey and Sophia Williams are married and the parents of twin girls. They live at Ashgrove Cottage on his half-pay, which is not enough to support fellow navy men in the household. Sophia's mother has lost her money, including Sophia's portion, and now lives with them, along with Sophia's niece Cecelia."<sup>[wikipedia](https://en.wikipedia.org/wiki/The_Mauritius_Command#Plot_summary)</sup> ...  
+
+Wikipedia Summary of The Mauritius Command: [https://en.wikipedia.org/wiki/The_Mauritius_Command](https://en.wikipedia.org/wiki/The_Mauritius_Command)  
+Principal characters mentioned in The Mauritius Command: [https://en.wikipedia.org/wiki/The_Mauritius_Command#Characters](https://en.wikipedia.org/wiki/The_Mauritius_Command#Characters)  
+Ships mentioned in The Mauritius Command: [https://en.wikipedia.org/wiki/The_Mauritius_Command#Ships](https://en.wikipedia.org/wiki/The_Mauritius_Command#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
+
 <details>
 <summary><a name="alexander_at_the_end_of_the_world_rachel_kousser"></a>Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great. By Rachel Kousser. 2024  </summary>
 
