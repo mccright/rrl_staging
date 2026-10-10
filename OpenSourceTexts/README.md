@@ -420,6 +420,21 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="michael_strogoff_by_jules_verne"></a>Michael Strogoff: The Courier of the Czar. By Jules Verne. 1876 </summary>
+
+### Michael Strogoff: The Courier of the Czar.  
+Audio: https://www.gutenberg.org/ebooks/8987  
+eBook: https://www.gutenberg.org/ebooks/1842  
+By [Jules Verne](https://en.wikipedia.org/wiki/Jules_Verne)  ( – )  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/Michael_Strogoff](https://en.wikipedia.org/wiki/Michael_Strogoff)  
+
+</details>
+
+
 
 <details>
 <summary><a name="sunsets_cabin_plan_book_by_sunset_mag"></a>Sunset's cabin plan book. By Sunset Magazine. 1938 </summary>
