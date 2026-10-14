@@ -419,6 +419,13 @@ Reading Notes:
 
 </details>
 
+The Voiceless Sentinels. By Roger Dee (or Roger D. Aycock).  1956  
+https://www.gutenberg.org/ebooks/79780  
+
+The historical evolution of the Ukrainian problem. By Mykhaĭlo Hrushevsʹkyĭ (Michaelo Hrushevsky, 1866-1934).  1915  
+Translated by George Raffalovich (1880-1958)  
+https://www.gutenberg.org/ebooks/79773  
+
 
 <details>
 <summary><a name="michael_strogoff_by_jules_verne"></a>Michael Strogoff: The Courier of the Czar. By Jules Verne. 1876 </summary>
