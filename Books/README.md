@@ -494,6 +494,11 @@ Reading Notes:
 </details>
 
 
+Otters Dance: A Rancher's Journey to Enlightenment and Stewardship. ( 263 pages )  
+by Bob Budd  
+https://www.amazon.com/Otters-Dance-Ranchers-Enlightenment-Stewardship/dp/1682753409  
+>“Otters Dance is a treatise on ranching, conservation, wildlife, family, and most of all a unique appreciation of our home state of Wyoming...This is an absolute must-read for anyone who wants to understand the landscape, history, and culture of the rural Mountain West.” — C. J. Box, #1 New York Times Best-Selling Author of Shadows ReelAs a boy, Bob Budd grew up on the land with the wind at his back and the wide vista of Wyoming ranchland stretching before him. His family ranch in Wyoming was passed down, alongside an undying reverence for the land, from generation to generation. Budd spent his childhood learning skills and pocketing wisdom from his family, the ranch, and their community. Otters Dance is a story of stewardship from a perspective not often heard from— the rancher. It tells of the rhythms of the land, of the people and creatures that make it special, and the ways we can protect it, sharing a universal message about the importance of caring for our natural world. It is an elegy to the place that made Bob Budd who he is today and asks the reader to take some of that love and care back to the places that have imprinted themselves on their lives. (From: Amazon)  
+
 
 <details>
 <summary><a name="last_and_first_men_by_olaf_stapledon"></a>Last and first men -- SF Masterworks,11.  By Olaf Stapledon. </summary>
