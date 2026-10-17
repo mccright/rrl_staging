@@ -422,6 +422,54 @@ Reading Notes:
 The Voiceless Sentinels. By Roger Dee (or Roger D. Aycock).  1956  
 https://www.gutenberg.org/ebooks/79780  
 
+
+Translated From The French By Frank D. Halsey https://www.gutenberg.org/ebooks/79759  
+
+<details>
+<summary><a name="medieval_cities_by_henri_pirenne"></a>Medieval Cities -- Their Origins And The Revival Of Trade. By Henri Pirenne (1862-1935). 1925/1932   </summary>
+
+### Medieval Cities -- Their Origins And The Revival Of Trade.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/79759  
+By [Henri Pirenne](https://en.wikipedia.org/wiki/Henri_Pirenne)  (1862-1935)  
+Translated by Frank D. Halsey (Frank Davis) (1891-1941)  
+
+
+Reading Notes:   
+
+[Wikipedia Summary](https://en.wikipedia.org/wiki/Henri_Pirenne#Medieval_Cities):  
+>[*This*] book is based on lectures [*Henri Pirenne*] delivered in the United States in 1922. In this book, he contends that through the period from the tenth to the twelfth centuries, Europe reclaimed control of the Mediterranean from the Muslim world, and opened up sea routes to the Orient. This allowed the formation of a merchant/middle class and the development of that class's characteristic abode, the city.  He argued that capitalism originated in Europe's cities, as did democracy. His "Merchant Enterprise School" opposed Marxism but shared many of Marx's ideas on the merchant class. Pirenne's theory of a commercial renaissance in towns in the 11th century remains the standard interpretation.  
+
+Google Summary: [books.google.com/books?id=j_WTgGU8PkoC](https://books.google.com/books?id=j_WTgGU8PkoC)  
+
+[jstor.org/stable/j.ctt6wpzw7](https://www.jstor.org/stable/j.ctt6wpzw7)  
+
+</details>
+
+
+<details>
+<summary><a name="in_praise_of_folly_by_desiderius_erasmus"></a>In Praise of Folly. By Desiderius Erasmus. (1469-1536)  </summary>
+
+### In Praise of Folly.  (3:40)  
+Audio: https://librivox.org/the-praise-of-folly-by-erasmus/  
+eBook: https://www.gutenberg.org/ebooks/9371  
+eBook: https://www.gutenberg.org/ebooks/30201  (includes illustrations)  
+By [Desiderius Erasmus](https://en.wikipedia.org/wiki/Erasmus) (1469-1536)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Praise_of_Folly](https://en.wikipedia.org/wiki/The_Praise_of_Folly)  
+
+
+</details>
+
+
+Psychological Warfare. OSS. 1948/1954  
+https://www.gutenberg.org/ebooks/48612  
+
+Simple Sabotage Field Manual. OSS. 1944  
+https://www.gutenberg.org/ebooks/26184  
+
 The historical evolution of the Ukrainian problem. By Mykhaĭlo Hrushevsʹkyĭ (Michaelo Hrushevsky, 1866-1934).  1915  
 Translated by George Raffalovich (1880-1958)  
 https://www.gutenberg.org/ebooks/79773  
