@@ -274,6 +274,22 @@ Review by [Lauren Puckett-Pope](): [https://www.elle.com/...amanda-montell-the-a
 </details>
 
 
+<details><summary><a name="alexander_at_the_end_of_the_world_rachel_kousser"></a>Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great. By Rachel Kousser. 2024  </summary>
+
+### Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great.  (11:00)  
+Audio: https://www.overdrive.com/media/9885518/alexander-at-the-end-of-the-world  
+eBook: https://www.overdrive.com/media/9852724/alexander-at-the-end-of-the-world  
+By [Rachel Kousser](https://rachelkousser.com/) and [wikipedia.org/wiki/Rachel_Meredith_Kousser](https://en.wikipedia.org/wiki/Rachel_Meredith_Kousser) ( – )  
+
+Reading Notes: This is an interesting exploration of *Alexander the Great's* conquest of Persia and Indian campaign during his final years, leading up to his death in 323 BC. See [Wikipedia](https://en.wikipedia.org/wiki/Alexander_the_Great#Persia) for a short summary of this period.  I highly recommend this biography by Rachel Kousser.  
+* *Alexander the Great* [Alexander III of Macedon](https://en.wikipedia.org/wiki/Alexander_the_Great)  
+
+Review by [Justin Marozzi](https://en.wikipedia.org/wiki/Justin_Marozzi): [nytimes.com/.../alexander-at-the-end-of-the-world-rachel-kousser](https://www.nytimes.com/2024/07/14/books/review/alexander-at-the-end-of-the-world-rachel-kousser.html)  
+
+
+</details>
+
+
 <details><summary><a name="the_alice_network_kate_quinn"></a>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -6593,23 +6609,6 @@ On the calculation of volume.
 Brian & James  
 
 
-
-
-<details>
-<summary><a name="alexander_at_the_end_of_the_world_rachel_kousser"></a>Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great. By Rachel Kousser. 2024  </summary>
-
-### Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great.  (11:00)  
-Audio: https://www.overdrive.com/media/9885518/alexander-at-the-end-of-the-world  
-eBook: https://www.overdrive.com/media/9852724/alexander-at-the-end-of-the-world  
-By [Rachel Kousser](https://rachelkousser.com/) and [wikipedia.org/wiki/Rachel_Meredith_Kousser](https://en.wikipedia.org/wiki/Rachel_Meredith_Kousser) ( – )  
-
-Reading Notes: This is an interesting exploration of *Alexander the Great's* conquest of Persia and Indian campaign during his final years, leading up to his death in 323 BC. See [Wikipedia](https://en.wikipedia.org/wiki/Alexander_the_Great#Persia) for a short summary of this period.  I highly recommend this biography by Rachel Kousser.  
-* *Alexander the Great* [Alexander III of Macedon](https://en.wikipedia.org/wiki/Alexander_the_Great)  
-
-Review by [Justin Marozzi](https://en.wikipedia.org/wiki/Justin_Marozzi): [nytimes.com/.../alexander-at-the-end-of-the-world-rachel-kousser](https://www.nytimes.com/2024/07/14/books/review/alexander-at-the-end-of-the-world-rachel-kousser.html)  
-
-
-</details>
 
 
 
