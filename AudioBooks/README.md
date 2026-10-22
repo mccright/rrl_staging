@@ -6610,6 +6610,27 @@ Brian & James
 
 
 
+<details>
+<summary><a name="cold_crematorium_by_jozsef_debreczeni"></a>Cold Crematorium -- Reporting from the Land of Auschwitz. By József Debreczeni. 1950 Hungarian/2024 English </summary>
+
+### Cold Crematorium -- Reporting from the Land of Auschwitz. (8:20)  
+Audio: https://www.overdrive.com/media/9790865/cold-crematorium  
+eBook: https://www.overdrive.com/media/9768918/cold-crematorium  
+By [József Debreczeni, AKA József Bruner](https://en.wikipedia.org/wiki/J%C3%B3zsef_Debreczeni) (1905 – 1978)  
+Translated into English by [Paul Olchváry](https://www.jewishberkshires.org/community-events/berkshire-jewish-voice/berkshire-jewish-voice-highlights/a-friend-remembers-paul-olchvary-translator-of-cold-crematorium) and [here](https://www.legacy.com/us/obituaries/berkshire/name/paul-olchvary-obituary?id=54459648) (1965 - 2024)  
+
+Reading Notes: The author had been a journalist and newspaper editor, but was dismissed from his post during the War because he was Jewish.  In 1944, he (*number 33031*) was deported to [Auschwitz concentration camp](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp). He endured forced labour in three concentration camps – [AL Falkenberg](https://en.wikipedia.org/wiki/Project_Riese#Complex_Sokolec) (a.k.a. Eule, in Sowina), [AL Fürstenstein](https://en.wikipedia.org/wiki/Project_Riese#Ksi%C4%85%C5%BC_Castle) ([Książ Castle](https://en.wikipedia.org/wiki/Project_Riese#Ksi%C4%85%C5%BC_Castle), in [Wałbrzych](https://en.wikipedia.org/wiki/Wa%C5%82brzych)), and [AL Dörnhau](https://en.wikipedia.org/wiki/Project_Riese#G%C5%82uszyca) (in [Kolce](https://en.wikipedia.org/wiki/Kolce)) – all three part of the [Project Riese](https://en.wikipedia.org/wiki/Project_Riese) subcamps of the [Gross-Rosen concentration camp](https://en.wikipedia.org/wiki/Gross-Rosen_concentration_camp).  After the [Dörnhau](https://en.wikipedia.org/wiki/Project_Riese#G%C5%82uszyca) camp was liberated in May 1945, the author settled in Belgrade, Yugoslavia later that year -- where he wrote [this memoir](#cold_crematorium_by_jozsef_debreczeni) describing -- as a news reporter -- his time at the three [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps) mentioned above. This is a deeply personal [Holocaust](https://en.wikipedia.org/wiki/Holocaust) memoir written with an excellent news reporter's eye and ear for "*getting the story right*" while capturing the human condition in the context of slave laborers in inhumane [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps). That he could do so even as he was suffering through being a condemned [Nazi concentration camp](https://en.wikipedia.org/wiki/Nazi_concentration_camps) prisoner and [forced laborer](https://en.wikipedia.org/wiki/Forced_labor_in_Germany_during_World_War_II). He describes how Nazi officers organized the administration and supervision of these camps using relatively few of [Hitler's](https://en.wikipedia.org/wiki/Adolf_Hitler) [SS-Totenkopfverbände](https://en.wikipedia.org/wiki/SS-Totenkopfverb%C3%A4nde) and many chaotic layers of voluntary or coerced, collaborators [kapo](https://en.wikipedia.org/wiki/Kapo) who often inflicted brutal treatment on the prisoners.  He also describes, often in the first person, how prisoners dealt with that treatment.  
+
+Wikipedia Summary: [wikipedia.org/wiki/Cold_Crematorium](https://en.wikipedia.org/wiki/Cold_Crematorium)  
+Review by [usan Rubin Suleiman](https://susansuleiman.com/): [washingtonpost.com/...debreczeni-cold-crematorium-land...](https://www.washingtonpost.com/books/2024/02/29/jozsef-debreczeni-cold-crematorium-land-auschwitz-memoir-review/)  
+Review by [Menachem Kaiser](https://en.wikipedia.org/wiki/Menachem_Kaiser): [nytimes.com/...lovers-in-auschwitz-keren-blankfeld-cold-crematorium-jozsef-debreczeni](https://www.nytimes.com/2024/01/23/books/review/lovers-in-auschwitz-keren-blankfeld-cold-crematorium-jozsef-debreczeni.html)  
+Review by [Joe Moshenska](https://www.english.ox.ac.uk/people/dr-joseph-moshenska): [theguardian.com/.../cold-crematorium-reporting-from-the-land-of-auschwitz-by-jozsef-debreczeni...](https://www.theguardian.com/books/2024/feb/13/cold-crematorium-reporting-from-the-land-of-auschwitz-by-jozsef-debreczeni-review-hell-on-earth-in-poised-prose)  
+Review by By Neal Gendler: [jpost.com/diaspora/antisemitism/article-788330](https://www.jpost.com/diaspora/antisemitism/article-788330)  
+
+
+
+</details>
+
 
 
 
