@@ -1409,7 +1409,7 @@ Review in the NYT by Gerald Jonas: https://www.nytimes.com/2003/07/27/books/scie
 </details>
 
 
-<details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
+<details><summary><a name="the_chouans_by_honore_de_balzac"></a>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
 https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
@@ -1425,7 +1425,7 @@ Summary on Librivox:
 </details>  
 
 
-<details><summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
+<details><summary><a name="church_of_marvels_by_leslie_parry"></a>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
 
 ### Church of Marvels (11:00)  
 Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
@@ -1439,7 +1439,7 @@ Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_M
 </details>
 
 
-<details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
+<details><summary><a name="the_city_at_worlds_end_by_edmond_hamilton"></a>The City at World's End.  By Edmond Hamilton.  1951 </summary>
 
 ### The City at World's End.  (7:06)  
 https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
@@ -1454,7 +1454,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>City of Endless Night. By Milo Hastings. 1920</summary>  
+<details><summary><a name="city_of_endless_night_by_milo_hastings"></a>City of Endless Night. By Milo Hastings. 1920</summary>  
 
 ### City of Endless Night. (09:40)  
 https://librivox.org/city-of-endless-night-by-milo-hastings/  
@@ -1470,7 +1470,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
+<details><summary><a name="cleek_the_man_of_the_forty_faces_by_thomas_w_hanshew"></a>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek: The Man of the Forty Faces. (13:25)  
 https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
@@ -1483,7 +1483,7 @@ Librivox Summary:
 
 </details>
 
-<details><summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
+<details><summary><a name="cleek_of_scotland_yard_by_thomas_w_hanshew"></a>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek of Scotland Yard. (12:46)  
 https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
@@ -1498,7 +1498,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Climate--Incorporated. By George O. Smith.  1948</summary>
+<details><summary><a name="climate_incorporated_by_george_o_smith"></a>Climate--Incorporated. By George O. Smith.  1948</summary>
 
 ### Climate--Incorporated (01:15)  
 https://librivox.org/climate-incorporated-by-george-o-smith/  
@@ -1512,7 +1512,7 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
-<details><summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
+<details><summary><a name="code_name_edelweiss_by_stephanie_landsem"></a>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
 
 ### Code Name Edelweiss. (9:00)  
 Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
@@ -1526,7 +1526,7 @@ Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-
 </details>
 
 
-<details><summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+<details><summary><a name="code_name_sapphire_by_pam_jenoff"></a>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
 
 ### Code Name Sapphire. (13:00)  
 Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
@@ -1554,7 +1554,7 @@ Reading Notes: What a cool story and excellent characters. And a fantastic perfo
 </details>
 
 
-<details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
+<details><summary><a name="collateral_damage_by_j_a_jance"></a>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
 
 ### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
 Audio: https://www.overdrive.com/media/7345871/collateral-damage  
@@ -6619,7 +6619,9 @@ eBook: https://www.overdrive.com/media/9768918/cold-crematorium
 By [József Debreczeni, AKA József Bruner](https://en.wikipedia.org/wiki/J%C3%B3zsef_Debreczeni) (1905 – 1978)  
 Translated into English by [Paul Olchváry](https://www.jewishberkshires.org/community-events/berkshire-jewish-voice/berkshire-jewish-voice-highlights/a-friend-remembers-paul-olchvary-translator-of-cold-crematorium) and [here](https://www.legacy.com/us/obituaries/berkshire/name/paul-olchvary-obituary?id=54459648) (1965 - 2024)  
 
-Reading Notes: The author had been a journalist and newspaper editor, but was dismissed from his post during the War because he was Jewish.  In 1944, he (*number 33031*) was deported to [Auschwitz concentration camp](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp). He endured forced labour in three concentration camps – [AL Falkenberg](https://en.wikipedia.org/wiki/Project_Riese#Complex_Sokolec) (a.k.a. Eule, in Sowina), [AL Fürstenstein](https://en.wikipedia.org/wiki/Project_Riese#Ksi%C4%85%C5%BC_Castle) ([Książ Castle](https://en.wikipedia.org/wiki/Project_Riese#Ksi%C4%85%C5%BC_Castle), in [Wałbrzych](https://en.wikipedia.org/wiki/Wa%C5%82brzych)), and [AL Dörnhau](https://en.wikipedia.org/wiki/Project_Riese#G%C5%82uszyca) (in [Kolce](https://en.wikipedia.org/wiki/Kolce)) – all three part of the [Project Riese](https://en.wikipedia.org/wiki/Project_Riese) subcamps of the [Gross-Rosen concentration camp](https://en.wikipedia.org/wiki/Gross-Rosen_concentration_camp).  After the [Dörnhau](https://en.wikipedia.org/wiki/Project_Riese#G%C5%82uszyca) camp was liberated in May 1945, the author settled in Belgrade, Yugoslavia later that year -- where he wrote [this memoir](#cold_crematorium_by_jozsef_debreczeni) describing -- as a news reporter -- his time at the three [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps) mentioned above. This is a deeply personal [Holocaust](https://en.wikipedia.org/wiki/Holocaust) memoir written with an excellent news reporter's eye and ear for "*getting the story right*" while capturing the human condition in the context of slave laborers in inhumane [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps). That he could do so even as he was suffering through being a condemned [Nazi concentration camp](https://en.wikipedia.org/wiki/Nazi_concentration_camps) prisoner and [forced laborer](https://en.wikipedia.org/wiki/Forced_labor_in_Germany_during_World_War_II). He describes how Nazi officers organized the administration and supervision of these camps using relatively few of [Hitler's](https://en.wikipedia.org/wiki/Adolf_Hitler) [SS-Totenkopfverbände](https://en.wikipedia.org/wiki/SS-Totenkopfverb%C3%A4nde) and many chaotic layers of voluntary or coerced, collaborators [kapo](https://en.wikipedia.org/wiki/Kapo) who often inflicted brutal treatment on the prisoners.  He also describes, often in the first person, how prisoners dealt with that treatment.  
+Reading Notes: The author had been a journalist and newspaper editor, but was dismissed from his post during the War because he was Jewish.  In 1944, he (*by then identified only as number 33031*) was deported to [Auschwitz concentration camp](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp). From there, he was transferred to and endured a program of forced labour in three other concentration camps – [AL Falkenberg](https://en.wikipedia.org/wiki/Project_Riese#Complex_Sokolec) (a.k.a. Eule, in Sowina), [AL Fürstenstein](https://en.wikipedia.org/wiki/Project_Riese#Ksi%C4%85%C5%BC_Castle) ([Książ Castle](https://en.wikipedia.org/wiki/Project_Riese#Ksi%C4%85%C5%BC_Castle), in [Wałbrzych](https://en.wikipedia.org/wiki/Wa%C5%82brzych)), and [AL Dörnhau](https://en.wikipedia.org/wiki/Project_Riese#G%C5%82uszyca) (in [Kolce](https://en.wikipedia.org/wiki/Kolce)) – all three part of the [Project Riese](https://en.wikipedia.org/wiki/Project_Riese) subcamps of the [Gross-Rosen concentration camp](https://en.wikipedia.org/wiki/Gross-Rosen_concentration_camp).  After the [Dörnhau](https://en.wikipedia.org/wiki/Project_Riese#G%C5%82uszyca) camp was liberated in May 1945, the author settled in Belgrade, Yugoslavia later that year -- where he wrote [this memoir](#cold_crematorium_by_jozsef_debreczeni) describing -- as a news reporter -- his time at the three [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps) mentioned above. This is a deeply personal [Holocaust](https://en.wikipedia.org/wiki/Holocaust) memoir written with an excellent news reporter's eye and ear for "*getting the story right*" while capturing the human condition in the context of slave laborers in inhumane multi-purpose [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps). That he could do so even as he was suffering through being a condemned [Nazi concentration camp](https://en.wikipedia.org/wiki/Nazi_concentration_camps) prisoner and [forced laborer](https://en.wikipedia.org/wiki/Forced_labor_in_Germany_during_World_War_II) is extraordinary. He describes how Nazi officers organized the administration and supervision of these camps using relatively few of [Hitler's](https://en.wikipedia.org/wiki/Adolf_Hitler) [SS-Totenkopfverbände](https://en.wikipedia.org/wiki/SS-Totenkopfverb%C3%A4nde) and many chaotic layers of voluntary or coerced, collaborators -- [kapo](https://en.wikipedia.org/wiki/Kapo) -- who often inflicted brutal treatment on the prisoners, while being prisoners themselves.  He also describes, often in the first person, how prisoners dealt with that treatment.  
+
+You might pair this book with Christopher R. Browning's unflinching examination of how civilians became material perpetrators of the [Holocaust in occupied Poland](https://en.wikipedia.org/wiki/The_Holocaust_in_occupied_Poland) in "[Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland](#ordinary_men_by_christopher_r_browning)," Isabel Wilkerson's excellent analysis of how arbitrary hierarchies are used to divide us (*and are still employed today*) in "[Caste -- The Origins of Our Discontent](#caste_isabel_wilkerson)" and maybe Viktor E. Frankl's book exploring how individuals able to find purpose or meaning in life are better able to endure suffering (*including at the scale experienced in Nazi concentration camps*), "[Man's Search for Meaning -- An Introduction to Logotherapy](#mans_search_for_meaning_by_viktor_e_frankl).  
 
 Wikipedia Summary: [wikipedia.org/wiki/Cold_Crematorium](https://en.wikipedia.org/wiki/Cold_Crematorium)  
 Review by [usan Rubin Suleiman](https://susansuleiman.com/): [washingtonpost.com/...debreczeni-cold-crematorium-land...](https://www.washingtonpost.com/books/2024/02/29/jozsef-debreczeni-cold-crematorium-land-auschwitz-memoir-review/)  
