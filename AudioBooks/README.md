@@ -6628,6 +6628,20 @@ Brian & James
 
 
 
+<details>
+<summary><a name="price_of_peace_by_zachary_d_carter"></a>The Price of Peace -- Money, Democracy, and the Life of John Maynard Keynes.  By Zachary D. Carter  2020  </summary>
+
+### The Price of Peace -- Money, Democracy, and the Life of John Maynard Keynes.  (23:00)  
+Audio: https://www.overdrive.com/media/4906915/the-price-of-peace  
+eBook: https://www.overdrive.com/media/5043396/the-price-of-peace  
+By [Zachary D. Carter](https://www.zacharydcarter.com/)  ( – )  
+
+Reading Notes: This is an exhaustive biography of [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes), one of the most influential economists of the 20th century, and an excellent read.    
+
+
+</details>
+
+
 
 <details>
 <summary><a name="the_frozen_river_by_ariel_lawhon"></a>The Frozen River.  By Ariel Lawhon. 2023  </summary>
@@ -6668,20 +6682,20 @@ Reading Notes: This book explores the history of the ancient city of Athens, its
 
 Core Characters:  
 * [Athens](https://en.wikipedia.org/wiki/Athens_in_the_5th_century_BC)  
-* [Sparta]()  
-* The [Persian Empire]()  
-* [Darius]()  
-* [Xerxes, of Leonidas]()  
-* The [Peloponnesian War]()  
-* [Pericles](): Leading Athenian statesman  
-* [Themistocles](): Naval strategist who led the Greeks to a decisive victory over their Persian enemies.  
-* [Miltiades]()  
-* [Aeschylus]()  
-* [Herodotus]()  
-* [Thucydides]()  
-* [Hippocrates]()  
-* [Plato]()  
-* [Socrates]()  
+* [Sparta](https://en.wikipedia.org/wiki/Sparta)  
+* The [Persian Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire)  
+* [Darius](https://en.wikipedia.org/wiki/Darius_III)  
+* [Xerxes, of Leonidas](https://en.wikipedia.org/wiki/Leonidas_I)  
+* The [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War)  
+* [Pericles](https://en.wikipedia.org/wiki/Pericles): Leading Athenian statesman  
+* [Themistocles](https://en.wikipedia.org/wiki/Themistocles): Naval strategist who led the Greeks to a decisive victory over their Persian enemies.  
+* [Miltiades](https://en.wikipedia.org/wiki/Miltiades)  
+* [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)  
+* [Herodotus](https://en.wikipedia.org/wiki/Herodotus)  
+* [Thucydides](https://en.wikipedia.org/wiki/Thucydides)  
+* [Hippocrates of Athens](https://en.wikipedia.org/wiki/Hippocrates_of_Athens)  
+* [Plato](https://en.wikipedia.org/wiki/Plato)  
+* [Socrates](https://en.wikipedia.org/wiki/Socrates)  
 * [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)  
 * [Aristophanes](https://en.wikipedia.org/wiki/Aristophanes)  
 * [Sophocles](https://en.wikipedia.org/wiki/Sophocles)  
