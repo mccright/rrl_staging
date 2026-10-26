@@ -5597,7 +5597,7 @@ Project Gutenberg (*automatically generated summary*):
 </details>
 
 
-<details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
+<details><summary><a name="the_small_bachelor_by_p_g_wodehouse"></a>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
 
 ### The Small Bachelor  (6:36)  
 https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
