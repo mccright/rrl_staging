@@ -419,11 +419,38 @@ Reading Notes:
 
 </details>
 
-The Voiceless Sentinels. By Roger Dee (or Roger D. Aycock).  1956  
-https://www.gutenberg.org/ebooks/79780  
+The Voiceless Sentinels. By Roger Dee (or Roger D. Aycock).  1956  https://www.gutenberg.org/ebooks/79780  
 
 
-Translated From The French By Frank D. Halsey https://www.gutenberg.org/ebooks/79759  
+
+
+<details>
+<summary><a name="double_take_by_winston_k_marks"></a>Double Take. by Winston K. Marks. 1953  </summary>
+
+### Double Take.  
+[Transcribed from Science Fiction Adventures, December 1953 (Vol. 2, No. 1)]  
+eBook: https://www.gutenberg.org/ebooks/79857  
+By [Winston K. Marks (AKA Ken Winney](https://sf-encyclopedia.com/entry/marks_winston_k)  (1915 - 1979)  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+<details>
+<summary><a name="the_slave_ship_by_mary_johnston"></a>The Slave Ship. by Mary Johnston. 1924  </summary>
+
+### The slave ship.  
+eBook: https://www.gutenberg.org/ebooks/79439  
+By [Mary Johnston](https://en.wikipedia.org/wiki/Mary_Johnston)  (1870 - 1936)  
+
+Reading Notes: The first half of this book is about a young Scott who was on the losing side of a rebellion and was shipped off to the Virginia Colony to be sold as an indentured laborer for a sentence of seven years.  He found this *slavery* abhorrant and after a couple years he escaped and signed on to work on a ship that happen to be Captained by an older relative of his.  This ship happened to be devoted to the slave *business*.  *Young Scott* wrestles with the idea of participating in a business that treated other humans as simple property -- to be purchased low and sold high -- and begins to plan his escape from it.  The author presents a reasonable-enough story through this section.  Then slowly, the author builds the theme that *Young Scott* began to evolve his thinking into a belief that society was evolving in a way that would result in the end of slavery -- within some number of generations or centuries.  To this he adds that because the end is assumed, slaves should just make the best of it.  Finally, *Young Scott* end up back in Virginia and is captured and purchased to serve out the rest of his sentence.  As he expects other slaves to do, he calmly goes back to his indentured servatude, with the implied "*because its end is assumed*."  None of these ideas about slavery in the second half of the book are explored in any depth and seem to be speaking to a readership in 1924 that *understood* what was unsaid.  I found it empty, racist and more than a little boring.  Life is too short, I can't recommend this book to anyone other than those studying racism in the 1920s United States.  
+
+</details>
+
 
 <details>
 <summary><a name="medieval_cities_by_henri_pirenne"></a>Medieval Cities -- Their Origins And The Revival Of Trade. By Henri Pirenne (1862-1935). 1925/1932   </summary>
@@ -432,8 +459,7 @@ Translated From The French By Frank D. Halsey https://www.gutenberg.org/ebooks/7
 Audio:   
 eBook: https://www.gutenberg.org/ebooks/79759  
 By [Henri Pirenne](https://en.wikipedia.org/wiki/Henri_Pirenne)  (1862-1935)  
-Translated by Frank D. Halsey (Frank Davis) (1891-1941)  
-
+Translated from the French by Frank D. Halsey (Frank Davis) (1891-1941)  
 
 Reading Notes:   
 
@@ -443,6 +469,7 @@ Reading Notes:
 Google Summary: [books.google.com/books?id=j_WTgGU8PkoC](https://books.google.com/books?id=j_WTgGU8PkoC)  
 
 [jstor.org/stable/j.ctt6wpzw7](https://www.jstor.org/stable/j.ctt6wpzw7)  
+
 
 </details>
 
