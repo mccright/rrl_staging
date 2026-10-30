@@ -14,6 +14,7 @@ This is where I maintain a list of the books that I am reading or have read or a
 
 ### Sources for [Out-of-Copyright - Open-Access eBooks](OpenSourceTexts/)  
   * Project Gutenberg  [https://www.gutenberg.org/](https://www.gutenberg.org/)  
+  * Faded Page  [https://www.fadedpage.com/index.php](https://www.fadedpage.com/index.php)  
   * The Univ. Penn. Online Books Page at  [https://onlinebooks.library.upenn.edu/](https://onlinebooks.library.upenn.edu/) (An index of over three million online books freely readable on the Internet)  
   * Standard Ebooks  [https://standardebooks.org/](https://standardebooks.org/)  
   * Internet Archive [https://archive.org/](https://archive.org/) and [https://archive.org/details/inlibrary](https://archive.org/details/inlibrary)  
