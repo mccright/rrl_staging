@@ -6675,11 +6675,85 @@ Audio: https://www.overdrive.com/media/4906915/the-price-of-peace
 eBook: https://www.overdrive.com/media/5043396/the-price-of-peace  
 By [Zachary D. Carter](https://www.zacharydcarter.com/)  ( – )  
 
-Reading Notes: This is an exhaustive biography of [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes), one of the most influential economists of the 20th century, and an excellent read.    
+Reading Notes: This is an exhaustive biography of [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  (1883-1946), one of the most influential economists of the 20th century, and an excellent read.  Keynes was not only an economist, but an important political theorist and a distinguished figure in state affairs on an international scale. The author traces threads of Keynes' influence in (*primarily*) the United States through the Obama administration.  
+For anyone wondering *how did we get here?* or *how did this happen?* consider this book.  It provided a lot of new context for me.  
+[Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/zachary-d-carter/the-price-of-peace-carter/):  
+>Assessing his subject’s legacy, Carter asserts that Keynesianism “is not so much a school of economic thought as a spirit of radical optimism” that “was for a time synonymous with liberal internationalism -- the idea that shrewd, humane economic management could protect democracies from the siren songs of authoritarian demagogues and spread peace and prosperity around the globe.”  
+
+...*market forces* didn't prioritize humanitarian values -- didn't prioritize "*the good*" for all.  
+
+[OverDrive Summary](https://www.overdrive.com/media/4906915/the-price-of-peace):  
+>At the dawn of World War I, a young academic named John Maynard Keynes hastily folded his long legs into the sidecar of his brother-in-law’s motorcycle for an odd, frantic journey that would change the course of history. Swept away from his placid home at Cambridge University by the currents of the conflict, Keynes found himself thrust into the halls of European treasuries to arrange emergency loans and packed off to America to negotiate the terms of economic combat. The terror and anxiety unleashed by the war would transform him from a comfortable obscurity into the most influential and controversial intellectual of his day—a man whose ideas still retain the power to shock in our own time.  
+>Keynes was not only an economist but the preeminent anti-authoritarian thinker of the twentieth century, one who devoted his life to the belief that art and ideas could conquer war and deprivation. As a moral philosopher, political theorist, and statesman, Keynes led an extraordinary life that took him from intimate turn-of-the-century parties in London’s riotous Bloomsbury art scene to the fevered negotiations in Paris that shaped the Treaty of Versailles, from stock market crashes on two continents to diplomatic breakthroughs in the mountains of New Hampshire to wartime ballet openings at London’s extravagant Covent Garden.  
+>Along the way, Keynes reinvented Enlightenment liberalism to meet the harrowing crises of the twentieth century. In the United States, his ideas became the foundation of a burgeoning economics profession, but they also became a flash point in the broader political struggle of the Cold War, as Keynesian acolytes faced off against conservatives in an intellectual battle for the future of the country—and the world. Though many Keynesian ideas survived the struggle, much of the project to which he devoted his life was lost.  
+>In this riveting biography, veteran journalist Zachary D. Carter unearths the lost legacy of one of history’s most fascinating minds. The Price of Peace revives a forgotten set of ideas about democracy, money, and the good life with transformative implications for today’s debates over inequality and the power politics that shape the global order.  
 
 
 </details>
 
+
+
+<details>
+<summary><a name="darkwater_by_w_e_b_du_bois"></a>Darkwater: Voices From Within the Veil. by W. E. B. Du Bois. 1920  </summary>
+
+### Darkwater: Voices From Within the Veil.  (7:13)  
+Audio: https://librivox.org/darkwater-voices-from-within-the-veil-by-w-e-b-du-bois/  
+eBook: https://archive.org/details/darkwatervoicesf00duborich/page/n1/mode/2up  
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
+
+Reading Notes:   
+
+
+Wikipedia Summary: [wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil](https://en.wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil)  
+[Librivox Summary](https://librivox.org/darkwater-voices-from-within-the-veil-by-w-e-b-du-bois/):  
+>W. E. B. Du Bois, one of the greatest voices of the American experience, was born just after the end of the Civil War, was the first black American to earn a Ph.D. from Harvard, founded the NAACP in 1909, and lived to the beginnings of the modern civil rights movement in the early 1960s. In the middle of his long life, he published Darkwater: Voices from Within the Veil, a deeply thoughtful reflection on how black Americans were still struggling under the weight of Jim Crow and backlash from Reconstruction. He writes lyrically on the common bonds of working-people, the importance of education and the care of the nation’s children, and considers the future of American democracy, recently challenged by the surveillance, repression and racial discrimination of the Wilson Administration, the strains of the First World War and the widening inequality of the post-war boom. Du Bois died in 1963, and was honored by then-Vice President Lyndon Johnson during the March on Washington, the same event at which Dr. Martin Luther King delivered his “I Have a Dream” speech. The book is considered the first of Du Bois's three autobiographies and was followed by Dusk of Dawn: An Autobiography of a Race Concept, and The Autobiography of W. E. B. Du Bois: A Soliloquy on Viewing My Life from the Last Decade of its First Century. - Summary by Tom Shoesmith  
+
+
+</details>
+
+
+<details>
+<summary><a name="the_able_mclaughlins_by_margaret_wilson"></a>The Able McLaughlins. By Margaret Wilson. 1923  </summary>
+
+### The Able McLaughlins. (8:07)  
+Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/  
+eBook: https://www.gutenberg.org/ebooks/59845  
+By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
+[Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
+>The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))
+
+</details>
+
+
+
+<details>
+<summary><a name="all_quiet_on_the_western_front_by_erich_maria_remarque"></a>All Quiet on the Western Front. By Erich Maria Remarque. 1929  </summary>
+
+### All Quiet on the Western Front. (6:30)  
+Audio: https://librivox.org/all-quiet-on-the-western-front-by-erich-maria-remarque/  
+eBook: https://www.fadedpage.com/showbook.php?pid=20241107  
+By [Erich Maria Remarque](https://en.wikipedia.org/wiki/Erich_Maria_Remarque)  (1898 – 1970)  
+Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)
+
+Reading Notes:   
+
+[Plot Summary](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front#Plot_summary)  
+Wikipedia Summary: [wikipedia.org/wiki/All_Quiet_on_the_Western_Front](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front)  
+
+
+</details>
+
+Antic Hay.  By Aldous Huxley (1894 - 1963)  
+https://librivox.org/antic-hay-by-aldous-huxley/  
+https://www.gutenberg.org/ebooks/60483  
+By [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)  (1894 - 1963)  
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/60483):  
+>"Antic Hay" by Aldous Huxley is a novel published in 1923. Set in post-World War I London, it offers a biting satire of the aimless cultural elite adrift in turbulent times. The story follows Theodore Gumbril, a teacher who invents pneumatic cushion trousers while searching for love and meaning. To overcome his shyness with women, he adopts a bold disguise called "The Complete Man." Condemned for its cynicism and frank discussion of sex, the novel was banned in Australia and burned in Cairo.  
 
 
 <details>
