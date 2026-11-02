@@ -165,6 +165,22 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
+<details><summary><a name="the_able_mclaughlins_by_margaret_wilson"></a>The Able McLaughlins. By Margaret Wilson. 1923  </summary>
+
+### The Able McLaughlins. (8:07)  
+Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/  
+eBook: https://www.gutenberg.org/ebooks/59845  
+By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
+
+Reading Notes: This was an enjoyable, quick read.  There aren't a lot of moving parts in this prarie drama.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Able_McLaughlins) for more about the story.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
+[Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
+>The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))  
+
+</details>
+
+
 <details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
@@ -6677,6 +6693,7 @@ By [Zachary D. Carter](https://www.zacharydcarter.com/)  ( – )
 
 Reading Notes: This is an exhaustive biography of [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  (1883-1946), one of the most influential economists of the 20th century, and an excellent read.  Keynes was not only an economist, but an important political theorist and a distinguished figure in state affairs on an international scale. The author traces threads of Keynes' influence in (*primarily*) the United States through the Obama administration.  
 For anyone wondering *how did we get here?* or *how did this happen?* consider this book.  It provided a lot of new context for me.  
+
 [Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/zachary-d-carter/the-price-of-peace-carter/):  
 >Assessing his subject’s legacy, Carter asserts that Keynesianism “is not so much a school of economic thought as a spirit of radical optimism” that “was for a time synonymous with liberal internationalism -- the idea that shrewd, humane economic management could protect democracies from the siren songs of authoritarian demagogues and spread peace and prosperity around the globe.”  
 
@@ -6712,23 +6729,6 @@ Wikipedia Summary: [wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil](h
 </details>
 
 
-<details>
-<summary><a name="the_able_mclaughlins_by_margaret_wilson"></a>The Able McLaughlins. By Margaret Wilson. 1923  </summary>
-
-### The Able McLaughlins. (8:07)  
-Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/  
-eBook: https://www.gutenberg.org/ebooks/59845  
-By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
-
-Reading Notes:   
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
-[Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
->The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))
-
-</details>
-
-
 
 <details>
 <summary><a name="all_quiet_on_the_western_front_by_erich_maria_remarque"></a>All Quiet on the Western Front. By Erich Maria Remarque. 1929  </summary>
@@ -6737,7 +6737,7 @@ Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedi
 Audio: https://librivox.org/all-quiet-on-the-western-front-by-erich-maria-remarque/  
 eBook: https://www.fadedpage.com/showbook.php?pid=20241107  
 By [Erich Maria Remarque](https://en.wikipedia.org/wiki/Erich_Maria_Remarque)  (1898 – 1970)  
-Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)
+Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)  
 
 Reading Notes:   
 

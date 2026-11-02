@@ -452,7 +452,7 @@ Reading Notes:
 
 
 <details>
-<summary><a name="medieval_cities_by_henri_pirenne"></a>Medieval Cities -- Their Origins And The Revival Of Trade. By Henri Pirenne (1862-1935). 1925/1932   </summary>
+<summary><a name="medieval_cities_by_henri_pirenne"></a>Medieval Cities -- Their Origins And The Revival Of Trade. By Henri Pirenne. 1925/1932  </summary>
 
 ### Medieval Cities -- Their Origins And The Revival Of Trade.  
 Audio:   
@@ -460,7 +460,7 @@ eBook: https://www.gutenberg.org/ebooks/79759
 By [Henri Pirenne](https://en.wikipedia.org/wiki/Henri_Pirenne)  (1862-1935)  
 Translated from the French by Frank D. Halsey (Frank Davis) (1891-1941)  
 
-Reading Notes:   
+Reading Notes: I tried reading this book, but the author seems to assume that readers have a thorough foundational and comprehensive understanding Western and Middle Eastern history from early Greece through the renaissance. He attempts to build upon that pre-existing *understanding* by wrapping it in a new intellectual framework.  I am not prepared-enough to deal effectively with his base assumptions and stopped reading after a few evenings...  
 
 [Wikipedia Summary](https://en.wikipedia.org/wiki/Henri_Pirenne#Medieval_Cities):  
 >[*This*] book is based on lectures [*Henri Pirenne*] delivered in the United States in 1922. In this book, he contends that through the period from the tenth to the twelfth centuries, Europe reclaimed control of the Mediterranean from the Muslim world, and opened up sea routes to the Orient. This allowed the formation of a merchant/middle class and the development of that class's characteristic abode, the city.  He argued that capitalism originated in Europe's cities, as did democracy. His "Merchant Enterprise School" opposed Marxism but shared many of Marx's ideas on the merchant class. Pirenne's theory of a commercial renaissance in towns in the 11th century remains the standard interpretation.  
