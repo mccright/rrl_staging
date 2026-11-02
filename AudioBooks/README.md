@@ -6720,11 +6720,11 @@ Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/
 eBook: https://www.gutenberg.org/ebooks/59845  
 By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
 
-Reading Notes:   
+Reading Notes: This was an enjoyable, quick read.  There aren't a lot of moving parts in this prarie drama.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Able_McLaughlins) for more about the story.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
 [Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
->The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))
+>The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))  
 
 </details>
 
@@ -6737,7 +6737,7 @@ Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedi
 Audio: https://librivox.org/all-quiet-on-the-western-front-by-erich-maria-remarque/  
 eBook: https://www.fadedpage.com/showbook.php?pid=20241107  
 By [Erich Maria Remarque](https://en.wikipedia.org/wiki/Erich_Maria_Remarque)  (1898 – 1970)  
-Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)
+Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)  
 
 Reading Notes:   
 
