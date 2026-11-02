@@ -165,6 +165,22 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
+<details><summary><a name="the_able_mclaughlins_by_margaret_wilson"></a>The Able McLaughlins. By Margaret Wilson. 1923  </summary>
+
+### The Able McLaughlins. (8:07)  
+Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/  
+eBook: https://www.gutenberg.org/ebooks/59845  
+By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
+
+Reading Notes: This was an enjoyable, quick read.  There aren't a lot of moving parts in this prarie drama.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Able_McLaughlins) for more about the story.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
+[Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
+>The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))  
+
+</details>
+
+
 <details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
@@ -6677,6 +6693,7 @@ By [Zachary D. Carter](https://www.zacharydcarter.com/)  ( – )
 
 Reading Notes: This is an exhaustive biography of [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  (1883-1946), one of the most influential economists of the 20th century, and an excellent read.  Keynes was not only an economist, but an important political theorist and a distinguished figure in state affairs on an international scale. The author traces threads of Keynes' influence in (*primarily*) the United States through the Obama administration.  
 For anyone wondering *how did we get here?* or *how did this happen?* consider this book.  It provided a lot of new context for me.  
+
 [Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/zachary-d-carter/the-price-of-peace-carter/):  
 >Assessing his subject’s legacy, Carter asserts that Keynesianism “is not so much a school of economic thought as a spirit of radical optimism” that “was for a time synonymous with liberal internationalism -- the idea that shrewd, humane economic management could protect democracies from the siren songs of authoritarian demagogues and spread peace and prosperity around the globe.”  
 
@@ -6708,23 +6725,6 @@ Wikipedia Summary: [wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil](h
 [Librivox Summary](https://librivox.org/darkwater-voices-from-within-the-veil-by-w-e-b-du-bois/):  
 >W. E. B. Du Bois, one of the greatest voices of the American experience, was born just after the end of the Civil War, was the first black American to earn a Ph.D. from Harvard, founded the NAACP in 1909, and lived to the beginnings of the modern civil rights movement in the early 1960s. In the middle of his long life, he published Darkwater: Voices from Within the Veil, a deeply thoughtful reflection on how black Americans were still struggling under the weight of Jim Crow and backlash from Reconstruction. He writes lyrically on the common bonds of working-people, the importance of education and the care of the nation’s children, and considers the future of American democracy, recently challenged by the surveillance, repression and racial discrimination of the Wilson Administration, the strains of the First World War and the widening inequality of the post-war boom. Du Bois died in 1963, and was honored by then-Vice President Lyndon Johnson during the March on Washington, the same event at which Dr. Martin Luther King delivered his “I Have a Dream” speech. The book is considered the first of Du Bois's three autobiographies and was followed by Dusk of Dawn: An Autobiography of a Race Concept, and The Autobiography of W. E. B. Du Bois: A Soliloquy on Viewing My Life from the Last Decade of its First Century. - Summary by Tom Shoesmith  
 
-
-</details>
-
-
-<details>
-<summary><a name="the_able_mclaughlins_by_margaret_wilson"></a>The Able McLaughlins. By Margaret Wilson. 1923  </summary>
-
-### The Able McLaughlins. (8:07)  
-Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/  
-eBook: https://www.gutenberg.org/ebooks/59845  
-By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
-
-Reading Notes: This was an enjoyable, quick read.  There aren't a lot of moving parts in this prarie drama.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Able_McLaughlins) for more about the story.  
-
-Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
-[Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
->The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))  
 
 </details>
 
