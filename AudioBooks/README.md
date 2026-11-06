@@ -6682,6 +6682,28 @@ Brian & James
 
 
 
+<details>
+<summary><a name="the_symposium_by_plato"></a>The Symposium. By Plato. c. 385 – 370 BC </summary>
+
+### The Symposium. (2:15)  
+Audio: https://librivox.org/the-symposium-by-plato/  
+Audio: https://librivox.org/the-symposium-by-plato-2/  
+Audio: https://www.overdrive.com/media/9916243/the-symposium  
+eBook: https://www.gutenberg.org/etext/1600  
+Text onLine: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0174:text=Sym.  
+By [Plato (Πλάτων)](https://en.wikipedia.org/wiki/Plato)  (c. 428 BCE - c. 347 BCE)  
+Translated by [Benjamin Jowett](https://en.wikipedia.org/wiki/Benjamin_Jowett) (1817 - 1893)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/Symposium_(Plato)](https://en.wikipedia.org/wiki/Symposium_(Plato))  
+Librivox Summary: [librivox.org/the-symposium-by-plato](https://librivox.org/the-symposium-by-plato/)  
+>The Symposium (Ancient Greek: Συμπόσιον) is a philosophical book written by Plato sometime after 385 BCE. On one level the book deals with the genealogy, nature and purpose of love, on another level the book deals with the topic of knowledge, specifically how does one know what one knows. The topic of love is taken up in the form of a group of speeches, given by a group of men at a symposium or a wine drinking party at the house of the tragedian Agathon at Athens. Plato constructed the Symposium as a story within a story within a story. This architecture creates the space for Plato to build his philosophy of knowledge. The speech of Socrates points out that the highest purpose of Love is to become a Philosopher, or Lover of Wisdom.  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="price_of_peace_by_zachary_d_carter"></a>The Price of Peace -- Money, Democracy, and the Life of John Maynard Keynes.  By Zachary D. Carter  2020  </summary>
