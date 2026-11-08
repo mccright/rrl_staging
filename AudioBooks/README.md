@@ -6769,13 +6769,22 @@ Wikipedia Summary: [wikipedia.org/wiki/All_Quiet_on_the_Western_Front](https://e
 
 </details>
 
-Antic Hay.  By Aldous Huxley (1894 - 1963)  
-https://librivox.org/antic-hay-by-aldous-huxley/  
-https://www.gutenberg.org/ebooks/60483  
-By [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)  (1894 - 1963)  
+
+<details>
+<summary><a name="antic_hay_by_aldous_huxley"></a>Antic Hay.  By Aldous Huxley. 1923 </summary>
+
+### Antic Hay.  
+Audio: https://librivox.org/antic-hay-by-aldous-huxley/  
+eBook: https://www.gutenberg.org/ebooks/60483  
+By [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley) (1894 - 1963)  
+
+Reading Notes:   
 
 [Project Gutenberg Summary](https://www.gutenberg.org/ebooks/60483):  
 >"Antic Hay" by Aldous Huxley is a novel published in 1923. Set in post-World War I London, it offers a biting satire of the aimless cultural elite adrift in turbulent times. The story follows Theodore Gumbril, a teacher who invents pneumatic cushion trousers while searching for love and meaning. To overcome his shyness with women, he adopts a bold disguise called "The Complete Man." Condemned for its cynicism and frank discussion of sex, the novel was banned in Australia and burned in Cairo.  
+
+
+</details>
 
 
 <details>
