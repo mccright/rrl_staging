@@ -6761,7 +6761,7 @@ eBook: https://www.fadedpage.com/showbook.php?pid=20241107
 By [Erich Maria Remarque](https://en.wikipedia.org/wiki/Erich_Maria_Remarque)  (1898 – 1970)  
 Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)  
 
-Reading Notes:   
+Reading Notes: What a dark book. See the excellent [plot summary](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front#Plot_summary)... At the highest level, it tells the story of enthusiastic young German recruits who suffer together in battle and waiting for the next fighting to begin, while they experience a growing isolation from non-combatants. One macro-theme might also be that war can morph into a *war for the sake of war*, rather than about any specific grievances with opposing nations.  
 
 [Plot Summary](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front#Plot_summary)  
 Wikipedia Summary: [wikipedia.org/wiki/All_Quiet_on_the_Western_Front](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front)  
