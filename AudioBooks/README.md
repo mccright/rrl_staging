@@ -3192,6 +3192,24 @@ Review by the [BookBrowse Team](): https://www.bookbrowse.com/reviews/index.cfm/
 </details>
 
 
+<details><summary><a name="injustice_by_carol_leonnig"></a>Injustice -- How Politics and Fear Vanquished America's Justice Department. By Carol Leonnig and Aaron C. Davis. 2025 </summary>
+
+### Injustice -- How Politics and Fear Vanquished America's Justice Department.  (16:00)  
+Audio: https://www.overdrive.com/media/12137486/injustice  
+eBook: https://www.overdrive.com/media/12137677/injustice  
+By [Carol Leonnig](https://en.wikipedia.org/wiki/Carol_D._Leonnig) (1966 – ) and [Aaron C. Davis](https://gufaculty360.georgetown.edu/s/contact/00336000015aulFAAQ/aaron-c-davis) ( - )  
+
+Reading Notes: Leonnig and Davis describe how Donald Trump as the 45th and 47th president invested material effort in hollowing out the [U.S. Department of Justice](https://en.wikipedia.org/wiki/United_States_Department_of_Justice#:~:text=Following%20the%20Watergate%20scandal%2C%20reforms%20were%20enacted%20to%20enhance%20the%20independence%20of%20the%20Justice%20Department) -- installing *his* people to serve *his* personal desires, demoting the idea of enforcing U.S. law consistently, without fear or favor and promoting the concept of the DoJ being Trump's personal law office, *manufacturing* cases as he wishes -- too often to service Trump's urges for *retribution* against his perceived enemies. As of this writing (*August 2026*) Trump 47 is [continuing this program](https://en.wikipedia.org/wiki/Democratic_backsliding_in_the_United_States#21st_century) and has installed his personal lawyer [Todd Blanche](https://en.wikipedia.org/wiki/Todd_Blanche) into the role of the U.S. Attorney General. (*Blanch recently "[refused to say ...that he would always act independently of White House control](https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html)." And "[Blanche's initial tenure was marked by a pursuit to prosecute Trump's political foes.](https://en.wikipedia.org/wiki/Todd_Blanche#Acting_appointment)"*)  
+
+Overdrive Summary: [overdrive.com/.../injustice](https://www.overdrive.com/media/12137486/injustice)  
+>Throughout his first administration, Trump did more than any other president to politicize the nation’s top law enforcement agency, pressuring appointees to shield him, to target his enemies, and even to help him cling to power after his 2020 election defeat. The department, pressed into a defensive crouch, has never fully recovered.  
+>"Injustice" exposes not only the Trump administration’s efforts to undermine the department at every turn but also how delays in investigating Trump’s effort to overturn the will of voters under Attorney General Merrick Garland helped prevent the country from holding Trump accountable and enabled his return to power. With never-before-told accounts, Carol Leonnig and Aaron C. Davis take readers inside as prosecutors convulsed over Trump’s disdain for the rule of law, and FBI agents, the department’s storied investigators, at times retreated in fear. They take you to the rooms where Special Counsel Jack Smith’s team set off on an all-but-impossible race to investigate Trump for absconding with classified documents and waging an assault on democracy -- and inside his prosecution’s heroic and fateful choices that ultimately backfired.  
+>With a plethora of sources deeply embedded in the ranks of three presidencies, Leonnig and Davis reveal the daily war secretly waged for the soul of the department, how it has been shredded by propaganda and partisanship, and how -- if the United States hopes to live on with its same form of government -- Trump’s war with the Justice Department will mark a turning point from which it will be hard to recover. "Injustice" is the jaw-dropping account of partisans and enablers undoing democracy, heroes still battling to preserve a nation governed by laws, and a call to action for those who believe in liberty and justice for all.  
+
+
+</details>
+
+
 <details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
 
 ### Inspector French and the Cheyne Mystery. (8:53:55)  
@@ -6816,25 +6834,6 @@ For an excellent biography of Martha Ballard I recommend, "[A Midwife's Tale -- 
 
 
 
-
-
-<details>
-<summary><a name="injustice_by_carol_leonnig"></a>Injustice -- How Politics and Fear Vanquished America's Justice Department. By Carol Leonnig and Aaron C. Davis. 2025 </summary>
-
-### Injustice -- How Politics and Fear Vanquished America's Justice Department.  (16:00)  
-Audio: https://www.overdrive.com/media/12137486/injustice  
-eBook: https://www.overdrive.com/media/12137677/injustice  
-By [Carol Leonnig](https://en.wikipedia.org/wiki/Carol_D._Leonnig) (1966 – ) and [Aaron C. Davis](https://gufaculty360.georgetown.edu/s/contact/00336000015aulFAAQ/aaron-c-davis) ( - )  
-
-Reading Notes: Leonnig and Davis describe how Donald Trump as the 45th and 47th president invested material effort in hollowing out the [U.S. Department of Justice](https://en.wikipedia.org/wiki/United_States_Department_of_Justice#:~:text=Following%20the%20Watergate%20scandal%2C%20reforms%20were%20enacted%20to%20enhance%20the%20independence%20of%20the%20Justice%20Department) -- installing *his* people to serve *his* personal desires, demoting the idea of enforcing U.S. law consistently, without fear or favor and promoting the concept of the DoJ being Trump's personal law office, *manufacturing* cases as he wishes -- too often to service Trump's urges for *retribution* against his perceived enemies. As of this writing (*August 2026*) Trump 47 is [continuing this program](https://en.wikipedia.org/wiki/Democratic_backsliding_in_the_United_States#21st_century) and has installed his personal lawyer [Todd Blanche](https://en.wikipedia.org/wiki/Todd_Blanche) into the role of the U.S. Attorney General. (*Blanch recently "[refused to say ...that he would always act independently of White House control](https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html)." And "[Blanche's initial tenure was marked by a pursuit to prosecute Trump's political foes.](https://en.wikipedia.org/wiki/Todd_Blanche#Acting_appointment)"*)  
-
-Overdrive Summary: [overdrive.com/.../injustice](https://www.overdrive.com/media/12137486/injustice)  
->Throughout his first administration, Trump did more than any other president to politicize the nation’s top law enforcement agency, pressuring appointees to shield him, to target his enemies, and even to help him cling to power after his 2020 election defeat. The department, pressed into a defensive crouch, has never fully recovered.  
->"Injustice" exposes not only the Trump administration’s efforts to undermine the department at every turn but also how delays in investigating Trump’s effort to overturn the will of voters under Attorney General Merrick Garland helped prevent the country from holding Trump accountable and enabled his return to power. With never-before-told accounts, Carol Leonnig and Aaron C. Davis take readers inside as prosecutors convulsed over Trump’s disdain for the rule of law, and FBI agents, the department’s storied investigators, at times retreated in fear. They take you to the rooms where Special Counsel Jack Smith’s team set off on an all-but-impossible race to investigate Trump for absconding with classified documents and waging an assault on democracy -- and inside his prosecution’s heroic and fateful choices that ultimately backfired.  
->With a plethora of sources deeply embedded in the ranks of three presidencies, Leonnig and Davis reveal the daily war secretly waged for the soul of the department, how it has been shredded by propaganda and partisanship, and how -- if the United States hopes to live on with its same form of government -- Trump’s war with the Justice Department will mark a turning point from which it will be hard to recover. "Injustice" is the jaw-dropping account of partisans and enablers undoing democracy, heroes still battling to preserve a nation governed by laws, and a call to action for those who believe in liberty and justice for all.  
-
-
-</details>
 
 
 <details>
