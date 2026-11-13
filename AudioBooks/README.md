@@ -6726,6 +6726,28 @@ Brian & James
 
 
 <details>
+<summary><a name="back_channel_by_stephen_l_carter"></a>Back Channel.  By Stephen L. Carter. 2014  </summary>
+
+### Back Channel. (17:33)  
+Audio: https://www.overdrive.com/media/1817942/back-channel  
+eBook: https://www.overdrive.com/media/1553311/back-channel  
+By [Stephen L. Carter](https://en.wikipedia.org/wiki/Stephen_L._Carter) and [here](https://law.yale.edu/stephen-l-carter) (1954 – )  
+
+Reading Notes: This [historical novel](https://en.wikipedia.org/wiki/Historical_fiction), [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)),   
+
+
+[From Wikipedia](https://en.wikipedia.org/wiki/Stephen_L._Carter#Novels):  
+>Back Channel (2014) is a thriller set against the background of the Cuban Missile Crisis. a second negotiation—the "back channel"—kept secret even from most of Kennedy's closest advisers. The protagonist, Margo Jensen, a 19-year-old black college student, finds both her courage and her intellect tested constantly as she is thrust unwillingly into the center of great events. She must risk her life as Kennedy's envoy and risk her reputation as (supposedly) Kennedy's lover, all the while seeking to uncover the hidden connection between her own family's past and the crisis unfolding around her. Real people here include Bobby Fischer, the 19-year-old chess champion of the United States and Aleksandr Fomin, head of the KGB's Washington station. Fictional characters from previous works include Jericho Ainsley (Jericho's Fall), Tori Elden (Palace Council), and Kimmer Madison (The Emperor of Ocean Park; New England White) as a toddler.  
+
+[Overdrive Summary](https://www.overdrive.com/media/1553311/back-channel):  
+>"October 1962. In Cuba: Soviet ships off-load what intelligence reveals to be nuclear missiles. In Washington, President Kennedy and his advisers are in furious debate over how long they can wait to discover what the Soviets intend before dropping the first bomb. And, in Ithaca, New York, Margo Jensen - a nineteen-year-old Cornell sophomore-is swept up in a bizarre concatenation of circumstances that will make of her the back channel liaison between Soviet Premier Khrushchev and Kennedy. Events unfold too quickly for her even to ask why me? But the stunning answer is revealed bit by bit as she is drawn ever more deeply into the crossfire of infighting between governmental agencies; into desperate negotiations to avoid nuclear war; and into the secrets of the extraordinary legacy she inherited from the father she never knew."  
+
+
+</details>
+
+
+
+<details>
 <summary><a name="the_symposium_by_plato"></a>The Symposium. By Plato. c. 385 – 370 BC </summary>
 
 ### The Symposium. (2:15)  
