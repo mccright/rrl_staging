@@ -6724,6 +6724,42 @@ On the calculation of volume.
 Brian & James  
 
 
+<details>
+<summary><a name="assassination_bureau_by_jack_london"></a>The Assassination Bureau, Ltd. by Jack London and Robert L. Fish.  1963  </summary>
+
+### The Assassination Bureau, Ltd.  (4:37)  
+Audio: https://librivox.org/the-assassination-bureau-ltd-by-jack-london/  
+eBook: https://www.gutenberg.org/ebooks/75562  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916) and [Robert L. Fish](https://en.wikipedia.org/wiki/Robert_L._Fish) (1912-1981)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Assassination_Bureau,_Ltd](https://en.wikipedia.org/wiki/The_Assassination_Bureau,_Ltd)  
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/75562):  
+>"The Assassination Bureau, Ltd." by Jack London and Robert L. Fish is a thriller novel begun in 1910 and completed in 1963. The story follows Ivan Dragomiloff, founder of a secret assassination agency that eliminates evildoers—but only those truly deserving of death. In an unexpected twist, Dragomiloff finds himself pitted against his own organization. London abandoned the manuscript after writing 20,000 words, unable to find a satisfying conclusion. Nearly fifty years after his death, Fish completed the novel using London's notes and an outline from his widow.  
+
+</details>
+
+
+
+<details>
+<summary><a name="813_by_maurice_leblanc"></a>813. by Maurice Leblanc. 1910  </summary>
+
+### 813.  (10:20)  
+Audio: https://librivox.org/813-by-maurice-leblanc/  
+eBook: https://www.gutenberg.org/ebooks/34758  
+By [Maurice Leblanc](https://en.wikipedia.org/wiki/Maurice_Leblanc)  (1864 - 1941)  
+Translated by [Alexander Teixeira de Mattos](https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos)  (1865 - 1921)  
+
+Reading Notes:   
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/34758):  
+>"813" by Maurice Leblanc is a suspenseful detective novel written in the early 20th century. The story revolves around the enigmatic character Arsène Lupin, a gentleman burglar, as he engages in a thrilling game of cat and mouse with the authorities after committing a series of crimes, including a shocking murder. The novel introduces readers to a high-stakes world of intrigue, where Kesselbach, a wealthy man, becomes embroiled in a plot that threatens not only his life but also his ambitions. The opening of "813" sets a tense atmosphere with Mr. Kesselbach discovering that someone has invaded his hotel suite while he was away. Anxious and paranoid, he discusses strange occurrences with his secretary, Chapman, pointing out the peculiarities in their situation. When the mysterious Arsène Lupin makes his dramatic entrance, the tension escalates to a confrontation filled with twists and a daring heist, leaving readers breathless and eager to uncover the secrets surrounding Kesselbach's wealth and ambitions, as well as Lupin's true motives.  
+
+</details>
+
+
 
 <details>
 <summary><a name="back_channel_by_stephen_l_carter"></a>Back Channel.  By Stephen L. Carter. 2014  </summary>
@@ -6733,7 +6769,7 @@ Audio: https://www.overdrive.com/media/1817942/back-channel
 eBook: https://www.overdrive.com/media/1553311/back-channel  
 By [Stephen L. Carter](https://en.wikipedia.org/wiki/Stephen_L._Carter) and [here](https://law.yale.edu/stephen-l-carter) (1954 – )  
 
-Reading Notes: This [historical novel](https://en.wikipedia.org/wiki/Historical_fiction), [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)),   
+Reading Notes: This [historical novel](https://en.wikipedia.org/wiki/Historical_fiction), [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)),  
 
 
 [From Wikipedia](https://en.wikipedia.org/wiki/Stephen_L._Carter#Novels):  
