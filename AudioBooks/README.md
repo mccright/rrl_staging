@@ -6724,6 +6724,64 @@ On the calculation of volume.
 Brian & James  
 
 
+<details>
+<summary><a name="assassination_bureau_by_jack_london"></a>The Assassination Bureau, Ltd. by Jack London and Robert L. Fish.  1963  </summary>
+
+### The Assassination Bureau, Ltd.  (4:37)  
+Audio: https://librivox.org/the-assassination-bureau-ltd-by-jack-london/  
+eBook: https://www.gutenberg.org/ebooks/75562  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916) and [Robert L. Fish](https://en.wikipedia.org/wiki/Robert_L._Fish) (1912-1981)  
+
+Reading Notes:   
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Assassination_Bureau,_Ltd](https://en.wikipedia.org/wiki/The_Assassination_Bureau,_Ltd)  
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/75562):  
+>"The Assassination Bureau, Ltd." by Jack London and Robert L. Fish is a thriller novel begun in 1910 and completed in 1963. The story follows Ivan Dragomiloff, founder of a secret assassination agency that eliminates evildoers—but only those truly deserving of death. In an unexpected twist, Dragomiloff finds himself pitted against his own organization. London abandoned the manuscript after writing 20,000 words, unable to find a satisfying conclusion. Nearly fifty years after his death, Fish completed the novel using London's notes and an outline from his widow.  
+
+</details>
+
+
+
+<details>
+<summary><a name="813_by_maurice_leblanc"></a>813. by Maurice Leblanc. 1910  </summary>
+
+### 813.  (10:20)  
+Audio: https://librivox.org/813-by-maurice-leblanc/  
+eBook: https://www.gutenberg.org/ebooks/34758  
+By [Maurice Leblanc](https://en.wikipedia.org/wiki/Maurice_Leblanc)  (1864 - 1941)  
+Translated by [Alexander Teixeira de Mattos](https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos)  (1865 - 1921)  
+
+Reading Notes:   
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/34758):  
+>"813" by Maurice Leblanc is a suspenseful detective novel written in the early 20th century. The story revolves around the enigmatic character Arsène Lupin, a gentleman burglar, as he engages in a thrilling game of cat and mouse with the authorities after committing a series of crimes, including a shocking murder. The novel introduces readers to a high-stakes world of intrigue, where Kesselbach, a wealthy man, becomes embroiled in a plot that threatens not only his life but also his ambitions. The opening of "813" sets a tense atmosphere with Mr. Kesselbach discovering that someone has invaded his hotel suite while he was away. Anxious and paranoid, he discusses strange occurrences with his secretary, Chapman, pointing out the peculiarities in their situation. When the mysterious Arsène Lupin makes his dramatic entrance, the tension escalates to a confrontation filled with twists and a daring heist, leaving readers breathless and eager to uncover the secrets surrounding Kesselbach's wealth and ambitions, as well as Lupin's true motives.  
+
+</details>
+
+
+
+<details>
+<summary><a name="back_channel_by_stephen_l_carter"></a>Back Channel.  By Stephen L. Carter. 2014  </summary>
+
+### Back Channel. (17:33)  
+Audio: https://www.overdrive.com/media/1817942/back-channel  
+eBook: https://www.overdrive.com/media/1553311/back-channel  
+By [Stephen L. Carter](https://en.wikipedia.org/wiki/Stephen_L._Carter) and [here](https://law.yale.edu/stephen-l-carter) (1954 – )  
+
+Reading Notes: This [historical novel](https://en.wikipedia.org/wiki/Historical_fiction), [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)),  
+
+
+[From Wikipedia](https://en.wikipedia.org/wiki/Stephen_L._Carter#Novels):  
+>Back Channel (2014) is a thriller set against the background of the Cuban Missile Crisis. a second negotiation—the "back channel"—kept secret even from most of Kennedy's closest advisers. The protagonist, Margo Jensen, a 19-year-old black college student, finds both her courage and her intellect tested constantly as she is thrust unwillingly into the center of great events. She must risk her life as Kennedy's envoy and risk her reputation as (supposedly) Kennedy's lover, all the while seeking to uncover the hidden connection between her own family's past and the crisis unfolding around her. Real people here include Bobby Fischer, the 19-year-old chess champion of the United States and Aleksandr Fomin, head of the KGB's Washington station. Fictional characters from previous works include Jericho Ainsley (Jericho's Fall), Tori Elden (Palace Council), and Kimmer Madison (The Emperor of Ocean Park; New England White) as a toddler.  
+
+[Overdrive Summary](https://www.overdrive.com/media/1553311/back-channel):  
+>"October 1962. In Cuba: Soviet ships off-load what intelligence reveals to be nuclear missiles. In Washington, President Kennedy and his advisers are in furious debate over how long they can wait to discover what the Soviets intend before dropping the first bomb. And, in Ithaca, New York, Margo Jensen - a nineteen-year-old Cornell sophomore-is swept up in a bizarre concatenation of circumstances that will make of her the back channel liaison between Soviet Premier Khrushchev and Kennedy. Events unfold too quickly for her even to ask why me? But the stunning answer is revealed bit by bit as she is drawn ever more deeply into the crossfire of infighting between governmental agencies; into desperate negotiations to avoid nuclear war; and into the secrets of the extraordinary legacy she inherited from the father she never knew."  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="the_symposium_by_plato"></a>The Symposium. By Plato. c. 385 – 370 BC </summary>
@@ -6756,10 +6814,11 @@ eBook: https://www.gutenberg.org/ebooks/15210
 eBook: https://archive.org/details/darkwatervoicesf00duborich/page/n1/mode/2up  
 By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
 
-Reading Notes: If you read no more than the opening "Credo" and "A Litany at Atlanta." I read this book in late 2026 while President [Donald Trump](https://en.wikipedia.org/wiki/Rhetoric_of_Donald_Trump#Analysis:~:text=Connolly%2C-,Trump's,scapegoats) and his top aide, White House chief of staff [Stephen Miller](https://en.wikipedia.org/wiki/Stephen_Miller) (*[anti-immigrationist](https://en.wikipedia.org/wiki/Anti-immigration)/[white nationalist](https://en.wikipedia.org/wiki/White_nationalist)/[white supremacist](https://en.wikipedia.org/wiki/White_supremacist)*) moved to prioritize many-faceted [racism](https://en.wikipedia.org/wiki/Donald_Trump#Race_and_gender:~:text=Many%20of%20Trump%27s%20comments%20and%20actions%20have%20been%20characterized%20as%20racist) and advancing the power of the already powerful over almost anything else. W.E.B. Du Bois' "Credo" and "A Litany at Atlanta" could both be read as a response to this [Trump](https://en.wikipedia.org/wiki/Donald_Trump#Between_presidencies_(2021%E2%80%932025):~:text=385%5D-,During,history)/Miller *mission*:  
+Reading Notes: This collection of essays and poetry highlights the range of Du Bois' interests.  It is also a reminder of the scope of inhumanities that *whites* have an ongoing history of inflicting on *non-whites* in America and across the globe.  If you read no more than the opening "Credo" and "A Litany at Atlanta" it is worth the investment. If you want to know more, see the excellent collection of book reviews at Dr. [Robert W. Williams](http://www.webdubois.org/wdb-rw.html)' site on [Du Bois](http://www.webdubois.org/wdb-darkwater.html#:~:text=BOOK%20REVIEWS%20AND%20NOTICES%20OF%20DARKWATER).  
+I read this book in late 2026 while President [Donald Trump](https://en.wikipedia.org/wiki/Rhetoric_of_Donald_Trump#Analysis:~:text=Connolly%2C-,Trump's,scapegoats) and his top aide, White House chief of staff [Stephen Miller](https://en.wikipedia.org/wiki/Stephen_Miller) (*[anti-immigrationist](https://en.wikipedia.org/wiki/Anti-immigration)/[white nationalist](https://en.wikipedia.org/wiki/White_nationalist)/[white supremacist](https://en.wikipedia.org/wiki/White_supremacist)*) moved to prioritize many-faceted [racism](https://en.wikipedia.org/wiki/Donald_Trump#Race_and_gender:~:text=Many%20of%20Trump%27s%20comments%20and%20actions%20have%20been%20characterized%20as%20racist) and advancing the power of the already powerful over almost anything else. W.E.B. Du Bois' "Credo" and "A Litany at Atlanta" could both be read as a response to this [Trump](https://en.wikipedia.org/wiki/Donald_Trump#Between_presidencies_(2021%E2%80%932025):~:text=385%5D-,During,history)/Miller *mission*:  
 >...cozenage, ...lust of body and lust of blood, ...lust of power and lust of gold, ...lying of despot and of brute, ...twin Murder and Black Hate. ...And all this was to sate the greed of greedy men who hide behind the veil of vengeance!  
 
-(*"Cozenage" refers to the [practice of misleading others through lies or trickery](https://www.merriam-webster.com/thesaurus/cozenage), essentially involving [cheating, deceit or fraud](https://webstersdictionary1828.com/Dictionary/cozenage).*)
+(*"Cozenage" refers to the [practice of misleading others through lies or trickery](https://www.merriam-webster.com/thesaurus/cozenage), essentially involving [cheating, deceit or fraud](https://webstersdictionary1828.com/Dictionary/cozenage).*)  
 
 Wikipedia Summary: [wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil](https://en.wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil)  
 [Librivox Summary](https://librivox.org/darkwater-voices-from-within-the-veil-by-w-e-b-du-bois/):  
