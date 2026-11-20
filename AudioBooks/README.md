@@ -6787,7 +6787,7 @@ Audio: https://librivox.org/the-assassination-bureau-ltd-by-jack-london/
 eBook: https://www.gutenberg.org/ebooks/75562  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916) and [Robert L. Fish](https://en.wikipedia.org/wiki/Robert_L._Fish) (1912-1981)  
 
-Reading Notes:   
+Reading Notes:  I think that a reader might need to enjoy pre-WWI spy or action novels to stick with "The Assassination Bureau, Ltd."  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Assassination_Bureau,_Ltd](https://en.wikipedia.org/wiki/The_Assassination_Bureau,_Ltd)  
 
