@@ -127,8 +127,7 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 </details>
 
 
-<details>
-<summary><a name="813_by_maurice_leblanc"></a>813. by Maurice Leblanc. 1910  </summary>
+<details><summary><a name="813_by_maurice_leblanc"></a>813. by Maurice Leblanc. 1910  </summary>
 
 ### 813.  (10:20)  
 Audio: https://librivox.org/813-by-maurice-leblanc/  
@@ -6825,7 +6824,7 @@ Audio: https://www.overdrive.com/media/1817942/back-channel
 eBook: https://www.overdrive.com/media/1553311/back-channel  
 By [Stephen L. Carter](https://en.wikipedia.org/wiki/Stephen_L._Carter) and [here](https://law.yale.edu/stephen-l-carter) (1954 – )  
 
-Reading Notes: This [historical novel](https://en.wikipedia.org/wiki/Historical_fiction), [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)),  
+Reading Notes: This [historical novel](https://en.wikipedia.org/wiki/Historical_fiction), [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)), offers a new character into the story of the 1962 [Cuban Missle Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis). I enjoyed it.  See the summaries below for more.  
 
 
 [From Wikipedia](https://en.wikipedia.org/wiki/Stephen_L._Carter#Novels):  
