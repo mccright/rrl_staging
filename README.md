@@ -15,6 +15,8 @@ This is where I maintain a list of the books that I am reading or have read or a
 ### Sources for [Out-of-Copyright - Open-Access eBooks](OpenSourceTexts/)  
   * Project Gutenberg  [https://www.gutenberg.org/](https://www.gutenberg.org/)  
   * Faded Page  [https://www.fadedpage.com/index.php](https://www.fadedpage.com/index.php)  
+  * kiwix.org (Kiwix delivers Wikipedia, Project Gutenberg books, and other treasures entirely offline):  [browse.library.kiwix.org/#lang=eng&category=gutenberg](https://browse.library.kiwix.org/#lang=eng&category=gutenberg)  
+  * Unglue.it catalogs, distributes and helps to fund free-licensed and public domain ebooks. With over 85,000 free-licensed ebooks. [https://unglue.it/](https://unglue.it/)  
   * The Univ. Penn. Online Books Page at  [https://onlinebooks.library.upenn.edu/](https://onlinebooks.library.upenn.edu/) (An index of over three million online books freely readable on the Internet)  
   * Standard Ebooks  [https://standardebooks.org/](https://standardebooks.org/)  
   * Internet Archive [https://archive.org/](https://archive.org/) and [https://archive.org/details/inlibrary](https://archive.org/details/inlibrary)  
@@ -48,7 +50,8 @@ This is where I maintain a list of the books that I am reading or have read or a
   * Directory of Open Access Books https://www.doabooks.org](https://directory.doabooks.org) and [https://directory.doabooks.org/discover](https://directory.doabooks.org/discover).  DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers. All DOAB services are free of charge and all data is freely available.  
     * [History of engineering & technology on DOAB](https://directory.doabooks.org/discover?query=history&filtertype=classification_text&filter_relational_operator=equals&filter=History+of+engineering+%26+technology)  
   * [unglue.it](https://unglue.it/) and [https://ebookfoundation.org/unglueit.html](https://ebookfoundation.org/unglueit.html)  
-  * Some Free Programming Books [https://github.com/EbookFoundation/free-programming-books/](https://github.com/EbookFoundation/free-programming-books/) and search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/)  
+  * Free-Programming-Books -- a list of over 4,000 free programming books, 2,000 free courses and many other free programming resources. With lists in 43 spoken languages: [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)  
+    * Search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) or the static site at [https://ebookfoundation.github.io/free-programming-books/](https://ebookfoundation.github.io/free-programming-books/)  
   * NASA's ebook collection https://www.nasa.gov/connect/ebooks/index.html  
   * Taylor & Francis Open Access Book program https://www.tandfonline.com/openaccess/books  
     * Access Taylor & Francis Open Access Books [https://www.routledge.com/our-products/open-access-books/accessing-oa-books](https://www.routledge.com/our-products/open-access-books/accessing-oa-books)  
@@ -58,6 +61,7 @@ This is where I maintain a list of the books that I am reading or have read or a
   * Open Access Publishing in European Networks (OAPEN) online library [https://www.oapen.org](https://www.oapen.org)  
   * Open Access Scholarly Publishers Association (OASPA) [https://oaspa.org/](https://oaspa.org/)  
   * Bloomsbury Collections: [https://www.bloomsburycollections.com/search?newSearchRecord&browse&product=bloomsburyOpenAccess](https://www.bloomsburycollections.com/search?newSearchRecord&browse&product=bloomsburyOpenAccess)  
+  * OpenEdition Books is a French language book platform in the humanities and social sciences. More than half of them are open access [https://books.openedition.org/](https://books.openedition.org/)  
   * And some books still under copyright are available at the Internet Archive  [https://archive.org/details/inlibrary](https://archive.org/details/inlibrary)  
 
 
@@ -65,6 +69,13 @@ This is where I maintain a list of the books that I am reading or have read or a
 * [https://bookmarks.reviews/](https://bookmarks.reviews/)  
 * [https://lithub.com/](https://lithub.com/)  
 * [https://crimereads.com/](https://crimereads.com/)  
+* GITenberg [https://gitenberg.github.io/](https://gitenberg.github.io/)  
+  * [https://github.com/GITenberg](https://github.com/GITenberg)  
+  * 
+* Free Ebook Foundation [https://ebookfoundation.org/](https://ebookfoundation.org/)  
+* Free-Programming-Books -- a list of over 4,000 free programming books, 2,000 free courses and many other free programming resources, maintained collaboratively as a repository on Github. With lists in 43 spoken languages: [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 
+  * Search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) or the static site at [https://ebookfoundation.github.io/free-programming-books/](https://ebookfoundation.github.io/free-programming-books/)  
+* Free programming cheatsheets: [https://ebookfoundation.github.io/...free-programming-cheatsheets.md](https://ebookfoundation.github.io/free-programming-books-search/?&sect=more&file=free-programming-cheatsheets.md)  
 
 
 ### Repository History Notes and Testing [Page](repohistory.md)  
