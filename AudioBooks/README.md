@@ -1540,6 +1540,30 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="city_of_illusions_by_ursula_le_guin"></a>City of Illusions -- Hainish Cycle #3.  By Ursula K. Le Guin.  1967/2007  </summary>
+
+### City of Illusions.  (7:00)  
+Audio: https://www.overdrive.com/media/152754/city-of-illusions  
+eBook:   
+By [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018)  
+
+Reading Notes: This is a complicated story told by a master at complicated stories. There are multiple sections that incorporate varying intersections between "men's" and "women's," "conqueror's" and "conquered's," and "alien's" and "human's" assumptions about each other and the actions that follow.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/City_of_Illusions) for more about this book.  
+
+Some key characters:  
+* Falk: A man with amber, cat-like eyes, no memory and an infant's motor skills when he arrives in the rural settlement of peaceful, technologically limited Forest People in Eastern North America. After six years with the Forest People Falk departs on a long, hazardous, trans-continental quest to learn his identity and history.  In the course of the story he learns that he is an alien/human hybrid from a planet called Werel. His original name was Agad Ramarren and he had great scientific knowledge and vast mental powers.  
+* Parth: A young human woman of the Forest People, who helps re-educate Falk. She becomes Falk's lover.  
+* Estrel: A young woman whom Falk meets after being captured by the Basnasska tribe in the great plains. She is Falk's ally and lover, and a human collaborator working for the Shing. She betrays Falk into the hands of the Shing.  
+* Ken Kenyek: A Shing mindhandler and scientist who attempts to deceive and manipulate Falk, and who *retrieves* Falk's Agad Ramarren memories.  
+
+Wikipedia Summary: [wikipedia.org/wiki/City_of_Illusions](https://en.wikipedia.org/wiki/City_of_Illusions)  
+
+Overdrive Summary:  
+>He is a full-grown man, alone in a dense forest, with no trail to show where he has come from and no memory to tell who or what he is. His eyes are not the eyes of a human. The forest people take him in and raise him, teaching him to speak, training him in the knowledge and lore of the forest, but they cannot solve the riddle of his past. At last, he sets out on a perilous quest to find his true self -- and discovers a universe of danger.  City of Illusions is a part of the acclaimed Hainish Cycle, set in a galaxy colonized hundreds of thousands of years ago by a variety of humanoid species. Since the golden age of the League of All Worlds, Earth, like the rest of the known worlds, has fallen to the Shing, who rule through subtle mind control. Scattered groups of humans endure in a state of paranoia and semibarbarism. Is there one who can stand against the Shing?  
+
+
+</details>
+
+
 <details><summary><a name="cleek_the_man_of_the_forty_faces_by_thomas_w_hanshew"></a>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek: The Man of the Forty Faces. (13:25)  
@@ -6906,31 +6930,6 @@ For an excellent biography of Martha Ballard I recommend, "[A Midwife's Tale -- 
 
 
 
-
-
-<details>
-<summary><a name="city_of_illusions_by_ursula_le_guin"></a>City of Illusions -- Hainish Cycle #3.  By Ursula K. Le Guin.  1967/2007  </summary>
-
-### City of Illusions.  (7:00)  
-Audio: https://www.overdrive.com/media/152754/city-of-illusions  
-eBook:   
-By [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018)  
-
-Reading Notes: This is a complicated story told by a master at complicated stories. There are multiple sections that incorporate varying intersections between "men's" and "women's," "conqueror's" and "conquered's," and "alien's" and "human's" assumptions about each other and the actions that follow.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/City_of_Illusions) for more about this book.  
-
-Some key characters:  
-* Falk: A man with amber, cat-like eyes, no memory and an infant's motor skills when he arrives in the rural settlement of peaceful, technologically limited Forest People in Eastern North America. After six years with the Forest People Falk departs on a long, hazardous, trans-continental quest to learn his identity and history.  In the course of the story he learns that he is an alien/human hybrid from a planet called Werel. His original name was Agad Ramarren and he had great scientific knowledge and vast mental powers.  
-* Parth: A young human woman of the Forest People, who helps re-educate Falk. She becomes Falk's lover.  
-* Estrel: A young woman whom Falk meets after being captured by the Basnasska tribe in the great plains. She is Falk's ally and lover, and a human collaborator working for the Shing. She betrays Falk into the hands of the Shing.  
-* Ken Kenyek: A Shing mindhandler and scientist who attempts to deceive and manipulate Falk, and who *retrieves* Falk's Agad Ramarren memories.  
-
-Wikipedia Summary: [wikipedia.org/wiki/City_of_Illusions](https://en.wikipedia.org/wiki/City_of_Illusions)  
-
-Overdrive Summary:  
->He is a full-grown man, alone in a dense forest, with no trail to show where he has come from and no memory to tell who or what he is. His eyes are not the eyes of a human. The forest people take him in and raise him, teaching him to speak, training him in the knowledge and lore of the forest, but they cannot solve the riddle of his past. At last, he sets out on a perilous quest to find his true self -- and discovers a universe of danger.  City of Illusions is a part of the acclaimed Hainish Cycle, set in a galaxy colonized hundreds of thousands of years ago by a variety of humanoid species. Since the golden age of the League of All Worlds, Earth, like the rest of the known worlds, has fallen to the Shing, who rule through subtle mind control. Scattered groups of humans endure in a state of paranoia and semibarbarism. Is there one who can stand against the Shing?  
-
-
-</details>
 
 
 
